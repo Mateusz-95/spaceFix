@@ -2,12 +2,12 @@
 export default {
   printWidth: 120,
   singleQuote: true,
-  plugins: ['prettier-plugin-astro'],
+  plugins: ["prettier-plugin-astro"],
   overrides: [
     {
-      files: '*.astro',
+      files: "*.astro",
       options: {
-        parser: 'astro',
+        parser: "astro",
       },
     },
   ],
