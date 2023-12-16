@@ -2,11 +2,13 @@
 import Layout from '../layouts/Layout.astro';
 import Navigation from '../components/Navigation/Navigation';
 import WelcomeSection from '../components/WelcomeSection/WelcomeSection';
-import BlacDiv from '../components/BlackDiv/BlacDiv';
+import BlackDiv from '../components/BlackDiv/BlackDiv';
+import Footer from '../components/Footer/Footer';
 ---
 
 <Layout title="spaceFix">
   <Navigation client:load />
   <WelcomeSection />
-  <BlacDiv />
+  <BlackDiv />
+  <Footer />
 </Layout>
