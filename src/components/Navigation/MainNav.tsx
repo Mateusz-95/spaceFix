@@ -18,7 +18,7 @@ const MainNav = () => {
             <a href="/kontakt">Kontakt</a>
           </li>
           <li>
-            <a href="tel:+48123456789" className="text-blue-500 hover:text-blue-700">
+            <a href="tel:+48730889759" className="text-blue-500 hover:text-blue-700">
               <span className="text-lg font-bold">Zadzwoń teraz:</span> +48 730 889 759
             </a>
           </li>
