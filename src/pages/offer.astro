@@ -1,0 +1,12 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Navigation from '../components/Navigation/Navigation';
+import Footer from '../components/Footer/Footer';
+import PhoneTypes from '../components/PhoneTypes/PhoneTypes';
+---
+
+<Layout title="spaceFix">
+  <Navigation client:load />
+  <PhoneTypes client:load />
+  <Footer />
+</Layout>

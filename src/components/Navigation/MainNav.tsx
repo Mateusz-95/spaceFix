@@ -9,13 +9,10 @@ const MainNav = () => {
             <a href="/">Strona główna</a>
           </li>
           <li className="text-zinc-800 hover:text-zinc-600 active:text-zinc-400">
-            <a href="/oferta">Oferta</a>
+            <a href="/offer">Oferta</a>
           </li>
           <li className="text-zinc-800 hover:text-zinc-600 active:text-zinc-400">
             <a href="/about">O nas</a>
-          </li>
-          <li className="text-zinc-800 hover:text-zinc-600 active:text-zinc-400">
-            <a href="/kontakt">Kontakt</a>
           </li>
           <li>
             <a href="tel:+48730889759" className="text-blue-500 hover:text-blue-700">
