@@ -1,53 +1,37 @@
 import React from 'react';
+import ImgCard from '../ImgCard/ImgCard.tsx';
+
+const SamsungData = [
+  {
+    slug: '/galaxyS',
+    title: 'Galaxy S',
+    imgSrc: '../../../public/images/galaxys-photo.png',
+  },
+  {
+    slug: '/galaxyNote',
+    title: 'Galaxy Note',
+    imgSrc: '../../../public/images/galaxynote-photo.png',
+  },
+  {
+    slug: '/galaxyA',
+    title: 'Galaxy A',
+    imgSrc: '../../../public/images/galaxya-photo.png',
+  },
+  {
+    slug: '/galaxyM',
+    title: 'Galaxy M',
+    imgSrc: '../../../public/images/galaxym-photo.png',
+  },
+];
 
 const SamsungTypes = () => {
   return (
     <section className="mt-5">
       <h2 className="text-center text-3xl font-bold mb-4">Wybierz serię Samsunga</h2>
-      <div className="flex">
-        <div className="p-4">
-          <a href="/galaxyS" className="block relative group">
-            <p className="text-center text-xl font-bold mb-2">Galaxy S</p>
-            <img
-              className="rounded-lg object-cover transition duration-300 transform group-hover:scale-105"
-              alt="iphone-photo"
-              src="../../../public/images/galaxys-photo.png"
-            />
-          </a>
-        </div>
-
-        <div className=" p-4">
-          <a href="/galaxyNote" className="block relative group">
-            <p className="text-center text-xl font-bold mb-2">Galaxy Note</p>
-            <img
-              className="rounded-lg object-cover transition duration-300 transform group-hover:scale-105"
-              alt="iphone-photo"
-              src="../../../public/images/galaxynote-photo.png"
-            />
-          </a>
-        </div>
-
-        <div className=" p-4">
-          <a href="/galaxyA" className="block relative group">
-            <p className="text-center text-xl font-bold mb-2">Galaxy A</p>
-            <img
-              className="rounded-lg object-cover transition duration-300 transform group-hover:scale-105"
-              alt="iphone-photo"
-              src="../../../public/images/galaxya-photo.png"
-            />
-          </a>
-        </div>
-
-        <div className=" p-4">
-          <a href="/galaxyM" className="block relative group">
-            <p className="text-center text-xl font-bold mb-2">Galaxy M</p>
-            <img
-              className="rounded-lg object-cover transition duration-300 transform group-hover:scale-105"
-              alt="iphone-photo"
-              src="../../../public/images/galaxym-photo.png"
-            />
-          </a>
-        </div>
+      <div className="flex h-[250px]">
+        {SamsungData.map(({ slug, title, imgSrc }) => (
+          <ImgCard key={slug} slug={slug} title={title} imgSrc={imgSrc} />
+        ))}
       </div>
       <div className="text-center">
         <h3 className="text-2xl font-bold mb-8">Nie znalazłeś swojego modelu?</h3>

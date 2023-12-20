@@ -1,64 +1,19 @@
 import React from 'react';
+import type { DataType } from '../../data/data.ts';
+import ImgCard from '../ImgCard/ImgCard.tsx';
 
-const PhoneTypes = () => {
+interface PhoneTypeProps {
+  data: DataType;
+}
+
+const PhoneTypes = ({ data }: PhoneTypeProps) => {
   return (
     <section className="mt-5">
       <h2 className="text-center text-3xl font-bold mb-4">Wybierz model telefonu</h2>
-      <div className="flex">
-        <div className="p-4">
-          <a href="/iphones" className="block relative group">
-            <p className="text-center text-xl font-bold mb-2">Iphone</p>
-            <img
-              className="rounded-lg object-cover transition duration-300 transform group-hover:scale-105"
-              alt="iphone-photo"
-              src="../../../public/images/iphone-photo.png"
-            />
-          </a>
-        </div>
-
-        <div className=" p-4">
-          <a href="/samsungTypes" className="block relative group">
-            <p className="text-center text-xl font-bold mb-2">Samsung</p>
-            <img
-              className="rounded-lg object-cover transition duration-300 transform group-hover:scale-105"
-              alt="iphone-photo"
-              src="../../../public/images/samsung-photo.png"
-            />
-          </a>
-        </div>
-
-        <div className=" p-4">
-          <a href="/xiaomiTypes" className="block relative group">
-            <p className="text-center text-xl font-bold mb-2">Xiaomi</p>
-            <img
-              className="rounded-lg object-cover transition duration-300 transform group-hover:scale-105"
-              alt="iphone-photo"
-              src="../../../public/images/xiaomi-photo.png"
-            />
-          </a>
-        </div>
-
-        <div className=" p-4">
-          <a href="/oppo" className="block relative group">
-            <p className="text-center text-xl font-bold mb-2">Oppo</p>
-            <img
-              className="rounded-lg object-cover transition duration-300 transform group-hover:scale-105"
-              alt="iphone-photo"
-              src="../../../public/images/oppo.png"
-            />
-          </a>
-        </div>
-
-        <div className=" p-4">
-          <a href="/vivo" className="block relative group">
-            <p className="text-center text-xl font-bold mb-2">Vivo</p>
-            <img
-              className="rounded-lg object-cover transition duration-300 transform group-hover:scale-105"
-              alt="iphone-photo"
-              src="../../../public/images/vivo-phone.png"
-            />
-          </a>
-        </div>
+      <div className="flex h-[250px]">
+        {data.map(({ slug, brand, imgSrc }) => {
+          return <ImgCard key={slug} slug={slug} title={brand} imgSrc={imgSrc} />;
+        })}
       </div>
       <div className="text-center">
         <h3 className="text-2xl font-bold mb-8">Nie znalazłeś swojego modelu?</h3>

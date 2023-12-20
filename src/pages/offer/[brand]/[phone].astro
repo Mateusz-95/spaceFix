@@ -1,0 +1,17 @@
+---
+const { brand, phone } = Astro.params;
+
+export function getStaticPaths() {
+  return [
+    {
+      params: {
+        brand: 'iphone',
+        phone: '15-pro-max',
+      },
+    },
+  ];
+}
+---
+
+<p>{brand}</p>
+<p>{phone}</p>

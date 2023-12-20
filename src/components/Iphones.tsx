@@ -43,7 +43,9 @@ const Iphones = () => {
             key={index}
             className="p-4 bg-gray-200 rounded-md transition-transform duration-300 transform hover:scale-105 hover:bg-gray-300 "
           >
-            <p className="text-center mt-2 font-bold">{model}</p>
+            <a href="/phoneRepairs">
+              <p className="text-center mt-2 font-bold">{model}</p>
+            </a>
           </div>
         ))}
       </div>

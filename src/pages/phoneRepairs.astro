@@ -2,12 +2,11 @@
 import Layout from '../layouts/Layout.astro';
 import Navigation from '../components/Navigation/Navigation';
 import Footer from '../components/Footer/Footer';
-import PhoneTypes from '../components/PhoneTypes/PhoneTypes';
-import data from '../data/data';
+import PhoneRepairs from '../components/PhoneRepairs/PhoneRepairs';
 ---
 
 <Layout title="spaceFix">
   <Navigation client:load />
-  <PhoneTypes client:load data={data} />
+  <PhoneRepairs client:load />
   <Footer />
 </Layout>
