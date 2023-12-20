@@ -1,3 +1,4 @@
+import React from 'react';
 const WelcomeSection = () => {
   return (
     <section className="flex m-10 gap-6">
