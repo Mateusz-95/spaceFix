@@ -1,61 +1,50 @@
 import React from 'react';
 
-const PhoneTypes = () => {
+const SamsungTypes = () => {
   return (
     <section className="mt-5">
-      <h2 className="text-center text-3xl font-bold mb-4">Wybierz model telefonu</h2>
+      <h2 className="text-center text-3xl font-bold mb-4">Wybierz serię Samsunga</h2>
       <div className="flex">
         <div className="p-4">
-          <a href="/iphones" className="block relative group">
-            <p className="text-center text-xl font-bold mb-2">Iphone</p>
+          <a href="/galaxyS" className="block relative group">
+            <p className="text-center text-xl font-bold mb-2">Galaxy S</p>
             <img
               className="rounded-lg object-cover transition duration-300 transform group-hover:scale-105"
               alt="iphone-photo"
-              src="../../../public/images/iphone-photo.png"
+              src="../../../public/images/galaxys-photo.png"
             />
           </a>
         </div>
 
         <div className=" p-4">
-          <a href="/samsungTypes" className="block relative group">
-            <p className="text-center text-xl font-bold mb-2">Samsung</p>
+          <a href="/galaxyNote" className="block relative group">
+            <p className="text-center text-xl font-bold mb-2">Galaxy Note</p>
             <img
               className="rounded-lg object-cover transition duration-300 transform group-hover:scale-105"
               alt="iphone-photo"
-              src="../../../public/images/samsung-photo.png"
+              src="../../../public/images/galaxynote-photo.png"
             />
           </a>
         </div>
 
         <div className=" p-4">
-          <a href="/xiaomiTypes" className="block relative group">
-            <p className="text-center text-xl font-bold mb-2">Xiaomi</p>
+          <a href="/galaxyA" className="block relative group">
+            <p className="text-center text-xl font-bold mb-2">Galaxy A</p>
             <img
               className="rounded-lg object-cover transition duration-300 transform group-hover:scale-105"
               alt="iphone-photo"
-              src="../../../public/images/xiaomi-photo.png"
+              src="../../../public/images/galaxya-photo.png"
             />
           </a>
         </div>
 
         <div className=" p-4">
-          <a href="/oppo" className="block relative group">
-            <p className="text-center text-xl font-bold mb-2">Oppo</p>
+          <a href="/galaxyM" className="block relative group">
+            <p className="text-center text-xl font-bold mb-2">Galaxy M</p>
             <img
               className="rounded-lg object-cover transition duration-300 transform group-hover:scale-105"
               alt="iphone-photo"
-              src="../../../public/images/oppo.png"
-            />
-          </a>
-        </div>
-
-        <div className=" p-4">
-          <a href="/vivo" className="block relative group">
-            <p className="text-center text-xl font-bold mb-2">Vivo</p>
-            <img
-              className="rounded-lg object-cover transition duration-300 transform group-hover:scale-105"
-              alt="iphone-photo"
-              src="../../../public/images/vivo-phone.png"
+              src="../../../public/images/galaxym-photo.png"
             />
           </a>
         </div>
@@ -72,4 +61,4 @@ const PhoneTypes = () => {
   );
 };
 
-export default PhoneTypes;
+export default SamsungTypes;

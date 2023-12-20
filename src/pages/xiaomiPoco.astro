@@ -1,0 +1,12 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Navigation from '../components/Navigation/Navigation';
+import Footer from '../components/Footer/Footer';
+import XiaomiPoco from '../components/XiaomiPoco/XiaomiPoco';
+---
+
+<Layout title="spaceFix">
+  <Navigation client:load />
+  <XiaomiPoco client:load />
+  <Footer />
+</Layout>
