@@ -28,7 +28,7 @@ const SamsungTypes = () => {
   return (
     <section className="mt-5">
       <h2 className="text-center text-3xl font-bold mb-4">Wybierz serię Samsunga</h2>
-      <div className="flex h-[250px]">
+      <div className="flex h-[300px] mb-10">
         {SamsungData.map(({ slug, title, imgSrc }) => (
           <ImgCard key={slug} slug={slug} title={title} imgSrc={imgSrc} />
         ))}

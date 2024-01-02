@@ -8,9 +8,9 @@ interface PhoneTypeProps {
 
 const PhoneTypes = ({ data }: PhoneTypeProps) => {
   return (
-    <section className="mt-5">
+    <section className="mt-5 ">
       <h2 className="text-center text-3xl font-bold mb-4">Wybierz model telefonu</h2>
-      <div className="flex h-[250px]">
+      <div className="flex h-[300px] mb-10">
         {data.map(({ slug, brand, imgSrc }) => {
           return <ImgCard key={slug} slug={slug} title={brand} imgSrc={imgSrc} />;
         })}

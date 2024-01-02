@@ -20,18 +20,6 @@ const data = [
     imgSrc: '/images/xiaomi-photo.png',
     phones: [],
   },
-  {
-    brand: 'Oppo',
-    slug: '/oppo',
-    imgSrc: '/images/oppo.png',
-    phones: [],
-  },
-  {
-    brand: 'Vivo',
-    slug: '/vivo',
-    imgSrc: '/images/vivo-phone.png',
-    phones: [],
-  },
 ];
 
 export type DataType = typeof data;

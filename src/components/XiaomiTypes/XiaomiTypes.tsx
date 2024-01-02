@@ -1,42 +1,32 @@
 import React from 'react';
+import ImgCard from '../ImgCard/ImgCard.tsx';
+
+const XiaomiData = [
+  {
+    slug: '/xiaomiMi',
+    title: 'Xiaomi Mi',
+    imgSrc: '../../../public/images/xiaomiMi.png',
+  },
+  {
+    slug: '/xiaomiRedmi',
+    title: 'Redmi',
+    imgSrc: '../../../public/images/xiaomiRedmi.png',
+  },
+  {
+    slug: '/xiaomiPoco',
+    title: 'POCO',
+    imgSrc: '../../../public/images/xiaomiPoco.png',
+  },
+];
 
 const XiaomiTypes = () => {
   return (
     <section className="mt-5">
       <h2 className="text-center text-3xl font-bold mb-4">Wybierz serię Xiaomi</h2>
-      <div className="flex">
-        <div className="p-4">
-          <a href="/xiaomiMi" className="block relative group">
-            <p className="text-center text-xl font-bold mb-2">Xiaomi Mi</p>
-            <img
-              className="rounded-lg object-cover transition duration-300 transform group-hover:scale-105"
-              alt="iphone-photo"
-              src="../../../public/images/galaxys-photo.png"
-            />
-          </a>
-        </div>
-
-        <div className=" p-4">
-          <a href="/xiaomiRedmi" className="block relative group">
-            <p className="text-center text-xl font-bold mb-2">Redmi</p>
-            <img
-              className="rounded-lg object-cover transition duration-300 transform group-hover:scale-105"
-              alt="iphone-photo"
-              src="../../../public/images/galaxynote-photo.png"
-            />
-          </a>
-        </div>
-
-        <div className=" p-4">
-          <a href="/xiaomiPoco" className="block relative group">
-            <p className="text-center text-xl font-bold mb-2">POCO</p>
-            <img
-              className="rounded-lg object-cover transition duration-300 transform group-hover:scale-105"
-              alt="iphone-photo"
-              src="../../../public/images/galaxya-photo.png"
-            />
-          </a>
-        </div>
+      <div className="flex h-[300px] mb-10">
+        {XiaomiData.map(({ slug, title, imgSrc }) => (
+          <ImgCard key={slug} slug={slug} title={title} imgSrc={imgSrc} />
+        ))}
       </div>
       <div className="text-center">
         <h3 className="text-2xl font-bold mb-8">Nie znalazłeś swojego modelu?</h3>
