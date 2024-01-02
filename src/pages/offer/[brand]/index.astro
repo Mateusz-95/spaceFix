@@ -1,15 +1,32 @@
 ---
-const { brand } = Astro.params;
+import data from '../../../data/data';
+import Navigation from '../../../components/Navigation/Navigation';
+import Layout from '../../../layouts/Layout.astro';
+import Footer from '../../../components/Footer/Footer';
+import ModelsSection from '../../../components/ModelsSection/ModelsSection';
+import SamsungTypes from '../../../components/SamsungTypes/SamsungTypes';
 
 export function getStaticPaths() {
-  return [
-    {
-      params: {
-        brand: 'iphones',
-      },
+  return data.map(({ slug, phones, categories, categoryTitle }) => ({
+    params: {
+      brand: slug,
     },
-  ];
+    props: {
+      models: phones ? phones.map(({ name }) => name) : undefined,
+      categories: categories ? categories : undefined,
+      categoryTitle,
+    },
+  }));
 }
+
+const { models, categories, categoryTitle } = Astro.props;
+const { brand } = Astro.params;
+console.log(categories);
 ---
 
-<p>{brand}</p>
+<Layout title="spaceFix">
+  <Navigation client:load />
+  {models && <ModelsSection headerContent="Wybierz model iPhone'a" models={models} />}
+  {categories && <SamsungTypes categoryTitle={categoryTitle} data={categories} prefix={brand} client:load />}
+  <Footer />
+</Layout>

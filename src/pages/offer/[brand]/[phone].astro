@@ -1,15 +1,19 @@
 ---
+import data from '../../../data/data';
 const { brand, phone } = Astro.params;
 
 export function getStaticPaths() {
-  return [
-    {
-      params: {
-        brand: 'iphone',
-        phone: '15-pro-max',
-      },
-    },
-  ];
+  return data
+    .filter((item) => item.phones)
+    .map(({ slug, phones }) => {
+      return phones.map((phone) => ({
+        params: {
+          brand: slug,
+          phone: phone.slug,
+        },
+      }));
+    })
+    .flat();
 }
 ---
 
