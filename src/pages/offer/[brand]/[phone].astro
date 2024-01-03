@@ -1,6 +1,8 @@
 ---
 import data from '../../../data/data';
-const { brand, phone } = Astro.params;
+import Layout from '../../../layouts/Layout.astro';
+import Navigation from '../../../components/Navigation/Navigation';
+import Footer from '../../../components/Footer/Footer';
 
 export function getStaticPaths() {
   return data
@@ -17,5 +19,7 @@ export function getStaticPaths() {
 }
 ---
 
-<p>{brand}</p>
-<p>{phone}</p>
+<Layout title="spaceFix">
+  <Navigation client:load />
+  <Footer />
+</Layout>

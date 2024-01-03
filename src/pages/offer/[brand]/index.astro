@@ -5,6 +5,7 @@ import Layout from '../../../layouts/Layout.astro';
 import Footer from '../../../components/Footer/Footer';
 import ModelsSection from '../../../components/ModelsSection/ModelsSection';
 import SamsungTypes from '../../../components/SamsungTypes/SamsungTypes';
+import linkTo from '../../../utility/linkTo';
 
 export function getStaticPaths() {
   return data.map(({ slug, phones, categories, categoryTitle }) => ({
@@ -12,7 +13,7 @@ export function getStaticPaths() {
       brand: slug,
     },
     props: {
-      models: phones ? phones.map(({ name }) => name) : undefined,
+      models: phones ? phones.map((phone) => ({ name: phone.name, slug: phone.slug })) : undefined,
       categories: categories ? categories : undefined,
       categoryTitle,
     },
@@ -21,12 +22,11 @@ export function getStaticPaths() {
 
 const { models, categories, categoryTitle } = Astro.props;
 const { brand } = Astro.params;
-console.log(categories);
 ---
 
 <Layout title="spaceFix">
   <Navigation client:load />
-  {models && <ModelsSection headerContent="Wybierz model iPhone'a" models={models} />}
+  {models && <ModelsSection headerContent="Wybierz model iPhone'a" models={models} prefix={`/offer/${brand}/`} />}
   {categories && <SamsungTypes categoryTitle={categoryTitle} data={categories} prefix={brand} client:load />}
   <Footer />
 </Layout>

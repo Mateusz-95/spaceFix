@@ -1,4 +1,5 @@
 import iphoneModels from './iphoneModels.ts';
+import { galaxyS } from './samsung.ts';
 
 const data = [
   {
@@ -11,17 +12,14 @@ const data = [
     brand: 'Samsung',
     slug: 'samsung',
     imgSrc: '/images/samsung-photo.png',
-    // phones: [],
-    categories: [
-      { name: 'Samsung Galaxy S', slug: 'galaxy-s', imgSrc: '/images/galaxys-photo.png', phones: iphoneModels },
-    ],
+    categories: [{ name: 'Samsung Galaxy S', slug: 'galaxy-s', imgSrc: '/images/galaxys-photo.png', phones: galaxyS }],
     categoryTitle: 'Wybierz serię Samsunga',
   },
   {
     brand: 'Xiaomi',
-    slug: 'xiaomiTypes',
+    slug: 'xiaomi',
     imgSrc: '/images/xiaomi-photo.png',
-    categories: [],
+    categories: [{ name: 'Xiaomi 13', slug: 'xiaomi-13', imgSrc: '/images/galaxys-photo.png', phones: iphoneModels }],
   },
 ] as const;
 

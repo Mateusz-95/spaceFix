@@ -2,9 +2,10 @@ import React from 'react';
 
 interface ModelsSectionProps {
   headerContent: string;
-  models: string[];
+  models: { name: string; slug: string }[];
+  prefix?: string;
 }
-const ModelsSection: React.FC<ModelsSectionProps> = ({ headerContent, models }) => {
+const ModelsSection: React.FC<ModelsSectionProps> = ({ headerContent, models, prefix = '' }) => {
   return (
     <section>
       <h2 className="text-center text-3xl font-bold m-5">{headerContent}</h2>
@@ -14,7 +15,9 @@ const ModelsSection: React.FC<ModelsSectionProps> = ({ headerContent, models }) 
             key={index}
             className="p-4 bg-gray-200 rounded-md transition-transform duration-300 transform hover:scale-105 hover:bg-gray-300 "
           >
-            <p className="text-center mt-2 font-bold">{model}</p>
+            <a href={prefix + model.slug} className="text-center mt-2 font-bold">
+              {model.name}
+            </a>
           </div>
         ))}
       </div>

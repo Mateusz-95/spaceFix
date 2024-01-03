@@ -1,19 +1,31 @@
 ---
+import data from '../../../../data/data';
+import Navigation from '../../../../components/Navigation/Navigation';
+import Layout from '../../../../layouts/Layout.astro';
+import Footer from '../../../../components/Footer/Footer';
 const { brand, category, phone } = Astro.params;
 
 export function getStaticPaths() {
-  return [
-    {
-      params: {
-        brand: 'samsung',
-        category: 'galaxy-s',
-        phone: 's23',
-      },
-    },
-  ];
+  return data
+    .filter((item) => item.categories)
+    .map(({ slug, categories }) => {
+      return categories.map((category) => {
+        return category.phones.map((phone) => {
+          return {
+            params: {
+              brand: slug,
+              category: category.slug,
+              phone: phone.slug,
+            },
+          };
+        });
+      });
+    })
+    .flat(Infinity);
 }
 ---
 
-<p>{brand}</p>
-<p>{category}</p>
-<p>{phone}</p>
+<Layout title="spaceFix">
+  <Navigation client:load />
+  <Footer />
+</Layout>
