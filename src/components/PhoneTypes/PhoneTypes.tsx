@@ -12,7 +12,7 @@ const PhoneTypes = ({ data }: PhoneTypeProps) => {
       <h2 className="text-center text-3xl font-bold mb-4">Wybierz model telefonu</h2>
       <div className="flex h-[300px] mb-10">
         {data.map(({ slug, brand, imgSrc }) => {
-          return <ImgCard key={slug} slug={slug} title={brand} imgSrc={imgSrc} />;
+          return <ImgCard key={slug} slug={'/offer/' + slug} title={brand} imgSrc={imgSrc} />;
         })}
       </div>
       <div className="text-center">

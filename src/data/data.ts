@@ -1,26 +1,27 @@
-import iphoneModels from './iphone.ts';
+import iphoneModels from './iphoneModels.ts';
+import { galaxyS } from './samsung.ts';
 
 const data = [
   {
     brand: 'iPhone',
-    slug: '/iphones',
+    slug: 'iphones',
     imgSrc: '/images/iphone-photo.png',
     phones: iphoneModels,
   },
   {
     brand: 'Samsung',
-    slug: '/samsungTypes',
+    slug: 'samsung',
     imgSrc: '/images/samsung-photo.png',
-    // phones: [],
-    categories: [],
+    categories: [{ name: 'Samsung Galaxy S', slug: 'galaxy-s', imgSrc: '/images/galaxys-photo.png', phones: galaxyS }],
+    categoryTitle: 'Wybierz serię Samsunga',
   },
   {
     brand: 'Xiaomi',
-    slug: '/xiaomiTypes',
+    slug: 'xiaomi',
     imgSrc: '/images/xiaomi-photo.png',
-    phones: [],
+    categories: [{ name: 'Xiaomi 13', slug: 'xiaomi-13', imgSrc: '/images/galaxys-photo.png', phones: iphoneModels }],
   },
-];
+] as const;
 
 export type DataType = typeof data;
 

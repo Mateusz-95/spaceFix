@@ -24,13 +24,20 @@ const SamsungData = [
   },
 ];
 
-const SamsungTypes = () => {
+interface SamsungTypesProps {
+  categoryTitle: string;
+  data: any;
+  prefix: string;
+}
+
+const SamsungTypes = ({ categoryTitle, data, prefix }: SamsungTypesProps) => {
+  console.log(data);
   return (
     <section className="mt-5">
-      <h2 className="text-center text-3xl font-bold mb-4">Wybierz serię Samsunga</h2>
+      <h2 className="text-center text-3xl font-bold mb-4">{categoryTitle}</h2>
       <div className="flex h-[300px] mb-10">
-        {SamsungData.map(({ slug, title, imgSrc }) => (
-          <ImgCard key={slug} slug={slug} title={title} imgSrc={imgSrc} />
+        {data.map(({ slug, title, imgSrc }) => (
+          <ImgCard key={slug} slug={`${prefix}/${slug}`} title={title} imgSrc={imgSrc} />
         ))}
       </div>
       <div className="text-center">
