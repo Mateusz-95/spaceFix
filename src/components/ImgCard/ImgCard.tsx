@@ -5,8 +5,12 @@ interface ImgCardProps {
   title: string;
   imgSrc: string;
   imgClassName?: string;
+  as?: 'link' | 'button';
 }
-const ImgCard = ({ slug, title, imgSrc, imgClassName = '' }: ImgCardProps) => {
+
+// todo: implement as props: when as equals link card should have anchor element
+// and when as equals button it should have button
+const ImgCard = ({ slug, title, imgSrc, imgClassName = '', as = 'link' }: ImgCardProps) => {
   return (
     <div className=" flex-1">
       <a href={slug} className="flex flex-col justify-between items-center relative h-full">

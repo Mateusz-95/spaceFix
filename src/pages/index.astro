@@ -1,16 +1,12 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import Navigation from '../components/Navigation/Navigation';
 import WelcomeSection from '../components/WelcomeSection/WelcomeSection';
 import BlackDiv from '../components/BlackDiv/BlackDiv';
-import Footer from '../components/Footer/Footer';
 import QuickRepairSection from '../components/QuickRepairSection/QuickRepairSection';
 ---
 
 <Layout title="spaceFix">
-  <Navigation client:load />
   <WelcomeSection />
   <BlackDiv />
   <QuickRepairSection />
-  <Footer />
 </Layout>

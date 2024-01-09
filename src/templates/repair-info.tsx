@@ -1,48 +1,45 @@
 import React from 'react';
-import ImgCard from '../ImgCard/ImgCard.tsx';
-import imgCard from '../ImgCard/ImgCard.tsx';
 
-const IphoneRepairData = [
-  {
-    slug: '/iphones',
-    title: 'Przednia szybka',
-    imgSrc: '../../../public/images/crashed-front-phone.png',
-  },
-  {
-    slug: '/iphones',
-    title: 'Tylna szybka',
-    imgSrc: '../../../public/images/crashed-back-phone.png',
-  },
-  {
-    slug: '/iphones',
-    title: 'Wymiana baterii',
-    imgSrc: '../../../public/images/low-battery-phone.png',
-  },
-  {
-    slug: '/iphones',
-    title: 'Port ładowania',
-    imgSrc: '../../../public/images/charging-port-phone.png',
-  },
-  {
-    slug: '/iphones',
-    title: 'Wymiana głośnika',
-    imgSrc: '../../../public/images/speaker-phone.png',
-  },
-  {
-    slug: '/iphones',
-    title: 'Naprawa aparatu',
-    imgSrc: '../../../public/images/camera-crashed-phone.png',
-  },
+import ImgCard from '../components/ImgCard/ImgCard.tsx';
+
+interface RepairInfoProps {
+  data: {
+    key: string;
+    title: string;
+    shortTitle: string;
+    price: string;
+    description: string;
+    duration: string;
+  }[];
+}
+
+const RepairImages = [
+  '/images/crashed-front-phone.png',
+  '/images/crashed-back-phone.png',
+  '/images/low-battery-phone.png',
+  '/images/charging-port-phone.png',
+  '/images/speaker-phone.png',
+  '/images/camera-crashed-phone.png',
 ];
 
-const PhoneRepairs = () => {
+const RepairInfo: React.FC<RepairInfoProps> = ({ data }) => {
+  // todo: clicking on button in ImgCard changes state and every content which needs to be changed binds into the state
   return (
     <section>
       <h2 className="text-center text-3xl font-bold m-4">Wybierz rodzaj naprawy</h2>
       <div className="flex justify-center">
         <div className="flex max-w-2xl">
-          {IphoneRepairData.map(({ slug, imgSrc, title }) => {
-            return <ImgCard key={imgSrc} slug={slug} title={title} imgSrc={imgSrc} imgClassName="w-[64px]" />;
+          {data.map(({ shortTitle }, index) => {
+            return (
+              <ImgCard
+                key={index}
+                slug=""
+                title={shortTitle}
+                imgSrc={RepairImages[index]}
+                imgClassName="w-[64px]"
+                as="button"
+              />
+            );
           })}
         </div>
       </div>
@@ -92,4 +89,4 @@ const PhoneRepairs = () => {
   );
 };
 
-export default PhoneRepairs;
+export default RepairInfo;

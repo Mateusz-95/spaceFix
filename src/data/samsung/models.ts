@@ -1,7 +1,7 @@
 export const galaxyS = [
   {
     name: 'S23 Ultra',
-    slug: 's23-ultra',
+    slug: 's23-ultra/',
     repairs: [
       {
         key: 'front-glass',
@@ -55,7 +55,7 @@ export const galaxyS = [
   },
   {
     name: 'S23+',
-    slug: 's23+',
+    slug: 's23+/',
     repairs: [
       {
         key: 'front-glass',

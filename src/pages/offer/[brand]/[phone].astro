@@ -1,8 +1,7 @@
 ---
 import data from '../../../data/data';
 import Layout from '../../../layouts/Layout.astro';
-import Navigation from '../../../components/Navigation/Navigation';
-import Footer from '../../../components/Footer/Footer';
+import RepairInfo from '../../../templates/repair-info';
 
 export function getStaticPaths() {
   return data
@@ -13,13 +12,16 @@ export function getStaticPaths() {
           brand: slug,
           phone: phone.slug,
         },
+        props: {
+          data: phone.repairs,
+        },
       }));
     })
     .flat();
 }
+const { data } = Astro.props;
 ---
 
 <Layout title="spaceFix">
-  <Navigation client:load />
-  <Footer />
+  <RepairInfo data={data} />
 </Layout>

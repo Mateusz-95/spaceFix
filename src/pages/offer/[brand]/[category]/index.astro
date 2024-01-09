@@ -1,9 +1,7 @@
 ---
 import data from '../../../../data/data';
 import Layout from '../../../../layouts/Layout.astro';
-import Navigation from '../../../../components/Navigation/Navigation';
-import Footer from '../../../../components/Footer/Footer';
-import ModelsSection from '../../../../components/ModelsSection/ModelsSection';
+import TextCardGrid from '../../../../templates/text-card-grid';
 
 export function getStaticPaths() {
   return data
@@ -27,7 +25,5 @@ console.log(models);
 ---
 
 <Layout title="spaceFix">
-  <Navigation client:load />
-  <ModelsSection headerContent="Wybierz model z serii Samsung Galaxy S" models={models} />;
-  <Footer />
+  <TextCardGrid headerContent="Wybierz model z serii Samsung Galaxy S" data={models} />;
 </Layout>

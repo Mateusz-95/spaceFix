@@ -1,11 +1,12 @@
 const iphoneModels = [
   {
     name: 'iPhone 15 Pro Max',
-    slug: 'iphone-15-pro-max',
+    slug: 'iphone-15-pro-max/',
     repairs: [
       {
         key: 'front-glass',
         title: 'iPhone 15 Pro Max wymiana szybki',
+        shortTitle: 'Przednia szybka',
         price: '149 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
@@ -14,6 +15,7 @@ const iphoneModels = [
       {
         key: 'back-glass',
         title: 'iPhone 15 Pro Max wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
         price: '249 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
@@ -22,6 +24,7 @@ const iphoneModels = [
       {
         key: 'battery',
         title: 'iPhone 15 Pro Max wymiana baterii',
+        shortTitle: 'Wymiana baterii',
         price: '349 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
@@ -30,6 +33,7 @@ const iphoneModels = [
       {
         key: 'charging-port',
         title: 'iPhone 15 Pro Max wymiana portu ładowania',
+        shortTitle: 'Port ładowania',
         price: '449 zł',
         description:
           'Oferujemy profesjonalną wymianę portu ładowania w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
@@ -38,6 +42,7 @@ const iphoneModels = [
       {
         key: 'speaker',
         title: 'iPhone 15 Pro Max wymiana głośnika',
+        shortTitle: 'Wymiana głośnika',
         price: '549 zł',
         description:
           'Oferujemy profesjonalną wymianę głośnika w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
@@ -46,6 +51,7 @@ const iphoneModels = [
       {
         key: 'camera',
         title: 'iPhone 15 Pro Max wymiana aparatu',
+        shortTitle: 'Naprawa aparatu',
         price: '649 zł',
         description:
           'Oferujemy profesjonalną wymianę aparatu w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
@@ -55,7 +61,7 @@ const iphoneModels = [
   },
   {
     name: 'iPhone 15 Pro',
-    slug: 'iphone-15-pro',
+    slug: 'iphone-15-pro/',
     repairs: [
       {
         key: 'front-glass',

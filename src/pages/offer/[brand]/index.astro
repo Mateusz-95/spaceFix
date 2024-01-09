@@ -1,11 +1,8 @@
 ---
 import data from '../../../data/data';
-import Navigation from '../../../components/Navigation/Navigation';
 import Layout from '../../../layouts/Layout.astro';
-import Footer from '../../../components/Footer/Footer';
-import ModelsSection from '../../../components/ModelsSection/ModelsSection';
-import SamsungTypes from '../../../components/SamsungTypes/SamsungTypes';
-import linkTo from '../../../utility/linkTo';
+import TextCardGrid from '../../../templates/text-card-grid';
+import ImageCardGrid from '../../../templates/image-card-grid';
 
 export function getStaticPaths() {
   return data.map(({ slug, phones, categories, categoryTitle }) => ({
@@ -25,8 +22,6 @@ const { brand } = Astro.params;
 ---
 
 <Layout title="spaceFix">
-  <Navigation client:load />
-  {models && <ModelsSection headerContent="Wybierz model iPhone'a" models={models} prefix={`/offer/${brand}/`} />}
-  {categories && <SamsungTypes categoryTitle={categoryTitle} data={categories} prefix={brand} client:load />}
-  <Footer />
+  {models && <TextCardGrid headerContent="Wybierz model iPhone'a" data={models} />}
+  {categories && <ImageCardGrid categoryTitle={categoryTitle} data={categories} />}
 </Layout>

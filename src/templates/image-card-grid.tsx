@@ -1,18 +1,22 @@
 import React from 'react';
-import type { DataType } from '../../data/data.ts';
-import ImgCard from '../ImgCard/ImgCard.tsx';
+import ImgCard from '../components/ImgCard/ImgCard.tsx';
 
-interface PhoneTypeProps {
-  data: DataType;
+interface ImageCardGridProps {
+  headerContent: string;
+  data: {
+    name: string;
+    imgSrc: string;
+    slug: string;
+  }[];
 }
 
-const PhoneTypes = ({ data }: PhoneTypeProps) => {
+const ImageCardGrid: React.FC<ImageCardGridProps> = ({ headerContent, data }) => {
   return (
     <section className="mt-5 ">
-      <h2 className="text-center text-3xl font-bold mb-4">Wybierz model telefonu</h2>
+      <h2 className="text-center text-3xl font-bold mb-4">{headerContent}</h2>
       <div className="flex h-[300px] mb-10">
-        {data.map(({ slug, brand, imgSrc }) => {
-          return <ImgCard key={slug} slug={'/offer/' + slug} title={brand} imgSrc={imgSrc} />;
+        {data.map(({ slug, name, imgSrc }) => {
+          return <ImgCard key={slug} slug={slug} title={name} imgSrc={imgSrc} />;
         })}
       </div>
       <div className="text-center">
@@ -27,4 +31,4 @@ const PhoneTypes = ({ data }: PhoneTypeProps) => {
   );
 };
 
-export default PhoneTypes;
+export default ImageCardGrid;

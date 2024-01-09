@@ -1,25 +1,26 @@
-import iphoneModels from './iphoneModels.ts';
-import { galaxyS } from './samsung.ts';
+import iphoneModels from './iphone/models.ts';
+import samsungCategories from './samsung/categories.ts';
 
 const data = [
   {
-    brand: 'iPhone',
-    slug: 'iphones',
+    name: 'iPhone',
+    slug: 'iphones/',
     imgSrc: '/images/iphone-photo.png',
     phones: iphoneModels,
   },
   {
-    brand: 'Samsung',
-    slug: 'samsung',
+    name: 'Samsung',
+    slug: 'samsung/',
     imgSrc: '/images/samsung-photo.png',
-    categories: [{ name: 'Samsung Galaxy S', slug: 'galaxy-s', imgSrc: '/images/galaxys-photo.png', phones: galaxyS }],
+    categories: samsungCategories,
     categoryTitle: 'Wybierz serię Samsunga',
   },
   {
-    brand: 'Xiaomi',
-    slug: 'xiaomi',
+    name: 'Xiaomi',
+    slug: 'xiaomi/',
     imgSrc: '/images/xiaomi-photo.png',
-    categories: [{ name: 'Xiaomi 13', slug: 'xiaomi-13', imgSrc: '/images/galaxys-photo.png', phones: iphoneModels }],
+    // todo: do the same like samsung brand
+    categories: [{ name: 'Xiaomi 13', slug: 'xiaomi-13/', imgSrc: '/images/galaxys-photo.png', phones: iphoneModels }],
   },
 ] as const;
 
