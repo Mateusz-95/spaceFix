@@ -6,23 +6,37 @@ interface ImgCardProps {
   imgSrc: string;
   imgClassName?: string;
   as?: 'link' | 'button';
+  onClick: React.MouseEventHandler;
 }
 
 // todo: implement as props: when as equals link card should have anchor element
 // and when as equals button it should have button
-const ImgCard = ({ slug, title, imgSrc, imgClassName = '', as = 'link' }: ImgCardProps) => {
+const ImgCard = ({ slug, title, imgSrc, imgClassName = '', as = 'link', onClick }: ImgCardProps) => {
   return (
     <div className=" flex-1">
-      <a href={slug} className="flex flex-col justify-between items-center relative h-full">
-        <p className="text-center text-xl font-bold mb-2">{title}</p>
-        <div className={`relative aspect-square h-full ${imgClassName}`}>
-          <img
-            className="rounded-lg object-cover transition duration-300 transform hover:scale-105 absolute left-0 top-0 w-full h-full"
-            alt="iphone-photo"
-            src={imgSrc}
-          />
-        </div>
-      </a>
+      {as === 'link' ? (
+        <a href={slug} className="flex flex-col justify-between items-center relative h-full">
+          <p className="text-center text-xl font-bold mb-2">{title}</p>
+          <div className={`relative aspect-square h-full ${imgClassName}`}>
+            <img
+              className="rounded-lg object-cover transition duration-300 transform hover:scale-105 absolute left-0 top-0 w-full h-full"
+              alt="iphone-photo"
+              src={imgSrc}
+            />
+          </div>
+        </a>
+      ) : (
+        <button onClick={onClick} className="flex flex-col justify-between items-center relative h-full">
+          <p className="text-center text-xl font-bold mb-2">{title}</p>
+          <div className={`relative aspect-square h-full ${imgClassName}`}>
+            <img
+              className="rounded-lg object-cover transition duration-300 transform hover:scale-105 absolute left-0 top-0 w-full h-full"
+              alt="iphone-photo"
+              src={imgSrc}
+            />
+          </div>
+        </button>
+      )}
     </div>
   );
 };

@@ -5,7 +5,7 @@ const iphoneModels = [
     repairs: [
       {
         key: 'front-glass',
-        title: 'iPhone 15 Pro Max wymiana szybki',
+        title: 'iPhone 14 Pro Max wymiana szybki',
         shortTitle: 'Przednia szybka',
         price: '1500 zł',
         description:
@@ -15,7 +15,7 @@ const iphoneModels = [
       {
         key: 'display',
         title: 'iPhone 14 Pro Max wymiana wyświetlacza',
-        shortTitle: 'Wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
         price: 'do ustalenia',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
@@ -33,7 +33,7 @@ const iphoneModels = [
       {
         key: 'battery',
         title: 'iPhone 14 Pro Max wymiana baterii',
-        shortTitle: 'Wymiana baterii',
+        shortTitle: 'Bateria',
         price: '400-460 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
@@ -57,7 +57,7 @@ const iphoneModels = [
       {
         key: 'display',
         title: 'iPhone 14 Pro wymiana wyświetlacza',
-        shortTitle: 'Wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
         price: 'do ustalenia',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
@@ -75,7 +75,7 @@ const iphoneModels = [
       {
         key: 'battery',
         title: 'iPhone 14 Pro wymiana baterii',
-        shortTitle: 'Wymiana baterii',
+        shortTitle: 'Bateria',
         price: '390-450 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
@@ -99,7 +99,7 @@ const iphoneModels = [
       {
         key: 'display',
         title: 'iPhone 14 Plus wymiana wyświetlacza',
-        shortTitle: 'Wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
         price: 'do ustalenia',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
@@ -117,7 +117,7 @@ const iphoneModels = [
       {
         key: 'battery',
         title: 'iPhone 14 Plus wymiana baterii',
-        shortTitle: 'Wymiana baterii',
+        shortTitle: 'Bateria',
         price: '390-450 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
@@ -141,7 +141,7 @@ const iphoneModels = [
       {
         key: 'display',
         title: 'iPhone 14 wymiana wyświetlacza',
-        shortTitle: 'Wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
         price: 'do ustalenia',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
@@ -159,7 +159,7 @@ const iphoneModels = [
       {
         key: 'battery',
         title: 'iPhone 14 wymiana baterii',
-        shortTitle: 'Wymiana baterii',
+        shortTitle: 'Bateria',
         price: '390-450 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
@@ -183,7 +183,7 @@ const iphoneModels = [
       {
         key: 'display',
         title: 'iPhone 13 Pro Max wymiana wyświetlacza',
-        shortTitle: 'Wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
         price: '1500 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
@@ -201,7 +201,7 @@ const iphoneModels = [
       {
         key: 'battery',
         title: 'iPhone 13 Pro Max wymiana baterii',
-        shortTitle: 'Wymiana baterii',
+        shortTitle: 'Bateria',
         price: '360-420 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
@@ -225,7 +225,7 @@ const iphoneModels = [
       {
         key: 'display',
         title: 'iPhone 13 Pro wymiana wyświetlacza',
-        shortTitle: 'Wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
         price: '1350 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
@@ -243,7 +243,7 @@ const iphoneModels = [
       {
         key: 'battery',
         title: 'iPhone 13 Pro wymiana baterii',
-        shortTitle: 'Wymiana baterii',
+        shortTitle: 'Bateria',
         price: '350-410 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
@@ -267,7 +267,7 @@ const iphoneModels = [
       {
         key: 'display',
         title: 'iPhone 13 wymiana wyświetlacza',
-        shortTitle: 'Wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
         price: '900-1100 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
@@ -285,7 +285,7 @@ const iphoneModels = [
       {
         key: 'battery',
         title: 'iPhone 13 wymiana baterii',
-        shortTitle: 'Wymiana baterii',
+        shortTitle: 'Bateria',
         price: '320-380 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
@@ -309,7 +309,7 @@ const iphoneModels = [
       {
         key: 'display',
         title: 'iPhone 13 mini wymiana wyświetlacza',
-        shortTitle: 'Wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
         price: '800-1050 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
@@ -327,7 +327,7 @@ const iphoneModels = [
       {
         key: 'battery',
         title: 'iPhone 13 mini wymiana baterii',
-        shortTitle: 'Wymiana baterii',
+        shortTitle: 'Bateria',
         price: '300-360 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
@@ -351,7 +351,7 @@ const iphoneModels = [
       {
         key: 'display',
         title: 'iPhone SE 2022 wymiana wyświetlacza',
-        shortTitle: 'Wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
         price: '300-380 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
@@ -369,7 +369,7 @@ const iphoneModels = [
       {
         key: 'battery',
         title: 'iPhone SE 2022 wymiana baterii',
-        shortTitle: 'Wymiana baterii',
+        shortTitle: 'Bateria',
         price: '190-250 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
@@ -393,7 +393,7 @@ const iphoneModels = [
       {
         key: 'display',
         title: 'iPhone 12 Pro Max wymiana wyświetlacza',
-        shortTitle: 'Wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
         price: '900-1200 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
@@ -411,7 +411,7 @@ const iphoneModels = [
       {
         key: 'battery',
         title: 'iPhone 12 Pro Max wymiana baterii',
-        shortTitle: 'Wymiana baterii',
+        shortTitle: 'Bateria',
         price: '340-400 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
@@ -435,7 +435,7 @@ const iphoneModels = [
       {
         key: 'display',
         title: 'iPhone 12 Pro wymiana wyświetlacza',
-        shortTitle: 'Wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
         price: '800-950 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
@@ -453,7 +453,7 @@ const iphoneModels = [
       {
         key: 'battery',
         title: 'iPhone 12 Pro wymiana baterii',
-        shortTitle: 'Wymiana baterii',
+        shortTitle: 'Bateria',
         price: '290-350 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
@@ -477,7 +477,7 @@ const iphoneModels = [
       {
         key: 'display',
         title: 'iPhone 12 wymiana wyświetlacza',
-        shortTitle: 'Wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
         price: '800-950 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
@@ -495,7 +495,7 @@ const iphoneModels = [
       {
         key: 'battery',
         title: 'iPhone 12 wymiana baterii',
-        shortTitle: 'Wymiana baterii',
+        shortTitle: 'Bateria',
         price: '290-350 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
@@ -519,7 +519,7 @@ const iphoneModels = [
       {
         key: 'display',
         title: 'iPhone 12 Mini wymiana wyświetlacza',
-        shortTitle: 'Wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
         price: '700-850 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
@@ -537,7 +537,7 @@ const iphoneModels = [
       {
         key: 'battery',
         title: 'iPhone 12 Mini wymiana baterii',
-        shortTitle: 'Wymiana baterii',
+        shortTitle: 'Bateria',
         price: '280-340 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
@@ -561,7 +561,7 @@ const iphoneModels = [
       {
         key: 'display',
         title: 'iPhone 11 Pro Max wymiana wyświetlacza',
-        shortTitle: 'Wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
         price: '600-750 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
@@ -579,7 +579,7 @@ const iphoneModels = [
       {
         key: 'battery',
         title: 'iPhone 11 Pro Max wymiana baterii',
-        shortTitle: 'Wymiana baterii',
+        shortTitle: 'Bateria',
         price: '280-340 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
@@ -603,7 +603,7 @@ const iphoneModels = [
       {
         key: 'display',
         title: 'iPhone 11 Pro wymiana wyświetlacza',
-        shortTitle: 'Wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
         price: '550-650 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
@@ -621,7 +621,7 @@ const iphoneModels = [
       {
         key: 'battery',
         title: 'iPhone 11 Pro wymiana baterii',
-        shortTitle: 'Wymiana baterii',
+        shortTitle: 'Bateria',
         price: '260-320 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
@@ -645,7 +645,7 @@ const iphoneModels = [
       {
         key: 'display',
         title: 'iPhone 11 wymiana wyświetlacza',
-        shortTitle: 'Wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
         price: '400-500 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
@@ -663,7 +663,7 @@ const iphoneModels = [
       {
         key: 'battery',
         title: 'iPhone 11 wymiana baterii',
-        shortTitle: 'Wymiana baterii',
+        shortTitle: 'Bateria',
         price: '240-300 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
@@ -687,7 +687,7 @@ const iphoneModels = [
       {
         key: 'display',
         title: 'iPhone SE 2020 wymiana wyświetlacza',
-        shortTitle: 'Wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
         price: '250-320 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
@@ -705,7 +705,7 @@ const iphoneModels = [
       {
         key: 'battery',
         title: 'iPhone SE 2020 wymiana baterii',
-        shortTitle: 'Wymiana baterii',
+        shortTitle: 'Bateria',
         price: '180-240 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
@@ -729,7 +729,7 @@ const iphoneModels = [
       {
         key: 'display',
         title: 'iPhone XS Max wymiana wyświetlacza',
-        shortTitle: 'Wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
         price: '600-750 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
@@ -747,7 +747,7 @@ const iphoneModels = [
       {
         key: 'battery',
         title: 'iPhone XS Max wymiana baterii',
-        shortTitle: 'Wymiana baterii',
+        shortTitle: 'Bateria',
         price: '240-300 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
@@ -771,7 +771,7 @@ const iphoneModels = [
       {
         key: 'display',
         title: 'iPhone XS wymiana wyświetlacza',
-        shortTitle: 'Wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
         price: '450-550 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
@@ -789,7 +789,7 @@ const iphoneModels = [
       {
         key: 'battery',
         title: 'iPhone XS wymiana baterii',
-        shortTitle: 'Wymiana baterii',
+        shortTitle: 'Bateria',
         price: '230-290 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
@@ -813,7 +813,7 @@ const iphoneModels = [
       {
         key: 'display',
         title: 'iPhone X wymiana wyświetlacza',
-        shortTitle: 'Wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
         price: '400-500 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
@@ -831,7 +831,7 @@ const iphoneModels = [
       {
         key: 'battery',
         title: 'iPhone X wymiana baterii',
-        shortTitle: 'Wymiana baterii',
+        shortTitle: 'Bateria',
         price: '200 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
@@ -855,7 +855,7 @@ const iphoneModels = [
       {
         key: 'display',
         title: 'iPhone XR wymiana wyświetlacza',
-        shortTitle: 'Wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
         price: '350-400 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
@@ -873,7 +873,7 @@ const iphoneModels = [
       {
         key: 'battery',
         title: 'iPhone XR wymiana baterii',
-        shortTitle: 'Wymiana baterii',
+        shortTitle: 'Bateria',
         price: '190-250 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
@@ -897,7 +897,7 @@ const iphoneModels = [
       {
         key: 'display',
         title: 'iPhone 8 Plus wymiana wyświetlacza',
-        shortTitle: 'Wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
         price: '270-350 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
@@ -915,7 +915,7 @@ const iphoneModels = [
       {
         key: 'battery',
         title: 'iPhone 8 Plus wymiana baterii',
-        shortTitle: 'Wymiana baterii',
+        shortTitle: 'Bateria',
         price: '180 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
@@ -939,7 +939,7 @@ const iphoneModels = [
       {
         key: 'display',
         title: 'iPhone 8 wymiana wyświetlacza',
-        shortTitle: 'Wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
         price: '250-300 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
@@ -957,7 +957,7 @@ const iphoneModels = [
       {
         key: 'battery',
         title: 'iPhone 8 wymiana baterii',
-        shortTitle: 'Wymiana baterii',
+        shortTitle: 'Bateria',
         price: '180 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
@@ -981,7 +981,7 @@ const iphoneModels = [
       {
         key: 'display',
         title: 'iPhone 7 Plus wymiana wyświetlacza',
-        shortTitle: 'Wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
         price: '240-320 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
@@ -998,7 +998,7 @@ const iphoneModels = [
       {
         key: 'battery',
         title: 'iPhone 7 Plus wymiana baterii',
-        shortTitle: 'Wymiana baterii',
+        shortTitle: 'Bateria',
         price: '180 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
@@ -1022,7 +1022,7 @@ const iphoneModels = [
       {
         key: 'display',
         title: 'iPhone 7 wymiana wyświetlacza',
-        shortTitle: 'Wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
         price: '240-300 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
@@ -1039,7 +1039,7 @@ const iphoneModels = [
       {
         key: 'battery',
         title: 'iPhone 7 wymiana baterii',
-        shortTitle: 'Wymiana baterii',
+        shortTitle: 'Bateria',
         price: '150 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
@@ -1063,7 +1063,7 @@ const iphoneModels = [
       {
         key: 'display',
         title: 'iPhone 6 Plus wymiana wyświetlacza',
-        shortTitle: 'Wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
         price: '230-280 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
@@ -1080,7 +1080,7 @@ const iphoneModels = [
       {
         key: 'battery',
         title: 'iPhone 6 Plus wymiana baterii',
-        shortTitle: 'Wymiana baterii',
+        shortTitle: 'Bateria',
         price: '150 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
@@ -1104,7 +1104,7 @@ const iphoneModels = [
       {
         key: 'display',
         title: 'iPhone 6 wymiana wyświetlacza',
-        shortTitle: 'Wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
         price: '200-250 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
@@ -1121,7 +1121,7 @@ const iphoneModels = [
       {
         key: 'battery',
         title: 'iPhone 6 wymiana baterii',
-        shortTitle: 'Wymiana baterii',
+        shortTitle: 'Bateria',
         price: '140 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
@@ -1145,7 +1145,7 @@ const iphoneModels = [
       {
         key: 'display',
         title: 'iPhone 6s Plus wymiana wyświetlacza',
-        shortTitle: 'Wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
         price: '230-280 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
@@ -1162,7 +1162,7 @@ const iphoneModels = [
       {
         key: 'battery',
         title: 'iPhone 6s Plus wymiana baterii',
-        shortTitle: 'Wymiana baterii',
+        shortTitle: 'Bateria',
         price: '150 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
@@ -1186,7 +1186,7 @@ const iphoneModels = [
       {
         key: 'display',
         title: 'iPhone 6s wymiana wyświetlacza',
-        shortTitle: 'Wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
         price: '200-250 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
@@ -1203,7 +1203,7 @@ const iphoneModels = [
       {
         key: 'battery',
         title: 'iPhone 6s wymiana baterii',
-        shortTitle: 'Wymiana baterii',
+        shortTitle: 'Bateria',
         price: '150 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',

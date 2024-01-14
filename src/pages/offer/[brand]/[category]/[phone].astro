@@ -29,5 +29,5 @@ const { data } = Astro.props;
 ---
 
 <Layout title="spaceFix">
-  <RepairInfo data={data} />
+  <RepairInfo data={data} client:load />
 </Layout>
