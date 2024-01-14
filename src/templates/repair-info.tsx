@@ -15,7 +15,7 @@ interface RepairInfoProps {
 
 const RepairImages = [
   '/images/crashed-front-phone.png',
-  '/images/crashed-front-phone.png',
+  '/images/display-crashed.png',
   '/images/crashed-back-phone.png',
   '/images/low-battery-phone.png',
 ];
@@ -49,7 +49,7 @@ const RepairInfo: React.FC<RepairInfoProps> = ({ data }) => {
       <div className="flex justify-center items-center text-center m-10 ">
         <div className="flex max-w-4xl border-2 border-black p-8 gap-4 ">
           <div className="flex-grow-0">
-            <img className="px-14" src="../../../public/images/crashed-front-phone.png" />
+            <img className="px-14" src={RepairImages[currentRepair]} />
             <p className="text-2xl font-bold ">{data[currentRepair].title}</p>
             <p className="text-3xl font-bold text-green-500 m-5">{data[currentRepair].price}</p>
             <a href="tel:+48730889759">
