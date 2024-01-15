@@ -30,9 +30,9 @@ const data = [
     categories: [{ name: 'Xiaomi 13', slug: 'xiaomi-13/', imgSrc: '/images/galaxys-photo.png', phones: iphoneModels }],
   },
   {
-    name: 'Xiaomi',
-    slug: 'xiaomi/',
-    imgSrc: '/images/xiaomi-photo.png',
+    name: 'Apple Watch',
+    slug: 'apple-watch/',
+    imgSrc: '/images/applewatch-photo.png',
     // todo: do the same like samsung brand
     categories: [{ name: 'Xiaomi 13', slug: 'xiaomi-13/', imgSrc: '/images/galaxys-photo.png', phones: iphoneModels }],
   },
