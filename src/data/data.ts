@@ -22,6 +22,20 @@ const data = [
     // todo: do the same like samsung brand
     categories: [{ name: 'Xiaomi 13', slug: 'xiaomi-13/', imgSrc: '/images/galaxys-photo.png', phones: iphoneModels }],
   },
+  {
+    name: 'iPad',
+    slug: 'ipad/',
+    imgSrc: '/images/ipad-photo.png',
+    // todo: do the same like samsung brand
+    categories: [{ name: 'Xiaomi 13', slug: 'xiaomi-13/', imgSrc: '/images/galaxys-photo.png', phones: iphoneModels }],
+  },
+  {
+    name: 'Xiaomi',
+    slug: 'xiaomi/',
+    imgSrc: '/images/xiaomi-photo.png',
+    // todo: do the same like samsung brand
+    categories: [{ name: 'Xiaomi 13', slug: 'xiaomi-13/', imgSrc: '/images/galaxys-photo.png', phones: iphoneModels }],
+  },
 ] as const;
 
 export type DataType = typeof data;
