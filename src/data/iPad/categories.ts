@@ -1,5 +1,4 @@
 import { ipadStandard, ipadMini, ipadAir, ipadPro } from './models.ts';
-import { poco } from '../xiaomi/models.ts';
 
 const ipadCategories = [
   { name: 'iPad 10.2', slug: '10.2/', imgSrc: '/images/ipad10.png', phones: ipadStandard },

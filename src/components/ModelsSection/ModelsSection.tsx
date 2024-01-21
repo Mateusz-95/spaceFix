@@ -9,7 +9,7 @@ const ModelsSection: React.FC<ModelsSectionProps> = ({ headerContent, models, pr
   return (
     <section>
       <h2 className="text-center text-3xl font-bold m-5">{headerContent}</h2>
-      <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 mt-5 relative group">
+      <div className="md:grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 mt-5 relative group">
         {models.map((model, index) => (
           <div
             key={index}
