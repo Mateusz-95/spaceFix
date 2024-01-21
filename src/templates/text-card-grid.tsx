@@ -1,22 +1,25 @@
 import React from 'react';
 
-interface ModelsSectionProps {
+interface TextCardGridProps {
   headerContent: string;
-  models: { name: string; slug: string }[];
-  prefix?: string;
+  data: {
+    name: string;
+    slug: string;
+  }[];
 }
-const ModelsSection: React.FC<ModelsSectionProps> = ({ headerContent, models, prefix = '' }) => {
+
+const TextCardGrid: React.FC<TextCardGridProps> = ({ headerContent, data }) => {
   return (
     <section>
       <h2 className="text-center text-3xl font-bold m-5">{headerContent}</h2>
-      <div className="md:grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 mt-5 relative group">
-        {models.map((model, index) => (
+      <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 mt-5 relative group">
+        {data.map(({ slug, name }, index) => (
           <div
             key={index}
             className="p-4 bg-gray-200 rounded-md transition-transform duration-300 transform hover:scale-105 hover:bg-gray-300 "
           >
-            <a href={model.slug} className="text-center mt-2 font-bold">
-              {model.name}
+            <a href={slug} className="text-center mt-2 font-bold">
+              {name}
             </a>
           </div>
         ))}
@@ -33,4 +36,4 @@ const ModelsSection: React.FC<ModelsSectionProps> = ({ headerContent, models, pr
   );
 };
 
-export default ModelsSection;
+export default TextCardGrid;

@@ -1,15 +1,27 @@
 ---
-const { brand } = Astro.params;
+import data from '../../../data/data';
+import Layout from '../../../layouts/Layout.astro';
+import TextCardGrid from '../../../templates/text-card-grid';
+import ImageCardGrid from '../../../templates/image-card-grid';
 
 export function getStaticPaths() {
-  return [
-    {
-      params: {
-        brand: 'iphones',
-      },
+  return data.map(({ slug, phones, categories, categoryTitle }) => ({
+    params: {
+      brand: slug,
     },
-  ];
+    props: {
+      models: phones ? phones.map((phone) => ({ name: phone.name, slug: phone.slug })) : undefined,
+      categories: categories ? categories : undefined,
+      categoryTitle,
+    },
+  }));
 }
+
+const { models, categories, categoryTitle } = Astro.props;
+const { brand } = Astro.params;
 ---
 
-<p>{brand}</p>
+<Layout title="spaceFix">
+  {models && <TextCardGrid headerContent="Wybierz model iPhone'a" data={models} />}
+  {categories && <ImageCardGrid categoryTitle={categoryTitle} data={categories} />}
+</Layout>

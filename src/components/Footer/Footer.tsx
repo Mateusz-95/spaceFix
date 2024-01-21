@@ -13,11 +13,11 @@ const Footer = () => {
           Niedziela <span className="ml-2">Nieczynne</span>
         </div>
       </div>
-      <div className="text-white flex justify-around mt-10">
+      <div className="text-white flex justify-around gap-2 mt-10">
         <a href="tel:+48730889759">
           <span className="flex items-center">
             <img alt="phone-icon" src="../../../public/images/phone.png" className="mr-2" />
-            <span>730 889 759</span>
+            <span className="hidden md:block">730 889 759</span>
           </span>
         </a>
 
@@ -28,13 +28,13 @@ const Footer = () => {
         >
           <span className="flex items-counter">
             <img alt="location-icon" src="../../../public/images/location.png" className="mr-2" />
-            <span>Ul.Malinowa 16/U1 Warszawa</span>
+            <span className="hidden md:block">Ul.Malinowa 16/U1 Warszawa</span>
           </span>
         </a>
         <a href="mailto:biurospacefix@gmail.com">
           <span className="flex items-center">
             <img alt="location-icon" src="../../../public/images/mail.png" className="mr-2" />
-            <span>biurospacefix@gmail.com</span>
+            <span className="hidden md:block">biurospacefix@gmail.com</span>
           </span>
         </a>
       </div>

@@ -1,17 +1,27 @@
 ---
-const { brand, phone } = Astro.params;
+import data from '../../../data/data';
+import Layout from '../../../layouts/Layout.astro';
+import RepairInfo from '../../../templates/repair-info';
 
 export function getStaticPaths() {
-  return [
-    {
-      params: {
-        brand: 'iphone',
-        phone: '15-pro-max',
-      },
-    },
-  ];
+  return data
+    .filter((item) => item.phones)
+    .map(({ slug, phones }) => {
+      return phones.map((phone) => ({
+        params: {
+          brand: slug,
+          phone: phone.slug,
+        },
+        props: {
+          data: phone.repairs,
+        },
+      }));
+    })
+    .flat();
 }
+const { data } = Astro.props;
 ---
 
-<p>{brand}</p>
-<p>{phone}</p>
+<Layout title="spaceFix">
+  <RepairInfo data={data} client:load />
+</Layout>
