@@ -6,7 +6,7 @@ interface NavigationProps {
 }
 const Navigation = ({ className }: NavigationProps) => {
   return (
-    <header className="max-h-48 flex justify-center top-0 left-0 right-0 z-50 p-4 md:shadow-md">
+    <header className="flex justify-center top-0 left-0 w-full z-50 h-[var(--header-height)] fixed bg-white shadow-md px-10">
       <MainNav></MainNav>
     </header>
   );
