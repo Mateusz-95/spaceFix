@@ -22,6 +22,6 @@ const { brand } = Astro.params;
 ---
 
 <Layout title="spaceFix">
-  {models && <TextCardGrid headerContent="Wybierz model iPhone'a" data={models} />}
+  {models && <TextCardGrid headerContent="Wybierz model" data={models} />}
   {categories && <ImageCardGrid categoryTitle={categoryTitle} data={categories} />}
 </Layout>

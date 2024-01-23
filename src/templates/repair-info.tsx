@@ -38,7 +38,7 @@ const RepairInfo: React.FC<RepairInfoProps> = ({ data }) => {
                 }}
                 title={shortTitle}
                 imgSrc={RepairImages[index]}
-                imgClassName="w-[64px]"
+                imgClassName="w-[64px] p-10 ml-6 mr-6 shadow-none"
                 as="button"
               />
             );
@@ -48,17 +48,23 @@ const RepairInfo: React.FC<RepairInfoProps> = ({ data }) => {
 
       <div className="flex justify-center items-center text-center m-10 ">
         <div className="flex max-w-4xl border-2 border-black p-8 gap-4 ">
-          <div className="flex-grow-0">
-            <img className="px-14" src={RepairImages[currentRepair]} />
+          <div className="flex-grow-0 w-1/3 ">
+            <div className="px-14 relative md:aspect-square aspect-auto mb-4 h-[150px] flex justify-center ">
+              <img
+                alt="repair-img"
+                className="rounded-lg md:object-cover md:absolute md:left-14 md:top-0 w-full h-full "
+                src={RepairImages[currentRepair]}
+              />
+            </div>
             <p className="text-2xl font-bold ">{data[currentRepair].title}</p>
             <p className="text-3xl font-bold text-green-500 m-5">{data[currentRepair].price}</p>
             <a href="tel:+48730889759">
               <button className="bg-blue-500 text-white py-2 px-4 rounded-md hover:bg-blue-700 focus:outline-none focus:shadow-outline-blue active:bg-blue-800">
-                Zadzwoń i zamów naprawę: +48 730 889 759
+                Zadzwoń i zamów naprawę: <div>+48 730 889 759</div>
               </button>
             </a>
           </div>
-          <div className="flex-grow flex  ">
+          <div className="flex-grow flex w-2/3 ">
             <div className="">
               <h3 className="text-2xl mb-5 text-blue-400">Opis naprawy:</h3>
               <p className="text-lg">{data[currentRepair].description}</p>

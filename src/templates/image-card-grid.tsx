@@ -12,9 +12,9 @@ interface ImageCardGridProps {
 
 const ImageCardGrid: React.FC<ImageCardGridProps> = ({ headerContent, data }) => {
   return (
-    <section className="mt-5">
+    <section className="mt-5 ">
       <h2 className="text-center text-3xl font-bold mb-4">{headerContent}</h2>
-      <div className="flex md:h-[200px] mb-10 md:flex-row flex-col">
+      <div className="flex md:h-[250px] mb-10 md:flex-row flex-col justify-center gap-6 md:gap-0">
         {data.map(({ slug, name, imgSrc }) => {
           return <ImgCard key={slug} slug={slug} title={name} imgSrc={imgSrc} />;
         })}

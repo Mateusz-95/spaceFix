@@ -37,7 +37,7 @@ const ImgCard = ({ slug, title, imgSrc, imgClassName = '', as = 'link', onClick 
   );
 
   return (
-    <div className=" flex-1">
+    <div className="">
       {as === 'link' ? (
         <a href={slug} className="flex flex-col justify-between items-center relative h-full">
           {children}
