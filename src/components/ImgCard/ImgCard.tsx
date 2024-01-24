@@ -43,7 +43,7 @@ const ImgCard = ({ slug, title, imgSrc, imgClassName = '', as = 'link', onClick 
           {children}
         </a>
       ) : (
-        <button onClick={onClick} className="flex flex-col justify-between items-center relative h-full">
+        <button onClick={onClick} className="flex flex-col justify-between items-center relative h-full m-auto">
           {children}
         </button>
       )}

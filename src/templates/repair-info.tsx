@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useRef, useState } from 'react';
 
 import ImgCard from '../components/ImgCard/ImgCard.tsx';
 
@@ -21,24 +21,32 @@ const RepairImages = [
 ];
 
 const RepairInfo: React.FC<RepairInfoProps> = ({ data }) => {
-  // todo: clicking on button in ImgCard changes state and every content which needs to be changed binds into the state
   const [currentRepair, setCurrentRepair] = useState(0);
+
+  const myRef = useRef(null);
+
+  const scrollToRef = () => {
+    myRef.current.scrollIntoView({ behavior: 'smooth' });
+  };
 
   return (
     <section>
       <h2 className="text-center text-3xl font-bold m-4">Wybierz rodzaj naprawy</h2>
       <div className="flex justify-center">
-        <div className="flex max-w-2xl">
+        <div className="md:flex md:max-w-2xl grid grid-cols-2 gap-4 m-auto" ref={myRef}>
           {data.map(({ shortTitle }, index) => {
             return (
               <ImgCard
                 key={index}
                 onClick={() => {
                   setCurrentRepair(index);
+                  if (window.innerWidth <= 768) {
+                    scrollToRef();
+                  }
                 }}
                 title={shortTitle}
                 imgSrc={RepairImages[index]}
-                imgClassName="w-[64px] p-10 ml-6 mr-6 shadow-none"
+                imgClassName="md:w-[64px] md:p-10 md:ml-6 md:mr-6 shadow-none w-[30px] h-[40px]"
                 as="button"
               />
             );
@@ -47,32 +55,32 @@ const RepairInfo: React.FC<RepairInfoProps> = ({ data }) => {
       </div>
 
       <div className="flex justify-center items-center text-center m-10 ">
-        <div className="flex max-w-4xl border-2 border-black p-8 gap-4 ">
-          <div className="flex-grow-0 w-1/3 ">
-            <div className="px-14 relative md:aspect-square aspect-auto mb-4 h-[150px] flex justify-center ">
+        <div className="md:flex md:max-w-4xl border-2 border-black md:p-8 md:gap-4 ">
+          <div className="md:flex-grow-0 md:w-1/3 ">
+            <div className="md:px-14 relative md:aspect-square aspect-auto md:mb-4 md:h-[150px] flex justify-center ">
               <img
                 alt="repair-img"
-                className="rounded-lg md:object-cover md:absolute md:left-14 md:top-0 w-full h-full "
+                className="rounded-lg md:object-cover md:absolute md:left-14 md:top-0 md:w-full md:h-full w-[60px] h-[80px] max-md:mt-4 "
                 src={RepairImages[currentRepair]}
               />
             </div>
-            <p className="text-2xl font-bold ">{data[currentRepair].title}</p>
-            <p className="text-3xl font-bold text-green-500 m-5">{data[currentRepair].price}</p>
+            <p className="md:text-2xl font-bold text-xl ">{data[currentRepair].title}</p>
+            <p className="md:text-3xl font-bold text-green-500 md:m-5 m-2 text-xl">{data[currentRepair].price}</p>
             <a href="tel:+48730889759">
-              <button className="bg-blue-500 text-white py-2 px-4 rounded-md hover:bg-blue-700 focus:outline-none focus:shadow-outline-blue active:bg-blue-800">
-                Zadzwoń i zamów naprawę: <div>+48 730 889 759</div>
+              <button className="max-md:h-[60px] max-md:w-[160px] bg-blue-500 text-white md:py-2 md:px-4 rounded-md hover:bg-blue-700 focus:outline-none focus:shadow-outline-blue active:bg-blue-800">
+                Zadzwoń i zamów naprawę <div className="md:block hidden">+48 730 889 759</div>
               </button>
             </a>
           </div>
-          <div className="flex-grow flex w-2/3 ">
+          <div className="md:flex-grow flex md:w-2/3 max-md: mt-4 ">
             <div className="">
-              <h3 className="text-2xl mb-5 text-blue-400">Opis naprawy:</h3>
-              <p className="text-lg">{data[currentRepair].description}</p>
-              <h3 className="text-2xl mt-5 text-blue-400">Gwarancja:</h3>
-              <p className="text-lg">3 miesiące</p>
-              <h3 className="text-2xl mt-5 text-blue-400">Czas naprawy:</h3>
-              <p className="text-lg">{data[currentRepair].duration}</p>
-              <p className="text-sm mt-12">
+              <h3 className="md:text-2xl text-lg md:mb-5 text-blue-400">Opis naprawy:</h3>
+              <p className="md:text-lg text-base max-md:ml-2 max-md:mr-2">{data[currentRepair].description}</p>
+              <h3 className="md:text-2xl md:mt-5 mt-2 text-lg text-blue-400">Gwarancja:</h3>
+              <p className="md:text-lg">3 miesiące</p>
+              <h3 className="md:text-2xl md:mt-5 mt-2 text-lg text-blue-400">Czas naprawy:</h3>
+              <p className="md:text-lg">{data[currentRepair].duration}</p>
+              <p className="md:text-sm md:mt-12 text-xs mt-6">
                 Prosimy o dokonanie rezerwacji telefonicznie przed przybyciem, abyśmy mogli upewnić się, że potrzebna
                 część jest na miejscu i gotowa do naprawy.
               </p>

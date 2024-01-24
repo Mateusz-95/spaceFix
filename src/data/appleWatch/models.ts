@@ -1,21 +1,6 @@
 export const appleWatchModels = [
   {
     name: 'Apple Watch 3',
-    slug: 'appleWatch-3/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Apple Watch 3 wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '500 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Apple Watch. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
-      },
-    ],
-  },
-  {
-    name: 'Apple Watch 3',
     slug: 'AW3/',
     repairs: [
       {

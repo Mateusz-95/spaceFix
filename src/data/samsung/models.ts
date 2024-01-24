@@ -49,7 +49,7 @@ export const galaxyS = [
         key: 'front-glass',
         title: 'S23 Plus wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '649 zł',
+        price: '549 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '2 dni robocze',
@@ -91,7 +91,7 @@ export const galaxyS = [
         key: 'front-glass',
         title: 'S23 wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '549 zł',
+        price: '499 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '2 dni robocze',
@@ -301,7 +301,7 @@ export const galaxyS = [
         key: 'front-glass',
         title: 'S21 Ultra wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '649 zł',
+        price: '599 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '2 dni robocze',
@@ -343,7 +343,7 @@ export const galaxyS = [
         key: 'front-glass',
         title: 'S21 FE wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '499 zł',
+        price: '449 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '2 dni robocze',
@@ -385,7 +385,7 @@ export const galaxyS = [
         key: 'front-glass',
         title: 'S21 wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '499 zł',
+        price: '389 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '2 dni robocze',
@@ -469,7 +469,7 @@ export const galaxyS = [
         key: 'front-glass',
         title: 'S20 Plus wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '549 zł',
+        price: '499 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '2 dni robocze',
@@ -496,7 +496,7 @@ export const galaxyS = [
         key: 'battery',
         title: 'S20 Plus wymiana baterii',
         shortTitle: 'Bateria',
-        price: '289 zł',
+        price: '269 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
         duration: '2 dni robocze',
@@ -511,7 +511,7 @@ export const galaxyS = [
         key: 'front-glass',
         title: 'S20 wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '549 zł',
+        price: '449 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '2 dni robocze',
@@ -595,7 +595,7 @@ export const galaxyS = [
         key: 'front-glass',
         title: 'S10 Plus wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '499 zł',
+        price: '479 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '2 dni robocze',
@@ -637,7 +637,7 @@ export const galaxyS = [
         key: 'front-glass',
         title: 'S10 wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '449 zł',
+        price: '399 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '2 dni robocze',
@@ -875,6 +875,90 @@ export const galaxyS = [
         title: 'S8 wymiana baterii',
         shortTitle: 'Bateria',
         price: '229 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
+        duration: '2 dni robocze',
+      },
+    ],
+  },
+  {
+    name: 'S7 Edge',
+    slug: 's7-edge/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'S7 Edge wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '249 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '2 dni robocze',
+      },
+      {
+        key: 'display',
+        title: 'S7 Edge wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '470 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '2 dni robocze',
+      },
+      {
+        key: 'back-glass',
+        title: 'S7 Edge wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '179 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '2 dni robocze',
+      },
+      {
+        key: 'battery',
+        title: 'S7 Edge wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '229 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
+        duration: '2 dni robocze',
+      },
+    ],
+  },
+  {
+    name: 'S7',
+    slug: 's7/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'S7 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '249 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '2 dni robocze',
+      },
+      {
+        key: 'display',
+        title: 'S7 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '470 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '2 dni robocze',
+      },
+      {
+        key: 'back-glass',
+        title: 'S7 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '179 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '2 dni robocze',
+      },
+      {
+        key: 'battery',
+        title: 'S7 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '239 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
         duration: '2 dni robocze',
@@ -1606,7 +1690,7 @@ export const galaxyA = [
         key: 'front-glass',
         title: 'A40 wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '229 zł',
+        price: '199 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '2 dni robocze',
@@ -1615,7 +1699,7 @@ export const galaxyA = [
         key: 'display',
         title: 'A40 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '439 zł',
+        price: '429 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
         duration: '2 dni robocze',
@@ -1732,7 +1816,7 @@ export const galaxyA = [
         key: 'front-glass',
         title: 'A50 wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '229 zł',
+        price: '199 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '2 dni robocze',
@@ -1741,7 +1825,7 @@ export const galaxyA = [
         key: 'display',
         title: 'A50 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '449 zł',
+        price: '439 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
         duration: '2 dni robocze',
@@ -1774,7 +1858,7 @@ export const galaxyA = [
         key: 'front-glass',
         title: 'A51 wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '259 zł',
+        price: '249 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '2 dni robocze',
@@ -2236,7 +2320,7 @@ export const galaxyA = [
         key: 'front-glass',
         title: 'A71 wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '479 zł',
+        price: '299 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '2 dni robocze',
