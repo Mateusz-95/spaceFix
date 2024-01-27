@@ -10,7 +10,7 @@ export const ipadStandard = [
         price: '299 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim iPadzie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -19,7 +19,7 @@ export const ipadStandard = [
         price: '299 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -34,7 +34,7 @@ export const ipadStandard = [
         price: '350 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim iPadzie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -43,7 +43,7 @@ export const ipadStandard = [
         price: '499 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -58,7 +58,7 @@ export const ipadStandard = [
         price: '450 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim iPadzie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -67,7 +67,7 @@ export const ipadStandard = [
         price: '599 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -82,7 +82,7 @@ export const ipadStandard = [
         price: '500 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim iPadzie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -91,7 +91,7 @@ export const ipadStandard = [
         price: '650 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -106,7 +106,7 @@ export const ipadStandard = [
         price: '550 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim iPadzie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -115,7 +115,7 @@ export const ipadStandard = [
         price: '699 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -130,7 +130,7 @@ export const ipadStandard = [
         price: '600 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim iPadzie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -139,7 +139,7 @@ export const ipadStandard = [
         price: '750 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -157,7 +157,7 @@ export const ipadMini = [
         price: '300 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim iPadzie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -166,7 +166,7 @@ export const ipadMini = [
         price: '300 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -181,7 +181,7 @@ export const ipadMini = [
         price: '300 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim iPadzie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -190,7 +190,7 @@ export const ipadMini = [
         price: '400 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -205,7 +205,7 @@ export const ipadMini = [
         price: '350 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim iPadzie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -214,7 +214,7 @@ export const ipadMini = [
         price: '450 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -229,7 +229,7 @@ export const ipadMini = [
         price: '500 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim iPadzie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -238,7 +238,7 @@ export const ipadMini = [
         price: '650 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -253,7 +253,7 @@ export const ipadMini = [
         price: '600 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim iPadzie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -262,7 +262,7 @@ export const ipadMini = [
         price: '1100 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -280,7 +280,7 @@ export const ipadAir = [
         price: '349 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim iPadzie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -289,7 +289,7 @@ export const ipadAir = [
         price: '399 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -304,7 +304,7 @@ export const ipadAir = [
         price: '449 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim iPadzie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -313,7 +313,7 @@ export const ipadAir = [
         price: '699 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -328,7 +328,7 @@ export const ipadAir = [
         price: '599 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim iPadzie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -337,7 +337,7 @@ export const ipadAir = [
         price: '1099 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -352,7 +352,7 @@ export const ipadAir = [
         price: '949 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim iPadzie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -361,7 +361,7 @@ export const ipadAir = [
         price: '1599 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -376,7 +376,7 @@ export const ipadAir = [
         price: '1050 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim iPadzie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -385,7 +385,7 @@ export const ipadAir = [
         price: '1850 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -403,7 +403,7 @@ export const ipadPro = [
         price: '500 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim iPadzie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -412,7 +412,7 @@ export const ipadPro = [
         price: '1000 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -427,7 +427,7 @@ export const ipadPro = [
         price: '550 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim iPadzie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -436,7 +436,7 @@ export const ipadPro = [
         price: '1050 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -451,7 +451,7 @@ export const ipadPro = [
         price: '850 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim iPadzie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -460,7 +460,7 @@ export const ipadPro = [
         price: '1050 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -475,7 +475,7 @@ export const ipadPro = [
         price: '900 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim iPadzie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -484,7 +484,7 @@ export const ipadPro = [
         price: '2250 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -499,7 +499,7 @@ export const ipadPro = [
         price: '950 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim iPadzie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -508,7 +508,7 @@ export const ipadPro = [
         price: '2100 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -523,7 +523,7 @@ export const ipadPro = [
         price: '1050 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim iPadzie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -532,7 +532,7 @@ export const ipadPro = [
         price: '2250 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -547,7 +547,7 @@ export const ipadPro = [
         price: '850 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim iPadzie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -556,7 +556,7 @@ export const ipadPro = [
         price: '1750 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -571,7 +571,7 @@ export const ipadPro = [
         price: '950 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim iPadzie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -580,7 +580,7 @@ export const ipadPro = [
         price: '1950 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -595,7 +595,7 @@ export const ipadPro = [
         price: '1050 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim iPadzie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -604,7 +604,7 @@ export const ipadPro = [
         price: '2250 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
     ],
   },

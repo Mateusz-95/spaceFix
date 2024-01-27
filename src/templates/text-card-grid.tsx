@@ -12,16 +12,15 @@ const TextCardGrid: React.FC<TextCardGridProps> = ({ headerContent, data }) => {
   return (
     <section>
       <h2 className="text-center text-3xl font-bold m-5">{headerContent}</h2>
-      <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 mt-5 relative group">
+      <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 mt-5 ml-2 mr-2 relative group">
         {data.map(({ slug, name }, index) => (
-          <div
+          <a
+            href={slug}
             key={index}
             className="p-4 bg-gray-200 rounded-md transition-transform duration-300 transform hover:scale-105 hover:bg-gray-300 "
           >
-            <a href={slug} className="text-center mt-2 font-bold">
-              {name}
-            </a>
-          </div>
+            <p className="text-center mt-2 font-bold">{name}</p>
+          </a>
         ))}
       </div>
       <div className="text-center">

@@ -10,7 +10,7 @@ export const appleWatchModels = [
         price: '430 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim Apple Watch. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -25,7 +25,7 @@ export const appleWatchModels = [
         price: '470 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim Apple Watch. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -40,7 +40,7 @@ export const appleWatchModels = [
         price: '550 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim Apple Watch. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -55,7 +55,7 @@ export const appleWatchModels = [
         price: '570 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim Apple Watch. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -70,7 +70,7 @@ export const appleWatchModels = [
         price: '500 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim Apple Watch. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -85,7 +85,7 @@ export const appleWatchModels = [
         price: '600 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim Apple Watch. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
     ],
   },

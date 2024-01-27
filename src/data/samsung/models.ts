@@ -10,7 +10,7 @@ export const galaxyS = [
         price: '699 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -18,8 +18,8 @@ export const galaxyS = [
         shortTitle: 'Wyświetlacz',
         price: '1549 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -28,7 +28,7 @@ export const galaxyS = [
         price: '389 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -36,8 +36,8 @@ export const galaxyS = [
         shortTitle: 'Bateria',
         price: '329 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -52,7 +52,7 @@ export const galaxyS = [
         price: '549 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -60,8 +60,8 @@ export const galaxyS = [
         shortTitle: 'Wyświetlacz',
         price: '1099 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -70,7 +70,7 @@ export const galaxyS = [
         price: '329 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -78,8 +78,8 @@ export const galaxyS = [
         shortTitle: 'Bateria',
         price: '289 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -94,7 +94,7 @@ export const galaxyS = [
         price: '499 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -102,8 +102,8 @@ export const galaxyS = [
         shortTitle: 'Wyświetlacz',
         price: '999 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -112,7 +112,7 @@ export const galaxyS = [
         price: '329 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -120,8 +120,8 @@ export const galaxyS = [
         shortTitle: 'Bateria',
         price: '369 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -136,7 +136,7 @@ export const galaxyS = [
         price: '649 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -144,8 +144,8 @@ export const galaxyS = [
         shortTitle: 'Wyświetlacz',
         price: '1499 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -154,7 +154,7 @@ export const galaxyS = [
         price: '369 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -162,8 +162,8 @@ export const galaxyS = [
         shortTitle: 'Bateria',
         price: '269 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -178,7 +178,7 @@ export const galaxyS = [
         price: '549 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -186,8 +186,8 @@ export const galaxyS = [
         shortTitle: 'Wyświetlacz',
         price: '999 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -196,7 +196,7 @@ export const galaxyS = [
         price: '310 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -204,8 +204,8 @@ export const galaxyS = [
         shortTitle: 'Bateria',
         price: '269 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -220,7 +220,7 @@ export const galaxyS = [
         price: '499 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -228,8 +228,8 @@ export const galaxyS = [
         shortTitle: 'Wyświetlacz',
         price: '979 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -238,7 +238,7 @@ export const galaxyS = [
         price: '310 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -246,8 +246,8 @@ export const galaxyS = [
         shortTitle: 'Bateria',
         price: '269 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -262,7 +262,7 @@ export const galaxyS = [
         price: '549 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -270,8 +270,8 @@ export const galaxyS = [
         shortTitle: 'Wyświetlacz',
         price: '899 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -280,7 +280,7 @@ export const galaxyS = [
         price: '329 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -288,8 +288,8 @@ export const galaxyS = [
         shortTitle: 'Bateria',
         price: '269 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -304,7 +304,7 @@ export const galaxyS = [
         price: '599 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -312,8 +312,8 @@ export const galaxyS = [
         shortTitle: 'Wyświetlacz',
         price: '1499 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -322,7 +322,7 @@ export const galaxyS = [
         price: '359 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -330,8 +330,8 @@ export const galaxyS = [
         shortTitle: 'Bateria',
         price: '289 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -346,7 +346,7 @@ export const galaxyS = [
         price: '449 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -354,8 +354,8 @@ export const galaxyS = [
         shortTitle: 'Wyświetlacz',
         price: '899 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -364,7 +364,7 @@ export const galaxyS = [
         price: '279 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -372,8 +372,8 @@ export const galaxyS = [
         shortTitle: 'Bateria',
         price: '239 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -388,7 +388,7 @@ export const galaxyS = [
         price: '389 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -396,8 +396,8 @@ export const galaxyS = [
         shortTitle: 'Wyświetlacz',
         price: '899 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -406,7 +406,7 @@ export const galaxyS = [
         price: '269 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -414,8 +414,8 @@ export const galaxyS = [
         shortTitle: 'Bateria',
         price: '249 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -430,7 +430,7 @@ export const galaxyS = [
         price: '549 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -438,8 +438,8 @@ export const galaxyS = [
         shortTitle: 'Wyświetlacz',
         price: '1399 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -448,7 +448,7 @@ export const galaxyS = [
         price: '310 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -456,8 +456,8 @@ export const galaxyS = [
         shortTitle: 'Bateria',
         price: '289 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -472,7 +472,7 @@ export const galaxyS = [
         price: '499 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -480,8 +480,8 @@ export const galaxyS = [
         shortTitle: 'Wyświetlacz',
         price: '1149 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -490,7 +490,7 @@ export const galaxyS = [
         price: '279 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -498,8 +498,8 @@ export const galaxyS = [
         shortTitle: 'Bateria',
         price: '269 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -514,7 +514,7 @@ export const galaxyS = [
         price: '449 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -522,8 +522,8 @@ export const galaxyS = [
         shortTitle: 'Wyświetlacz',
         price: '1099 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -532,7 +532,7 @@ export const galaxyS = [
         price: '269 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -540,8 +540,8 @@ export const galaxyS = [
         shortTitle: 'Bateria',
         price: '269 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -556,7 +556,7 @@ export const galaxyS = [
         price: '349 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -564,8 +564,8 @@ export const galaxyS = [
         shortTitle: 'Wyświetlacz',
         price: '599 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -574,7 +574,7 @@ export const galaxyS = [
         price: '239 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -582,8 +582,8 @@ export const galaxyS = [
         shortTitle: 'Bateria',
         price: '229 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -598,7 +598,7 @@ export const galaxyS = [
         price: '479 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -606,8 +606,8 @@ export const galaxyS = [
         shortTitle: 'Wyświetlacz',
         price: '1099 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -616,7 +616,7 @@ export const galaxyS = [
         price: '259 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -624,8 +624,8 @@ export const galaxyS = [
         shortTitle: 'Bateria',
         price: '269 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -640,7 +640,7 @@ export const galaxyS = [
         price: '399 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -648,8 +648,8 @@ export const galaxyS = [
         shortTitle: 'Wyświetlacz',
         price: '1049 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -658,7 +658,7 @@ export const galaxyS = [
         price: '239 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -666,8 +666,8 @@ export const galaxyS = [
         shortTitle: 'Bateria',
         price: '259 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -682,7 +682,7 @@ export const galaxyS = [
         price: '349 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -690,8 +690,8 @@ export const galaxyS = [
         shortTitle: 'Wyświetlacz',
         price: '849 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -700,7 +700,7 @@ export const galaxyS = [
         price: '239 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -708,8 +708,8 @@ export const galaxyS = [
         shortTitle: 'Bateria',
         price: '249 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -724,7 +724,7 @@ export const galaxyS = [
         price: '349 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -732,8 +732,8 @@ export const galaxyS = [
         shortTitle: 'Wyświetlacz',
         price: '799 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -742,7 +742,7 @@ export const galaxyS = [
         price: '179 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -750,8 +750,8 @@ export const galaxyS = [
         shortTitle: 'Bateria',
         price: '229 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -766,7 +766,7 @@ export const galaxyS = [
         price: '299 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -774,8 +774,8 @@ export const galaxyS = [
         shortTitle: 'Wyświetlacz',
         price: '750 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -784,7 +784,7 @@ export const galaxyS = [
         price: '179 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -792,8 +792,8 @@ export const galaxyS = [
         shortTitle: 'Bateria',
         price: '229 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -808,7 +808,7 @@ export const galaxyS = [
         price: '329 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -816,8 +816,8 @@ export const galaxyS = [
         shortTitle: 'Wyświetlacz',
         price: '649 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -826,7 +826,7 @@ export const galaxyS = [
         price: '169 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -834,8 +834,8 @@ export const galaxyS = [
         shortTitle: 'Bateria',
         price: '229 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -850,7 +850,7 @@ export const galaxyS = [
         price: '249 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -858,8 +858,8 @@ export const galaxyS = [
         shortTitle: 'Wyświetlacz',
         price: '639 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -868,7 +868,7 @@ export const galaxyS = [
         price: '169 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -876,8 +876,8 @@ export const galaxyS = [
         shortTitle: 'Bateria',
         price: '229 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -892,7 +892,7 @@ export const galaxyS = [
         price: '249 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -900,8 +900,8 @@ export const galaxyS = [
         shortTitle: 'Wyświetlacz',
         price: '470 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -910,7 +910,7 @@ export const galaxyS = [
         price: '179 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -918,8 +918,8 @@ export const galaxyS = [
         shortTitle: 'Bateria',
         price: '229 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -934,7 +934,7 @@ export const galaxyS = [
         price: '249 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -942,8 +942,8 @@ export const galaxyS = [
         shortTitle: 'Wyświetlacz',
         price: '470 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -952,7 +952,7 @@ export const galaxyS = [
         price: '179 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -960,8 +960,8 @@ export const galaxyS = [
         shortTitle: 'Bateria',
         price: '239 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -979,7 +979,7 @@ export const galaxyA = [
         price: '250 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -987,8 +987,8 @@ export const galaxyA = [
         shortTitle: 'Wyświetlacz',
         price: '349 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -997,7 +997,7 @@ export const galaxyA = [
         price: '169 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -1005,8 +1005,8 @@ export const galaxyA = [
         shortTitle: 'Bateria',
         price: '239 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1021,7 +1021,7 @@ export const galaxyA = [
         price: '250 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1029,8 +1029,8 @@ export const galaxyA = [
         shortTitle: 'Wyświetlacz',
         price: '349 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1039,7 +1039,7 @@ export const galaxyA = [
         price: '169 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -1047,8 +1047,8 @@ export const galaxyA = [
         shortTitle: 'Bateria',
         price: '249 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1063,7 +1063,7 @@ export const galaxyA = [
         price: '180 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1071,8 +1071,8 @@ export const galaxyA = [
         shortTitle: 'Wyświetlacz',
         price: '349 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1081,7 +1081,7 @@ export const galaxyA = [
         price: '149 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -1089,8 +1089,8 @@ export const galaxyA = [
         shortTitle: 'Bateria',
         price: '210 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1105,7 +1105,7 @@ export const galaxyA = [
         price: '200 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1113,8 +1113,8 @@ export const galaxyA = [
         shortTitle: 'Wyświetlacz',
         price: '300 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1123,7 +1123,7 @@ export const galaxyA = [
         price: '169 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -1131,8 +1131,8 @@ export const galaxyA = [
         shortTitle: 'Bateria',
         price: '229 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1147,7 +1147,7 @@ export const galaxyA = [
         price: '220 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1155,8 +1155,8 @@ export const galaxyA = [
         shortTitle: 'Wyświetlacz',
         price: '359 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1165,7 +1165,7 @@ export const galaxyA = [
         price: '169 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -1173,8 +1173,8 @@ export const galaxyA = [
         shortTitle: 'Bateria',
         price: '229 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1189,7 +1189,7 @@ export const galaxyA = [
         price: '239 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1197,8 +1197,8 @@ export const galaxyA = [
         shortTitle: 'Wyświetlacz',
         price: '369 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1207,7 +1207,7 @@ export const galaxyA = [
         price: '169 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -1215,8 +1215,8 @@ export const galaxyA = [
         shortTitle: 'Bateria',
         price: '229 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1231,7 +1231,7 @@ export const galaxyA = [
         price: '170 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1239,8 +1239,8 @@ export const galaxyA = [
         shortTitle: 'Wyświetlacz',
         price: '350 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1249,7 +1249,7 @@ export const galaxyA = [
         price: '169 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -1257,8 +1257,8 @@ export const galaxyA = [
         shortTitle: 'Bateria',
         price: '210 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1273,7 +1273,7 @@ export const galaxyA = [
         price: '200 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1281,8 +1281,8 @@ export const galaxyA = [
         shortTitle: 'Wyświetlacz',
         price: '359 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1291,7 +1291,7 @@ export const galaxyA = [
         price: '179 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -1299,8 +1299,8 @@ export const galaxyA = [
         shortTitle: 'Bateria',
         price: '229 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1315,7 +1315,7 @@ export const galaxyA = [
         price: '260 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1323,8 +1323,8 @@ export const galaxyA = [
         shortTitle: 'Wyświetlacz',
         price: '379 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1333,7 +1333,7 @@ export const galaxyA = [
         price: '169 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -1341,8 +1341,8 @@ export const galaxyA = [
         shortTitle: 'Bateria',
         price: '229 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1357,7 +1357,7 @@ export const galaxyA = [
         price: '299 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1365,8 +1365,8 @@ export const galaxyA = [
         shortTitle: 'Wyświetlacz',
         price: '379 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1375,7 +1375,7 @@ export const galaxyA = [
         price: '199 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -1383,8 +1383,8 @@ export const galaxyA = [
         shortTitle: 'Bateria',
         price: '239 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1399,7 +1399,7 @@ export const galaxyA = [
         price: '259 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1407,8 +1407,8 @@ export const galaxyA = [
         shortTitle: 'Wyświetlacz',
         price: '399 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1417,7 +1417,7 @@ export const galaxyA = [
         price: '169 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -1425,8 +1425,8 @@ export const galaxyA = [
         shortTitle: 'Bateria',
         price: '220 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1441,7 +1441,7 @@ export const galaxyA = [
         price: '249 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1449,8 +1449,8 @@ export const galaxyA = [
         shortTitle: 'Wyświetlacz',
         price: '439 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1459,7 +1459,7 @@ export const galaxyA = [
         price: '189 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -1467,8 +1467,8 @@ export const galaxyA = [
         shortTitle: 'Bateria',
         price: '229 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1483,7 +1483,7 @@ export const galaxyA = [
         price: '259 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1491,8 +1491,8 @@ export const galaxyA = [
         shortTitle: 'Wyświetlacz',
         price: '500 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1501,7 +1501,7 @@ export const galaxyA = [
         price: '199 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -1509,8 +1509,8 @@ export const galaxyA = [
         shortTitle: 'Bateria',
         price: '229 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1525,7 +1525,7 @@ export const galaxyA = [
         price: '239 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1533,8 +1533,8 @@ export const galaxyA = [
         shortTitle: 'Wyświetlacz',
         price: '389 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1543,7 +1543,7 @@ export const galaxyA = [
         price: '199 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -1551,8 +1551,8 @@ export const galaxyA = [
         shortTitle: 'Bateria',
         price: '229 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1567,7 +1567,7 @@ export const galaxyA = [
         price: '249 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1575,8 +1575,8 @@ export const galaxyA = [
         shortTitle: 'Wyświetlacz',
         price: '579 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1585,7 +1585,7 @@ export const galaxyA = [
         price: '199 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -1593,8 +1593,8 @@ export const galaxyA = [
         shortTitle: 'Bateria',
         price: '239 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1609,7 +1609,7 @@ export const galaxyA = [
         price: '279 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1617,8 +1617,8 @@ export const galaxyA = [
         shortTitle: 'Wyświetlacz',
         price: '539 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1627,7 +1627,7 @@ export const galaxyA = [
         price: '169 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -1635,8 +1635,8 @@ export const galaxyA = [
         shortTitle: 'Bateria',
         price: '239 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1651,7 +1651,7 @@ export const galaxyA = [
         price: '219 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1659,8 +1659,8 @@ export const galaxyA = [
         shortTitle: 'Wyświetlacz',
         price: '399 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1669,7 +1669,7 @@ export const galaxyA = [
         price: '169 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -1677,8 +1677,8 @@ export const galaxyA = [
         shortTitle: 'Bateria',
         price: '199 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1693,7 +1693,7 @@ export const galaxyA = [
         price: '199 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1701,8 +1701,8 @@ export const galaxyA = [
         shortTitle: 'Wyświetlacz',
         price: '429 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1711,7 +1711,7 @@ export const galaxyA = [
         price: '159 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -1719,8 +1719,8 @@ export const galaxyA = [
         shortTitle: 'Bateria',
         price: '220 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1735,7 +1735,7 @@ export const galaxyA = [
         price: '249 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1743,8 +1743,8 @@ export const galaxyA = [
         shortTitle: 'Wyświetlacz',
         price: '479 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1753,7 +1753,7 @@ export const galaxyA = [
         price: '169 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -1761,8 +1761,8 @@ export const galaxyA = [
         shortTitle: 'Bateria',
         price: '239 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1777,7 +1777,7 @@ export const galaxyA = [
         price: '239 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1785,8 +1785,8 @@ export const galaxyA = [
         shortTitle: 'Wyświetlacz',
         price: '459 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1795,7 +1795,7 @@ export const galaxyA = [
         price: '179 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -1803,8 +1803,8 @@ export const galaxyA = [
         shortTitle: 'Bateria',
         price: '239 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1819,7 +1819,7 @@ export const galaxyA = [
         price: '199 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1827,8 +1827,8 @@ export const galaxyA = [
         shortTitle: 'Wyświetlacz',
         price: '439 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1837,7 +1837,7 @@ export const galaxyA = [
         price: '179 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -1845,8 +1845,8 @@ export const galaxyA = [
         shortTitle: 'Bateria',
         price: '230 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1861,7 +1861,7 @@ export const galaxyA = [
         price: '249 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1869,8 +1869,8 @@ export const galaxyA = [
         shortTitle: 'Wyświetlacz',
         price: '520 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1879,7 +1879,7 @@ export const galaxyA = [
         price: '189 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -1887,8 +1887,8 @@ export const galaxyA = [
         shortTitle: 'Bateria',
         price: '230 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1903,7 +1903,7 @@ export const galaxyA = [
         price: '299 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1911,8 +1911,8 @@ export const galaxyA = [
         shortTitle: 'Wyświetlacz',
         price: '559 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1921,7 +1921,7 @@ export const galaxyA = [
         price: '169 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -1929,8 +1929,8 @@ export const galaxyA = [
         shortTitle: 'Bateria',
         price: '230 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1945,7 +1945,7 @@ export const galaxyA = [
         price: '299 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1953,8 +1953,8 @@ export const galaxyA = [
         shortTitle: 'Wyświetlacz',
         price: '559 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1963,7 +1963,7 @@ export const galaxyA = [
         price: '179 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -1971,8 +1971,8 @@ export const galaxyA = [
         shortTitle: 'Bateria',
         price: '230 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1987,7 +1987,7 @@ export const galaxyA = [
         price: '339 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1995,8 +1995,8 @@ export const galaxyA = [
         shortTitle: 'Wyświetlacz',
         price: '649 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -2005,7 +2005,7 @@ export const galaxyA = [
         price: '179 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -2013,8 +2013,8 @@ export const galaxyA = [
         shortTitle: 'Bateria',
         price: '239 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -2029,7 +2029,7 @@ export const galaxyA = [
         price: '349 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -2037,8 +2037,8 @@ export const galaxyA = [
         shortTitle: 'Wyświetlacz',
         price: '530 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -2047,7 +2047,7 @@ export const galaxyA = [
         price: '199 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -2055,8 +2055,8 @@ export const galaxyA = [
         shortTitle: 'Bateria',
         price: '260 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -2071,7 +2071,7 @@ export const galaxyA = [
         price: '249 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -2079,8 +2079,8 @@ export const galaxyA = [
         shortTitle: 'Wyświetlacz',
         price: '460 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -2089,7 +2089,7 @@ export const galaxyA = [
         price: '159 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -2097,8 +2097,8 @@ export const galaxyA = [
         shortTitle: 'Bateria',
         price: '179 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -2113,7 +2113,7 @@ export const galaxyA = [
         price: '199 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -2121,8 +2121,8 @@ export const galaxyA = [
         shortTitle: 'Wyświetlacz',
         price: '430 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -2131,7 +2131,7 @@ export const galaxyA = [
         price: '179 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -2139,8 +2139,8 @@ export const galaxyA = [
         shortTitle: 'Bateria',
         price: '160 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -2155,7 +2155,7 @@ export const galaxyA = [
         price: '199 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -2163,8 +2163,8 @@ export const galaxyA = [
         shortTitle: 'Wyświetlacz',
         price: '360 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -2173,7 +2173,7 @@ export const galaxyA = [
         price: '169 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -2181,8 +2181,8 @@ export const galaxyA = [
         shortTitle: 'Bateria',
         price: '220 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -2197,7 +2197,7 @@ export const galaxyA = [
         price: '199 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -2205,8 +2205,8 @@ export const galaxyA = [
         shortTitle: 'Wyświetlacz',
         price: '420 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -2215,7 +2215,7 @@ export const galaxyA = [
         price: '199 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -2223,8 +2223,8 @@ export const galaxyA = [
         shortTitle: 'Bateria',
         price: '220 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -2239,7 +2239,7 @@ export const galaxyA = [
         price: '239 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -2247,8 +2247,8 @@ export const galaxyA = [
         shortTitle: 'Wyświetlacz',
         price: '420 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -2257,7 +2257,7 @@ export const galaxyA = [
         price: '189 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -2265,8 +2265,8 @@ export const galaxyA = [
         shortTitle: 'Bateria',
         price: '210 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -2281,7 +2281,7 @@ export const galaxyA = [
         price: '249 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -2289,8 +2289,8 @@ export const galaxyA = [
         shortTitle: 'Wyświetlacz',
         price: '550 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -2299,7 +2299,7 @@ export const galaxyA = [
         price: '189 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -2307,8 +2307,8 @@ export const galaxyA = [
         shortTitle: 'Bateria',
         price: '229 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -2323,7 +2323,7 @@ export const galaxyA = [
         price: '299 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -2331,8 +2331,8 @@ export const galaxyA = [
         shortTitle: 'Wyświetlacz',
         price: '560 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -2341,7 +2341,7 @@ export const galaxyA = [
         price: '199 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -2349,8 +2349,8 @@ export const galaxyA = [
         shortTitle: 'Bateria',
         price: '229 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -2365,7 +2365,7 @@ export const galaxyA = [
         price: '349 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -2373,8 +2373,8 @@ export const galaxyA = [
         shortTitle: 'Wyświetlacz',
         price: '589 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -2383,7 +2383,7 @@ export const galaxyA = [
         price: '169 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -2391,8 +2391,8 @@ export const galaxyA = [
         shortTitle: 'Bateria',
         price: '239 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -2407,7 +2407,7 @@ export const galaxyA = [
         price: '299 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -2415,8 +2415,8 @@ export const galaxyA = [
         shortTitle: 'Wyświetlacz',
         price: '499 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -2425,7 +2425,7 @@ export const galaxyA = [
         price: '179 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -2433,8 +2433,8 @@ export const galaxyA = [
         shortTitle: 'Bateria',
         price: '199 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -2449,7 +2449,7 @@ export const galaxyA = [
         price: '279 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -2457,8 +2457,8 @@ export const galaxyA = [
         shortTitle: 'Wyświetlacz',
         price: '449 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -2467,7 +2467,7 @@ export const galaxyA = [
         price: '169 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -2475,8 +2475,8 @@ export const galaxyA = [
         shortTitle: 'Bateria',
         price: '210 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -2494,7 +2494,7 @@ export const galaxyM = [
         price: '189 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -2502,8 +2502,8 @@ export const galaxyM = [
         shortTitle: 'Wyświetlacz',
         price: '299 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -2512,7 +2512,7 @@ export const galaxyM = [
         price: '179 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -2520,8 +2520,8 @@ export const galaxyM = [
         shortTitle: 'Bateria',
         price: '210 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -2536,7 +2536,7 @@ export const galaxyM = [
         price: '199 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -2544,8 +2544,8 @@ export const galaxyM = [
         shortTitle: 'Wyświetlacz',
         price: '299 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -2554,7 +2554,7 @@ export const galaxyM = [
         price: '179 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -2562,8 +2562,8 @@ export const galaxyM = [
         shortTitle: 'Bateria',
         price: '219 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -2578,7 +2578,7 @@ export const galaxyM = [
         price: '210 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -2586,8 +2586,8 @@ export const galaxyM = [
         shortTitle: 'Wyświetlacz',
         price: '349 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -2596,7 +2596,7 @@ export const galaxyM = [
         price: '179 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -2604,8 +2604,8 @@ export const galaxyM = [
         shortTitle: 'Bateria',
         price: '239 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -2620,7 +2620,7 @@ export const galaxyM = [
         price: '210 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -2628,8 +2628,8 @@ export const galaxyM = [
         shortTitle: 'Wyświetlacz',
         price: '379 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -2638,7 +2638,7 @@ export const galaxyM = [
         price: '179 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -2646,8 +2646,8 @@ export const galaxyM = [
         shortTitle: 'Bateria',
         price: '210 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -2662,7 +2662,7 @@ export const galaxyM = [
         price: '229 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -2670,8 +2670,8 @@ export const galaxyM = [
         shortTitle: 'Wyświetlacz',
         price: '399 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -2680,7 +2680,7 @@ export const galaxyM = [
         price: '179 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -2688,8 +2688,8 @@ export const galaxyM = [
         shortTitle: 'Bateria',
         price: '229 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -2704,7 +2704,7 @@ export const galaxyM = [
         price: '229 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -2712,8 +2712,8 @@ export const galaxyM = [
         shortTitle: 'Wyświetlacz',
         price: '359 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -2722,7 +2722,7 @@ export const galaxyM = [
         price: '179 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -2730,8 +2730,8 @@ export const galaxyM = [
         shortTitle: 'Bateria',
         price: '239 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -2746,7 +2746,7 @@ export const galaxyM = [
         price: '239 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -2754,8 +2754,8 @@ export const galaxyM = [
         shortTitle: 'Wyświetlacz',
         price: '379 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -2764,7 +2764,7 @@ export const galaxyM = [
         price: '179 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -2772,8 +2772,8 @@ export const galaxyM = [
         shortTitle: 'Bateria',
         price: '239 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -2788,7 +2788,7 @@ export const galaxyM = [
         price: '239 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -2796,8 +2796,8 @@ export const galaxyM = [
         shortTitle: 'Wyświetlacz',
         price: '399 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -2806,7 +2806,7 @@ export const galaxyM = [
         price: '179 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -2814,8 +2814,8 @@ export const galaxyM = [
         shortTitle: 'Bateria',
         price: '225 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -2830,7 +2830,7 @@ export const galaxyM = [
         price: '249 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -2838,8 +2838,8 @@ export const galaxyM = [
         shortTitle: 'Wyświetlacz',
         price: '479 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -2848,7 +2848,7 @@ export const galaxyM = [
         price: '189 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -2856,8 +2856,8 @@ export const galaxyM = [
         shortTitle: 'Bateria',
         price: '229 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -2872,7 +2872,7 @@ export const galaxyM = [
         price: '249 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -2880,8 +2880,8 @@ export const galaxyM = [
         shortTitle: 'Wyświetlacz',
         price: '479 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -2890,7 +2890,7 @@ export const galaxyM = [
         price: '189 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -2898,8 +2898,8 @@ export const galaxyM = [
         shortTitle: 'Bateria',
         price: '239 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -2914,7 +2914,7 @@ export const galaxyM = [
         price: '249 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -2922,8 +2922,8 @@ export const galaxyM = [
         shortTitle: 'Wyświetlacz',
         price: '439 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -2932,7 +2932,7 @@ export const galaxyM = [
         price: '189 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -2940,8 +2940,8 @@ export const galaxyM = [
         shortTitle: 'Bateria',
         price: '239 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -2956,7 +2956,7 @@ export const galaxyM = [
         price: '319 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -2964,8 +2964,8 @@ export const galaxyM = [
         shortTitle: 'Wyświetlacz',
         price: '569 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -2974,7 +2974,7 @@ export const galaxyM = [
         price: '189 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -2982,8 +2982,8 @@ export const galaxyM = [
         shortTitle: 'Bateria',
         price: '229 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -2998,7 +2998,7 @@ export const galaxyM = [
         price: '349 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -3006,8 +3006,8 @@ export const galaxyM = [
         shortTitle: 'Wyświetlacz',
         price: '599 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -3016,7 +3016,7 @@ export const galaxyM = [
         price: '189 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -3024,8 +3024,8 @@ export const galaxyM = [
         shortTitle: 'Bateria',
         price: '239 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -3040,7 +3040,7 @@ export const galaxyM = [
         price: '349 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -3048,8 +3048,8 @@ export const galaxyM = [
         shortTitle: 'Wyświetlacz',
         price: '610 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -3058,7 +3058,7 @@ export const galaxyM = [
         price: '199 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -3066,8 +3066,8 @@ export const galaxyM = [
         shortTitle: 'Bateria',
         price: '239 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -3085,7 +3085,7 @@ export const galaxyJ = [
         price: '180 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -3093,8 +3093,8 @@ export const galaxyJ = [
         shortTitle: 'Wyświetlacz',
         price: '320 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -3103,7 +3103,7 @@ export const galaxyJ = [
         price: '120 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -3111,8 +3111,8 @@ export const galaxyJ = [
         shortTitle: 'Bateria',
         price: '150 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -3127,7 +3127,7 @@ export const galaxyJ = [
         price: '220 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -3135,8 +3135,8 @@ export const galaxyJ = [
         shortTitle: 'Wyświetlacz',
         price: '320 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -3145,7 +3145,7 @@ export const galaxyJ = [
         price: '120 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -3153,8 +3153,8 @@ export const galaxyJ = [
         shortTitle: 'Bateria',
         price: '150 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -3169,7 +3169,7 @@ export const galaxyJ = [
         price: '200 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -3177,8 +3177,8 @@ export const galaxyJ = [
         shortTitle: 'Wyświetlacz',
         price: '299 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -3187,7 +3187,7 @@ export const galaxyJ = [
         price: '120 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -3195,8 +3195,8 @@ export const galaxyJ = [
         shortTitle: 'Bateria',
         price: '150 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -3211,7 +3211,7 @@ export const galaxyJ = [
         price: '180 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -3219,8 +3219,8 @@ export const galaxyJ = [
         shortTitle: 'Wyświetlacz',
         price: '320 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -3229,7 +3229,7 @@ export const galaxyJ = [
         price: '120 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -3237,8 +3237,8 @@ export const galaxyJ = [
         shortTitle: 'Bateria',
         price: '150 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -3253,7 +3253,7 @@ export const galaxyJ = [
         price: '180 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -3261,8 +3261,8 @@ export const galaxyJ = [
         shortTitle: 'Wyświetlacz',
         price: '320 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -3271,7 +3271,7 @@ export const galaxyJ = [
         price: '120 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -3279,8 +3279,8 @@ export const galaxyJ = [
         shortTitle: 'Bateria',
         price: '179 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -3295,7 +3295,7 @@ export const galaxyJ = [
         price: '230 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -3303,8 +3303,8 @@ export const galaxyJ = [
         shortTitle: 'Wyświetlacz',
         price: '420 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -3313,7 +3313,7 @@ export const galaxyJ = [
         price: '120 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -3321,8 +3321,8 @@ export const galaxyJ = [
         shortTitle: 'Bateria',
         price: '199 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -3337,7 +3337,7 @@ export const galaxyJ = [
         price: '200 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -3345,8 +3345,8 @@ export const galaxyJ = [
         shortTitle: 'Wyświetlacz',
         price: '329 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -3355,7 +3355,7 @@ export const galaxyJ = [
         price: '120 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -3363,8 +3363,8 @@ export const galaxyJ = [
         shortTitle: 'Bateria',
         price: '199 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -3379,7 +3379,7 @@ export const galaxyJ = [
         price: '230 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -3387,8 +3387,8 @@ export const galaxyJ = [
         shortTitle: 'Wyświetlacz',
         price: '299 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -3397,7 +3397,7 @@ export const galaxyJ = [
         price: '130 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -3405,8 +3405,8 @@ export const galaxyJ = [
         shortTitle: 'Bateria',
         price: '199 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -3421,7 +3421,7 @@ export const galaxyJ = [
         price: '200 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -3429,8 +3429,8 @@ export const galaxyJ = [
         shortTitle: 'Wyświetlacz',
         price: '399 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -3439,7 +3439,7 @@ export const galaxyJ = [
         price: '120 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -3447,8 +3447,8 @@ export const galaxyJ = [
         shortTitle: 'Bateria',
         price: '179 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -3463,7 +3463,7 @@ export const galaxyJ = [
         price: '250 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -3471,8 +3471,8 @@ export const galaxyJ = [
         shortTitle: 'Wyświetlacz',
         price: '429 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -3481,7 +3481,7 @@ export const galaxyJ = [
         price: '130 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -3489,8 +3489,8 @@ export const galaxyJ = [
         shortTitle: 'Bateria',
         price: '199 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -3508,7 +3508,7 @@ export const galaxyNote = [
         price: '339 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -3516,8 +3516,8 @@ export const galaxyNote = [
         shortTitle: 'Wyświetlacz',
         price: '849 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -3526,7 +3526,7 @@ export const galaxyNote = [
         price: '250 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -3534,8 +3534,8 @@ export const galaxyNote = [
         shortTitle: 'Bateria',
         price: '229 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -3550,7 +3550,7 @@ export const galaxyNote = [
         price: '389 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -3558,8 +3558,8 @@ export const galaxyNote = [
         shortTitle: 'Wyświetlacz',
         price: '899 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -3568,7 +3568,7 @@ export const galaxyNote = [
         price: '250 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -3576,8 +3576,8 @@ export const galaxyNote = [
         shortTitle: 'Bateria',
         price: '239 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -3592,7 +3592,7 @@ export const galaxyNote = [
         price: '520 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -3600,8 +3600,8 @@ export const galaxyNote = [
         shortTitle: 'Wyświetlacz',
         price: '1099 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -3610,7 +3610,7 @@ export const galaxyNote = [
         price: '250 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -3618,8 +3618,8 @@ export const galaxyNote = [
         shortTitle: 'Bateria',
         price: '239 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -3634,7 +3634,7 @@ export const galaxyNote = [
         price: '439 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -3642,8 +3642,8 @@ export const galaxyNote = [
         shortTitle: 'Wyświetlacz',
         price: '849 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -3652,7 +3652,7 @@ export const galaxyNote = [
         price: '239 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -3660,8 +3660,8 @@ export const galaxyNote = [
         shortTitle: 'Bateria',
         price: '239 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -3676,7 +3676,7 @@ export const galaxyNote = [
         price: '579 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -3684,8 +3684,8 @@ export const galaxyNote = [
         shortTitle: 'Wyświetlacz',
         price: '1399 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -3694,7 +3694,7 @@ export const galaxyNote = [
         price: '279 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -3702,8 +3702,8 @@ export const galaxyNote = [
         shortTitle: 'Bateria',
         price: '250 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -3718,7 +3718,7 @@ export const galaxyNote = [
         price: '499 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -3726,8 +3726,8 @@ export const galaxyNote = [
         shortTitle: 'Wyświetlacz',
         price: '999 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -3736,7 +3736,7 @@ export const galaxyNote = [
         price: '279 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -3744,8 +3744,8 @@ export const galaxyNote = [
         shortTitle: 'Bateria',
         price: '250 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -3760,7 +3760,7 @@ export const galaxyNote = [
         price: '749 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -3768,8 +3768,8 @@ export const galaxyNote = [
         shortTitle: 'Wyświetlacz',
         price: '1449 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -3778,7 +3778,7 @@ export const galaxyNote = [
         price: '350 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -3786,8 +3786,8 @@ export const galaxyNote = [
         shortTitle: 'Bateria',
         price: '269 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },

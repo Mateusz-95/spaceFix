@@ -9,8 +9,8 @@ const iphoneModels = [
         shortTitle: 'Przednia szybka',
         price: '1399 zł',
         description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -19,7 +19,7 @@ const iphoneModels = [
         price: 'do ustalenia',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -28,7 +28,7 @@ const iphoneModels = [
         price: '649 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '4-5 godzin',
       },
       {
         key: 'battery',
@@ -36,8 +36,8 @@ const iphoneModels = [
         shortTitle: 'Bateria',
         price: '349-429 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -51,8 +51,8 @@ const iphoneModels = [
         shortTitle: 'Przednia szybka',
         price: '1299 zł',
         description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -61,7 +61,7 @@ const iphoneModels = [
         price: 'do ustalenia',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -70,7 +70,7 @@ const iphoneModels = [
         price: '599 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '4-5 godzin',
       },
       {
         key: 'battery',
@@ -78,8 +78,8 @@ const iphoneModels = [
         shortTitle: 'Bateria',
         price: '349-429 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -93,8 +93,8 @@ const iphoneModels = [
         shortTitle: 'Przednia szybka',
         price: '999 zł',
         description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -103,7 +103,7 @@ const iphoneModels = [
         price: 'do ustalenia',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -112,7 +112,7 @@ const iphoneModels = [
         price: '599 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '4-5 godzin',
       },
       {
         key: 'battery',
@@ -120,8 +120,8 @@ const iphoneModels = [
         shortTitle: 'Bateria',
         price: '349-429 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -135,8 +135,8 @@ const iphoneModels = [
         shortTitle: 'Przednia szybka',
         price: '899 zł',
         description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -145,7 +145,7 @@ const iphoneModels = [
         price: 'do ustalenia',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -154,7 +154,7 @@ const iphoneModels = [
         price: '599 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '4-5 godzin',
       },
       {
         key: 'battery',
@@ -162,8 +162,8 @@ const iphoneModels = [
         shortTitle: 'Bateria',
         price: '349-429 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -177,8 +177,8 @@ const iphoneModels = [
         shortTitle: 'Przednia szybka',
         price: '949 zł',
         description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -187,7 +187,7 @@ const iphoneModels = [
         price: '1500 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -196,7 +196,7 @@ const iphoneModels = [
         price: '499 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '4-5 godzin',
       },
       {
         key: 'battery',
@@ -204,8 +204,8 @@ const iphoneModels = [
         shortTitle: 'Bateria',
         price: '349-399 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -219,8 +219,8 @@ const iphoneModels = [
         shortTitle: 'Przednia szybka',
         price: '899 zł',
         description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -229,7 +229,7 @@ const iphoneModels = [
         price: '1350 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -238,7 +238,7 @@ const iphoneModels = [
         price: '499 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '4-5 godzin',
       },
       {
         key: 'battery',
@@ -246,8 +246,8 @@ const iphoneModels = [
         shortTitle: 'Bateria',
         price: '349-399 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -261,8 +261,8 @@ const iphoneModels = [
         shortTitle: 'Przednia szybka',
         price: '799 zł',
         description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -271,7 +271,7 @@ const iphoneModels = [
         price: '900-1100 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -280,7 +280,7 @@ const iphoneModels = [
         price: '499 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '4-5 godzin',
       },
       {
         key: 'battery',
@@ -288,8 +288,8 @@ const iphoneModels = [
         shortTitle: 'Bateria',
         price: '299-369 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -304,7 +304,7 @@ const iphoneModels = [
         price: '699 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -313,7 +313,7 @@ const iphoneModels = [
         price: '800-1050 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -322,7 +322,7 @@ const iphoneModels = [
         price: '499 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '4-5 godzin',
       },
       {
         key: 'battery',
@@ -330,8 +330,8 @@ const iphoneModels = [
         shortTitle: 'Bateria',
         price: '299-359 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -346,7 +346,7 @@ const iphoneModels = [
         price: '269 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -355,7 +355,7 @@ const iphoneModels = [
         price: '299-349 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -364,7 +364,7 @@ const iphoneModels = [
         price: '299 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '4-5 godzin',
       },
       {
         key: 'battery',
@@ -372,8 +372,8 @@ const iphoneModels = [
         shortTitle: 'Bateria',
         price: '189-249 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -388,7 +388,7 @@ const iphoneModels = [
         price: '779 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -397,7 +397,7 @@ const iphoneModels = [
         price: '899-1199 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -406,7 +406,7 @@ const iphoneModels = [
         price: '449 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '4-5 godzin',
       },
       {
         key: 'battery',
@@ -414,8 +414,8 @@ const iphoneModels = [
         shortTitle: 'Bateria',
         price: '299-349 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -430,7 +430,7 @@ const iphoneModels = [
         price: '549-649 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -439,7 +439,7 @@ const iphoneModels = [
         price: '799-899 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -448,7 +448,7 @@ const iphoneModels = [
         price: '399 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '4-5 godzin',
       },
       {
         key: 'battery',
@@ -456,8 +456,8 @@ const iphoneModels = [
         shortTitle: 'Bateria',
         price: '259-349 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -472,7 +472,7 @@ const iphoneModels = [
         price: '549-649 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -481,7 +481,7 @@ const iphoneModels = [
         price: '799-899 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -490,7 +490,7 @@ const iphoneModels = [
         price: '399 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '4-5 godzin',
       },
       {
         key: 'battery',
@@ -498,8 +498,8 @@ const iphoneModels = [
         shortTitle: 'Bateria',
         price: '259-349 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -514,7 +514,7 @@ const iphoneModels = [
         price: '499 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -523,7 +523,7 @@ const iphoneModels = [
         price: '699-849 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -532,7 +532,7 @@ const iphoneModels = [
         price: '399 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '4-5 godzin',
       },
       {
         key: 'battery',
@@ -540,8 +540,8 @@ const iphoneModels = [
         shortTitle: 'Bateria',
         price: '249-299 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -556,7 +556,7 @@ const iphoneModels = [
         price: '439-499 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -565,7 +565,7 @@ const iphoneModels = [
         price: '599-749 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -574,7 +574,7 @@ const iphoneModels = [
         price: '349 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '4-5 godzin',
       },
       {
         key: 'battery',
@@ -582,8 +582,8 @@ const iphoneModels = [
         shortTitle: 'Bateria',
         price: '289-349 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -598,7 +598,7 @@ const iphoneModels = [
         price: '399-499 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -607,7 +607,7 @@ const iphoneModels = [
         price: '549-649 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -616,7 +616,7 @@ const iphoneModels = [
         price: '349 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '4-5 godzin',
       },
       {
         key: 'battery',
@@ -624,8 +624,8 @@ const iphoneModels = [
         shortTitle: 'Bateria',
         price: '259-329 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -640,7 +640,7 @@ const iphoneModels = [
         price: '399 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -649,7 +649,7 @@ const iphoneModels = [
         price: '349-499 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -658,7 +658,7 @@ const iphoneModels = [
         price: '349 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '4-5 godzin',
       },
       {
         key: 'battery',
@@ -666,8 +666,8 @@ const iphoneModels = [
         shortTitle: 'Bateria',
         price: '239-299 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -682,7 +682,7 @@ const iphoneModels = [
         price: '250 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -691,7 +691,7 @@ const iphoneModels = [
         price: '249-319 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -700,7 +700,7 @@ const iphoneModels = [
         price: '299 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '4-5 godzin',
       },
       {
         key: 'battery',
@@ -708,8 +708,8 @@ const iphoneModels = [
         shortTitle: 'Bateria',
         price: '180-240 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -724,7 +724,7 @@ const iphoneModels = [
         price: '449-499 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -733,7 +733,7 @@ const iphoneModels = [
         price: '549-699 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -742,7 +742,7 @@ const iphoneModels = [
         price: '329 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '4-5 godzin',
       },
       {
         key: 'battery',
@@ -750,8 +750,8 @@ const iphoneModels = [
         shortTitle: 'Bateria',
         price: '240-300 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -766,7 +766,7 @@ const iphoneModels = [
         price: '329-399 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -775,7 +775,7 @@ const iphoneModels = [
         price: '399-429 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -784,7 +784,7 @@ const iphoneModels = [
         price: '299 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '4-5 godzin',
       },
       {
         key: 'battery',
@@ -792,8 +792,8 @@ const iphoneModels = [
         shortTitle: 'Bateria',
         price: '230-290 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -808,7 +808,7 @@ const iphoneModels = [
         price: '299-359 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -817,7 +817,7 @@ const iphoneModels = [
         price: '399-429 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -826,7 +826,7 @@ const iphoneModels = [
         price: '299 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '4-5 godzin',
       },
       {
         key: 'battery',
@@ -834,8 +834,8 @@ const iphoneModels = [
         shortTitle: 'Bateria',
         price: '199 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -850,7 +850,7 @@ const iphoneModels = [
         price: '299 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -859,7 +859,7 @@ const iphoneModels = [
         price: '299-399 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -868,7 +868,7 @@ const iphoneModels = [
         price: 'do ustalenia',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '4-5 godzin',
       },
       {
         key: 'battery',
@@ -876,8 +876,8 @@ const iphoneModels = [
         shortTitle: 'Bateria',
         price: '189-249 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -892,7 +892,7 @@ const iphoneModels = [
         price: '249-349 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -901,7 +901,7 @@ const iphoneModels = [
         price: '249-349 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -910,7 +910,7 @@ const iphoneModels = [
         price: '249 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '4-5 godzin',
       },
       {
         key: 'battery',
@@ -918,8 +918,8 @@ const iphoneModels = [
         shortTitle: 'Bateria',
         price: '179 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -934,7 +934,7 @@ const iphoneModels = [
         price: '219 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -943,7 +943,7 @@ const iphoneModels = [
         price: '199-249 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -952,7 +952,7 @@ const iphoneModels = [
         price: '249 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '4-5 godzin',
       },
       {
         key: 'battery',
@@ -960,8 +960,8 @@ const iphoneModels = [
         shortTitle: 'Bateria',
         price: '179 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -976,7 +976,7 @@ const iphoneModels = [
         price: '229 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -985,7 +985,7 @@ const iphoneModels = [
         price: '239-299 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1001,8 +1001,8 @@ const iphoneModels = [
         shortTitle: 'Bateria',
         price: '179 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1017,7 +1017,7 @@ const iphoneModels = [
         price: '189 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1026,7 +1026,7 @@ const iphoneModels = [
         price: '199-249 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1042,8 +1042,8 @@ const iphoneModels = [
         shortTitle: 'Bateria',
         price: '149 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1058,7 +1058,7 @@ const iphoneModels = [
         price: '169 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1067,7 +1067,7 @@ const iphoneModels = [
         price: '199-249 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1083,8 +1083,8 @@ const iphoneModels = [
         shortTitle: 'Bateria',
         price: '139 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1099,7 +1099,7 @@ const iphoneModels = [
         price: '159 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1108,7 +1108,7 @@ const iphoneModels = [
         price: '179-229 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1124,8 +1124,8 @@ const iphoneModels = [
         shortTitle: 'Bateria',
         price: '139 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1140,7 +1140,7 @@ const iphoneModels = [
         price: '179 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1149,7 +1149,7 @@ const iphoneModels = [
         price: '199-249 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1165,8 +1165,8 @@ const iphoneModels = [
         shortTitle: 'Bateria',
         price: '139 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1181,7 +1181,7 @@ const iphoneModels = [
         price: '169 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1190,7 +1190,7 @@ const iphoneModels = [
         price: '189-249 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1206,8 +1206,8 @@ const iphoneModels = [
         shortTitle: 'Bateria',
         price: '150 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },

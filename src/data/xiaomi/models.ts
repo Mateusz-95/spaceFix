@@ -10,7 +10,7 @@ export const poco = [
         price: '150 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -18,8 +18,8 @@ export const poco = [
         shortTitle: 'Wyświetlacz',
         price: '349 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -28,7 +28,7 @@ export const poco = [
         price: '180 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -36,8 +36,8 @@ export const poco = [
         shortTitle: 'Bateria',
         price: '179 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -52,7 +52,7 @@ export const poco = [
         price: '370 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -60,8 +60,8 @@ export const poco = [
         shortTitle: 'Wyświetlacz',
         price: '749 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -70,7 +70,7 @@ export const poco = [
         price: '380 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -78,8 +78,8 @@ export const poco = [
         shortTitle: 'Bateria',
         price: '249 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -94,7 +94,7 @@ export const poco = [
         price: '399 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -102,8 +102,8 @@ export const poco = [
         shortTitle: 'Wyświetlacz',
         price: '539 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -112,7 +112,7 @@ export const poco = [
         price: '350 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -120,8 +120,8 @@ export const poco = [
         shortTitle: 'Bateria',
         price: '249 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -136,7 +136,7 @@ export const poco = [
         price: '340 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -144,8 +144,8 @@ export const poco = [
         shortTitle: 'Wyświetlacz',
         price: '700 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -154,7 +154,7 @@ export const poco = [
         price: '259 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -162,8 +162,8 @@ export const poco = [
         shortTitle: 'Bateria',
         price: '299 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -178,7 +178,7 @@ export const poco = [
         price: '510 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -186,8 +186,8 @@ export const poco = [
         shortTitle: 'Wyświetlacz',
         price: '850 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -196,7 +196,7 @@ export const poco = [
         price: '269 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -204,8 +204,8 @@ export const poco = [
         shortTitle: 'Bateria',
         price: '299 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -220,7 +220,7 @@ export const poco = [
         price: '460 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -228,8 +228,8 @@ export const poco = [
         shortTitle: 'Wyświetlacz',
         price: '700 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -238,7 +238,7 @@ export const poco = [
         price: '329 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -246,8 +246,8 @@ export const poco = [
         shortTitle: 'Bateria',
         price: '379 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -262,7 +262,7 @@ export const poco = [
         price: '750 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -270,8 +270,8 @@ export const poco = [
         shortTitle: 'Wyświetlacz',
         price: '1099 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -280,7 +280,7 @@ export const poco = [
         price: '329 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -288,8 +288,8 @@ export const poco = [
         shortTitle: 'Bateria',
         price: '399 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -304,7 +304,7 @@ export const poco = [
         price: '280 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -312,8 +312,8 @@ export const poco = [
         shortTitle: 'Wyświetlacz',
         price: '379 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -322,7 +322,7 @@ export const poco = [
         price: '249 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -330,8 +330,8 @@ export const poco = [
         shortTitle: 'Bateria',
         price: '199 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -346,7 +346,7 @@ export const poco = [
         price: '290 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -354,8 +354,8 @@ export const poco = [
         shortTitle: 'Wyświetlacz',
         price: '399 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -364,7 +364,7 @@ export const poco = [
         price: '219 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -372,8 +372,8 @@ export const poco = [
         shortTitle: 'Bateria',
         price: '270 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -388,7 +388,7 @@ export const poco = [
         price: '280 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -396,8 +396,8 @@ export const poco = [
         shortTitle: 'Wyświetlacz',
         price: '630 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -406,7 +406,7 @@ export const poco = [
         price: '239 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -414,8 +414,8 @@ export const poco = [
         shortTitle: 'Bateria',
         price: '249 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -430,7 +430,7 @@ export const poco = [
         price: '249 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -438,8 +438,8 @@ export const poco = [
         shortTitle: 'Wyświetlacz',
         price: '420 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -448,7 +448,7 @@ export const poco = [
         price: '239 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -456,8 +456,8 @@ export const poco = [
         shortTitle: 'Bateria',
         price: '279 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -472,7 +472,7 @@ export const poco = [
         price: '290 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -480,8 +480,8 @@ export const poco = [
         shortTitle: 'Wyświetlacz',
         price: '420 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -490,7 +490,7 @@ export const poco = [
         price: '239 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -498,8 +498,8 @@ export const poco = [
         shortTitle: 'Bateria',
         price: '279 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -514,7 +514,7 @@ export const poco = [
         price: '290 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -522,8 +522,8 @@ export const poco = [
         shortTitle: 'Wyświetlacz',
         price: '480 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -532,7 +532,7 @@ export const poco = [
         price: '239 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -540,8 +540,8 @@ export const poco = [
         shortTitle: 'Bateria',
         price: '279 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -556,7 +556,7 @@ export const poco = [
         price: '280 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -564,8 +564,8 @@ export const poco = [
         shortTitle: 'Wyświetlacz',
         price: '429 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -574,7 +574,7 @@ export const poco = [
         price: '210 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -582,8 +582,8 @@ export const poco = [
         shortTitle: 'Bateria',
         price: '250 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -598,7 +598,7 @@ export const poco = [
         price: '290 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -606,8 +606,8 @@ export const poco = [
         shortTitle: 'Wyświetlacz',
         price: '450 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -616,7 +616,7 @@ export const poco = [
         price: '200 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -624,8 +624,8 @@ export const poco = [
         shortTitle: 'Bateria',
         price: '270 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -640,7 +640,7 @@ export const poco = [
         price: '290 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -648,8 +648,8 @@ export const poco = [
         shortTitle: 'Wyświetlacz',
         price: '380 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -658,7 +658,7 @@ export const poco = [
         price: '300 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -666,8 +666,8 @@ export const poco = [
         shortTitle: 'Bateria',
         price: '279 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -682,7 +682,7 @@ export const poco = [
         price: '430 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -690,8 +690,8 @@ export const poco = [
         shortTitle: 'Wyświetlacz',
         price: '649 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -700,7 +700,7 @@ export const poco = [
         price: '380 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -708,8 +708,8 @@ export const poco = [
         shortTitle: 'Bateria',
         price: '279 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -724,7 +724,7 @@ export const poco = [
         price: '540 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -732,8 +732,8 @@ export const poco = [
         shortTitle: 'Wyświetlacz',
         price: '640 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -742,7 +742,7 @@ export const poco = [
         price: '380 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -750,8 +750,8 @@ export const poco = [
         shortTitle: 'Bateria',
         price: '279 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -766,7 +766,7 @@ export const poco = [
         price: '550 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -774,8 +774,8 @@ export const poco = [
         shortTitle: 'Wyświetlacz',
         price: '649 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -784,7 +784,7 @@ export const poco = [
         price: '380 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -792,8 +792,8 @@ export const poco = [
         shortTitle: 'Bateria',
         price: '279 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -808,7 +808,7 @@ export const poco = [
         price: '249 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -816,8 +816,8 @@ export const poco = [
         shortTitle: 'Wyświetlacz',
         price: '480 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -826,7 +826,7 @@ export const poco = [
         price: '269 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -834,8 +834,8 @@ export const poco = [
         shortTitle: 'Bateria',
         price: '249 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -853,7 +853,7 @@ export const xiaomiMi = [
         price: '290 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -861,8 +861,8 @@ export const xiaomiMi = [
         shortTitle: 'Wyświetlacz',
         price: '579 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -871,7 +871,7 @@ export const xiaomiMi = [
         price: '279 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -879,8 +879,8 @@ export const xiaomiMi = [
         shortTitle: 'Bateria',
         price: '229 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -895,7 +895,7 @@ export const xiaomiMi = [
         price: '290 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -903,8 +903,8 @@ export const xiaomiMi = [
         shortTitle: 'Wyświetlacz',
         price: '529 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -913,7 +913,7 @@ export const xiaomiMi = [
         price: '279 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -921,8 +921,8 @@ export const xiaomiMi = [
         shortTitle: 'Bateria',
         price: '200 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -937,7 +937,7 @@ export const xiaomiMi = [
         price: '340 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -945,8 +945,8 @@ export const xiaomiMi = [
         shortTitle: 'Wyświetlacz',
         price: '570 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -955,7 +955,7 @@ export const xiaomiMi = [
         price: '279 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -963,8 +963,8 @@ export const xiaomiMi = [
         shortTitle: 'Bateria',
         price: '229 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -979,7 +979,7 @@ export const xiaomiMi = [
         price: '330 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -987,8 +987,8 @@ export const xiaomiMi = [
         shortTitle: 'Wyświetlacz',
         price: '550 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -997,7 +997,7 @@ export const xiaomiMi = [
         price: '300 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -1005,8 +1005,8 @@ export const xiaomiMi = [
         shortTitle: 'Bateria',
         price: '279 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1021,7 +1021,7 @@ export const xiaomiMi = [
         price: '330 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1029,8 +1029,8 @@ export const xiaomiMi = [
         shortTitle: 'Wyświetlacz',
         price: '550 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1039,7 +1039,7 @@ export const xiaomiMi = [
         price: '300 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -1047,8 +1047,8 @@ export const xiaomiMi = [
         shortTitle: 'Bateria',
         price: '279 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1063,7 +1063,7 @@ export const xiaomiMi = [
         price: '390 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1071,8 +1071,8 @@ export const xiaomiMi = [
         shortTitle: 'Wyświetlacz',
         price: '460 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1081,7 +1081,7 @@ export const xiaomiMi = [
         price: '279 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -1089,8 +1089,8 @@ export const xiaomiMi = [
         shortTitle: 'Bateria',
         price: '249 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1105,7 +1105,7 @@ export const xiaomiMi = [
         price: '390 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1113,8 +1113,8 @@ export const xiaomiMi = [
         shortTitle: 'Wyświetlacz',
         price: '520 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1123,7 +1123,7 @@ export const xiaomiMi = [
         price: '289 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -1131,8 +1131,8 @@ export const xiaomiMi = [
         shortTitle: 'Bateria',
         price: '249 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1147,7 +1147,7 @@ export const xiaomiMi = [
         price: '399 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1155,8 +1155,8 @@ export const xiaomiMi = [
         shortTitle: 'Wyświetlacz',
         price: '580 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1165,7 +1165,7 @@ export const xiaomiMi = [
         price: '289 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -1173,8 +1173,8 @@ export const xiaomiMi = [
         shortTitle: 'Bateria',
         price: '269 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1189,7 +1189,7 @@ export const xiaomiMi = [
         price: '270 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1197,8 +1197,8 @@ export const xiaomiMi = [
         shortTitle: 'Wyświetlacz',
         price: '460 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1207,7 +1207,7 @@ export const xiaomiMi = [
         price: '279 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -1215,8 +1215,8 @@ export const xiaomiMi = [
         shortTitle: 'Bateria',
         price: '250 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1231,7 +1231,7 @@ export const xiaomiMi = [
         price: '310 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1239,8 +1239,8 @@ export const xiaomiMi = [
         shortTitle: 'Wyświetlacz',
         price: '490 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1249,7 +1249,7 @@ export const xiaomiMi = [
         price: '289 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -1257,8 +1257,8 @@ export const xiaomiMi = [
         shortTitle: 'Bateria',
         price: '250 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1273,7 +1273,7 @@ export const xiaomiMi = [
         price: '310 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1281,8 +1281,8 @@ export const xiaomiMi = [
         shortTitle: 'Wyświetlacz',
         price: '490 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1291,7 +1291,7 @@ export const xiaomiMi = [
         price: '289 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -1299,8 +1299,8 @@ export const xiaomiMi = [
         shortTitle: 'Bateria',
         price: '250 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1315,7 +1315,7 @@ export const xiaomiMi = [
         price: '330 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1323,8 +1323,8 @@ export const xiaomiMi = [
         shortTitle: 'Wyświetlacz',
         price: '530 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1333,7 +1333,7 @@ export const xiaomiMi = [
         price: '279 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -1341,8 +1341,8 @@ export const xiaomiMi = [
         shortTitle: 'Bateria',
         price: '249 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1357,7 +1357,7 @@ export const xiaomiMi = [
         price: '699 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1365,8 +1365,8 @@ export const xiaomiMi = [
         shortTitle: 'Wyświetlacz',
         price: '930 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1375,7 +1375,7 @@ export const xiaomiMi = [
         price: '279 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -1383,8 +1383,8 @@ export const xiaomiMi = [
         shortTitle: 'Bateria',
         price: '280 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1399,7 +1399,7 @@ export const xiaomiMi = [
         price: '649 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1407,8 +1407,8 @@ export const xiaomiMi = [
         shortTitle: 'Wyświetlacz',
         price: '950 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1417,7 +1417,7 @@ export const xiaomiMi = [
         price: '279 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -1425,8 +1425,8 @@ export const xiaomiMi = [
         shortTitle: 'Bateria',
         price: '249 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1441,7 +1441,7 @@ export const xiaomiMi = [
         price: '390 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1449,8 +1449,8 @@ export const xiaomiMi = [
         shortTitle: 'Wyświetlacz',
         price: '589 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1459,7 +1459,7 @@ export const xiaomiMi = [
         price: '279 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -1467,8 +1467,8 @@ export const xiaomiMi = [
         shortTitle: 'Bateria',
         price: '280 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1483,7 +1483,7 @@ export const xiaomiMi = [
         price: '390 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1491,8 +1491,8 @@ export const xiaomiMi = [
         shortTitle: 'Wyświetlacz',
         price: '599 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1501,7 +1501,7 @@ export const xiaomiMi = [
         price: '279 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -1509,8 +1509,8 @@ export const xiaomiMi = [
         shortTitle: 'Bateria',
         price: '280 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1525,7 +1525,7 @@ export const xiaomiMi = [
         price: '439 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1533,8 +1533,8 @@ export const xiaomiMi = [
         shortTitle: 'Wyświetlacz',
         price: '739 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1543,7 +1543,7 @@ export const xiaomiMi = [
         price: '349 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -1551,8 +1551,8 @@ export const xiaomiMi = [
         shortTitle: 'Bateria',
         price: '289 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1567,7 +1567,7 @@ export const xiaomiMi = [
         price: '799 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1575,8 +1575,8 @@ export const xiaomiMi = [
         shortTitle: 'Wyświetlacz',
         price: '1399 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1585,7 +1585,7 @@ export const xiaomiMi = [
         price: '349 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -1593,8 +1593,8 @@ export const xiaomiMi = [
         shortTitle: 'Bateria',
         price: '280 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1609,7 +1609,7 @@ export const xiaomiMi = [
         price: '510 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1617,8 +1617,8 @@ export const xiaomiMi = [
         shortTitle: 'Wyświetlacz',
         price: '780 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1627,7 +1627,7 @@ export const xiaomiMi = [
         price: '329 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -1635,8 +1635,8 @@ export const xiaomiMi = [
         shortTitle: 'Bateria',
         price: '349 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1651,7 +1651,7 @@ export const xiaomiMi = [
         price: '420 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1659,8 +1659,8 @@ export const xiaomiMi = [
         shortTitle: 'Wyświetlacz',
         price: '620 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1669,7 +1669,7 @@ export const xiaomiMi = [
         price: '320 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -1677,8 +1677,8 @@ export const xiaomiMi = [
         shortTitle: 'Bateria',
         price: '349 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1693,7 +1693,7 @@ export const xiaomiMi = [
         price: '550 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1701,8 +1701,8 @@ export const xiaomiMi = [
         shortTitle: 'Wyświetlacz',
         price: '750 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1711,7 +1711,7 @@ export const xiaomiMi = [
         price: '349 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -1719,8 +1719,8 @@ export const xiaomiMi = [
         shortTitle: 'Bateria',
         price: '349 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1735,7 +1735,7 @@ export const xiaomiMi = [
         price: '950 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1743,8 +1743,8 @@ export const xiaomiMi = [
         shortTitle: 'Wyświetlacz',
         price: '1449 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1753,7 +1753,7 @@ export const xiaomiMi = [
         price: '379 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -1761,8 +1761,8 @@ export const xiaomiMi = [
         shortTitle: 'Bateria',
         price: '339 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1777,7 +1777,7 @@ export const xiaomiMi = [
         price: '550 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1785,8 +1785,8 @@ export const xiaomiMi = [
         shortTitle: 'Wyświetlacz',
         price: '649 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1795,7 +1795,7 @@ export const xiaomiMi = [
         price: '379 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -1803,8 +1803,8 @@ export const xiaomiMi = [
         shortTitle: 'Bateria',
         price: '349 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1819,7 +1819,7 @@ export const xiaomiMi = [
         price: '550 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1827,8 +1827,8 @@ export const xiaomiMi = [
         shortTitle: 'Wyświetlacz',
         price: '730 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1837,7 +1837,7 @@ export const xiaomiMi = [
         price: '399 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -1845,8 +1845,8 @@ export const xiaomiMi = [
         shortTitle: 'Bateria',
         price: '359 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1861,7 +1861,7 @@ export const xiaomiMi = [
         price: '900 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1869,8 +1869,8 @@ export const xiaomiMi = [
         shortTitle: 'Wyświetlacz',
         price: '- zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1879,7 +1879,7 @@ export const xiaomiMi = [
         price: '399 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -1887,8 +1887,8 @@ export const xiaomiMi = [
         shortTitle: 'Bateria',
         price: '399 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1903,7 +1903,7 @@ export const xiaomiMi = [
         price: '1100 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1911,8 +1911,8 @@ export const xiaomiMi = [
         shortTitle: 'Wyświetlacz',
         price: '- zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1921,7 +1921,7 @@ export const xiaomiMi = [
         price: '399 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -1929,8 +1929,8 @@ export const xiaomiMi = [
         shortTitle: 'Bateria',
         price: '399 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1948,7 +1948,7 @@ export const xiaomiRedmi = [
         price: '180 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1956,8 +1956,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Wyświetlacz',
         price: '299 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -1966,7 +1966,7 @@ export const xiaomiRedmi = [
         price: '180 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -1974,8 +1974,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Bateria',
         price: '199 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -1990,7 +1990,7 @@ export const xiaomiRedmi = [
         price: '190 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -1998,8 +1998,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Wyświetlacz',
         price: '329 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -2008,7 +2008,7 @@ export const xiaomiRedmi = [
         price: '180 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -2016,8 +2016,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Bateria',
         price: '220 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -2032,7 +2032,7 @@ export const xiaomiRedmi = [
         price: '199 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -2040,8 +2040,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Wyświetlacz',
         price: '340 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -2050,7 +2050,7 @@ export const xiaomiRedmi = [
         price: '240 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -2058,8 +2058,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Bateria',
         price: '229 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -2074,7 +2074,7 @@ export const xiaomiRedmi = [
         price: '180 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -2082,8 +2082,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Wyświetlacz',
         price: '330 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -2092,7 +2092,7 @@ export const xiaomiRedmi = [
         price: '180 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -2100,8 +2100,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Bateria',
         price: '229 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -2116,7 +2116,7 @@ export const xiaomiRedmi = [
         price: '180 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -2124,8 +2124,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Wyświetlacz',
         price: '350 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -2134,7 +2134,7 @@ export const xiaomiRedmi = [
         price: '240 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -2142,8 +2142,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Bateria',
         price: '249 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -2158,7 +2158,7 @@ export const xiaomiRedmi = [
         price: '180 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -2166,8 +2166,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Wyświetlacz',
         price: '359 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -2176,7 +2176,7 @@ export const xiaomiRedmi = [
         price: '150 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -2184,8 +2184,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Bateria',
         price: '249 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -2200,7 +2200,7 @@ export const xiaomiRedmi = [
         price: '220 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -2208,8 +2208,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Wyświetlacz',
         price: '399 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -2218,7 +2218,7 @@ export const xiaomiRedmi = [
         price: '249 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -2226,8 +2226,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Bateria',
         price: '249 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -2242,7 +2242,7 @@ export const xiaomiRedmi = [
         price: '300 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -2250,8 +2250,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Wyświetlacz',
         price: '580 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -2260,7 +2260,7 @@ export const xiaomiRedmi = [
         price: '249 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -2268,8 +2268,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Bateria',
         price: '249 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -2284,7 +2284,7 @@ export const xiaomiRedmi = [
         price: '340 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -2292,8 +2292,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Wyświetlacz',
         price: '449 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -2302,7 +2302,7 @@ export const xiaomiRedmi = [
         price: '249 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -2310,8 +2310,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Bateria',
         price: '249 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -2326,7 +2326,7 @@ export const xiaomiRedmi = [
         price: '320 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -2334,8 +2334,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Wyświetlacz',
         price: '580 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -2344,7 +2344,7 @@ export const xiaomiRedmi = [
         price: '249 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -2352,8 +2352,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Bateria',
         price: '249 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -2368,7 +2368,7 @@ export const xiaomiRedmi = [
         price: '300 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -2376,8 +2376,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Wyświetlacz',
         price: '650 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -2386,7 +2386,7 @@ export const xiaomiRedmi = [
         price: '229 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -2394,8 +2394,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Bateria',
         price: '260 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -2410,7 +2410,7 @@ export const xiaomiRedmi = [
         price: '300 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -2418,8 +2418,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Wyświetlacz',
         price: '620 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -2428,7 +2428,7 @@ export const xiaomiRedmi = [
         price: '229 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -2436,8 +2436,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Bateria',
         price: '260 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -2452,7 +2452,7 @@ export const xiaomiRedmi = [
         price: '350 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -2460,8 +2460,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Wyświetlacz',
         price: '649 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -2470,7 +2470,7 @@ export const xiaomiRedmi = [
         price: '299 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -2478,8 +2478,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Bateria',
         price: '320 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -2494,7 +2494,7 @@ export const xiaomiRedmi = [
         price: '350 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -2502,8 +2502,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Wyświetlacz',
         price: '550 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -2512,7 +2512,7 @@ export const xiaomiRedmi = [
         price: '299 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -2520,8 +2520,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Bateria',
         price: '329 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -2536,7 +2536,7 @@ export const xiaomiRedmi = [
         price: '290 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -2544,8 +2544,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Wyświetlacz',
         price: '529 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -2554,7 +2554,7 @@ export const xiaomiRedmi = [
         price: '299 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -2562,8 +2562,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Bateria',
         price: '320 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -2578,7 +2578,7 @@ export const xiaomiRedmi = [
         price: '320 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -2586,8 +2586,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Wyświetlacz',
         price: '580 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -2596,7 +2596,7 @@ export const xiaomiRedmi = [
         price: '299 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -2604,8 +2604,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Bateria',
         price: '329 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -2620,7 +2620,7 @@ export const xiaomiRedmi = [
         price: '180 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -2628,8 +2628,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Wyświetlacz',
         price: '330 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -2638,7 +2638,7 @@ export const xiaomiRedmi = [
         price: '180 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -2646,8 +2646,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Bateria',
         price: '200 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -2662,7 +2662,7 @@ export const xiaomiRedmi = [
         price: '200 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -2670,8 +2670,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Wyświetlacz',
         price: '349 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -2680,7 +2680,7 @@ export const xiaomiRedmi = [
         price: '199 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -2688,8 +2688,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Bateria',
         price: '200 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -2704,7 +2704,7 @@ export const xiaomiRedmi = [
         price: '230 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -2712,8 +2712,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Wyświetlacz',
         price: '349 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -2722,7 +2722,7 @@ export const xiaomiRedmi = [
         price: '180 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -2730,8 +2730,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Bateria',
         price: '200 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -2746,7 +2746,7 @@ export const xiaomiRedmi = [
         price: '230 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -2754,8 +2754,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Wyświetlacz',
         price: '349 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -2764,7 +2764,7 @@ export const xiaomiRedmi = [
         price: '180 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -2772,8 +2772,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Bateria',
         price: '200 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -2788,7 +2788,7 @@ export const xiaomiRedmi = [
         price: '200 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -2796,8 +2796,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Wyświetlacz',
         price: '330 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -2806,7 +2806,7 @@ export const xiaomiRedmi = [
         price: '180 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -2814,8 +2814,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Bateria',
         price: '200 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -2830,7 +2830,7 @@ export const xiaomiRedmi = [
         price: '220 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -2838,8 +2838,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Wyświetlacz',
         price: '349 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -2848,7 +2848,7 @@ export const xiaomiRedmi = [
         price: '199 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -2856,8 +2856,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Bateria',
         price: '200 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -2872,7 +2872,7 @@ export const xiaomiRedmi = [
         price: '240 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -2880,8 +2880,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Wyświetlacz',
         price: '330 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -2890,7 +2890,7 @@ export const xiaomiRedmi = [
         price: '229 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -2898,8 +2898,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Bateria',
         price: '200 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -2914,7 +2914,7 @@ export const xiaomiRedmi = [
         price: '250 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -2922,8 +2922,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Wyświetlacz',
         price: '350 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -2932,7 +2932,7 @@ export const xiaomiRedmi = [
         price: '230 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -2940,8 +2940,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Bateria',
         price: '230 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -2956,7 +2956,7 @@ export const xiaomiRedmi = [
         price: '260 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -2964,8 +2964,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Wyświetlacz',
         price: '380 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -2974,7 +2974,7 @@ export const xiaomiRedmi = [
         price: '230 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -2982,8 +2982,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Bateria',
         price: '230 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
@@ -2998,7 +2998,7 @@ export const xiaomiRedmi = [
         price: '250 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '2 dni robocze',
+        duration: '3-4 godziny',
       },
       {
         key: 'display',
@@ -3006,8 +3006,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Wyświetlacz',
         price: '380 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smarftonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
@@ -3016,7 +3016,7 @@ export const xiaomiRedmi = [
         price: '230 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2 dni robocze',
+        duration: '2-3 godziny',
       },
       {
         key: 'battery',
@@ -3024,8 +3024,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Bateria',
         price: '230 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Telefon będzie działał tak długo na baterii jak zaraz po zakupie urządzenia!',
-        duration: '2 dni robocze',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
       },
     ],
   },
