@@ -53,7 +53,7 @@ jobs:
           path: dist
       - uses: webfactory/ssh-agent@v0.8.0
         with:
-          ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
+          ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }} -C "git@github.com:Mateusz-95/spaceFix
       - name: Copy data to remote server
         run: scp -r dist/* deploy@206.189.59.115:/var/www/space-fix
           
