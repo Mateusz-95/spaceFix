@@ -57,5 +57,5 @@ jobs:
           echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_ecdsa
           chmod 600 ~/.ssh/id_ecdsa
       - name: Copy data to remote server
-        run: scp -v -i ~/.ssh/id_ecdsa -r -o StrictHostKeyChecking=no dist/* deploy@206.189.59.115:/var/www/space-fix
+        run: scp -i ~/.ssh/id_ecdsa -r -o StrictHostKeyChecking=no dist/* deploy@206.189.59.115:/var/www/space-fix
           
