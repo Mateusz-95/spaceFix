@@ -51,10 +51,12 @@ jobs:
         with:
           name: bundle
           path: dist
-      - name: Configure ssh-agent
+      - name: Add ssh key
         run: |
-          eval $(ssh-agent -s)
-          echo "${{ secrets.SSH_PRIVATE_KEY }}" | tr -d '\r' | ssh-add -
+          mkdir -p ~/.ssh
+          echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_ecdsa
+          chmod 600 ~/.ssh/id_ecdsa
+          ssh-add ~/.ssh/id_ecdsa
       - name: Copy data to remote server
         run: scp -v -r -o StrictHostKeyChecking=no dist/* deploy@206.189.59.115:/var/www/space-fix
           
