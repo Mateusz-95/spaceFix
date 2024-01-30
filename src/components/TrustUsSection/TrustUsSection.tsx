@@ -9,9 +9,9 @@ const TrustUsSection = () => {
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.6 }}
-        className=" rounded-md text-white grid grid-cols-2 gap-4 text-center mt-10 bg-[url('../../../public/images/space.jpg')]"
+        className=" rounded-md text-white md:grid md:grid-cols-2 md:gap-4 text-center mt-10 bg-[url('../../../public/images/space.jpg')]"
       >
-        <div className=" p-4 mr-14">
+        <div className=" p-4 md:mr-14">
           <h4 className="text-lg mb-5 text-black bg-white rounded-md">Doświadczenie i wiedza</h4>
           <p>
             Nasz zespół w SpaceFix to zbiorowisko doświadczenia i wiedzy w dziedzinie technologii mobilnych. Długie lata
@@ -27,7 +27,7 @@ const TrustUsSection = () => {
             terminowość. Dążymy do tego, aby Twoje smartfony były naprawione i zwrócone w umówionym terminie.
           </p>
         </div>
-        <div className=" p-4 mr-14">
+        <div className=" p-4 md:mr-14">
           <h4 className="text-lg mb-5 text-black bg-white rounded-md">Dbałość o detale i estetykę</h4>
           <p>
             Estetyka i jakość detali są dla nas niezwykle ważne. Niezależnie od tego, czy chodzi o wymianę ekranu czy
