@@ -9,8 +9,8 @@ export function getStaticPaths() {
     .map(({ slug, categories }) => {
       return categories.map((category) => ({
         params: {
-          brand: slug,
-          category: category.slug,
+          brand: slug.slice(0, slug.length - 1),
+          category: category.slug.slice(0, category.slug.length - 1),
         },
         props: {
           models: category.phones.map((phone) => ({ name: phone.name, slug: phone.slug })),
@@ -21,7 +21,6 @@ export function getStaticPaths() {
 }
 
 const { models } = Astro.props;
-console.log(models);
 ---
 
 <Layout title="spaceFix">

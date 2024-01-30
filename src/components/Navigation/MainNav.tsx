@@ -1,6 +1,6 @@
-import React, {useEffect, useRef, useState} from 'react';
-import HamburgerButton from "./hamburger-button.tsx";
-import MobileMenu from "./mobile-menu.tsx";
+import React, { useEffect, useRef, useState } from 'react';
+import HamburgerButton from './hamburger-button.tsx';
+import MobileMenu from './mobile-menu.tsx';
 
 const MainNav = () => {
   const [isHamburgerActive, setIsHamburgerActive] = useState(false);
@@ -8,13 +8,11 @@ const MainNav = () => {
 
   return (
     <div className="w-full lg:w-max grid grid-cols-[max-content_1fr_max-content] grid-rows-[100%] items-center text-lg xl:text-xl lg:gap-10 xl:gap-24">
-      <img alt="spaceFix logo" src="/images/logo.png" className="h-full"/>
-      <HamburgerButton onClick={activeHamburger} className={`[grid-column:3] ${isHamburgerActive ? 'expanded' : ''}`}/>
+      <img alt="spaceFix logo" src="/images/logo.png" className="h-full" />
+      <HamburgerButton onClick={activeHamburger} className={`[grid-column:3] ${isHamburgerActive ? 'expanded' : ''}`} />
 
       <div className="max-lg:hidden w-full flex items-center justify-between gap-10">
-        <ul
-          className={`flex gap-8 p-3 rounded-lg relative w-auto mr-4`}
-        >
+        <ul className={`flex gap-8 p-3 rounded-lg relative w-auto mr-4`}>
           <li className="text-zinc-800 hover:text-zinc-600 active:text-zinc-400">
             <a href="/">Strona główna</a>
           </li>
@@ -33,7 +31,7 @@ const MainNav = () => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <img alt="instagram icon" src="/public/images/instagram.png" className="w-10 h-10 "/>
+              <img alt="instagram icon" src="/images/instagram.png" className="w-10 h-10 " />
             </a>
           </li>
           <li>
@@ -43,7 +41,7 @@ const MainNav = () => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <img alt="facebook icon" src="/public/images/facebook.png" className="w-10 h-10"/>
+              <img alt="facebook icon" src="/images/facebook.png" className="w-10 h-10" />
             </a>
           </li>
         </ul>

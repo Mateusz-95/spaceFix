@@ -7,7 +7,7 @@ import ImageCardGrid from '../../../templates/image-card-grid';
 export function getStaticPaths() {
   return data.map(({ slug, phones, categories, categoryTitle }) => ({
     params: {
-      brand: slug,
+      brand: slug.slice(0, slug.length - 1),
     },
     props: {
       models: phones ? phones.map((phone) => ({ name: phone.name, slug: phone.slug })) : undefined,
@@ -18,7 +18,6 @@ export function getStaticPaths() {
 }
 
 const { models, categories, categoryTitle } = Astro.props;
-const { brand } = Astro.params;
 ---
 
 <Layout title="spaceFix">

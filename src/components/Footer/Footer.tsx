@@ -16,7 +16,7 @@ const Footer = () => {
       <div className="text-white flex justify-around gap-2 mt-10">
         <a href="tel:+48730889759">
           <span className="flex items-center">
-            <img alt="phone-icon" src="/public/images/phone.png" className="mr-2" />
+            <img alt="phone-icon" src="/images/phone.png" className="mr-2" />
             <span className="hidden md:block">730 889 759</span>
           </span>
         </a>
@@ -27,13 +27,13 @@ const Footer = () => {
           rel="noopener noreferrer"
         >
           <span className="flex items-counter">
-            <img alt="location-icon" src="/public/images/location.png" className="mr-2" />
+            <img alt="location-icon" src="/images/location.png" className="mr-2" />
             <span className="hidden md:block">Ul.Malinowa 16/U1 Warszawa</span>
           </span>
         </a>
         <a href="mailto:biurospacefix@gmail.com">
           <span className="flex items-center">
-            <img alt="location-icon" src="/public/images/mail.png" className="mr-2" />
+            <img alt="location-icon" src="/images/mail.png" className="mr-2" />
             <span className="hidden md:block">biurospacefix@gmail.com</span>
           </span>
         </a>
