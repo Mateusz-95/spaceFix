@@ -29,6 +29,13 @@ export default function MobileMenu({ show }: MobileMenuProps) {
           <span className="text-[1rem]">+48 730 889 759</span>
         </span>
       </a>
+      <a
+        href="mailto:biurospacefix@gmail.com?subject=Potrzebuję%20naprawy!&body=Potrzebuję%20naprawy!%0D%0APoniżej%20podaję%20jaki%20sprzęt%20potrzebuje%20Waszej%20naprawy%20i%20co%20dokładnie%20mu%20dolega!%20:)%0D%0AZostawiam%20również%20numer%20telefonu%20pod%20który%20zadzwonicie%20z%20wyceną:"
+        className="flex items-center justify-center px-4 py-2 border border-transparent text-base font-medium rounded-md text-white bg-blue-500 hover:bg-blue-600 md:py-2 md:text-lg max-md:ml-4 max-md:mr-4 md:px-4 transition duration-150 ease-in-out"
+      >
+        <img alt="mail icon" src="/public/images/mail.png" className="mr-2 h-6 w-6" />
+        <span className="md:block">Poproś o wycenę</span>
+      </a>
       <ul className="flex gap-4 w-full justify-center">
         <li>
           <a href="https://www.instagram.com/spacefiix/" target="_blank" rel="noopener noreferrer">
