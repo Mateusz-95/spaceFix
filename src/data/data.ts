@@ -12,6 +12,19 @@ const data = [
     phones: iphoneModels,
   },
   {
+    name: 'iPad',
+    slug: 'ipad/',
+    imgSrc: '/images/ipad-photo.png',
+    categories: ipadCategories,
+    categoryTitle: 'Wybierz serię iPada',
+  },
+  {
+    name: 'Apple Watch',
+    slug: 'apple-watch/',
+    imgSrc: '/images/applewatch-photo.png',
+    phones: appleWatchModels,
+  },
+  {
     name: 'Samsung',
     slug: 'samsung/',
     imgSrc: '/images/samsung-photo.png',
@@ -24,21 +37,6 @@ const data = [
     imgSrc: '/images/xiaomi-photo.png',
     categories: categories,
     categoryTitle: 'Wybierz serię Xiaomi',
-  },
-  {
-    name: 'iPad',
-    slug: 'ipad/',
-    imgSrc: '/images/ipad-photo.png',
-    // todo: do the same like samsung brand
-    categories: ipadCategories,
-    categoryTitle: 'Wybierz serię iPada',
-  },
-  {
-    name: 'Apple Watch',
-    slug: 'apple-watch/',
-    imgSrc: '/images/applewatch-photo.png',
-    // todo: do the same like samsung brand
-    phones: appleWatchModels,
   },
 ] as const;
 
