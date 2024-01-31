@@ -10,7 +10,7 @@ const QuickRepairSection = () => {
         <div className="flex-1">
           <img
             alt="first unplash img"
-            src="../../../public/images/firstUnplash.png"
+            src="/images/firstUnplash.png"
             className="w-full md:h-80 h-60 object-contain rounded-md"
           />
         </div>
@@ -27,7 +27,7 @@ const QuickRepairSection = () => {
         <div className="flex-1">
           <img
             alt="second unplash img"
-            src="../../../public/images/secondUnplash.png"
+            src="/images/secondUnplash.png"
             className="w-full md:h-80 h-60 object-contain rounded-md"
           />
           <div className="flex-1 text-center">
@@ -47,7 +47,7 @@ const QuickRepairSection = () => {
         <div className="flex-1">
           <img
             alt="third unplash img"
-            src="../../../public/images/thirdUnplash.png"
+            src="/images/thirdUnplash.png"
             className="w-full md:h-80 h-60 object-contain rounded-md"
           />
         </div>

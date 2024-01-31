@@ -11,9 +11,9 @@ export function getStaticPaths() {
         return category.phones.map((phone) => {
           return {
             params: {
-              brand: slug,
-              category: category.slug,
-              phone: phone.slug,
+              brand: slug.slice(0, slug.length - 1),
+              category: category.slug.slice(0, category.slug.length - 1),
+              phone: phone.slug.slice(0, phone.slug.length - 1),
             },
             props: {
               data: phone.repairs,

@@ -31,7 +31,7 @@ const MainNav = () => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <img alt="instagram icon" src="/public/images/instagram.png" className="w-10 h-10" />
+              <img alt="instagram icon" src="/images/instagram.png" className="w-10 h-10 " />
             </a>
           </li>
           <li>
@@ -41,7 +41,7 @@ const MainNav = () => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <img alt="facebook icon" src="/public/images/facebook.png" className="w-10 h-10" />
+              <img alt="facebook icon" src="/images/facebook.png" className="w-10 h-10" />
             </a>
           </li>
           <li>

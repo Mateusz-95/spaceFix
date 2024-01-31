@@ -9,7 +9,7 @@ const TrustUsSection = () => {
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.6 }}
-        className=" rounded-md text-white md:grid md:grid-cols-2 md:gap-4 text-center mt-10 bg-[url('../../../public/images/space.jpg')]"
+        className=" rounded-md text-white md:grid md:grid-cols-2 md:gap-4 text-center mt-10 bg-[url('/images/space.jpg')]"
       >
         <div className=" p-4 md:mr-14">
           <h4 className="text-lg mb-5 text-black bg-white rounded-md">Doświadczenie i wiedza</h4>
