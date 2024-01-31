@@ -1,28 +1,44 @@
 ---
 import Navigation from '../components/Navigation/Navigation';
 import Footer from '../components/Footer/Footer';
+
 interface Props {
-  title: string;
+  title?: string;
 }
 
 import '../index.css';
 
 const { title } = Astro.props;
+
+const transformedTitle = `${title ? `${title} | ` : ''}SpaceFix - serwis smartfonów`;
+const description =
+  'Profesjonalna naprawa smartfonów. Ekspresowa wymiana szybki, baterii, wyświetlacza. Zadzwoń pod numer 730 889 759 lub napraw od ręki pod adresem ul. Malinowa 16/U1.';
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 ---
 
 <!doctype html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="description" content="Astro description" />
+    <meta name="description" content={description} />
+    <meta property="og:description" content={description} />
+    <meta property="twitter:description" content={description} />
     <meta name="viewport" content="width=device-width" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.png" />
     <meta name="generator" content={Astro.generator} />
-    <title>{title}</title>
+    <title>{transformedTitle}</title>
+    <meta property="og:title" content={transformedTitle} />
+    <meta property="twitter:title" content={transformedTitle} />
+    <meta property="og:image" content="/og-image.png" />
+    <meta property="twitter:image" content="/og-image.png" />
+    <meta property="og:type" content="website" />
+    <link rel="canonical" href={canonicalURL} />
+    <meta property="og:url" content={canonicalURL} />
+    <link rel="sitemap" href="/sitemap-index.xml" />
   </head>
   <body>
     <Navigation client:load />
-    <main class="pt-[var(--header-height)]">
+    <main className="pt-[var(--header-height)]">
       <slot />
     </main>
     <Footer />

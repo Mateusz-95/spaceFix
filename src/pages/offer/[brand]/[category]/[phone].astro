@@ -17,6 +17,7 @@ export function getStaticPaths() {
             },
             props: {
               data: phone.repairs,
+              name: phone.name,
             },
           };
         });
@@ -25,9 +26,9 @@ export function getStaticPaths() {
     .flat(Infinity);
 }
 
-const { data } = Astro.props;
+const { data, name } = Astro.props;
 ---
 
-<Layout title="spaceFix">
+<Layout title={name}>
   <RepairInfo data={data} client:load />
 </Layout>

@@ -14,15 +14,16 @@ export function getStaticPaths() {
         },
         props: {
           models: category.phones.map((phone) => ({ name: phone.name, slug: phone.slug })),
+          name: category.name,
         },
       }));
     })
     .flat();
 }
 
-const { models } = Astro.props;
+const { models, name } = Astro.props;
 ---
 
-<Layout title="spaceFix">
+<Layout title={name}>
   <TextCardGrid headerContent="Wybierz model" data={models} />;
 </Layout>
