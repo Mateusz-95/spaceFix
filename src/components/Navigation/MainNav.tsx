@@ -7,11 +7,11 @@ const MainNav = () => {
   const activeHamburger = () => setIsHamburgerActive(!isHamburgerActive);
 
   return (
-    <div className="w-full lg:w-max grid grid-cols-[max-content_1fr_max-content] grid-rows-[100%] items-center text-lg xl:text-xl lg:gap-10 xl:gap-24">
+    <div className="w-full xl:w-max grid grid-cols-[max-content_1fr_max-content] grid-rows-[100%] items-center text-lg xl:text-xl lg:gap-10 xl:gap-24">
       <img alt="spaceFix logo" src="/images/logo.png" className="h-full" />
       <HamburgerButton onClick={activeHamburger} className={`[grid-column:3] ${isHamburgerActive ? 'expanded' : ''}`} />
 
-      <div className="max-lg:hidden w-full flex items-center justify-between gap-10">
+      <div className="max-xl:hidden w-full flex items-center justify-between gap-10">
         <ul className={`flex gap-8 p-3 rounded-lg relative w-auto mr-4`}>
           <li className="text-zinc-800 hover:text-zinc-600 active:text-zinc-400">
             <a href="/">Strona główna</a>
@@ -55,7 +55,7 @@ const MainNav = () => {
           </li>
         </ul>
       </div>
-      <a href="tel:+48730889759" className="max-lg:hidden text-blue-500 hover:text-blue-700 text-center leading-1">
+      <a href="tel:+48730889759" className="max-xl:hidden text-blue-500 hover:text-blue-700 text-center leading-1">
         <span className="text-lg font-bold">
           Zadzwoń teraz
           <br />

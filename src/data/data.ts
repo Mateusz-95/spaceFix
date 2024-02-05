@@ -1,28 +1,14 @@
-import iphoneModels from './iphone/models.ts';
 import samsungCategories from './samsung/categories.ts';
 import categories from './xiaomi/categories.ts';
 import ipadCategories from './iPad/categories.ts';
-import { appleWatchModels } from './appleWatch/models.ts';
+import appleCategories from './iphone/categories.ts';
 
 const data = [
   {
-    name: 'iPhone',
-    slug: 'iphones/',
+    name: 'Apple',
+    slug: 'apple/',
     imgSrc: '/images/iphone-photo.png',
-    phones: iphoneModels,
-  },
-  {
-    name: 'iPad',
-    slug: 'ipad/',
-    imgSrc: '/images/ipad-photo.png',
-    categories: ipadCategories,
-    categoryTitle: 'Wybierz serię iPada',
-  },
-  {
-    name: 'Apple Watch',
-    slug: 'apple-watch/',
-    imgSrc: '/images/applewatch-photo.png',
-    phones: appleWatchModels,
+    categories: appleCategories,
   },
   {
     name: 'Samsung',
@@ -37,6 +23,14 @@ const data = [
     imgSrc: '/images/xiaomi-photo.png',
     categories: categories,
     categoryTitle: 'Wybierz serię Xiaomi',
+  },
+  {
+    name: 'iPad',
+    slug: 'apple-ipad/',
+    imgSrc: '/images/ipad-photo.png',
+    categories: ipadCategories,
+    categoryTitle: 'Wybierz serię iPada',
+    ignore: 'list',
   },
 ] as const;
 
