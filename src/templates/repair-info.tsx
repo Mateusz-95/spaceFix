@@ -71,6 +71,15 @@ const RepairInfo: React.FC<RepairInfoProps> = ({ data }) => {
                 Zadzwoń i zamów naprawę <div className="md:block hidden">+48 730 889 759</div>
               </button>
             </a>
+            <div className="flex justify-center md:mt-4 mt-2">
+              <a
+                href="mailto:biurospacefix@gmail.com?subject=Potrzebuję%20naprawy!&body=Potrzebuję%20naprawy!%0D%0APoniżej%20podaję%20jaki%20sprzęt%20potrzebuje%20Waszej%20naprawy%20i%20co%20dokładnie%20mu%20dolega!%20:)%0D%0AZostawiam%20również%20numer%20telefonu%20pod%20który%20zadzwonicie%20z%20wyceną:"
+                className="md:max-w-[100px] flex items-center justify-center px-4 py-2 border border-transparent text-base font-medium rounded-md text-white bg-blue-500 hover:bg-blue-600 md:py-2 md:text-base md:px-4 transition duration-150 ease-in-out"
+              >
+                <img alt="mail icon" src="/images/mail.png" className="md:mr-2 h-6 w-6" />
+                <span className="hidden md:block">Napisz</span>
+              </a>
+            </div>
           </div>
           <div className="md:flex-grow flex md:w-2/3 max-md: mt-4 ">
             <div className="">
