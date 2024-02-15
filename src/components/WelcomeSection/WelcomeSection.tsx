@@ -1,12 +1,11 @@
 import React from 'react';
-import '../../animations.css';
 const WelcomeSection = () => {
   return (
     <section className="md:flex-row flex flex-col-reverse m-10 gap-6 p-4 md:bg-white md:shadow-lg rounded-lg md:border md:border-gray-200 md:hover:shadow-xl md:transition-shadow">
-      <div className="flex-1 animate-slideRight md:flex hidden">
+      <div className="flex-1 md:flex hidden">
         <img alt="unplash-image" src="/images/unsplash-image.png" className="rounded-lg shadow-lg" />
       </div>
-      <div className="md:w-1/2 p-4 flex-1 text-center animate-slideLeft">
+      <div className="md:w-1/2 p-4 flex-1 text-center">
         <h2 className="text-3xl font-bold mb-4 ">
           Witaj w SpaceFix <div>profesjonalnym serwisie naprawy smartfonów!</div>
         </h2>

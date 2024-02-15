@@ -14,7 +14,7 @@ const ImageCardGrid: React.FC<ImageCardGridProps> = ({ headerContent, data }) =>
   return (
     <section className="mt-5">
       <h2 className="text-center text-3xl font-bold mb-4">{headerContent}</h2>
-      <div className="max-md:flex md:h-[250px] mb-10 xl:flex xl:h-[250px] md:grid md:grid-cols-3 max-md:flex-col justify-center gap-6 md:gap-0">
+      <div className="max-md:flex mb-10 xl:flex md:grid md:grid-cols-3 max-md:flex-col justify-center items-center gap-6 md:gap-[5.375rem] px-4 md:px-8 flex-wrap">
         {data
           .filter((item) => item.ignore !== 'list')
           .map(({ slug, name, imgSrc }) => {

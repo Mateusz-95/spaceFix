@@ -7,7 +7,7 @@ interface MobileMenuProps {
 export default function MobileMenu({ show }: MobileMenuProps) {
   return (
     <div
-      className={`lg:hidden fixed top-[var(--header-height)] w-full h-[calc(100vh-var(--header-height))] transition-all duration-500 bg-white flex flex-col justify-center gap-20 text-[2rem] ${
+      className={`xl:hidden fixed top-[var(--header-height)] w-full h-[calc(100vh-var(--header-height))] transition-all duration-500 bg-white flex flex-col justify-center gap-20 text-[2rem] ${
         show ? 'left-0' : 'left-full'
       }`}
     >

@@ -24,11 +24,9 @@ const ImgCard = ({ slug, title, imgSrc, imgClassName = '', as = 'link', onClick 
   const children = (
     <>
       <p className="text-center text-xl font-bold md:mb-2">{title}</p>
-      <div
-        className={`relative md:aspect-square aspect-auto md:h-full h-[200px] w-[200px] md:w-auto shadow-lg ${imgClassName}`}
-      >
+      <div className={`relative md:aspect-square aspect-auto md:h-full h-[200px] w-[200px] shadow-lg ${imgClassName}`}>
         <img
-          className="rounded-lg md:object-cover transition duration-300 transform hover:scale-105 md:absolute md:left-0 md:top-0 w-full h-full"
+          className="rounded-lg object-cover transition duration-300 transform hover:scale-105 md:absolute md:left-0 md:top-0 w-full h-full"
           alt="iphone-photo"
           src={imgSrc}
         />
@@ -37,17 +35,17 @@ const ImgCard = ({ slug, title, imgSrc, imgClassName = '', as = 'link', onClick 
   );
 
   return (
-    <div className="">
+    <>
       {as === 'link' ? (
-        <a href={slug} className="flex flex-col justify-between items-center relative h-full">
+        <a href={slug} className="flex flex-col justify-between items-center relative h-full w-fit">
           {children}
         </a>
       ) : (
-        <button onClick={onClick} className="flex flex-col justify-between items-center relative h-full m-auto">
+        <button onClick={onClick} className="flex flex-col justify-between items-center relative w-fit h-full m-auto">
           {children}
         </button>
       )}
-    </div>
+    </>
   );
 };
 
