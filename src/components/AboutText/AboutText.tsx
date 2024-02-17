@@ -26,9 +26,11 @@ const AboutText = () => {
         </p>
 
         <h3 className="text-2xl font-bold mb-8">Potrzebujesz pomocy?</h3>
-        <button className="bg-blue-500 text-white py-2 px-4 rounded-md hover:bg-blue-700 focus:outline-none focus:shadow-outline-blue active:bg-blue-800">
-          Sprawdź naszą ofertę
-        </button>
+        <a href="/offer/">
+          <button className="bg-blue-500 text-white py-2 px-4 rounded-md hover:bg-blue-700 focus:outline-none focus:shadow-outline-blue active:bg-blue-800">
+            Sprawdź naszą ofertę
+          </button>
+        </a>
       </div>
     </section>
   );

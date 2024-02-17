@@ -4,7 +4,7 @@ const Footer = () => {
     <footer className="bg-black mt-5 p-10">
       <div className="text-center text-white font-bold">
         <div className="text-lg">
-          Poniedziałek - Piątek <span className="ml-2">9:00-19:00</span>
+          Poniedziałek - Piątek <span className="ml-2">10:00-19:00</span>
         </div>
         <div className="text-lg">
           Sobota <span className="ml-2">10:00-16:00</span>
