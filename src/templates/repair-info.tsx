@@ -31,7 +31,10 @@ const RepairInfo: React.FC<RepairInfoProps> = ({ data }) => {
 
   return (
     <section>
-      <h2 className="text-center text-3xl font-bold m-4">Wybierz rodzaj naprawy</h2>
+      <h2 className="text-center text-3xl font-bold m-4 text-blue-400">
+        {data.length > 0 && data[currentRepair] && data[currentRepair].title}
+      </h2>
+      <h3 className="text-center text-3xl m-4">Wybierz rodzaj naprawy</h3>
       <div className="flex justify-center">
         <div className="md:flex md:max-w-2xl grid grid-cols-2 gap-4 m-auto" ref={myRef}>
           {data.map(({ shortTitle }, index) => {
