@@ -4,31 +4,31 @@ const AboutText = () => {
   return (
     <section>
       <div className="text-center pl-10 pr-10 mt-10">
-        <h2 className="text-3xl font-bold mb-4 ">
-          Witaj w SpaceFix <div>profesjonalnym serwisie naprawy smartfonów!</div>
-        </h2>
+        <h1 className="text-3xl font-bold mb-4">Profesjonalny serwis naprawy smartfonów SpaceFix - Ursus Warszawa</h1>
         <p className="text-lg mt-10 mb-10">
-          Jesteśmy pasjonatami mobilnej technologii, którzy łączą swoją wiedzę z miłością do doskonałości.
+          Pasjonujemy się najnowszymi rozwiązaniami mobilnymi, dostarczając mieszkańcom <b>Warszawy</b> usługi
+          najwyższej klasy.
         </p>
         <p className="mb-10 text-lg">
-          W naszym serwisie skupiamy się na każdym szczególe, aby Twoje smartfony i tablety odzyskały swoją pierwotną
-          moc. Nieustannie dążymy do przekraczania oczekiwań, by zapewnić Ci najwyższą jakość obsługi. Nasz zespół,
-          pełen entuzjazmu i doświadczenia, podejmuje się zarówno napraw skomplikowanych awarii, jak i subtelnych
-          poprawek estetycznych.
+          Nasz <b>serwis smartfonów w Ursusie</b> skupia się na detalu, od drobnych poprawek estetycznych po
+          skomplikowane naprawy techniczne, aby Twoje smartfony i tablety działały jak nowe. Nasz{' '}
+          <b>serwis telefonów</b> stawia na precyzję i najwyższą jakość obsługi, przekraczając Twoje oczekiwania przy
+          każdej wizycie.
         </p>
         <p className="text-lg">
-          Dzięki SpaceFix Twoje urządzenia otrzymują nową szansę na wyrażenie ich potencjału. Stawiamy na długotrwałe
-          relacje z naszymi klientami, dbając o to, aby każda wizyta w naszym serwisie była wyjątkowym doświadczeniem.
+          Damy <b>Twojemu smartfonowi</b> drugie życie. Z nami <b>Twoje smartfony i tablety</b> znów będą mogły działać
+          pełną mocą. W <b>SpaceFix</b>, każda naprawa to krok w stronę długotrwałych relacji z naszymi klientami z{' '}
+          <b>Ursusa</b> i okolic.
         </p>
         <p className="mb-10 text-lg">
-          Dołącz do nas i pozwól swoim smartfonom i tabletom święcić w nowym blasku, by stały się nieodłącznym elementem
-          Twojego dynamicznego życia.
+          Doświadcz jakości usług, które przywrócą <b>Twoje urządzenia do życia</b>. Odwiedź nas w{' '}
+          <b>Warszawie (dzielnica Ursus)</b> i pozwól nam zadbać o Twoje urządzenie.
         </p>
 
-        <h3 className="text-2xl font-bold mb-8">Potrzebujesz pomocy?</h3>
+        <h2 className="text-2xl font-bold mb-8">Potrzebujesz naprawy?</h2>
         <a href="/offer/">
           <button className="bg-blue-500 text-white py-2 px-4 rounded-md hover:bg-blue-700 focus:outline-none focus:shadow-outline-blue active:bg-blue-800">
-            Sprawdź naszą ofertę
+            Zobacz naszą pełną ofertę
           </button>
         </a>
       </div>

@@ -9,14 +9,17 @@ const QuickRepairSection = () => {
       >
         <div className="flex-1">
           <img
-            alt="first unplash img"
+            alt="Wymiana szyby smartfona w Warszawie, Ursus - SpaceFix"
             src="/images/firstUnplash.png"
             className="w-full md:h-80 h-60 object-contain rounded-md"
           />
         </div>
         <div className="flex-1 text-center">
-          <h2 className="text-2xl md:text-3xl font-bold mb-3 md:mb-4">Wymiana szyby</h2>
-          <p className="md:mb-5">Oferujemy profesjonalną wymianę szyby w Twoim smartfonie.</p>
+          <h2 className="text-2xl md:text-3xl font-bold mb-3 md:mb-4">Wymiana szybki</h2>
+          <p className="md:mb-5">
+            Oferujemy profesjonalną wymianę szybki w Twoim smartfonie. Jesteśmy jednym z najlepszych serwisów telefonów
+            w Warszawie specjalizującym się w wymianie szybek smartfonów i tabletów.
+          </p>
           <p>Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.</p>
         </div>
       </a>
@@ -26,7 +29,7 @@ const QuickRepairSection = () => {
       >
         <div className="flex-1">
           <img
-            alt="second unplash img"
+            alt="Wymiana wyświetlacza smartfona w Ursusie, Warszawa - SpaceFix"
             src="/images/secondUnplash.png"
             className="w-full md:h-80 h-60 object-contain rounded-md"
           />
@@ -46,7 +49,7 @@ const QuickRepairSection = () => {
       >
         <div className="flex-1">
           <img
-            alt="third unplash img"
+            alt="Wymiana baterii smartfona w SpaceFix, Ursus, Warszawa"
             src="/images/thirdUnplash.png"
             className="w-full md:h-80 h-60 object-contain rounded-md"
           />

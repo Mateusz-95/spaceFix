@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 const TrustUsSection = () => {
   return (
     <section className="m-10 mt-20">
-      <h4 className="text-2xl font-bold text-center">Dlaczego warto nam zaufać?</h4>
+      <h2 className="text-2xl font-bold text-center">Profesjonalna Naprawa Smartfonów w Ursusie, Warszawa</h2>
       <motion.div
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
@@ -14,32 +14,36 @@ const TrustUsSection = () => {
         <div className=" p-4 md:mr-14">
           <h4 className="text-lg mb-5 text-black bg-white rounded-md">Doświadczenie i wiedza</h4>
           <p>
-            Nasz zespół w SpaceFix to zbiorowisko doświadczenia i wiedzy w dziedzinie technologii mobilnych. Długie lata
-            pracy w branży pozwoliły nam doskonalić nasze umiejętności i poznać najmniejsze detale każdego smartfona.
-            Dzięki temu jesteśmy w stanie zidentyfikować i rozwiązać różnorodne problemy, zarówno te oczywiste, jak i te
-            ukryte.
+            W SpaceFix łączymy doświadczenie i wiedzę ekspercką, by oferować usługi na najwyższym poziomie w dziedzinie
+            technologii mobilnych. Jesteśmy specjalistami w <b>naprawie smartfonów i tabletów w Warszawie</b>, z
+            długoletnim doświadczeniem, pozwalającym nam na szybkie i efektywne rozwiązywanie problemów technicznych.
           </p>
         </div>
         <div className=" p-4">
           <h4 className="text-lg mb-5 text-black bg-white rounded-md">Punktualność i terminowość</h4>
           <p>
-            Rozumiemy jak cenny jest Twój czas , dlatego w SpaceFix kładziemy ogromny nacisk na punktualność i
-            terminowość. Dążymy do tego, aby Twoje smartfony były naprawione i zwrócone w umówionym terminie.
+            Cenimy Twój czas, dlatego w SpaceFix, zlokalizowanym w sercu <b>Ursusa</b>, gwarantujemy terminowe usługi
+            naprawy telefonów i smartfonów. Nasz zespół dołoży wszelkich starań, aby Twoje urządzenie było gotowe bez
+            zbędnej zwłoki, z poszanowaniem Twojego harmonogramu.
           </p>
         </div>
         <div className=" p-4 md:mr-14">
           <h4 className="text-lg mb-5 text-black bg-white rounded-md">Dbałość o detale i estetykę</h4>
           <p>
-            Estetyka i jakość detali są dla nas niezwykle ważne. Niezależnie od tego, czy chodzi o wymianę ekranu czy
-            też drobne poprawki, zawsze pracujemy z najwyższą starannością.
+            Dbamy o każdy szczegół naprawy, od estetyki do funkcjonalności. W <b>SpaceFix</b> nie ma miejsca na
+            kompromisy dotyczące jakości - każda <b>wymiana ekranu</b>, <b>baterii</b> czy <b>inne usługi naprawcze</b>
+            wykonywane są z precyzją, zachowując wygląd i czyniąc Twoje urządzenie jak nowe, gotowe służyć w dynamicznym
+            życiu <b>Warszawy</b>.
           </p>
+          <p className="description"></p>
         </div>
         <div className=" p-4">
           <h4 className="text-lg mb-5 text-black bg-white rounded-md">Referencje i opinie klientów</h4>
           <p>
-            Nasze dotychczasowe osiągnięcia oraz satysfakcja klientów są najlepszym dowodem na naszą wiarygodność. Wielu
-            klientów powierzyło nam swoje urządzenia, a ich zadowolenie i opinie potwierdzają nasze wysokie standardy
-            obsługi.
+            Poleceni przez mieszkańców <b>Ursusa i Warszawy</b>, jesteśmy dumni z pozytywnych opinii naszych klientów.
+            Satysfakcja użytkowników, którzy skorzystali z naszych usług <b>naprawy telefonów i smartfonów</b>, motywuje
+            nas do podnoszenia standardów pracy. Zaufaj ekspertom z <b>SpaceFix</b> i dołącz do grona zadowolonych
+            klientów, którzy doświadczyli profesjonalizmu na każdym etapie współpracy.
           </p>
         </div>
       </motion.div>
