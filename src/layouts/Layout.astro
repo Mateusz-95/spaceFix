@@ -1,6 +1,7 @@
 ---
 import Navigation from '../components/Navigation/Navigation';
 import Footer from '../components/Footer/Footer';
+import GoogleAnalytics from '../components/GoogleAnalytics.astro';
 
 interface Props {
   title?: string;
@@ -19,6 +20,7 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 <!doctype html>
 <html lang="en">
   <head>
+    <GoogleAnalytics />
     <meta charset="UTF-8" />
     <meta name="description" content={description} />
     <meta property="og:description" content={description} />
