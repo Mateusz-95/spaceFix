@@ -6,6 +6,15 @@
     <title>SpaceFix - serwis smartfonów</title>
     <link rel="stylesheet" href="/styles.css" />
     <script src="https://kit.fontawesome.com/baff5d4d9d.js" crossorigin="anonymous"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16696753754"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag('js', new Date());
+      gtag('config', 'AW-16696753754');
+    </script>
   </head>
   <body>
     <section class="about-us">
@@ -17,10 +26,19 @@
           lokalnie, oferując natychmiastowe naprawy na miejscu, co oszczędza Twój czas i pieniądze. Zaufaj naszym
           specjalistom i przywróć swój telefon do pełnej sprawności już dziś!
         </p>
-        <a href="tel:+48730889759" class="btn">Zadzwoń i umów naprawę</a>
+        <a
+          href="tel:+48730889759"
+          class="btn"
+          onclick="gtag('event', 'call', {'event_category': 'engagement', 'event_label': 'call_button'});"
+          >Zadzwoń i umów naprawę</a
+        >
       </div>
       <div class="icons">
-        <a href="tel:+48730889759" class="icon">
+        <a
+          href="tel:+48730889759"
+          class="icon"
+          onclick="gtag('event', 'call', {'event_category': 'engagement', 'event_label': 'call_button'});"
+        >
           <i class="fa-solid fa-phone"></i>
           <p>Zadzwoń i umów naprawę</p>
           <span>+48 730 889 759</span>
@@ -30,6 +48,7 @@
             href="https://www.google.com/maps/place/SpaceFix+-+Serwis+Apple+,+Samsung+,+Xiaomi/@52.1931235,20.8805978,17z/data=!3m1!4b1!4m6!3m5!1s0x4719357b16c39af7:0x93bd1b1e77aeba83!8m2!3d52.1931235!4d20.8831727!16s%2Fg%2F11krq7k76m?entry=ttu"
             target="_blank"
             rel="noopener noreferrer"
+            onclick="gtag('event', 'directions', {'event_category': 'engagement', 'event_label': 'directions_button'});"
           >
             <i class="fa-solid fa-location-dot"></i>
             <p>Odwiedź nas, a my naprawimy Twój telefon</p>
