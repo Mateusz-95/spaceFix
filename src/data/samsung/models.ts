@@ -3705,337 +3705,43 @@ export const galaxyM = [
 
 export const galaxyJ = [
   {
-    name: 'Samsung Galaxy J320',
-    slug: 'samsung-galaxy-j320/',
+    name: 'Samsung Galaxy J730',
+    slug: 'samsung-galaxy-j730/',
     repairs: [
       {
         key: 'front-glass',
-        title: 'Samsung Galaxy J320 wymiana szybki',
+        title: 'Samsung Galaxy J730 wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '180 zł',
+        price: '250 zł',
         description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Samsung Galaxy J320. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
       },
       {
         key: 'display',
-        title: 'Samsung Galaxy J320 wymiana wyświetlacza',
+        title: 'Samsung Galaxy J730 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '320 zł',
+        price: '430 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Samsung Galaxy J320. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
-        title: 'Samsung Galaxy J320 wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '120 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Samsung Galaxy J320. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Samsung Galaxy J320 wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '150 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Samsung Galaxy J320. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Samsung Galaxy J330',
-    slug: 'samsung-galaxy-j330/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Samsung Galaxy J330 wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '220 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Samsung Galaxy J330. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Samsung Galaxy J330 wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '320 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Samsung Galaxy J330. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Samsung Galaxy J330 wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '120 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Samsung Galaxy J330. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Samsung Galaxy J330 wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '150 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Samsung Galaxy J330. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Samsung Galaxy J4 Plus',
-    slug: 'samsung-galaxy-j4-plus/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Samsung Galaxy J4 Plus wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '200 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Samsung Galaxy J4 Plus. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Samsung Galaxy J4 Plus wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '299 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Samsung Galaxy J4 Plus. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Samsung Galaxy J4 Plus wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '120 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Samsung Galaxy J4 Plus. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Samsung Galaxy J4 Plus wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '150 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Samsung Galaxy J4 Plus. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Samsung Galaxy J500',
-    slug: 'samsung-galaxy-j500/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Samsung Galaxy J500 wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '180 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Samsung Galaxy J500. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Samsung Galaxy J500 wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '320 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Samsung Galaxy J500. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Samsung Galaxy J500 wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '120 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Samsung Galaxy J500. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Samsung Galaxy J500 wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '150 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Samsung Galaxy J500. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Samsung Galaxy J510',
-    slug: 'samsung-galaxy-j510/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Samsung Galaxy J510 wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '180 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Samsung Galaxy J510. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Samsung Galaxy J510 wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '320 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Samsung Galaxy J510. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Samsung Galaxy J510 wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '120 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Samsung Galaxy J510. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Samsung Galaxy J510 wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '179 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Samsung Galaxy J510. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Samsung Galaxy J530',
-    slug: 'samsung-galaxy-j530/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Samsung Galaxy J530 wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '230 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Samsung Galaxy J530. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Samsung Galaxy J530 wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '420 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Samsung Galaxy J530. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Samsung Galaxy J530 wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '120 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Samsung Galaxy J530. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Samsung Galaxy J530 wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '199 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Samsung Galaxy J530. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Samsung Galaxy J6',
-    slug: 'samsung-galaxy-j6/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Samsung Galaxy J6 wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '200 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Samsung Galaxy J6. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Samsung Galaxy J6 wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '329 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Samsung Galaxy J6. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Samsung Galaxy J6 wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '120 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Samsung Galaxy J6. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Samsung Galaxy J6 wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '199 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Samsung Galaxy J6. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Samsung Galaxy J6 Plus',
-    slug: 'samsung-galaxy-j6-plus/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Samsung Galaxy J6 Plus wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '230 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Samsung Galaxy J6 Plus. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Samsung Galaxy J6 Plus wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '299 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Samsung Galaxy J6 Plus. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Samsung Galaxy J6 Plus wymiana tylnej szyby',
+        title: 'Samsung Galaxy J730 wymiana tylnej szyby',
         shortTitle: 'Tylna szybka',
         price: '130 zł',
         description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Samsung Galaxy J6 Plus. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
       },
       {
         key: 'battery',
-        title: 'Samsung Galaxy J6 Plus wymiana baterii',
+        title: 'Samsung Galaxy J730 wymiana baterii',
         shortTitle: 'Bateria',
-        price: '199 zł',
+        price: '200 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Samsung Galaxy J6 Plus. Korzystamy tylko z najlepszych części zamiennych.',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
     ],
@@ -4050,16 +3756,16 @@ export const galaxyJ = [
         shortTitle: 'Przednia szybka',
         price: '200 zł',
         description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Samsung Galaxy J710. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
       },
       {
         key: 'display',
         title: 'Samsung Galaxy J710 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '399 zł',
+        price: '390 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Samsung Galaxy J710. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
       },
       {
@@ -4068,58 +3774,352 @@ export const galaxyJ = [
         shortTitle: 'Tylna szybka',
         price: '120 zł',
         description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Samsung Galaxy J710. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
       },
       {
         key: 'battery',
         title: 'Samsung Galaxy J710 wymiana baterii',
         shortTitle: 'Bateria',
-        price: '179 zł',
+        price: '180 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Samsung Galaxy J710. Korzystamy tylko z najlepszych części zamiennych.',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
     ],
   },
   {
-    name: 'Samsung Galaxy J730',
-    slug: 'samsung-galaxy-j730/',
+    name: 'Samsung Galaxy J6 Plus',
+    slug: 'samsung-galaxy-j6-plus/',
     repairs: [
       {
         key: 'front-glass',
-        title: 'Samsung Galaxy J730 wymiana szybki',
+        title: 'Samsung Galaxy J6 Plus wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '250 zł',
+        price: '230 zł',
         description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Samsung Galaxy J730. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
       },
       {
         key: 'display',
-        title: 'Samsung Galaxy J730 wymiana wyświetlacza',
+        title: 'Samsung Galaxy J6 Plus wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '429 zł',
+        price: '300 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Samsung Galaxy J730. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
-        title: 'Samsung Galaxy J730 wymiana tylnej szyby',
+        title: 'Samsung Galaxy J6 Plus wymiana tylnej szyby',
         shortTitle: 'Tylna szybka',
         price: '130 zł',
         description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Samsung Galaxy J730. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
       },
       {
         key: 'battery',
-        title: 'Samsung Galaxy J730 wymiana baterii',
+        title: 'Samsung Galaxy J6 Plus wymiana baterii',
         shortTitle: 'Bateria',
-        price: '199 zł',
+        price: '200 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Samsung Galaxy J730. Korzystamy tylko z najlepszych części zamiennych.',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy J6',
+    slug: 'samsung-galaxy-j6/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy J6 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '200 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy J6 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '330 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy J6 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '120 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy J6 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '200 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy J530',
+    slug: 'samsung-galaxy-j530/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy J530 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '230 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy J530 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '420 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy J530 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '120 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy J530 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '200 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy J510',
+    slug: 'samsung-galaxy-j510/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy J510 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '180 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy J510 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '320 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy J510 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '120 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy J510 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '180 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy J500',
+    slug: 'samsung-galaxy-j500/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy J500 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '180 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy J500 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '320 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy J500 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '120 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy J500 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '180 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy J4 Plus',
+    slug: 'samsung-galaxy-j4-plus/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy J4 Plus wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '200 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy J4 Plus wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '300 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy J4 Plus wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '120 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy J4 Plus wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '150 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy J330',
+    slug: 'samsung-galaxy-j330/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy J330 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '220 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy J330 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '320 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy J330 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '120 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy J330 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '150 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy J320',
+    slug: 'samsung-galaxy-j320/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy J320 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '180 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy J320 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '320 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy J320 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '120 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy J320 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '150 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
     ],
@@ -4128,211 +4128,43 @@ export const galaxyJ = [
 
 export const galaxyNote = [
   {
-    name: 'Samsung Galaxy Note 8',
-    slug: 'samsung-galaxy-note-8/',
+    name: 'Samsung Galaxy Note 20 Ultra',
+    slug: 'samsung-galaxy-note-20-ultra/',
     repairs: [
       {
         key: 'front-glass',
-        title: 'Samsung Galaxy Note 8 wymiana szybki',
+        title: 'Samsung Galaxy Note 20 Ultra wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '339 zł',
+        price: '650 zł',
         description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Samsung Galaxy Note 8. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
       },
       {
         key: 'display',
-        title: 'Samsung Galaxy Note 8 wymiana wyświetlacza',
+        title: 'Samsung Galaxy Note 20 Ultra wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '849 zł',
+        price: '1450 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Samsung Galaxy Note 8. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
-        title: 'Samsung Galaxy Note 8 wymiana tylnej szyby',
+        title: 'Samsung Galaxy Note 20 Ultra wymiana tylnej szyby',
         shortTitle: 'Tylna szybka',
-        price: '250 zł',
+        price: '350 zł',
         description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Samsung Galaxy Note 8. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
       },
       {
         key: 'battery',
-        title: 'Samsung Galaxy Note 8 wymiana baterii',
+        title: 'Samsung Galaxy Note 20 Ultra wymiana baterii',
         shortTitle: 'Bateria',
-        price: '229 zł',
+        price: '270 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Samsung Galaxy Note 8. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Samsung Galaxy Note 9',
-    slug: 'samsung-galaxy-note-9/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Samsung Galaxy Note 9 wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '389 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Samsung Galaxy Note 9. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Samsung Galaxy Note 9 wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '899 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Samsung Galaxy Note 9. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Samsung Galaxy Note 9 wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '250 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Samsung Galaxy Note 9. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Samsung Galaxy Note 9 wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '239 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Samsung Galaxy Note 9. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Samsung Galaxy Note 10',
-    slug: 'samsung-galaxy-note-10/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Samsung Galaxy Note 10 wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '520 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Samsung Galaxy Note 10. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Samsung Galaxy Note 10 wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '1099 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Samsung Galaxy Note 10. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Samsung Galaxy Note 10 wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '250 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Samsung Galaxy Note 10. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Samsung Galaxy Note 10 wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '239 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Samsung Galaxy Note 10. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Samsung Galaxy Note 10 Lite',
-    slug: 'samsung-galaxy-note-10-lite/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Samsung Galaxy Note 10 Lite wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '439 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Samsung Galaxy Note 10 Lite. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Samsung Galaxy Note 10 Lite wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '849 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Samsung Galaxy Note 10 Lite. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Samsung Galaxy Note 10 Lite wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '239 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Samsung Galaxy Note 10 Lite. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Samsung Galaxy Note 10 Lite wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '239 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Samsung Galaxy Note 10 Lite. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Samsung Galaxy Note 10 Plus',
-    slug: 'samsung-galaxy-note-10-plus/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Samsung Galaxy Note 10 Plus wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '549 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Samsung Galaxy Note 10 Plus. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Samsung Galaxy Note 10 Plus wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '1399 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Samsung Galaxy Note 10 Plus. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Samsung Galaxy Note 10 Plus wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '279 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Samsung Galaxy Note 10 Plus. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Samsung Galaxy Note 10 Plus wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '250 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Samsung Galaxy Note 10 Plus. Korzystamy tylko z najlepszych części zamiennych.',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
     ],
@@ -4345,28 +4177,28 @@ export const galaxyNote = [
         key: 'front-glass',
         title: 'Samsung Galaxy Note 20 wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '499 zł',
+        price: '450 zł',
         description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Samsung Galaxy Note 20. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
       },
       {
         key: 'display',
         title: 'Samsung Galaxy Note 20 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '999 zł',
+        price: '1000 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Samsung Galaxy Note 20. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
         title: 'Samsung Galaxy Note 20 wymiana tylnej szyby',
         shortTitle: 'Tylna szybka',
-        price: '279 zł',
+        price: '280 zł',
         description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Samsung Galaxy Note 20. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
       },
       {
         key: 'battery',
@@ -4374,49 +4206,217 @@ export const galaxyNote = [
         shortTitle: 'Bateria',
         price: '250 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Samsung Galaxy Note 20. Korzystamy tylko z najlepszych części zamiennych.',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
     ],
   },
   {
-    name: 'Samsung Galaxy Note 20 Ultra',
-    slug: 'samsung-galaxy-note-20-ultra/',
+    name: 'Samsung Galaxy Note 10 Plus',
+    slug: 'samsung-galaxy-note-10-plus/',
     repairs: [
       {
         key: 'front-glass',
-        title: 'Samsung Galaxy Note 20 Ultra wymiana szybki',
+        title: 'Samsung Galaxy Note 10 Plus wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '749 zł',
+        price: '550 zł',
         description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Samsung Galaxy Note 20 Ultra. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
       },
       {
         key: 'display',
-        title: 'Samsung Galaxy Note 20 Ultra wymiana wyświetlacza',
+        title: 'Samsung Galaxy Note 10 Plus wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '1449 zł',
+        price: '1350 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Samsung Galaxy Note 20 Ultra. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
-        title: 'Samsung Galaxy Note 20 Ultra wymiana tylnej szyby',
+        title: 'Samsung Galaxy Note 10 Plus wymiana tylnej szyby',
         shortTitle: 'Tylna szybka',
-        price: '350 zł',
+        price: '280 zł',
         description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Samsung Galaxy Note 20 Ultra. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
       },
       {
         key: 'battery',
-        title: 'Samsung Galaxy Note 20 Ultra wymiana baterii',
+        title: 'Samsung Galaxy Note 10 Plus wymiana baterii',
         shortTitle: 'Bateria',
-        price: '269 zł',
+        price: '250 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Samsung Galaxy Note 20 Ultra. Korzystamy tylko z najlepszych części zamiennych.',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy Note 10 Lite',
+    slug: 'samsung-galaxy-note-10-lite/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy Note 10 Lite wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '350 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy Note 10 Lite wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '800 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy Note 10 Lite wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '240 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy Note 10 Lite wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '240 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy Note 10',
+    slug: 'samsung-galaxy-note-10/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy Note 10 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '450 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy Note 10 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '1100 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy Note 10 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '250 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy Note 10 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '230 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy Note 9',
+    slug: 'samsung-galaxy-note-9/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy Note 9 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '380 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy Note 9 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '950 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy Note 9 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '250 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy Note 9 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '230 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy Note 8',
+    slug: 'samsung-galaxy-note-8/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy Note 8 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '330 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy Note 8 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '900 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy Note 8 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '250 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy Note 8 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '230 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
     ],
