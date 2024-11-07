@@ -1,7 +1,175 @@
-const iphoneModels = [
+const iPhoneModels = [
+  {
+    name: 'iPhone 15 Pro Max',
+    slug: 'iPhone-15-pro-max/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'iPhone 15 Pro Max wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '1100 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'iPhone 15 Pro Max wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '2200 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'iPhone 15 Pro Max wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '700 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'iPhone 15 Pro Max wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '550 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'iPhone 15 Pro',
+    slug: 'iPhone-15-pro/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'iPhone 15 Pro wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '950 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'iPhone 15 Pro wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '1900 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'iPhone 15 Pro wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '600 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'iPhone 15 Pro wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '550 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'iPhone 15 Plus',
+    slug: 'iPhone-15-plus/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'iPhone 15 Plus wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '900 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'iPhone 15 Plus wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '1700 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'iPhone 15 Plus wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '550 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'iPhone 15 Plus wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '500 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'iPhone 15',
+    slug: 'iPhone-15/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'iPhone 15 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '800 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'iPhone 15 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '1450 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'iPhone 15 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '550 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'iPhone 15 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '500 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
   {
     name: 'iPhone 14 Pro Max',
-    slug: 'iphone-14-pro-max/',
+    slug: 'iPhone-14-pro-max/',
     repairs: [
       {
         key: 'front-glass',
@@ -43,7 +211,7 @@ const iphoneModels = [
   },
   {
     name: 'iPhone 14 Pro',
-    slug: 'iphone-14-pro/',
+    slug: 'iPhone-14-pro/',
     repairs: [
       {
         key: 'front-glass',
@@ -85,7 +253,7 @@ const iphoneModels = [
   },
   {
     name: 'iPhone 14 Plus',
-    slug: 'iphone-14-plus/',
+    slug: 'iPhone-14-plus/',
     repairs: [
       {
         key: 'front-glass',
@@ -127,7 +295,7 @@ const iphoneModels = [
   },
   {
     name: 'iPhone 14',
-    slug: 'iphone-14/',
+    slug: 'iPhone-14/',
     repairs: [
       {
         key: 'front-glass',
@@ -169,7 +337,7 @@ const iphoneModels = [
   },
   {
     name: 'iPhone 13 Pro Max',
-    slug: 'iphone-13-pro-max/',
+    slug: 'iPhone-13-pro-max/',
     repairs: [
       {
         key: 'front-glass',
@@ -211,7 +379,7 @@ const iphoneModels = [
   },
   {
     name: 'iPhone 13 Pro',
-    slug: 'iphone-13-pro/',
+    slug: 'iPhone-13-pro/',
     repairs: [
       {
         key: 'front-glass',
@@ -253,7 +421,7 @@ const iphoneModels = [
   },
   {
     name: 'iPhone 13 ',
-    slug: 'iphone-13-/',
+    slug: 'iPhone-13-/',
     repairs: [
       {
         key: 'front-glass',
@@ -295,7 +463,7 @@ const iphoneModels = [
   },
   {
     name: 'iPhone 13 mini',
-    slug: 'iphone-13-mini/',
+    slug: 'iPhone-13-mini/',
     repairs: [
       {
         key: 'front-glass',
@@ -337,7 +505,7 @@ const iphoneModels = [
   },
   {
     name: 'iPhone SE 2022',
-    slug: 'iphone-se-2022/',
+    slug: 'iPhone-se-2022/',
     repairs: [
       {
         key: 'front-glass',
@@ -379,7 +547,7 @@ const iphoneModels = [
   },
   {
     name: 'iPhone 12 Pro Max',
-    slug: 'iphone-12-pro-max/',
+    slug: 'iPhone-12-pro-max/',
     repairs: [
       {
         key: 'front-glass',
@@ -421,7 +589,7 @@ const iphoneModels = [
   },
   {
     name: 'iPhone 12 Pro',
-    slug: 'iphone-12-pro/',
+    slug: 'iPhone-12-pro/',
     repairs: [
       {
         key: 'front-glass',
@@ -463,7 +631,7 @@ const iphoneModels = [
   },
   {
     name: 'iPhone 12',
-    slug: 'iphone-12/',
+    slug: 'iPhone-12/',
     repairs: [
       {
         key: 'front-glass',
@@ -505,7 +673,7 @@ const iphoneModels = [
   },
   {
     name: 'iPhone 12 Mini',
-    slug: 'iphone-12-mini/',
+    slug: 'iPhone-12-mini/',
     repairs: [
       {
         key: 'front-glass',
@@ -547,7 +715,7 @@ const iphoneModels = [
   },
   {
     name: 'iPhone 11 Pro Max',
-    slug: 'iphone-11-pro-max/',
+    slug: 'iPhone-11-pro-max/',
     repairs: [
       {
         key: 'front-glass',
@@ -589,7 +757,7 @@ const iphoneModels = [
   },
   {
     name: 'iPhone 11 Pro',
-    slug: 'iphone-11-pro/',
+    slug: 'iPhone-11-pro/',
     repairs: [
       {
         key: 'front-glass',
@@ -631,7 +799,7 @@ const iphoneModels = [
   },
   {
     name: 'iPhone 11',
-    slug: 'iphone-11/',
+    slug: 'iPhone-11/',
     repairs: [
       {
         key: 'front-glass',
@@ -673,7 +841,7 @@ const iphoneModels = [
   },
   {
     name: 'iPhone SE 2020',
-    slug: 'iphone-se-2020/',
+    slug: 'iPhone-se-2020/',
     repairs: [
       {
         key: 'front-glass',
@@ -715,7 +883,7 @@ const iphoneModels = [
   },
   {
     name: 'iPhone XS Max',
-    slug: 'iphone-xs-max/',
+    slug: 'iPhone-xs-max/',
     repairs: [
       {
         key: 'front-glass',
@@ -757,7 +925,7 @@ const iphoneModels = [
   },
   {
     name: 'iPhone XS',
-    slug: 'iphone-xs/',
+    slug: 'iPhone-xs/',
     repairs: [
       {
         key: 'front-glass',
@@ -799,7 +967,7 @@ const iphoneModels = [
   },
   {
     name: 'iPhone X',
-    slug: 'iphone-x/',
+    slug: 'iPhone-x/',
     repairs: [
       {
         key: 'front-glass',
@@ -841,7 +1009,7 @@ const iphoneModels = [
   },
   {
     name: 'iPhone XR',
-    slug: 'iphone-xr/',
+    slug: 'iPhone-xr/',
     repairs: [
       {
         key: 'front-glass',
@@ -883,7 +1051,7 @@ const iphoneModels = [
   },
   {
     name: 'iPhone 8 Plus',
-    slug: 'iphone-8-plus/',
+    slug: 'iPhone-8-plus/',
     repairs: [
       {
         key: 'front-glass',
@@ -925,7 +1093,7 @@ const iphoneModels = [
   },
   {
     name: 'iPhone 8',
-    slug: 'iphone-8/',
+    slug: 'iPhone-8/',
     repairs: [
       {
         key: 'front-glass',
@@ -967,7 +1135,7 @@ const iphoneModels = [
   },
   {
     name: 'iPhone 7 Plus',
-    slug: 'iphone-7-plus/',
+    slug: 'iPhone-7-plus/',
     repairs: [
       {
         key: 'front-glass',
@@ -1008,7 +1176,7 @@ const iphoneModels = [
   },
   {
     name: 'iPhone 7',
-    slug: 'iphone-7/',
+    slug: 'iPhone-7/',
     repairs: [
       {
         key: 'front-glass',
@@ -1049,7 +1217,7 @@ const iphoneModels = [
   },
   {
     name: 'iPhone 6 Plus',
-    slug: 'iphone-6-plus/',
+    slug: 'iPhone-6-plus/',
     repairs: [
       {
         key: 'front-glass',
@@ -1090,7 +1258,7 @@ const iphoneModels = [
   },
   {
     name: 'iPhone 6',
-    slug: 'iphone-6/',
+    slug: 'iPhone-6/',
     repairs: [
       {
         key: 'front-glass',
@@ -1131,7 +1299,7 @@ const iphoneModels = [
   },
   {
     name: 'iPhone 6s Plus',
-    slug: 'iphone-6s-plus/',
+    slug: 'iPhone-6s-plus/',
     repairs: [
       {
         key: 'front-glass',
@@ -1172,7 +1340,7 @@ const iphoneModels = [
   },
   {
     name: 'iPhone 6s',
-    slug: 'iphone-6s/',
+    slug: 'iPhone-6s/',
     repairs: [
       {
         key: 'front-glass',
@@ -1213,4 +1381,4 @@ const iphoneModels = [
   },
 ];
 
-export default iphoneModels;
+export default iPhoneModels;
