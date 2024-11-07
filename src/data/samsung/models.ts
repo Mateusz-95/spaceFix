@@ -2442,127 +2442,421 @@ export const galaxyA = [
 
 export const galaxyM = [
   {
-    name: 'Samsung Galaxy M11',
-    slug: 'samsung-galaxy-m11/',
+    name: 'Samsung Galaxy M53 5G',
+    slug: 'samsung-galaxy-m53-5g/',
     repairs: [
       {
         key: 'front-glass',
-        title: 'Samsung Galaxy M11 wymiana szybki',
+        title: 'Samsung Galaxy M53 5G wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '189 zł',
+        price: '350 zł',
         description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Samsung Galaxy M11. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
       },
       {
         key: 'display',
-        title: 'Samsung Galaxy M11 wymiana wyświetlacza',
+        title: 'Samsung Galaxy M53 5G wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '299 zł',
+        price: '600 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Samsung Galaxy M11. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
-        title: 'Samsung Galaxy M11 wymiana tylnej szyby',
+        title: 'Samsung Galaxy M53 5G wymiana tylnej szyby',
         shortTitle: 'Tylna szybka',
-        price: '179 zł',
+        price: '200 zł',
         description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Samsung Galaxy M11. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
       },
       {
         key: 'battery',
-        title: 'Samsung Galaxy M11 wymiana baterii',
+        title: 'Samsung Galaxy M53 5G wymiana baterii',
         shortTitle: 'Bateria',
-        price: '210 zł',
+        price: '240 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Samsung Galaxy M11. Korzystamy tylko z najlepszych części zamiennych.',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
     ],
   },
   {
-    name: 'Samsung Galaxy M12',
-    slug: 'samsung-galaxy-m12/',
+    name: 'Samsung Galaxy M52 5G',
+    slug: 'samsung-galaxy-m52-5g/',
     repairs: [
       {
         key: 'front-glass',
-        title: 'Samsung Galaxy M12 wymiana szybki',
+        title: 'Samsung Galaxy M52 5G wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '199 zł',
+        price: '350 zł',
         description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Samsung Galaxy M12. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
       },
       {
         key: 'display',
-        title: 'Samsung Galaxy M12 wymiana wyświetlacza',
+        title: 'Samsung Galaxy M52 5G wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '299 zł',
+        price: '600 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Samsung Galaxy M12. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
-        title: 'Samsung Galaxy M12 wymiana tylnej szyby',
+        title: 'Samsung Galaxy M52 5G wymiana tylnej szyby',
         shortTitle: 'Tylna szybka',
-        price: '179 zł',
+        price: '190 zł',
         description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Samsung Galaxy M12. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
       },
       {
         key: 'battery',
-        title: 'Samsung Galaxy M12 wymiana baterii',
+        title: 'Samsung Galaxy M52 5G wymiana baterii',
         shortTitle: 'Bateria',
-        price: '219 zł',
+        price: '240 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Samsung Galaxy M12. Korzystamy tylko z najlepszych części zamiennych.',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
     ],
   },
   {
-    name: 'Samsung Galaxy M13',
-    slug: 'samsung-galaxy-m13/',
+    name: 'Samsung Galaxy M51',
+    slug: 'samsung-galaxy-m51/',
     repairs: [
       {
         key: 'front-glass',
-        title: 'Samsung Galaxy M13 wymiana szybki',
+        title: 'Samsung Galaxy M51 wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '210 zł',
+        price: '300 zł',
         description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Samsung Galaxy M13. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
       },
       {
         key: 'display',
-        title: 'Samsung Galaxy M13 wymiana wyświetlacza',
+        title: 'Samsung Galaxy M51 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '349 zł',
+        price: '560 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Samsung Galaxy M13. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
-        title: 'Samsung Galaxy M13 wymiana tylnej szyby',
+        title: 'Samsung Galaxy M51 wymiana tylnej szyby',
         shortTitle: 'Tylna szybka',
-        price: '179 zł',
+        price: '190 zł',
         description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Samsung Galaxy M13. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
       },
       {
         key: 'battery',
-        title: 'Samsung Galaxy M13 wymiana baterii',
+        title: 'Samsung Galaxy M51 wymiana baterii',
         shortTitle: 'Bateria',
-        price: '239 zł',
+        price: '230 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Samsung Galaxy M13. Korzystamy tylko z najlepszych części zamiennych.',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy M33 5G',
+    slug: 'samsung-galaxy-m33-5g/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy M33 5G wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '250 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy M33 5G wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '440 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy M33 5G wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '190 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy M33 5G wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '240 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy M32',
+    slug: 'samsung-galaxy-m32/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy M32 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '250 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy M32 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '480 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy M32 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '190 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy M32 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '240 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy M31s',
+    slug: 'samsung-galaxy-m31s/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy M31s wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '240 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy M31s wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '480 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy M31s wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '190 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy M31s wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '230 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy M31',
+    slug: 'samsung-galaxy-m31/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy M31 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '240 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy M31 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '400 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy M31 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '180 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy M31 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '230 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy M23 5G',
+    slug: 'samsung-galaxy-m23-5g/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy M23 5G wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '240 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy M23 5G wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '380 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy M23 5G wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '180 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy M23 5G wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '240 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy M22',
+    slug: 'samsung-galaxy-m22/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy M22 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '230 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy M22 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '360 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy M22 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '180 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy M22 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '240 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy M21',
+    slug: 'samsung-galaxy-m21/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy M21 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '200 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy M21 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '360 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy M21 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '180 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy M21 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '230 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
     ],
@@ -2577,26 +2871,26 @@ export const galaxyM = [
         shortTitle: 'Przednia szybka',
         price: '210 zł',
         description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Samsung Galaxy M20. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
       },
       {
         key: 'display',
         title: 'Samsung Galaxy M20 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '379 zł',
+        price: '360 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Samsung Galaxy M20. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
         title: 'Samsung Galaxy M20 wymiana tylnej szyby',
         shortTitle: 'Tylna szybka',
-        price: '179 zł',
+        price: '180 zł',
         description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Samsung Galaxy M20. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
       },
       {
         key: 'battery',
@@ -2604,427 +2898,805 @@ export const galaxyM = [
         shortTitle: 'Bateria',
         price: '210 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Samsung Galaxy M20. Korzystamy tylko z najlepszych części zamiennych.',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
     ],
   },
   {
-    name: 'Samsung Galaxy M21',
-    slug: 'samsung-galaxy-m21/',
+    name: 'Samsung Galaxy M13',
+    slug: 'samsung-galaxy-m13/',
     repairs: [
       {
         key: 'front-glass',
-        title: 'Samsung Galaxy M21 wymiana szybki',
+        title: 'Samsung Galaxy M13 wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '229 zł',
+        price: '210 zł',
         description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Samsung Galaxy M21. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
       },
       {
         key: 'display',
-        title: 'Samsung Galaxy M21 wymiana wyświetlacza',
+        title: 'Samsung Galaxy M13 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '399 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Samsung Galaxy M21. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Samsung Galaxy M21 wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '179 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Samsung Galaxy M21. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Samsung Galaxy M21 wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '229 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Samsung Galaxy M21. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Samsung Galaxy M22',
-    slug: 'samsung-galaxy-m22/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Samsung Galaxy M22 wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '229 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Samsung Galaxy M22. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Samsung Galaxy M22 wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '359 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Samsung Galaxy M22. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Samsung Galaxy M22 wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '179 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Samsung Galaxy M22. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Samsung Galaxy M22 wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '239 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Samsung Galaxy M22. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Samsung Galaxy M23 5G',
-    slug: 'samsung-galaxy-m23-5g/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Samsung Galaxy M23 5G wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '239 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Samsung Galaxy M23 5G. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Samsung Galaxy M23 5G wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '379 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Samsung Galaxy M23 5G. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Samsung Galaxy M23 5G wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '179 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Samsung Galaxy M23 5G. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Samsung Galaxy M23 5G wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '239 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Samsung Galaxy M23 5G. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Samsung Galaxy M31',
-    slug: 'samsung-galaxy-m31/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Samsung Galaxy M31 wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '239 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Samsung Galaxy M31. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Samsung Galaxy M31 wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '399 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Samsung Galaxy M31. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Samsung Galaxy M31 wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '179 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Samsung Galaxy M31. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Samsung Galaxy M31 wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '225 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Samsung Galaxy M31. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Samsung Galaxy M31s',
-    slug: 'samsung-galaxy-m31s/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Samsung Galaxy M31s wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '249 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Samsung Galaxy M31s. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Samsung Galaxy M31s wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '479 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Samsung Galaxy M31s. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Samsung Galaxy M31s wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '189 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Samsung Galaxy M31s. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Samsung Galaxy M31s wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '229 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Samsung Galaxy M31s. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Samsung Galaxy M32',
-    slug: 'samsung-galaxy-m32/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Samsung Galaxy M32 wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '249 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Samsung Galaxy M32. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Samsung Galaxy M32 wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '479 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Samsung Galaxy M32. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Samsung Galaxy M32 wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '189 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Samsung Galaxy M32. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Samsung Galaxy M32 wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '239 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Samsung Galaxy M32. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Samsung Galaxy M33 5G',
-    slug: 'samsung-galaxy-m33-5g/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Samsung Galaxy M33 5G wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '249 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Samsung Galaxy M33 5G. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Samsung Galaxy M33 5G wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '439 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Samsung Galaxy M33 5G. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Samsung Galaxy M33 5G wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '189 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Samsung Galaxy M33 5G. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Samsung Galaxy M33 5G wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '239 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Samsung Galaxy M33 5G. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Samsung Galaxy M51',
-    slug: 'samsung-galaxy-m51/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Samsung Galaxy M51 wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '319 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Samsung Galaxy M51. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Samsung Galaxy M51 wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '569 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Samsung Galaxy M51. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Samsung Galaxy M51 wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '189 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Samsung Galaxy M51. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Samsung Galaxy M51 wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '229 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Samsung Galaxy M51. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Samsung Galaxy M52 5G',
-    slug: 'samsung-galaxy-m52-5g/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Samsung Galaxy M52 5G wymiana szybki',
-        shortTitle: 'Przednia szybka',
         price: '349 zł',
         description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Samsung Galaxy M52 5G. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Samsung Galaxy M52 5G wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '599 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Samsung Galaxy M52 5G. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
-        title: 'Samsung Galaxy M52 5G wymiana tylnej szyby',
+        title: 'Samsung Galaxy M13 wymiana tylnej szyby',
         shortTitle: 'Tylna szybka',
-        price: '189 zł',
+        price: '180 zł',
         description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Samsung Galaxy M52 5G. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
       },
       {
         key: 'battery',
-        title: 'Samsung Galaxy M52 5G wymiana baterii',
+        title: 'Samsung Galaxy M13 wymiana baterii',
         shortTitle: 'Bateria',
-        price: '239 zł',
+        price: '240 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Samsung Galaxy M52 5G. Korzystamy tylko z najlepszych części zamiennych.',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
     ],
   },
   {
-    name: 'Samsung Galaxy M53 5G',
-    slug: 'samsung-galaxy-m53-5g/',
+    name: 'Samsung Galaxy M12',
+    slug: 'samsung-galaxy-m12/',
     repairs: [
       {
         key: 'front-glass',
-        title: 'Samsung Galaxy M53 5G wymiana szybki',
+        title: 'Samsung Galaxy M12 wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '349 zł',
+        price: '200 zł',
         description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Samsung Galaxy M53 5G. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
       },
       {
         key: 'display',
-        title: 'Samsung Galaxy M53 5G wymiana wyświetlacza',
+        title: 'Samsung Galaxy M12 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '610 zł',
+        price: '299 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Samsung Galaxy M53 5G. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
-        title: 'Samsung Galaxy M53 5G wymiana tylnej szyby',
+        title: 'Samsung Galaxy M12 wymiana tylnej szyby',
         shortTitle: 'Tylna szybka',
-        price: '199 zł',
+        price: '180 zł',
         description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Samsung Galaxy M53 5G. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
       },
       {
         key: 'battery',
-        title: 'Samsung Galaxy M53 5G wymiana baterii',
+        title: 'Samsung Galaxy M12 wymiana baterii',
         shortTitle: 'Bateria',
-        price: '239 zł',
+        price: '220 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Samsung Galaxy M53 5G. Korzystamy tylko z najlepszych części zamiennych.',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy M11',
+    slug: 'samsung-galaxy-m11/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy M11 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '190 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy M11 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '299 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy M11 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '180 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy M11 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '210 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A34 5G',
+    slug: 'samsung-galaxy-a34-5g/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A34 5G wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '280 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A34 5G wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '540 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A34 5G wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '170 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A34 5G wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '240 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A33 5G',
+    slug: 'samsung-galaxy-a33-5g/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A33 5G wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '250 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A33 5G wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '570 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A33 5G wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '200 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A33 5G wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '240 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A32 5G',
+    slug: 'samsung-galaxy-a32-5g/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A32 5G wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '220 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A32 5G wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '380 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A32 5G wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '200 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A32 5G wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '230 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A32',
+    slug: 'samsung-galaxy-a32/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A32 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '250 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A32 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '480 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A32 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '200 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A32 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '230 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A31',
+    slug: 'samsung-galaxy-a31/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A31 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '230 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A31 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '380 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A31 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '180 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A31 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '230 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A30s',
+    slug: 'samsung-galaxy-a30s/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A30s wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '200 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A30s wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '350 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A30s wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '170 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A30s wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '220 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A23 5G',
+    slug: 'samsung-galaxy-a23-5g/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A23 5G wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '300 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A23 5G wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '400 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A23 5G wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '200 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A23 5G wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '240 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A22',
+    slug: 'samsung-galaxy-a22/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A22 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '250 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A22 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '380 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A22 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '170 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A22 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '230 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A21s',
+    slug: 'samsung-galaxy-a21s/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A21s wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '200 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A21s wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '350 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A21s wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '170 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A21s wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '230 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A20e',
+    slug: 'samsung-galaxy-a20e/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A20e wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '170 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A20e wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '350 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A20e wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '170 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A20e wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '210 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A14',
+    slug: 'samsung-galaxy-a14/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A14 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '240 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A14 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '350 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A14 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '170 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A14 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '230 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A13',
+    slug: 'samsung-galaxy-a13/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A13 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '220 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A13 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '350 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A13 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '170 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A13 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '230 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A12',
+    slug: 'samsung-galaxy-a12/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A12 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '200 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A12 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '330 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A12 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '170 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A12 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '230 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A10',
+    slug: 'samsung-galaxy-a10/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A10 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '180 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A10 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '350 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A10 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '140 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A10 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '210 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A03s',
+    slug: 'samsung-galaxy-a03s/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A03s wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '230 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A03s wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '340 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A03s wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '150 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A03s wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '240 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A02s',
+    slug: 'samsung-galaxy-a02s/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A02s wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '230 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A02s wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '320 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A02s wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '150 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A02s wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '230 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
     ],
