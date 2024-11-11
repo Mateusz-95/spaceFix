@@ -2190,841 +2190,841 @@ export const xiaomiRedmi = [
 
 export const poco = [
   {
-    name: 'Xiaomi Poco F1',
-    slug: 'xiaomi-poco-f1/',
+    name: 'Poco X5 Pro 5G',
+    slug: 'poco-x5-pro-5g/',
     repairs: [
       {
         key: 'front-glass',
-        title: 'Xiaomi Poco F1 wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '150 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi Poco F1. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi Poco F1 wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '349 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi Poco F1. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi Poco F1 wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '180 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi Poco F1. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi Poco F1 wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '179 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi Poco F1. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi Poco F2 Pro',
-    slug: 'xiaomi-poco-f2-pro/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi Poco F2 Pro wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '370 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi Poco F2 Pro. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi Poco F2 Pro wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '749 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi Poco F2 Pro. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi Poco F2 Pro wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '380 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi Poco F2 Pro. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi Poco F2 Pro wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '249 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi Poco F2 Pro. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi Poco F3 5G',
-    slug: 'xiaomi-poco-f3-5g/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi Poco F3 5G wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '399 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi Poco F3 5G. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi Poco F3 5G wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '539 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi Poco F3 5G. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi Poco F3 5G wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '350 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi Poco F3 5G. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi Poco F3 5G wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '249 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi Poco F3 5G. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi Poco F4',
-    slug: 'xiaomi-poco-f4/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi Poco F4 wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '340 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi Poco F4. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi Poco F4 wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '700 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi Poco F4. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi Poco F4 wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '259 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi Poco F4. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi Poco F4 wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '299 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi Poco F4. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi Poco F4 GT',
-    slug: 'xiaomi-poco-f4-gt/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi Poco F4 GT wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '510 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi Poco F4 GT. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi Poco F4 GT wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '850 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi Poco F4 GT. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi Poco F4 GT wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '269 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi Poco F4 GT. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi Poco F4 GT wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '299 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi Poco F4 GT. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi Poco F5',
-    slug: 'xiaomi-poco-f5/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi Poco F5 wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '460 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi Poco F5. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi Poco F5 wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '700 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi Poco F5. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi Poco F5 wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '329 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi Poco F5. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi Poco F5 wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '379 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi Poco F5. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi Poco F5 Pro',
-    slug: 'xiaomi-poco-f5-pro/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi Poco F5 Pro wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '750 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi Poco F5 Pro. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi Poco F5 Pro wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '1099 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi Poco F5 Pro. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi Poco F5 Pro wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '329 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi Poco F5 Pro. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi Poco F5 Pro wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '399 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi Poco F5 Pro. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi Poco M3',
-    slug: 'xiaomi-poco-m3/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi Poco M3 wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '280 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi Poco M3. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi Poco M3 wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '379 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi Poco M3. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi Poco M3 wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '249 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi Poco M3. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi Poco M3 wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '199 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi Poco M3. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi Poco M3 Pro',
-    slug: 'xiaomi-poco-m3-pro/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi Poco M3 Pro wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '290 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi Poco M3 Pro. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi Poco M3 Pro wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '399 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi Poco M3 Pro. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi Poco M3 Pro wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '219 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi Poco M3 Pro. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi Poco M3 Pro wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '270 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi Poco M3 Pro. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi Poco M4 Pro',
-    slug: 'xiaomi-poco-m4-pro/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi Poco M4 Pro wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '280 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi Poco M4 Pro. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi Poco M4 Pro wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '630 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi Poco M4 Pro. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi Poco M4 Pro wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '239 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi Poco M4 Pro. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi Poco M4 Pro wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '249 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi Poco M4 Pro. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi Poco M4 Pro 5G',
-    slug: 'xiaomi-poco-m4-pro-5g/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi Poco M4 Pro 5G wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '249 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi Poco M4 Pro 5G. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi Poco M4 Pro 5G wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '420 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi Poco M4 Pro 5G. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi Poco M4 Pro 5G wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '239 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi Poco M4 Pro 5G. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi Poco M4 Pro 5G wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '279 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi Poco M4 Pro 5G. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi Poco M5',
-    slug: 'xiaomi-poco-m5/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi Poco M5 wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '290 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi Poco M5. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi Poco M5 wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '420 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi Poco M5. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi Poco M5 wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '239 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi Poco M5. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi Poco M5 wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '279 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi Poco M5. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi Poco M5s',
-    slug: 'xiaomi-poco-m5s/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi Poco M5s wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '290 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi Poco M5s. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi Poco M5s wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '480 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi Poco M5s. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi Poco M5s wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '239 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi Poco M5s. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi Poco M5s wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '279 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi Poco M5s. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi Poco X3',
-    slug: 'xiaomi-poco-x3/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi Poco X3 wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '280 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi Poco X3. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi Poco X3 wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '429 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi Poco X3. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi Poco X3 wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '210 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi Poco X3. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi Poco X3 wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '250 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi Poco X3. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi Poco X3 Pro',
-    slug: 'xiaomi-poco-x3-pro/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi Poco X3 Pro wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '290 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi Poco X3 Pro. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi Poco X3 Pro wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '450 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi Poco X3 Pro. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi Poco X3 Pro wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '200 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi Poco X3 Pro. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi Poco X3 Pro wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '270 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi Poco X3 Pro. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi Poco X4 GT',
-    slug: 'xiaomi-poco-x4-gt/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi Poco X4 GT wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '290 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi Poco X4 GT. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi Poco X4 GT wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '380 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi Poco X4 GT. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi Poco X4 GT wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '300 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi Poco X4 GT. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi Poco X4 GT wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '279 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi Poco X4 GT. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi Poco X4 Pro 5G',
-    slug: 'xiaomi-poco-x4-pro-5g/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi Poco X4 Pro 5G wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '430 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi Poco X4 Pro 5G. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi Poco X4 Pro 5G wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '649 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi Poco X4 Pro 5G. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi Poco X4 Pro 5G wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '380 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi Poco X4 Pro 5G. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi Poco X4 Pro 5G wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '279 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi Poco X4 Pro 5G. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi Poco X5 5G',
-    slug: 'xiaomi-poco-x5-5g/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi Poco X5 5G wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '540 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi Poco X5 5G. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi Poco X5 5G wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '640 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi Poco X5 5G. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi Poco X5 5G wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '380 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi Poco X5 5G. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi Poco X5 5G wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '279 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi Poco X5 5G. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi Poco X5 Pro 5G',
-    slug: 'xiaomi-poco-x5-pro-5g/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi Poco X5 Pro 5G wymiana szybki',
+        title: 'Poco X5 Pro 5G wymiana szybki',
         shortTitle: 'Przednia szybka',
         price: '550 zł',
         description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi Poco X5 Pro 5G. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
       },
       {
         key: 'display',
-        title: 'Xiaomi Poco X5 Pro 5G wymiana wyświetlacza',
+        title: 'Poco X5 Pro 5G wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '649 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi Poco X5 Pro 5G. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
-        title: 'Xiaomi Poco X5 Pro 5G wymiana tylnej szyby',
+        title: 'Poco X5 Pro 5G wymiana tylnej szyby',
         shortTitle: 'Tylna szybka',
         price: '380 zł',
         description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi Poco X5 Pro 5G. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
       },
       {
         key: 'battery',
-        title: 'Xiaomi Poco X5 Pro 5G wymiana baterii',
+        title: 'Poco X5 Pro 5G wymiana baterii',
         shortTitle: 'Bateria',
         price: '279 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi Poco X5 Pro 5G. Korzystamy tylko z najlepszych części zamiennych.',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
     ],
   },
   {
-    name: 'Xiaomi Poco C40',
-    slug: 'xiaomi-poco-c40/',
+    name: 'Poco X5 5G',
+    slug: 'poco-x5-5g/',
     repairs: [
       {
         key: 'front-glass',
-        title: 'Xiaomi Poco C40 wymiana szybki',
+        title: 'Poco X5 5G wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '249 zł',
+        price: '540 zł',
         description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi Poco C40. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
       },
       {
         key: 'display',
-        title: 'Xiaomi Poco C40 wymiana wyświetlacza',
+        title: 'Poco X5 5G wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '480 zł',
+        price: '640 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi Poco C40. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
-        title: 'Xiaomi Poco C40 wymiana tylnej szyby',
+        title: 'Poco X5 5G wymiana tylnej szyby',
         shortTitle: 'Tylna szybka',
-        price: '269 zł',
+        price: '380 zł',
         description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi Poco C40. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
       },
       {
         key: 'battery',
-        title: 'Xiaomi Poco C40 wymiana baterii',
+        title: 'Poco X5 5G wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '279 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Poco X4 Pro 5G',
+    slug: 'poco-x4-pro-5g/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Poco X4 Pro 5G wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '430 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Poco X4 Pro 5G wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '649 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Poco X4 Pro 5G wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '380 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Poco X4 Pro 5G wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '279 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Poco X4 GT',
+    slug: 'poco-x4-gt/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Poco X4 GT wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '290 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Poco X4 GT wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '380 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Poco X4 GT wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '300 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Poco X4 GT wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '279 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Poco X3 Pro ',
+    slug: 'poco-x3-pro-/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Poco X3 Pro  wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '290 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Poco X3 Pro  wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '450 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Poco X3 Pro  wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '200 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Poco X3 Pro  wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '270 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Poco X3',
+    slug: 'poco-x3/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Poco X3 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '280 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Poco X3 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '429 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Poco X3 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '210 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Poco X3 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '250 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Poco M5s',
+    slug: 'poco-m5s/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Poco M5s wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '290 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Poco M5s wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '480 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Poco M5s wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '239 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Poco M5s wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '279 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Poco M5',
+    slug: 'poco-m5/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Poco M5 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '290 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Poco M5 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '420 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Poco M5 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '239 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Poco M5 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '279 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Poco M4 Pro 5G',
+    slug: 'poco-m4-pro-5g/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Poco M4 Pro 5G wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '249 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Poco M4 Pro 5G wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '420 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Poco M4 Pro 5G wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '239 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Poco M4 Pro 5G wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '279 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Poco M4 Pro',
+    slug: 'poco-m4-pro/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Poco M4 Pro wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '280 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Poco M4 Pro wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '630 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Poco M4 Pro wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '239 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Poco M4 Pro wymiana baterii',
         shortTitle: 'Bateria',
         price: '249 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi Poco C40. Korzystamy tylko z najlepszych części zamiennych.',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Poco M3 Pro',
+    slug: 'poco-m3-pro/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Poco M3 Pro wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '290 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Poco M3 Pro wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '399 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Poco M3 Pro wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '219 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Poco M3 Pro wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '270 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Poco M3',
+    slug: 'poco-m3/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Poco M3 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '280 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Poco M3 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '379 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Poco M3 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '249 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Poco M3 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '199 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Poco F5 Pro',
+    slug: 'poco-f5-pro/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Poco F5 Pro wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '750 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Poco F5 Pro wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '1099 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Poco F5 Pro wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '329 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Poco F5 Pro wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '399 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Poco F5',
+    slug: 'poco-f5/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Poco F5 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '460 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Poco F5 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '700 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Poco F5 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '329 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Poco F5 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '379 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Poco F4 GT',
+    slug: 'poco-f4-gt/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Poco F4 GT wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '510 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Poco F4 GT wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '850 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Poco F4 GT wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '269 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Poco F4 GT wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '299 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Poco F4',
+    slug: 'poco-f4/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Poco F4 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '340 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Poco F4 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '700 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Poco F4 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '259 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Poco F4 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '299 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Poco F3 5G',
+    slug: 'poco-f3-5g/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Poco F3 5G wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '399 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Poco F3 5G wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '539 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Poco F3 5G wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '350 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Poco F3 5G wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '249 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Poco F2 Pro',
+    slug: 'poco-f2-pro/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Poco F2 Pro wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '370 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Poco F2 Pro wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '749 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Poco F2 Pro wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '380 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Poco F2 Pro wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '249 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Poco F1',
+    slug: 'poco-f1/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Poco F1 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '150 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Poco F1 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '349 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Poco F1 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '180 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Poco F1 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '179 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Poco C40',
+    slug: 'poco-c40/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Poco C40 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '249 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Poco C40 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '480 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Poco C40 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '269 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Poco C40 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '249 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
     ],
