@@ -1095,1009 +1095,43 @@ export const xiaomiMi = [
 
 export const xiaomiRedmi = [
   {
-    name: 'Xiaomi Redmi Note 7',
-    slug: 'xiaomi-redmi-note-7/',
+    name: 'Xiaomi Redmi 12',
+    slug: 'xiaomi-redmi-12/',
     repairs: [
       {
         key: 'front-glass',
-        title: 'Xiaomi Redmi Note 7 wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '180 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi Redmi Note 7. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi Redmi Note 7 wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '299 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi Redmi Note 7. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi Redmi Note 7 wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '180 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi Redmi Note 7. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi Redmi Note 7 wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '199 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi Redmi Note 7. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi Redmi Note 8T',
-    slug: 'xiaomi-redmi-note-8t/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi Redmi Note 8T wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '190 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi Redmi Note 8T. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi Redmi Note 8T wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '329 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi Redmi Note 8T. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi Redmi Note 8T wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '180 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi Redmi Note 8T. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi Redmi Note 8T wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '220 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi Redmi Note 8T. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi Redmi Note 8 Pro',
-    slug: 'xiaomi-redmi-note-8-pro/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi Redmi Note 8 Pro wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '199 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi Redmi Note 8 Pro. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi Redmi Note 8 Pro wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '340 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi Redmi Note 8 Pro. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi Redmi Note 8 Pro wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '240 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi Redmi Note 8 Pro. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi Redmi Note 8 Pro wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '229 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi Redmi Note 8 Pro. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi Redmi Note 8',
-    slug: 'xiaomi-redmi-note-8/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi Redmi Note 8 wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '180 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi Redmi Note 8. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi Redmi Note 8 wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '330 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi Redmi Note 8. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi Redmi Note 8 wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '180 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi Redmi Note 8. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi Redmi Note 8 wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '229 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi Redmi Note 8. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi Redmi Note 9s',
-    slug: 'xiaomi-redmi-note-9s/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi Redmi Note 9s wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '180 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi Redmi Note 9s. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi Redmi Note 9s wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '350 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi Redmi Note 9s. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi Redmi Note 9s wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '240 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi Redmi Note 9s. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi Redmi Note 9s wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '249 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi Redmi Note 9s. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi Redmi Note 9i',
-    slug: 'xiaomi-redmi-note-9i/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi Redmi Note 9i wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '180 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi Redmi Note 9i. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi Redmi Note 9i wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '359 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi Redmi Note 9i. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi Redmi Note 9i wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '150 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi Redmi Note 9i. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi Redmi Note 9i wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '249 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi Redmi Note 9i. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi Redmi Note 9 Pro',
-    slug: 'xiaomi-redmi-note-9-pro/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi Redmi Note 9 Pro wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '220 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi Redmi Note 9 Pro. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi Redmi Note 9 Pro wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '399 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi Redmi Note 9 Pro. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi Redmi Note 9 Pro wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '249 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi Redmi Note 9 Pro. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi Redmi Note 9 Pro wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '249 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi Redmi Note 9 Pro. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi Redmi Note 10s',
-    slug: 'xiaomi-redmi-note-10s/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi Redmi Note 10s wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '300 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi Redmi Note 10s. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi Redmi Note 10s wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '580 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi Redmi Note 10s. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi Redmi Note 10s wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '249 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi Redmi Note 10s. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi Redmi Note 10s wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '249 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi Redmi Note 10s. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi Redmi Note 10',
-    slug: 'xiaomi-redmi-note-10/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi Redmi Note 10 wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '340 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi Redmi Note 10. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi Redmi Note 10 wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '449 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi Redmi Note 10. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi Redmi Note 10 wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '249 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi Redmi Note 10. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi Redmi Note 10 wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '249 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi Redmi Note 10. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi Redmi Note 10pro',
-    slug: 'xiaomi-redmi-note-10pro/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi Redmi Note 10pro wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '320 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi Redmi Note 10pro. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi Redmi Note 10pro wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '580 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi Redmi Note 10pro. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi Redmi Note 10pro wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '249 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi Redmi Note 10pro. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi Redmi Note 10pro wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '249 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi Redmi Note 10pro. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi Redmi Note 11',
-    slug: 'xiaomi-redmi-note-11/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi Redmi Note 11 wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '300 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi Redmi Note 11. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi Redmi Note 11 wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '650 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi Redmi Note 11. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi Redmi Note 11 wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '229 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi Redmi Note 11. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi Redmi Note 11 wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '260 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi Redmi Note 11. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi Redmi Note 11s',
-    slug: 'xiaomi-redmi-note-11s/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi Redmi Note 11s wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '300 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi Redmi Note 11s. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi Redmi Note 11s wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '620 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi Redmi Note 11s. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi Redmi Note 11s wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '229 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi Redmi Note 11s. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi Redmi Note 11s wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '260 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi Redmi Note 11s. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi Redmi Note 11 Pro',
-    slug: 'xiaomi-redmi-note-11-pro/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi Redmi Note 11 Pro wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '350 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi Redmi Note 11 Pro. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi Redmi Note 11 Pro wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '649 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi Redmi Note 11 Pro. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi Redmi Note 11 Pro wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '299 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi Redmi Note 11 Pro. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi Redmi Note 11 Pro wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '320 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi Redmi Note 11 Pro. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi Redmi Note 12s',
-    slug: 'xiaomi-redmi-note-12s/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi Redmi Note 12s wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '350 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi Redmi Note 12s. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi Redmi Note 12s wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '550 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi Redmi Note 12s. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi Redmi Note 12s wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '299 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi Redmi Note 12s. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi Redmi Note 12s wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '329 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi Redmi Note 12s. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi Redmi Note 12',
-    slug: 'xiaomi-redmi-note-12/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi Redmi Note 12 wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '290 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi Redmi Note 12. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi Redmi Note 12 wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '529 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi Redmi Note 12. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi Redmi Note 12 wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '299 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi Redmi Note 12. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi Redmi Note 12 wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '320 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi Redmi Note 12. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi Redmi Note 12 Pro5G',
-    slug: 'xiaomi-redmi-note-12-pro5g/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi Redmi Note 12 Pro5G wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '320 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi Redmi Note 12 Pro5G. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi Redmi Note 12 Pro5G wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '580 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi Redmi Note 12 Pro5G. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi Redmi Note 12 Pro5G wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '299 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi Redmi Note 12 Pro5G. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi Redmi Note 12 Pro5G wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '329 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi Redmi Note 12 Pro5G. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi Redmi 8a',
-    slug: 'xiaomi-redmi-8a/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi Redmi 8a wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '180 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi Redmi 8a. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi Redmi 8a wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '330 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi Redmi 8a. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi Redmi 8a wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '180 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi Redmi 8a. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi Redmi 8a wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '200 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi Redmi 8a. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi Redmi 8',
-    slug: 'xiaomi-redmi-8/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi Redmi 8 wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '200 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi Redmi 8. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi Redmi 8 wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '349 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi Redmi 8. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi Redmi 8 wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '199 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi Redmi 8. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi Redmi 8 wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '200 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi Redmi 8. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi Redmi 9T',
-    slug: 'xiaomi-redmi-9t/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi Redmi 9T wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '230 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi Redmi 9T. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi Redmi 9T wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '349 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi Redmi 9T. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi Redmi 9T wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '180 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi Redmi 9T. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi Redmi 9T wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '200 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi Redmi 9T. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi Redmi 9C NFC',
-    slug: 'xiaomi-redmi-9c-nfc/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi Redmi 9C NFC wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '230 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi Redmi 9C NFC. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi Redmi 9C NFC wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '349 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi Redmi 9C NFC. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi Redmi 9C NFC wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '180 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi Redmi 9C NFC. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi Redmi 9C NFC wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '200 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi Redmi 9C NFC. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi Redmi 9A',
-    slug: 'xiaomi-redmi-9a/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi Redmi 9A wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '200 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi Redmi 9A. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi Redmi 9A wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '330 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi Redmi 9A. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi Redmi 9A wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '180 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi Redmi 9A. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi Redmi 9A wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '200 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi Redmi 9A. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi Redmi 9',
-    slug: 'xiaomi-redmi-9/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi Redmi 9 wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '220 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi Redmi 9. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi Redmi 9 wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '349 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi Redmi 9. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi Redmi 9 wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '199 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi Redmi 9. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi Redmi 9 wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '200 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi Redmi 9. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi Redmi 10',
-    slug: 'xiaomi-redmi-10/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi Redmi 10 wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '240 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi Redmi 10. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi Redmi 10 wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '330 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi Redmi 10. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi Redmi 10 wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '229 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi Redmi 10. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi Redmi 10 wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '200 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi Redmi 10. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi Redmi 10C',
-    slug: 'xiaomi-redmi-10c/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi Redmi 10C wymiana szybki',
+        title: 'Xiaomi Redmi 12 wymiana szybki',
         shortTitle: 'Przednia szybka',
         price: '250 zł',
         description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi Redmi 10C. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
       },
       {
         key: 'display',
-        title: 'Xiaomi Redmi 10C wymiana wyświetlacza',
+        title: 'Xiaomi Redmi 12 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '350 zł',
+        price: '380 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi Redmi 10C. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
-        title: 'Xiaomi Redmi 10C wymiana tylnej szyby',
+        title: 'Xiaomi Redmi 12 wymiana tylnej szyby',
         shortTitle: 'Tylna szybka',
         price: '230 zł',
         description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi Redmi 10C. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
       },
       {
         key: 'battery',
-        title: 'Xiaomi Redmi 10C wymiana baterii',
+        title: 'Xiaomi Redmi 12 wymiana baterii',
         shortTitle: 'Bateria',
         price: '230 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi Redmi 10C. Korzystamy tylko z najlepszych części zamiennych.',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
     ],
@@ -2112,7 +1146,7 @@ export const xiaomiRedmi = [
         shortTitle: 'Przednia szybka',
         price: '260 zł',
         description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi Redmi 12C. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
       },
       {
@@ -2121,7 +1155,7 @@ export const xiaomiRedmi = [
         shortTitle: 'Wyświetlacz',
         price: '380 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi Redmi 12C. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
       },
       {
@@ -2130,8 +1164,8 @@ export const xiaomiRedmi = [
         shortTitle: 'Tylna szybka',
         price: '230 zł',
         description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi Redmi 12C. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
       },
       {
         key: 'battery',
@@ -2139,49 +1173,1015 @@ export const xiaomiRedmi = [
         shortTitle: 'Bateria',
         price: '230 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi Redmi 12C. Korzystamy tylko z najlepszych części zamiennych.',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
     ],
   },
   {
-    name: 'Xiaomi Redmi 12',
-    slug: 'xiaomi-redmi-12/',
+    name: 'Xiaomi Redmi 10C',
+    slug: 'xiaomi-redmi-10c/',
     repairs: [
       {
         key: 'front-glass',
-        title: 'Xiaomi Redmi 12 wymiana szybki',
+        title: 'Xiaomi Redmi 10C wymiana szybki',
         shortTitle: 'Przednia szybka',
         price: '250 zł',
         description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi Redmi 12. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
       },
       {
         key: 'display',
-        title: 'Xiaomi Redmi 12 wymiana wyświetlacza',
+        title: 'Xiaomi Redmi 10C wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '380 zł',
+        price: '350 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi Redmi 12. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
-        title: 'Xiaomi Redmi 12 wymiana tylnej szyby',
+        title: 'Xiaomi Redmi 10C wymiana tylnej szyby',
         shortTitle: 'Tylna szybka',
         price: '230 zł',
         description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi Redmi 12. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
       },
       {
         key: 'battery',
-        title: 'Xiaomi Redmi 12 wymiana baterii',
+        title: 'Xiaomi Redmi 10C wymiana baterii',
         shortTitle: 'Bateria',
         price: '230 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi Redmi 12. Korzystamy tylko z najlepszych części zamiennych.',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Xiaomi Redmi 10',
+    slug: 'xiaomi-redmi-10/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Xiaomi Redmi 10 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '240 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Xiaomi Redmi 10 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '330 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Xiaomi Redmi 10 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '229 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Xiaomi Redmi 10 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '200 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Xiaomi Redmi 9',
+    slug: 'xiaomi-redmi-9/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Xiaomi Redmi 9 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '220 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Xiaomi Redmi 9 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '349 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Xiaomi Redmi 9 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '199 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Xiaomi Redmi 9 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '200 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Xiaomi Redmi 9A',
+    slug: 'xiaomi-redmi-9a/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Xiaomi Redmi 9A wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '200 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Xiaomi Redmi 9A wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '330 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Xiaomi Redmi 9A wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '180 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Xiaomi Redmi 9A wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '200 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Xiaomi Redmi 9C NFC',
+    slug: 'xiaomi-redmi-9c-nfc/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Xiaomi Redmi 9C NFC wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '230 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Xiaomi Redmi 9C NFC wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '349 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Xiaomi Redmi 9C NFC wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '180 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Xiaomi Redmi 9C NFC wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '200 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Xiaomi Redmi 9T',
+    slug: 'xiaomi-redmi-9t/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Xiaomi Redmi 9T wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '200 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Xiaomi Redmi 9T wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '349 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Xiaomi Redmi 9T wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '180 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Xiaomi Redmi 9T wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '200 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Xiaomi Redmi 8',
+    slug: 'xiaomi-redmi-8/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Xiaomi Redmi 8 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '180 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Xiaomi Redmi 8 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '349 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Xiaomi Redmi 8 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '199 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Xiaomi Redmi 8 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '200 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Xiaomi Redmi 8a',
+    slug: 'xiaomi-redmi-8a/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Xiaomi Redmi 8a wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '180 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Xiaomi Redmi 8a wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '330 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Xiaomi Redmi 8a wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '180 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Xiaomi Redmi 8a wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '200 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Xiaomi Redmi Note 12 Pro5G',
+    slug: 'xiaomi-redmi-note-12-pro5g/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Xiaomi Redmi Note 12 Pro5G wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '320 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Xiaomi Redmi Note 12 Pro5G wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '580 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Xiaomi Redmi Note 12 Pro5G wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '299 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Xiaomi Redmi Note 12 Pro5G wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '329 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Xiaomi Redmi Note 12',
+    slug: 'xiaomi-redmi-note-12/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Xiaomi Redmi Note 12 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '300 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Xiaomi Redmi Note 12 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '529 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Xiaomi Redmi Note 12 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '299 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Xiaomi Redmi Note 12 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '320 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Xiaomi Redmi Note 12s',
+    slug: 'xiaomi-redmi-note-12s/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Xiaomi Redmi Note 12s wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '350 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Xiaomi Redmi Note 12s wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '550 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Xiaomi Redmi Note 12s wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '299 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Xiaomi Redmi Note 12s wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '329 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Xiaomi Redmi Note 11 Pro',
+    slug: 'xiaomi-redmi-note-11-pro/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Xiaomi Redmi Note 11 Pro wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '330 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Xiaomi Redmi Note 11 Pro wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '649 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Xiaomi Redmi Note 11 Pro wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '299 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Xiaomi Redmi Note 11 Pro wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '320 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Xiaomi Redmi Note 11s',
+    slug: 'xiaomi-redmi-note-11s/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Xiaomi Redmi Note 11s wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '280 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Xiaomi Redmi Note 11s wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '620 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Xiaomi Redmi Note 11s wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '229 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Xiaomi Redmi Note 11s wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '260 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Xiaomi Redmi Note 11',
+    slug: 'xiaomi-redmi-note-11/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Xiaomi Redmi Note 11 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '280 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Xiaomi Redmi Note 11 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '650 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Xiaomi Redmi Note 11 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '229 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Xiaomi Redmi Note 11 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '260 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Xiaomi Redmi Note 10pro',
+    slug: 'xiaomi-redmi-note-10pro/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Xiaomi Redmi Note 10pro wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '320 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Xiaomi Redmi Note 10pro wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '580 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Xiaomi Redmi Note 10pro wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '249 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Xiaomi Redmi Note 10pro wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '249 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Xiaomi Redmi Note 10',
+    slug: 'xiaomi-redmi-note-10/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Xiaomi Redmi Note 10 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '280 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Xiaomi Redmi Note 10 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '449 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Xiaomi Redmi Note 10 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '249 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Xiaomi Redmi Note 10 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '249 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Xiaomi Redmi Note 10s',
+    slug: 'xiaomi-redmi-note-10s/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Xiaomi Redmi Note 10s wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '280 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Xiaomi Redmi Note 10s wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '580 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Xiaomi Redmi Note 10s wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '249 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Xiaomi Redmi Note 10s wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '249 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Xiaomi Redmi Note 9 Pro',
+    slug: 'xiaomi-redmi-note-9-pro/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Xiaomi Redmi Note 9 Pro wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '220 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Xiaomi Redmi Note 9 Pro wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '399 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Xiaomi Redmi Note 9 Pro wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '249 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Xiaomi Redmi Note 9 Pro wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '249 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Xiaomi Redmi Note 9i',
+    slug: 'xiaomi-redmi-note-9i/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Xiaomi Redmi Note 9i wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '180 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Xiaomi Redmi Note 9i wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '359 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Xiaomi Redmi Note 9i wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '150 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Xiaomi Redmi Note 9i wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '249 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Xiaomi Redmi Note 9s',
+    slug: 'xiaomi-redmi-note-9s/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Xiaomi Redmi Note 9s wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '180 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Xiaomi Redmi Note 9s wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '350 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Xiaomi Redmi Note 9s wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '240 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Xiaomi Redmi Note 9s wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '249 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Xiaomi Redmi Note 8',
+    slug: 'xiaomi-redmi-note-8/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Xiaomi Redmi Note 8 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '180 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Xiaomi Redmi Note 8 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '330 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Xiaomi Redmi Note 8 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '180 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Xiaomi Redmi Note 8 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '229 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Xiaomi Redmi Note 8 Pro',
+    slug: 'xiaomi-redmi-note-8-pro/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Xiaomi Redmi Note 8 Pro wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '199 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Xiaomi Redmi Note 8 Pro wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '340 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Xiaomi Redmi Note 8 Pro wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '240 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Xiaomi Redmi Note 8 Pro wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '229 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Xiaomi Redmi Note 8T',
+    slug: 'xiaomi-redmi-note-8t/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Xiaomi Redmi Note 8T wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '190 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Xiaomi Redmi Note 8T wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '329 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Xiaomi Redmi Note 8T wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '180 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Xiaomi Redmi Note 8T wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '220 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Xiaomi Redmi Note 7',
+    slug: 'xiaomi-redmi-note-7/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Xiaomi Redmi Note 7 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '180 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Xiaomi Redmi Note 7 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '299 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Xiaomi Redmi Note 7 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '180 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Xiaomi Redmi Note 7 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '199 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
     ],
