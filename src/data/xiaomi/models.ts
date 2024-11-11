@@ -1,966 +1,84 @@
 export const xiaomiMi = [
   {
-    name: 'Xiaomi MI 9SE',
-    slug: 'xiaomi-mi-9se/',
+    name: 'Xiaomi 13 Pro',
+    slug: 'xiaomi-13-pro/',
     repairs: [
       {
         key: 'front-glass',
-        title: 'Xiaomi MI 9SE wymiana szybki',
+        title: 'Xiaomi 13 Pro wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '290 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi MI 9SE. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi MI 9SE wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '579 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi MI 9SE. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi MI 9SE wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '279 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi MI 9SE. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi MI 9SE wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '229 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi MI 9SE. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi MI 9 Lite',
-    slug: 'xiaomi-mi-9-lite/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi MI 9 Lite wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '290 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi MI 9 Lite. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi MI 9 Lite wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '529 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi MI 9 Lite. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi MI 9 Lite wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '279 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi MI 9 Lite. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi MI 9 Lite wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '200 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi MI 9 Lite. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi MI 9',
-    slug: 'xiaomi-mi-9/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi MI 9 wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '340 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi MI 9. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi MI 9 wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '570 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi MI 9. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi MI 9 wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '279 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi MI 9. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi MI 9 wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '229 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi MI 9. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi MI 9T',
-    slug: 'xiaomi-mi-9t/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi MI 9T wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '330 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi MI 9T. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi MI 9T wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '550 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi MI 9T. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi MI 9T wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '300 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi MI 9T. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi MI 9T wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '279 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi MI 9T. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi MI 9T Pro',
-    slug: 'xiaomi-mi-9t-pro/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi MI 9T Pro wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '330 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi MI 9T Pro. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi MI 9T Pro wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '550 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi MI 9T Pro. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi MI 9T Pro wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '300 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi MI 9T Pro. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi MI 9T Pro wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '279 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi MI 9T Pro. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi MI Note 10 Lite',
-    slug: 'xiaomi-mi-note-10-lite/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi MI Note 10 Lite wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '390 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi MI Note 10 Lite. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi MI Note 10 Lite wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '460 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi MI Note 10 Lite. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi MI Note 10 Lite wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '279 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi MI Note 10 Lite. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi MI Note 10 Lite wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '249 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi MI Note 10 Lite. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi MI Note 10',
-    slug: 'xiaomi-mi-note-10/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi MI Note 10 wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '390 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi MI Note 10. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi MI Note 10 wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '520 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi MI Note 10. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi MI Note 10 wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '289 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi MI Note 10. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi MI Note 10 wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '249 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi MI Note 10. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi MI Note 10 Pro',
-    slug: 'xiaomi-mi-note-10-pro/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi MI Note 10 Pro wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '399 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi MI Note 10 Pro. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi MI Note 10 Pro wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '580 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi MI Note 10 Pro. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi MI Note 10 Pro wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '289 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi MI Note 10 Pro. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi MI Note 10 Pro wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '269 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi MI Note 10 Pro. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi MI 10T Lite',
-    slug: 'xiaomi-mi-10t-lite/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi MI 10T Lite wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '270 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi MI 10T Lite. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi MI 10T Lite wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '460 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi MI 10T Lite. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi MI 10T Lite wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '279 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi MI 10T Lite. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi MI 10T Lite wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '250 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi MI 10T Lite. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi MI 10T',
-    slug: 'xiaomi-mi-10t/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi MI 10T wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '310 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi MI 10T. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi MI 10T wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '490 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi MI 10T. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi MI 10T wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '289 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi MI 10T. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi MI 10T wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '250 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi MI 10T. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi MI 10T Pro',
-    slug: 'xiaomi-mi-10t-pro/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi MI 10T Pro wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '310 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi MI 10T Pro. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi MI 10T Pro wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '490 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi MI 10T Pro. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi MI 10T Pro wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '289 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi MI 10T Pro. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi MI 10T Pro wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '250 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi MI 10T Pro. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi MI 10 Lite',
-    slug: 'xiaomi-mi-10-lite/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi MI 10 Lite wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '330 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi MI 10 Lite. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi MI 10 Lite wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '530 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi MI 10 Lite. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi MI 10 Lite wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '279 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi MI 10 Lite. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi MI 10 Lite wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '249 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi MI 10 Lite. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi MI 10',
-    slug: 'xiaomi-mi-10/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi MI 10 wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '699 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi MI 10. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi MI 10 wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '930 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi MI 10. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi MI 10 wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '279 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi MI 10. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi MI 10 wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '280 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi MI 10. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi MI 10 Pro',
-    slug: 'xiaomi-mi-10-pro/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi MI 10 Pro wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '649 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi MI 10 Pro. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi MI 10 Pro wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '950 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi MI 10 Pro. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi MI 10 Pro wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '279 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi MI 10 Pro. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi MI 10 Pro wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '249 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi MI 10 Pro. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi MI 11 Lite 5G',
-    slug: 'xiaomi-mi-11-lite-5g/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi MI 11 Lite 5G wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '390 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi MI 11 Lite 5G. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi MI 11 Lite 5G wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '589 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi MI 11 Lite 5G. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi MI 11 Lite 5G wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '279 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi MI 11 Lite 5G. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi MI 11 Lite 5G wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '280 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi MI 11 Lite 5G. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi MI 11 Lite',
-    slug: 'xiaomi-mi-11-lite/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi MI 11 Lite wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '390 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi MI 11 Lite. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi MI 11 Lite wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '599 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi MI 11 Lite. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi MI 11 Lite wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '279 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi MI 11 Lite. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi MI 11 Lite wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '280 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi MI 11 Lite. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi MI 11i',
-    slug: 'xiaomi-mi-11i/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi MI 11i wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '439 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi MI 11i. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi MI 11i wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '739 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi MI 11i. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi MI 11i wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '349 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi MI 11i. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi MI 11i wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '289 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi MI 11i. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi MI 11',
-    slug: 'xiaomi-mi-11/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi MI 11 wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '799 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi MI 11. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi MI 11 wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '1399 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi MI 11. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi MI 11 wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '349 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi MI 11. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi MI 11 wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '280 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi MI 11. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi 12',
-    slug: 'xiaomi-12/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi 12 wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '510 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi 12. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi 12 wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '780 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi 12. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi 12 wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '329 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi 12. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi 12 wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '349 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi 12. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi 12 Lite',
-    slug: 'xiaomi-12-lite/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi 12 Lite wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '420 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi 12 Lite. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi 12 Lite wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '620 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi 12 Lite. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi 12 Lite wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '320 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi 12 Lite. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi 12 Lite wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '349 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi 12 Lite. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi 12X',
-    slug: 'xiaomi-12x/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi 12X wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '550 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi 12X. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi 12X wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
         price: '750 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi 12X. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Xiaomi 13 Pro wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '- zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
-        title: 'Xiaomi 12X wymiana tylnej szyby',
+        title: 'Xiaomi 13 Pro wymiana tylnej szyby',
         shortTitle: 'Tylna szybka',
-        price: '349 zł',
+        price: '399 zł',
         description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi 12X. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
       },
       {
         key: 'battery',
-        title: 'Xiaomi 12X wymiana baterii',
+        title: 'Xiaomi 13 Pro wymiana baterii',
         shortTitle: 'Bateria',
-        price: '349 zł',
+        price: '399 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi 12X. Korzystamy tylko z najlepszych części zamiennych.',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
     ],
   },
   {
-    name: 'Xiaomi 12 Pro',
-    slug: 'xiaomi-12-pro/',
+    name: 'Xiaomi 13',
+    slug: 'xiaomi-13/',
     repairs: [
       {
         key: 'front-glass',
-        title: 'Xiaomi 12 Pro wymiana szybki',
+        title: 'Xiaomi 13 wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '950 zł',
+        price: '650 zł',
         description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi 12 Pro. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
       },
       {
         key: 'display',
-        title: 'Xiaomi 12 Pro wymiana wyświetlacza',
+        title: 'Xiaomi 13 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '1449 zł',
+        price: '- zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi 12 Pro. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
-        title: 'Xiaomi 12 Pro wymiana tylnej szyby',
+        title: 'Xiaomi 13 wymiana tylnej szyby',
         shortTitle: 'Tylna szybka',
-        price: '379 zł',
+        price: '399 zł',
         description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi 12 Pro. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
       },
       {
         key: 'battery',
-        title: 'Xiaomi 12 Pro wymiana baterii',
+        title: 'Xiaomi 13 wymiana baterii',
         shortTitle: 'Bateria',
-        price: '339 zł',
+        price: '399 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi 12 Pro. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Xiaomi 12T',
-    slug: 'xiaomi-12t/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Xiaomi 12T wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '550 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi 12T. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Xiaomi 12T wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '649 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi 12T. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Xiaomi 12T wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '379 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi 12T. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
-      },
-      {
-        key: 'battery',
-        title: 'Xiaomi 12T wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '349 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi 12T. Korzystamy tylko z najlepszych części zamiennych.',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
     ],
@@ -975,7 +93,7 @@ export const xiaomiMi = [
         shortTitle: 'Przednia szybka',
         price: '550 zł',
         description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi 13 Lite. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
       },
       {
@@ -984,7 +102,7 @@ export const xiaomiMi = [
         shortTitle: 'Wyświetlacz',
         price: '730 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi 13 Lite. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
       },
       {
@@ -993,8 +111,8 @@ export const xiaomiMi = [
         shortTitle: 'Tylna szybka',
         price: '399 zł',
         description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi 13 Lite. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
       },
       {
         key: 'battery',
@@ -1002,91 +120,973 @@ export const xiaomiMi = [
         shortTitle: 'Bateria',
         price: '359 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi 13 Lite. Korzystamy tylko z najlepszych części zamiennych.',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
     ],
   },
   {
-    name: 'Xiaomi 13',
-    slug: 'xiaomi-13/',
+    name: 'Xiaomi 12T',
+    slug: 'xiaomi-12t/',
     repairs: [
       {
         key: 'front-glass',
-        title: 'Xiaomi 13 wymiana szybki',
+        title: 'Xiaomi 12T wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '900 zł',
+        price: '500 zł',
         description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi 13. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
       },
       {
         key: 'display',
-        title: 'Xiaomi 13 wymiana wyświetlacza',
+        title: 'Xiaomi 12T wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '-',
+        price: '649 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi 13. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
-        title: 'Xiaomi 13 wymiana tylnej szyby',
+        title: 'Xiaomi 12T wymiana tylnej szyby',
         shortTitle: 'Tylna szybka',
-        price: '399 zł',
+        price: '379 zł',
         description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi 13. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
       },
       {
         key: 'battery',
-        title: 'Xiaomi 13 wymiana baterii',
+        title: 'Xiaomi 12T wymiana baterii',
         shortTitle: 'Bateria',
-        price: '399 zł',
+        price: '349 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi 13. Korzystamy tylko z najlepszych części zamiennych.',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
     ],
   },
   {
-    name: 'Xiaomi 13 Pro',
-    slug: 'xiaomi-13-pro/',
+    name: 'Xiaomi 12 Pro',
+    slug: 'xiaomi-12-pro/',
     repairs: [
       {
         key: 'front-glass',
-        title: 'Xiaomi 13 Pro wymiana szybki',
+        title: 'Xiaomi 12 Pro wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '1100 zł',
+        price: '450 zł',
         description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim Xiaomi 13 Pro. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
       },
       {
         key: 'display',
-        title: 'Xiaomi 13 Pro wymiana wyświetlacza',
+        title: 'Xiaomi 12 Pro wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '-',
+        price: '1449 zł',
         description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim Xiaomi 13 Pro. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
-        title: 'Xiaomi 13 Pro wymiana tylnej szyby',
+        title: 'Xiaomi 12 Pro wymiana tylnej szyby',
         shortTitle: 'Tylna szybka',
-        price: '399 zł',
+        price: '379 zł',
         description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim Xiaomi 13 Pro. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '2-3 godziny',
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
       },
       {
         key: 'battery',
-        title: 'Xiaomi 13 Pro wymiana baterii',
+        title: 'Xiaomi 12 Pro wymiana baterii',
         shortTitle: 'Bateria',
-        price: '399 zł',
+        price: '339 zł',
         description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim Xiaomi 13 Pro. Korzystamy tylko z najlepszych części zamiennych.',
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Xiaomi 12X',
+    slug: 'xiaomi-12x/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Xiaomi 12X wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '450 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Xiaomi 12X wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '750 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Xiaomi 12X wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '349 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Xiaomi 12X wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '349 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Xiaomi 12 Lite',
+    slug: 'xiaomi-12-lite/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Xiaomi 12 Lite wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '380 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Xiaomi 12 Lite wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '620 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Xiaomi 12 Lite wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '320 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Xiaomi 12 Lite wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '349 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Xiaomi 12',
+    slug: 'xiaomi-12/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Xiaomi 12 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '500 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Xiaomi 12 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '780 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Xiaomi 12 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '329 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Xiaomi 12 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '349 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Xiaomi MI 11',
+    slug: 'xiaomi-mi-11/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Xiaomi MI 11 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '600 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Xiaomi MI 11 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '1399 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Xiaomi MI 11 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '349 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Xiaomi MI 11 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '280 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Xiaomi MI 11i',
+    slug: 'xiaomi-mi-11i/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Xiaomi MI 11i wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '400 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Xiaomi MI 11i wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '739 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Xiaomi MI 11i wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '349 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Xiaomi MI 11i wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '289 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Xiaomi MI 11 Lite',
+    slug: 'xiaomi-mi-11-lite/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Xiaomi MI 11 Lite wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '350 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Xiaomi MI 11 Lite wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '599 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Xiaomi MI 11 Lite wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '279 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Xiaomi MI 11 Lite wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '280 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Xiaomi MI 11 Lite 5G',
+    slug: 'xiaomi-mi-11-lite-5g/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Xiaomi MI 11 Lite 5G wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '350 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Xiaomi MI 11 Lite 5G wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '589 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Xiaomi MI 11 Lite 5G wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '279 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Xiaomi MI 11 Lite 5G wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '280 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Xiaomi MI 10 Pro',
+    slug: 'xiaomi-mi-10-pro/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Xiaomi MI 10 Pro wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '500 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Xiaomi MI 10 Pro wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '950 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Xiaomi MI 10 Pro wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '279 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Xiaomi MI 10 Pro wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '249 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Xiaomi MI 10',
+    slug: 'xiaomi-mi-10/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Xiaomi MI 10 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '450 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Xiaomi MI 10 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '930 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Xiaomi MI 10 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '279 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Xiaomi MI 10 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '280 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Xiaomi MI 10 Lite',
+    slug: 'xiaomi-mi-10-lite/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Xiaomi MI 10 Lite wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '330 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Xiaomi MI 10 Lite wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '530 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Xiaomi MI 10 Lite wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '279 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Xiaomi MI 10 Lite wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '249 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Xiaomi MI 10T Pro',
+    slug: 'xiaomi-mi-10t-pro/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Xiaomi MI 10T Pro wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '310 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Xiaomi MI 10T Pro wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '490 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Xiaomi MI 10T Pro wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '289 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Xiaomi MI 10T Pro wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '250 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Xiaomi MI 10T',
+    slug: 'xiaomi-mi-10t/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Xiaomi MI 10T wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '310 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Xiaomi MI 10T wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '490 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Xiaomi MI 10T wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '289 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Xiaomi MI 10T wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '250 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Xiaomi MI 10T Lite',
+    slug: 'xiaomi-mi-10t-lite/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Xiaomi MI 10T Lite wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '270 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Xiaomi MI 10T Lite wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '460 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Xiaomi MI 10T Lite wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '279 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Xiaomi MI 10T Lite wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '250 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Xiaomi MI Note 10 Pro',
+    slug: 'xiaomi-mi-note-10-pro/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Xiaomi MI Note 10 Pro wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '380 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Xiaomi MI Note 10 Pro wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '580 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Xiaomi MI Note 10 Pro wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '289 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Xiaomi MI Note 10 Pro wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '269 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Xiaomi MI Note 10',
+    slug: 'xiaomi-mi-note-10/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Xiaomi MI Note 10 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '380 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Xiaomi MI Note 10 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '520 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Xiaomi MI Note 10 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '289 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Xiaomi MI Note 10 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '249 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Xiaomi MI Note 10 Lite',
+    slug: 'xiaomi-mi-note-10-lite/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Xiaomi MI Note 10 Lite wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '390 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Xiaomi MI Note 10 Lite wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '460 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Xiaomi MI Note 10 Lite wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '279 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Xiaomi MI Note 10 Lite wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '249 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Xiaomi MI 9T Pro',
+    slug: 'xiaomi-mi-9t-pro/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Xiaomi MI 9T Pro wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '330 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Xiaomi MI 9T Pro wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '550 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Xiaomi MI 9T Pro wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '300 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Xiaomi MI 9T Pro wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '279 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Xiaomi MI 9T',
+    slug: 'xiaomi-mi-9t/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Xiaomi MI 9T wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '330 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Xiaomi MI 9T wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '550 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Xiaomi MI 9T wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '300 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Xiaomi MI 9T wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '279 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Xiaomi MI 9',
+    slug: 'xiaomi-mi-9/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Xiaomi MI 9 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '340 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Xiaomi MI 9 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '570 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Xiaomi MI 9 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '279 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Xiaomi MI 9 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '229 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Xiaomi MI 9 Lite',
+    slug: 'xiaomi-mi-9-lite/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Xiaomi MI 9 Lite wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '290 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Xiaomi MI 9 Lite wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '529 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Xiaomi MI 9 Lite wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '279 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Xiaomi MI 9 Lite wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '200 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Xiaomi MI 9SE',
+    slug: 'xiaomi-mi-9se/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Xiaomi MI 9SE wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '290 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Xiaomi MI 9SE wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '579 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Xiaomi MI 9SE wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '279 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Xiaomi MI 9SE wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '229 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
     ],
