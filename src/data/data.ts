@@ -2,6 +2,7 @@ import samsungCategories from './samsung/categories.ts';
 import categories from './xiaomi/categories.ts';
 import ipadCategories from './iPad/categories.ts';
 import appleCategories from './iphone/categories.ts';
+import googleCategories from './google/categories';
 
 const data = [
   {
@@ -23,6 +24,13 @@ const data = [
     imgSrc: '/images/xiaomi-photo.png',
     categories: categories,
     categoryTitle: 'Wybierz serię Xiaomi',
+  },
+  {
+    name: 'Google',
+    slug: 'google/',
+    imgSrc: '/images/googlePixel.png',
+    categories: googleCategories,
+    categoryTitle: 'Wybierz serię Google',
   },
   {
     name: 'iPad',
