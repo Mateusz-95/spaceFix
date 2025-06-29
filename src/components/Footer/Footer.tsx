@@ -31,10 +31,10 @@ const Footer = () => {
             <span className="hidden md:block">Ul.Malinowa 16/U1 Warszawa</span>
           </span>
         </a>
-        <a href="mailto:biurospacefix@gmail.com?subject=Potrzebuję%20naprawy!&body=Potrzebuję%20naprawy!%0D%0APoniżej%20podaję%20jaki%20sprzęt%20potrzebuje%20Waszej%20naprawy%20i%20co%20dokładnie%20mu%20dolega!%20:)">
+        <a href="mailto:kontakt@spacefix.pl?subject=Potrzebuję%20naprawy!&body=Potrzebuję%20naprawy!%0D%0APoniżej%20podaję%20jaki%20sprzęt%20potrzebuje%20Waszej%20naprawy%20i%20co%20dokładnie%20mu%20dolega!%20:)">
           <span className="flex items-center">
             <img alt="location-icon" src="/images/mail.png" className="mr-2" />
-            <span className="hidden md:block">biurospacefix@gmail.com</span>
+            <span className="hidden md:block">kontakt@spacefix.pl</span>
           </span>
         </a>
       </div>
