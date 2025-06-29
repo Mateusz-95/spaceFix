@@ -17,8 +17,7 @@ export const galaxyS = [
         title: 'Samsung Galaxy S23 Ultra wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '1450 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -59,8 +58,7 @@ export const galaxyS = [
         title: 'Samsung Galaxy S23 Plus wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '1000 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -101,8 +99,7 @@ export const galaxyS = [
         title: 'Samsung Galaxy S23 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '900 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -143,8 +140,7 @@ export const galaxyS = [
         title: 'Samsung Galaxy S22 Ultra wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '1450 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -185,8 +181,7 @@ export const galaxyS = [
         title: 'Samsung Galaxy S22 Plus wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '1000 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -227,8 +222,7 @@ export const galaxyS = [
         title: 'Samsung Galaxy S22 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '950 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -269,8 +263,7 @@ export const galaxyS = [
         title: 'Samsung Galaxy S21 Plus wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '900 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -311,8 +304,7 @@ export const galaxyS = [
         title: 'Samsung Galaxy S21 Ultra wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '1400 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -353,8 +345,7 @@ export const galaxyS = [
         title: 'Samsung Galaxy S21 FE wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '850 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -395,8 +386,7 @@ export const galaxyS = [
         title: 'Samsung Galaxy S21 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '800 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -437,8 +427,7 @@ export const galaxyS = [
         title: 'Samsung Galaxy S20 Ultra wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '1300 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -479,8 +468,7 @@ export const galaxyS = [
         title: 'Samsung Galaxy S20 Plus wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '1150 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -521,8 +509,7 @@ export const galaxyS = [
         title: 'Samsung Galaxy S20 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '1100 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -563,8 +550,7 @@ export const galaxyS = [
         title: 'Samsung Galaxy S20 FE wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '580 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -605,8 +591,7 @@ export const galaxyS = [
         title: 'Samsung Galaxy S10 Plus wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '1000 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -647,8 +632,7 @@ export const galaxyS = [
         title: 'Samsung Galaxy S10 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '800 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -689,8 +673,7 @@ export const galaxyS = [
         title: 'Samsung Galaxy S10e wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '500 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -731,8 +714,7 @@ export const galaxyS = [
         title: 'Samsung Galaxy S9 Plus wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '700 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -773,8 +755,7 @@ export const galaxyS = [
         title: 'Samsung Galaxy S9 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '600 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -815,8 +796,7 @@ export const galaxyS = [
         title: 'Samsung Galaxy S8 Plus wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '600 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -857,8 +837,7 @@ export const galaxyS = [
         title: 'Samsung Galaxy S8 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '500 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        ddescription: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -899,8 +878,7 @@ export const galaxyS = [
         title: 'Samsung Galaxy S7 Edge wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '500 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -941,8 +919,7 @@ export const galaxyS = [
         title: 'Samsung Galaxy S7 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '400 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -986,8 +963,7 @@ export const galaxyA = [
         title: 'Samsung Galaxy A9 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '440 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -1028,8 +1004,7 @@ export const galaxyA = [
         title: 'Samsung Galaxy A8 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '480 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -1070,8 +1045,7 @@ export const galaxyA = [
         title: 'Samsung Galaxy A72 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '550 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -1112,8 +1086,7 @@ export const galaxyA = [
         title: 'Samsung Galaxy A71 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '560 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -1154,8 +1127,7 @@ export const galaxyA = [
         title: 'Samsung Galaxy A70 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '550 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -1196,8 +1168,7 @@ export const galaxyA = [
         title: 'Samsung Galaxy A7 2018 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '420 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -1238,8 +1209,7 @@ export const galaxyA = [
         title: 'Samsung Galaxy A6 Plus wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '420 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -1280,8 +1250,7 @@ export const galaxyA = [
         title: 'Samsung Galaxy A6 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '360 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -1322,8 +1291,7 @@ export const galaxyA = [
         title: 'Samsung Galaxy A55 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '550 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -1364,8 +1332,7 @@ export const galaxyA = [
         title: 'Samsung Galaxy A54 5G wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '550 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -1406,8 +1373,7 @@ export const galaxyA = [
         title: 'Samsung Galaxy A53 5G wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '570 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -1448,8 +1414,7 @@ export const galaxyA = [
         title: 'Samsung Galaxy A52s wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '540 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -1490,8 +1455,7 @@ export const galaxyA = [
         title: 'Samsung Galaxy A52 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '540 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -1532,8 +1496,7 @@ export const galaxyA = [
         title: 'Samsung Galaxy A51 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '520 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -1574,8 +1537,7 @@ export const galaxyA = [
         title: 'Samsung Galaxy A50 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '450 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -1616,8 +1578,7 @@ export const galaxyA = [
         title: 'Samsung Galaxy A42 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '400 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -1658,8 +1619,7 @@ export const galaxyA = [
         title: 'Samsung Galaxy A41 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '470 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -1700,8 +1660,7 @@ export const galaxyA = [
         title: 'Samsung Galaxy A40 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '420 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -1742,8 +1701,7 @@ export const galaxyA = [
         title: 'Samsung Galaxy A320 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '400 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -1784,8 +1742,7 @@ export const galaxyA = [
         title: 'Samsung Galaxy A34 5G wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '540 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -1826,8 +1783,7 @@ export const galaxyA = [
         title: 'Samsung Galaxy A33 5G wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '570 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -1868,8 +1824,7 @@ export const galaxyA = [
         title: 'Samsung Galaxy A32 5G wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '380 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -1910,8 +1865,7 @@ export const galaxyA = [
         title: 'Samsung Galaxy A32 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '480 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -1952,8 +1906,7 @@ export const galaxyA = [
         title: 'Samsung Galaxy A31 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '380 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -1994,8 +1947,7 @@ export const galaxyA = [
         title: 'Samsung Galaxy A30s wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '350 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -2036,8 +1988,7 @@ export const galaxyA = [
         title: 'Samsung Galaxy A23 5G wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '400 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -2078,8 +2029,7 @@ export const galaxyA = [
         title: 'Samsung Galaxy A22 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '380 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -2120,8 +2070,7 @@ export const galaxyA = [
         title: 'Samsung Galaxy A21s wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '350 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -2162,8 +2111,7 @@ export const galaxyA = [
         title: 'Samsung Galaxy A20e wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '350 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -2204,8 +2152,7 @@ export const galaxyA = [
         title: 'Samsung Galaxy A14 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '350 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -2246,8 +2193,7 @@ export const galaxyA = [
         title: 'Samsung Galaxy A13 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '350 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -2288,8 +2234,7 @@ export const galaxyA = [
         title: 'Samsung Galaxy A12 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '330 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -2330,8 +2275,7 @@ export const galaxyA = [
         title: 'Samsung Galaxy A10 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '350 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -2372,8 +2316,7 @@ export const galaxyA = [
         title: 'Samsung Galaxy A03s wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '340 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -2414,8 +2357,7 @@ export const galaxyA = [
         title: 'Samsung Galaxy A02s wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '320 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -2459,8 +2401,7 @@ export const galaxyM = [
         title: 'Samsung Galaxy M53 5G wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '600 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -2501,8 +2442,7 @@ export const galaxyM = [
         title: 'Samsung Galaxy M52 5G wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '600 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -2543,8 +2483,7 @@ export const galaxyM = [
         title: 'Samsung Galaxy M51 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '560 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -2585,8 +2524,7 @@ export const galaxyM = [
         title: 'Samsung Galaxy M33 5G wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '440 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -2627,8 +2565,7 @@ export const galaxyM = [
         title: 'Samsung Galaxy M32 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '480 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -2669,8 +2606,7 @@ export const galaxyM = [
         title: 'Samsung Galaxy M31s wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '480 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -2711,8 +2647,7 @@ export const galaxyM = [
         title: 'Samsung Galaxy M31 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '400 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -2753,8 +2688,7 @@ export const galaxyM = [
         title: 'Samsung Galaxy M23 5G wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '380 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -2795,8 +2729,7 @@ export const galaxyM = [
         title: 'Samsung Galaxy M22 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '360 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -2837,8 +2770,7 @@ export const galaxyM = [
         title: 'Samsung Galaxy M21 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '360 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -2879,8 +2811,7 @@ export const galaxyM = [
         title: 'Samsung Galaxy M20 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '360 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -2921,8 +2852,7 @@ export const galaxyM = [
         title: 'Samsung Galaxy M13 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '349 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -2963,8 +2893,7 @@ export const galaxyM = [
         title: 'Samsung Galaxy M12 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '299 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -3005,8 +2934,7 @@ export const galaxyM = [
         title: 'Samsung Galaxy M11 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '299 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -3047,8 +2975,7 @@ export const galaxyM = [
         title: 'Samsung Galaxy A34 5G wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '540 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -3089,8 +3016,7 @@ export const galaxyM = [
         title: 'Samsung Galaxy A33 5G wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '570 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -3131,8 +3057,7 @@ export const galaxyM = [
         title: 'Samsung Galaxy A32 5G wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '380 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -3173,8 +3098,7 @@ export const galaxyM = [
         title: 'Samsung Galaxy A32 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '480 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -3215,8 +3139,7 @@ export const galaxyM = [
         title: 'Samsung Galaxy A31 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '380 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -3257,8 +3180,7 @@ export const galaxyM = [
         title: 'Samsung Galaxy A30s wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '350 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -3299,8 +3221,7 @@ export const galaxyM = [
         title: 'Samsung Galaxy A23 5G wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '400 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -3341,8 +3262,7 @@ export const galaxyM = [
         title: 'Samsung Galaxy A22 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '380 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -3383,8 +3303,7 @@ export const galaxyM = [
         title: 'Samsung Galaxy A21s wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '350 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -3425,8 +3344,7 @@ export const galaxyM = [
         title: 'Samsung Galaxy A20e wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '350 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -3467,8 +3385,7 @@ export const galaxyM = [
         title: 'Samsung Galaxy A14 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '350 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -3509,8 +3426,7 @@ export const galaxyM = [
         title: 'Samsung Galaxy A13 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '350 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -3551,8 +3467,7 @@ export const galaxyM = [
         title: 'Samsung Galaxy A12 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '330 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -3593,8 +3508,7 @@ export const galaxyM = [
         title: 'Samsung Galaxy A10 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '350 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -3635,8 +3549,7 @@ export const galaxyM = [
         title: 'Samsung Galaxy A03s wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '340 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -3677,8 +3590,7 @@ export const galaxyM = [
         title: 'Samsung Galaxy A02s wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '320 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -3722,8 +3634,7 @@ export const galaxyJ = [
         title: 'Samsung Galaxy J730 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '430 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -3764,8 +3675,7 @@ export const galaxyJ = [
         title: 'Samsung Galaxy J710 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '390 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -3806,8 +3716,7 @@ export const galaxyJ = [
         title: 'Samsung Galaxy J6 Plus wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '300 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -3848,8 +3757,7 @@ export const galaxyJ = [
         title: 'Samsung Galaxy J6 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '330 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -3890,8 +3798,7 @@ export const galaxyJ = [
         title: 'Samsung Galaxy J530 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '420 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -3932,8 +3839,7 @@ export const galaxyJ = [
         title: 'Samsung Galaxy J510 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '320 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -3974,8 +3880,7 @@ export const galaxyJ = [
         title: 'Samsung Galaxy J500 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '320 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -4016,8 +3921,7 @@ export const galaxyJ = [
         title: 'Samsung Galaxy J4 Plus wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '300 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -4058,8 +3962,7 @@ export const galaxyJ = [
         title: 'Samsung Galaxy J330 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '320 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -4100,8 +4003,7 @@ export const galaxyJ = [
         title: 'Samsung Galaxy J320 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '320 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -4145,8 +4047,7 @@ export const galaxyNote = [
         title: 'Samsung Galaxy Note 20 Ultra wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '1450 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -4187,8 +4088,7 @@ export const galaxyNote = [
         title: 'Samsung Galaxy Note 20 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '1000 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -4229,8 +4129,7 @@ export const galaxyNote = [
         title: 'Samsung Galaxy Note 10 Plus wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '1350 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -4271,8 +4170,7 @@ export const galaxyNote = [
         title: 'Samsung Galaxy Note 10 Lite wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '800 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -4313,8 +4211,7 @@ export const galaxyNote = [
         title: 'Samsung Galaxy Note 10 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '1100 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -4355,8 +4252,7 @@ export const galaxyNote = [
         title: 'Samsung Galaxy Note 9 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '950 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -4397,8 +4293,7 @@ export const galaxyNote = [
         title: 'Samsung Galaxy Note 8 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '900 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        description: ['wyświetlacz oryginalny regenerowany: 1999 zł', 'wyświetlacz oryginalny: 2399 zł'],
         duration: '3-4 godziny',
       },
       {
