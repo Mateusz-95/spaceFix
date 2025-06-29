@@ -87,7 +87,16 @@ const RepairInfo: React.FC<RepairInfoProps> = ({ data }) => {
           <div className="md:flex-grow flex md:w-2/3 max-md: mt-4 ">
             <div className="">
               <h3 className="md:text-2xl text-lg md:mb-5 text-blue-400">Opis naprawy:</h3>
-              <p className="md:text-lg text-base max-md:ml-2 max-md:mr-2">{data[currentRepair].description}</p>
+              {Array.isArray(data[currentRepair].description) ? (
+                <ul className="md:text-lg text-base max-md:ml-2 max-md:mr-2 list-disc list-inside">
+                  {data[currentRepair].description.map((item, idx) => (
+                    <li key={idx}>{item}</li>
+                  ))}
+                </ul>
+              ) : (
+                <p className="md:text-lg text-base max-md:ml-2 max-md:mr-2">{data[currentRepair].description}</p>
+              )}
+
               <h3 className="md:text-2xl md:mt-5 mt-2 text-lg text-blue-400">Gwarancja:</h3>
               <p className="md:text-lg">3 miesiące</p>
               <h3 className="md:text-2xl md:mt-5 mt-2 text-lg text-blue-400">Czas naprawy:</h3>
