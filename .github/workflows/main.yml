@@ -1,7 +1,7 @@
 name: Build and test
 on:
   push:
-    branches: [ prod ]
+    branches: [prod]
 
 jobs:
   setup:
@@ -38,7 +38,7 @@ jobs:
       - name: Build application
         run: npm run build
       - name: Upload artifacts
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: bundle
           path: dist
@@ -58,4 +58,3 @@ jobs:
           chmod 600 ~/.ssh/id_ecdsa
       - name: Copy data to remote server
         run: scp -i ~/.ssh/id_ecdsa -r -o StrictHostKeyChecking=no dist/* deploy@206.189.59.115:/var/www/space-fix
-          
