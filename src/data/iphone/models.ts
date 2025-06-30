@@ -108,7 +108,7 @@ const iPhoneModels = [
         title: 'iPhone 16 Plus wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '799 zł',
-        ddescription: [
+        description: [
           'wyświetlacz zamiennik 799',
           'wyświetlacz oryginalny regenerowany: 1599 zł',
           'wyświetlacz oryginalny Apple: 2099 zł',
@@ -203,7 +203,7 @@ const iPhoneModels = [
         price: '1099 zł',
         description: [
           'wyświetlacz zamiennik: 1099 zł',
-          'wyświetlacz oryginalny regenerowany: 1799 zł',
+          'wyświetlacz oryginalny regenerowany: 1899 zł',
           'wyświetlacz oryginalny Apple: 2199 zł',
         ],
         duration: '3-4 godziny',
@@ -250,8 +250,8 @@ const iPhoneModels = [
         price: '899 zł',
         description: [
           'wyświetlacz zamiennik 899',
-          'wyświetlacz oryginalny regenerowany: 1499 zł',
-          'wyświetlacz oryginalny Apple: 1899 zł',
+          'wyświetlacz oryginalny regenerowany: 1699 zł',
+          'wyświetlacz oryginalny Apple: 2099 zł',
         ],
         duration: '3-4 godziny',
       },
@@ -296,7 +296,7 @@ const iPhoneModels = [
         price: '799 zł',
         description: [
           'wyświetlacz zamiennik 799',
-          'wyświetlacz oryginalny regenerowany: 899 zł',
+          'wyświetlacz oryginalny regenerowany: 999 zł',
           'wyświetlacz oryginalny Apple: 1899 zł',
         ],
         duration: '3-4 godziny',
@@ -340,7 +340,7 @@ const iPhoneModels = [
         title: 'iPhone 15 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '799 zł',
-        ddescription: [
+        description: [
           'wyświetlacz zamiennik 799',
           'wyświetlacz oryginalny regenerowany: 1099 zł',
           'wyświetlacz oryginalny Apple: 1699 zł',
