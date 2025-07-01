@@ -1,5 +1,173 @@
 const googleModels = [
   {
+    name: 'Pixel 9 Pro XL',
+    slug: 'pixel-9-pro-xl/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Pixel 9 Pro XL wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '800 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Pixel 9 Pro XL wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '1400 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Pixel 9 Pro XL wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '- zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Pixel 9 Pro XL wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '450 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Pixel 9 Pro',
+    slug: 'pixel-9-pro/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Pixel 9 Pro wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '800 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Pixel 9 Pro wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '1400 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Pixel 9 Pro wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '- zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Pixel 9 Pro wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '450 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Pixel 9',
+    slug: 'pixel-9/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Pixel 9 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '800 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Pixel 9 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '1400 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Pixel 9 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '- zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Pixel 9 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '450 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Pixel 9a',
+    slug: 'pixel-9a/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Pixel 9a wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '800 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Pixel 9a wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '1400 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Pixel 9a wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '- zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Pixel 9a wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '450 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
     name: 'Pixel 8 Pro',
     slug: 'pixel-8-pro/',
     repairs: [
