@@ -1,5 +1,333 @@
 export const galaxyS = [
   {
+    name: 'Samsung Galaxy S25 Ultra',
+    slug: 'samsung-galaxy-s25-ultra/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy S25 Ultra wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '649 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy S25 Ultra wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '1099 zł',
+        description: ['wyświetlacz oryginalny bez ramki: 1099 zł', 'wyświetlacz oryginalny z ramką: 1499 zł'],
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy S25 Ultra wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '289 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy S25 Ultra wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '289 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy S25 Plus',
+    slug: 'samsung-galaxy-s25-plus/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy S25 Plus wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '549 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy S25 Plus wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '899 zł',
+        description: ['wyświetlacz oryginalny bez ramki: 899 zł', 'wyświetlacz oryginalny z ramką: 1099 zł'],
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy S25 Plus wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '289 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy S25 Plus wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '289 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy S25',
+    slug: 'samsung-galaxy-s25/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy S25 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '499 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy S25 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '799 zł',
+        description: ['wyświetlacz oryginalny bez ramki: 799 zł', 'wyświetlacz oryginalny z ramką: 999 zł'],
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy S25 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '289 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy S25 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '289 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy S25 FE',
+    slug: 'samsung-galaxy-s25-fe/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy S25 FE wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '550 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy S25 FE wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '900 zł',
+        description: ['wyświetlacz oryginalny regenerowany: 900 zł', 'wyświetlacz oryginalny: 900 zł'],
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy S25 FE wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '330 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy S25 FE wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '280 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy S24 Ultra',
+    slug: 'samsung-galaxy-s24-ultra/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy S24 Ultra wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '799 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy S24 Ultra wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '1199 zł',
+        description: ['wyświetlacz oryginalny bez ramki: 1199 zł', 'wyświetlacz oryginalny z ramką: 1499 zł'],
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy S24 Ultra wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '289 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy S24 Ultra wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '289 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy S24 Plus',
+    slug: 'samsung-galaxy-s24-plus/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy S24 Plus wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '549 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy S24 Plus wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '899 zł',
+        description: ['wyświetlacz oryginalny bez ramki: 999 zł', 'wyświetlacz oryginalny z ramką: 1299 zł'],
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy S24 Plus wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '289 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy S24 Plus wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '289 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy S24',
+    slug: 'samsung-galaxy-s24/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy S24 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '499 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy S24 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '799 zł',
+        description: ['wyświetlacz oryginalny bez ramki: 799 zł', 'wyświetlacz oryginalny z ramką: 999 zł'],
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy S24 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '289 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy S24 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '289 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy S24 FE',
+    slug: 'samsung-galaxy-s24-fe/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy S24 FE wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '299 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy S24 FE wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '499 zł',
+        description: ['wyświetlacz oryginalny bez ramki: 499 zł', 'wyświetlacz oryginalny z ramką: 689 zł'],
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy S24 FE wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '249 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy S24 FE wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '289 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
     name: 'Samsung Galaxy S23 Ultra',
     slug: 'samsung-galaxy-s23-ultra/',
     repairs: [
@@ -7,7 +335,7 @@ export const galaxyS = [
         key: 'front-glass',
         title: 'Samsung Galaxy S23 Ultra wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '700 zł',
+        price: '649 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -16,16 +344,15 @@ export const galaxyS = [
         key: 'display',
         title: 'Samsung Galaxy S23 Ultra wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '1450 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        price: '1099 zł',
+        description: ['wyświetlacz oryginalny bez ramki: 1099 zł', 'wyświetlacz oryginalny z ramką: 1399 zł'],
         duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
         title: 'Samsung Galaxy S23 Ultra wymiana tylnej szyby',
         shortTitle: 'Tylna szybka',
-        price: '350 zł',
+        price: '299 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
         duration: '4-5 godzin',
@@ -34,7 +361,7 @@ export const galaxyS = [
         key: 'battery',
         title: 'Samsung Galaxy S23 Ultra wymiana baterii',
         shortTitle: 'Bateria',
-        price: '330 zł',
+        price: '299 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
@@ -49,7 +376,7 @@ export const galaxyS = [
         key: 'front-glass',
         title: 'Samsung Galaxy S23 Plus wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '600 zł',
+        price: '599 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -58,16 +385,15 @@ export const galaxyS = [
         key: 'display',
         title: 'Samsung Galaxy S23 Plus wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '1000 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        price: '899 zł',
+        description: ['wyświetlacz oryginalny bez ramki: 899 zł', 'wyświetlacz oryginalny z ramką: 1099 zł'],
         duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
         title: 'Samsung Galaxy S23 Plus wymiana tylnej szyby',
         shortTitle: 'Tylna szybka',
-        price: '330 zł',
+        price: '289 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
         duration: '4-5 godzin',
@@ -76,7 +402,7 @@ export const galaxyS = [
         key: 'battery',
         title: 'Samsung Galaxy S23 Plus wymiana baterii',
         shortTitle: 'Bateria',
-        price: '280 zł',
+        price: '289 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
@@ -91,7 +417,7 @@ export const galaxyS = [
         key: 'front-glass',
         title: 'Samsung Galaxy S23 wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '550 zł',
+        price: '499 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -100,14 +426,95 @@ export const galaxyS = [
         key: 'display',
         title: 'Samsung Galaxy S23 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '900 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        price: '799 zł',
+        description: ['wyświetlacz oryginalny bez ramki: 799 zł', 'wyświetlacz oryginalny z ramką: 999 zł'],
         duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
         title: 'Samsung Galaxy S23 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '289 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy S23 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '289 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy S23 FE',
+    slug: 'samsung-galaxy-s23-fe/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy S23 FE wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '299 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy S23 FE wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '499 zł',
+        description: ['wyświetlacz oryginalny bez ramki: 499 zł', 'wyświetlacz oryginalny z ramką: 699 zł'],
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy S23 FE wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '289 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy S23 FE wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '289 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy S22 FE',
+    slug: 'samsung-galaxy-s22-fe/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy S22 FE wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '550 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy S22 FE wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '900 zł',
+        description: ['wyświetlacz oryginalny regenerowany: 900 zł', 'wyświetlacz oryginalny: 900 zł'],
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy S22 FE wymiana tylnej szyby',
         shortTitle: 'Tylna szybka',
         price: '330 zł',
         description:
@@ -116,7 +523,7 @@ export const galaxyS = [
       },
       {
         key: 'battery',
-        title: 'Samsung Galaxy S23 wymiana baterii',
+        title: 'Samsung Galaxy S22 FE wymiana baterii',
         shortTitle: 'Bateria',
         price: '280 zł',
         description:
@@ -133,7 +540,7 @@ export const galaxyS = [
         key: 'front-glass',
         title: 'Samsung Galaxy S22 Ultra wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '650 zł',
+        price: '699 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -142,16 +549,15 @@ export const galaxyS = [
         key: 'display',
         title: 'Samsung Galaxy S22 Ultra wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '1450 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        price: '1099 zł',
+        description: ['wyświetlacz oryginalny bez ramki: 1099 zł', 'wyświetlacz oryginalny z ramką: 1399 zł'],
         duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
         title: 'Samsung Galaxy S22 Ultra wymiana tylnej szyby',
         shortTitle: 'Tylna szybka',
-        price: '350 zł',
+        price: '329 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
         duration: '4-5 godzin',
@@ -160,7 +566,7 @@ export const galaxyS = [
         key: 'battery',
         title: 'Samsung Galaxy S22 Ultra wymiana baterii',
         shortTitle: 'Bateria',
-        price: '300 zł',
+        price: '299 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
@@ -175,7 +581,7 @@ export const galaxyS = [
         key: 'front-glass',
         title: 'Samsung Galaxy S22 Plus wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '550 zł',
+        price: '499 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -184,16 +590,15 @@ export const galaxyS = [
         key: 'display',
         title: 'Samsung Galaxy S22 Plus wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '1000 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        price: '899 zł',
+        description: ['wyświetlacz oryginalny bez ramki: 899 zł', 'wyświetlacz oryginalny z ramką: 1099 zł'],
         duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
         title: 'Samsung Galaxy S22 Plus wymiana tylnej szyby',
         shortTitle: 'Tylna szybka',
-        price: '300 zł',
+        price: '289 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
         duration: '4-5 godzin',
@@ -202,7 +607,7 @@ export const galaxyS = [
         key: 'battery',
         title: 'Samsung Galaxy S22 Plus wymiana baterii',
         shortTitle: 'Bateria',
-        price: '280 zł',
+        price: '289 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
@@ -217,7 +622,7 @@ export const galaxyS = [
         key: 'front-glass',
         title: 'Samsung Galaxy S22 wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '500 zł',
+        price: '499 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -226,16 +631,15 @@ export const galaxyS = [
         key: 'display',
         title: 'Samsung Galaxy S22 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '950 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        price: '899 zł',
+        description: ['wyświetlacz oryginalny bez ramki: 899 zł', 'wyświetlacz oryginalny z ramką: 1099 zł'],
         duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
         title: 'Samsung Galaxy S22 wymiana tylnej szyby',
         shortTitle: 'Tylna szybka',
-        price: '300 zł',
+        price: '289 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
         duration: '4-5 godzin',
@@ -244,7 +648,7 @@ export const galaxyS = [
         key: 'battery',
         title: 'Samsung Galaxy S22 wymiana baterii',
         shortTitle: 'Bateria',
-        price: '280 zł',
+        price: '289 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
@@ -259,7 +663,7 @@ export const galaxyS = [
         key: 'front-glass',
         title: 'Samsung Galaxy S21 Plus wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '550 zł',
+        price: '499 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -268,16 +672,15 @@ export const galaxyS = [
         key: 'display',
         title: 'Samsung Galaxy S21 Plus wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '900 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        price: '899 zł',
+        description: ['wyświetlacz oryginalny bez ramki: 899 zł', 'wyświetlacz oryginalny z ramką: 1099 zł'],
         duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
         title: 'Samsung Galaxy S21 Plus wymiana tylnej szyby',
         shortTitle: 'Tylna szybka',
-        price: '280 zł',
+        price: '289 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
         duration: '4-5 godzin',
@@ -286,7 +689,7 @@ export const galaxyS = [
         key: 'battery',
         title: 'Samsung Galaxy S21 Plus wymiana baterii',
         shortTitle: 'Bateria',
-        price: '270 zł',
+        price: '289 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
@@ -301,7 +704,7 @@ export const galaxyS = [
         key: 'front-glass',
         title: 'Samsung Galaxy S21 Ultra wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '600 zł',
+        price: '599 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -310,16 +713,15 @@ export const galaxyS = [
         key: 'display',
         title: 'Samsung Galaxy S21 Ultra wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '1400 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        price: '1099 zł',
+        description: ['wyświetlacz oryginalny bez ramki: 1099 zł', 'wyświetlacz oryginalny z ramką: 1399 zł'],
         duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
         title: 'Samsung Galaxy S21 Ultra wymiana tylnej szyby',
         shortTitle: 'Tylna szybka',
-        price: '300 zł',
+        price: '329 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
         duration: '4-5 godzin',
@@ -328,7 +730,7 @@ export const galaxyS = [
         key: 'battery',
         title: 'Samsung Galaxy S21 Ultra wymiana baterii',
         shortTitle: 'Bateria',
-        price: '300 zł',
+        price: '299 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
@@ -343,7 +745,7 @@ export const galaxyS = [
         key: 'front-glass',
         title: 'Samsung Galaxy S21 FE wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '400 zł',
+        price: '499 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -352,16 +754,16 @@ export const galaxyS = [
         key: 'display',
         title: 'Samsung Galaxy S21 FE wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '850 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        price: '799 zł',
+        description: ['wyświetlacz oryginalny bez ramki: 799 zł', 'wyświetlacz oryginalny z ramką: 999 zł'],
+
         duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
         title: 'Samsung Galaxy S21 FE wymiana tylnej szyby',
         shortTitle: 'Tylna szybka',
-        price: '250 zł',
+        price: '249 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
         duration: '4-5 godzin',
@@ -370,7 +772,7 @@ export const galaxyS = [
         key: 'battery',
         title: 'Samsung Galaxy S21 FE wymiana baterii',
         shortTitle: 'Bateria',
-        price: '250 zł',
+        price: '249 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
@@ -385,7 +787,7 @@ export const galaxyS = [
         key: 'front-glass',
         title: 'Samsung Galaxy S21 wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '380 zł',
+        price: '399 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -394,16 +796,16 @@ export const galaxyS = [
         key: 'display',
         title: 'Samsung Galaxy S21 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '800 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        price: '699 zł',
+        description: ['wyświetlacz oryginalny bez ramki: 699 zł', 'wyświetlacz oryginalny z ramką: 899 zł'],
+
         duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
         title: 'Samsung Galaxy S21 wymiana tylnej szyby',
         shortTitle: 'Tylna szybka',
-        price: '270 zł',
+        price: '269 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
         duration: '4-5 godzin',
@@ -412,7 +814,7 @@ export const galaxyS = [
         key: 'battery',
         title: 'Samsung Galaxy S21 wymiana baterii',
         shortTitle: 'Bateria',
-        price: '250 zł',
+        price: '249 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
@@ -427,7 +829,7 @@ export const galaxyS = [
         key: 'front-glass',
         title: 'Samsung Galaxy S20 Ultra wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '600 zł',
+        price: '599 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -436,16 +838,16 @@ export const galaxyS = [
         key: 'display',
         title: 'Samsung Galaxy S20 Ultra wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '1300 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        price: '999 zł',
+        description: ['wyświetlacz oryginalny bez ramki: 999 zł', 'wyświetlacz oryginalny z ramką: 1199 zł'],
+
         duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
         title: 'Samsung Galaxy S20 Ultra wymiana tylnej szyby',
         shortTitle: 'Tylna szybka',
-        price: '290 zł',
+        price: '289 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
         duration: '4-5 godzin',
@@ -454,7 +856,7 @@ export const galaxyS = [
         key: 'battery',
         title: 'Samsung Galaxy S20 Ultra wymiana baterii',
         shortTitle: 'Bateria',
-        price: '300 zł',
+        price: '289 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
@@ -469,7 +871,7 @@ export const galaxyS = [
         key: 'front-glass',
         title: 'Samsung Galaxy S20 Plus wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '500 zł',
+        price: '499 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -478,16 +880,15 @@ export const galaxyS = [
         key: 'display',
         title: 'Samsung Galaxy S20 Plus wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '1150 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        price: '899 zł',
+        description: ['wyświetlacz oryginalny bez ramki: 899 zł', 'wyświetlacz oryginalny z ramką: 1099 zł'],
         duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
         title: 'Samsung Galaxy S20 Plus wymiana tylnej szyby',
         shortTitle: 'Tylna szybka',
-        price: '270 zł',
+        price: '269 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
         duration: '4-5 godzin',
@@ -496,7 +897,7 @@ export const galaxyS = [
         key: 'battery',
         title: 'Samsung Galaxy S20 Plus wymiana baterii',
         shortTitle: 'Bateria',
-        price: '270 zł',
+        price: '269 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
@@ -511,7 +912,7 @@ export const galaxyS = [
         key: 'front-glass',
         title: 'Samsung Galaxy S20 wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '450 zł',
+        price: '449 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -520,16 +921,15 @@ export const galaxyS = [
         key: 'display',
         title: 'Samsung Galaxy S20 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '1100 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        price: '799 zł',
+        description: ['wyświetlacz oryginalny bez ramki: 799 zł', 'wyświetlacz oryginalny z ramką: 999 zł'],
         duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
         title: 'Samsung Galaxy S20 wymiana tylnej szyby',
         shortTitle: 'Tylna szybka',
-        price: '250 zł',
+        price: '249 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
         duration: '4-5 godzin',
@@ -538,7 +938,7 @@ export const galaxyS = [
         key: 'battery',
         title: 'Samsung Galaxy S20 wymiana baterii',
         shortTitle: 'Bateria',
-        price: '270 zł',
+        price: '249 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
@@ -553,7 +953,7 @@ export const galaxyS = [
         key: 'front-glass',
         title: 'Samsung Galaxy S20 FE wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '330 zł',
+        price: '299 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -562,16 +962,15 @@ export const galaxyS = [
         key: 'display',
         title: 'Samsung Galaxy S20 FE wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '580 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        price: '499 zł',
+        description: ['wyświetlacz oryginalny bez ramki: 499 zł', 'wyświetlacz oryginalny z ramką: 579 zł'],
         duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
         title: 'Samsung Galaxy S20 FE wymiana tylnej szyby',
         shortTitle: 'Tylna szybka',
-        price: '230 zł',
+        price: '229 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
         duration: '4-5 godzin',
@@ -580,7 +979,7 @@ export const galaxyS = [
         key: 'battery',
         title: 'Samsung Galaxy S20 FE wymiana baterii',
         shortTitle: 'Bateria',
-        price: '250 zł',
+        price: '249 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
@@ -595,7 +994,7 @@ export const galaxyS = [
         key: 'front-glass',
         title: 'Samsung Galaxy S10 Plus wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '450 zł',
+        price: '399 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -604,16 +1003,15 @@ export const galaxyS = [
         key: 'display',
         title: 'Samsung Galaxy S10 Plus wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '1000 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        price: '699 zł',
+        description: ['wyświetlacz oryginalny regenerowany: 699 zł', 'wyświetlacz oryginalny: 899 zł'],
         duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
         title: 'Samsung Galaxy S10 Plus wymiana tylnej szyby',
         shortTitle: 'Tylna szybka',
-        price: '250 zł',
+        price: '249 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
         duration: '4-5 godzin',
@@ -622,7 +1020,7 @@ export const galaxyS = [
         key: 'battery',
         title: 'Samsung Galaxy S10 Plus wymiana baterii',
         shortTitle: 'Bateria',
-        price: '270 zł',
+        price: '269 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
@@ -637,7 +1035,7 @@ export const galaxyS = [
         key: 'front-glass',
         title: 'Samsung Galaxy S10 wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '400 zł',
+        price: '369 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -646,16 +1044,15 @@ export const galaxyS = [
         key: 'display',
         title: 'Samsung Galaxy S10 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '800 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        price: '599 zł',
+        description: ['wyświetlacz oryginalny bez ramki: 599 zł', 'wyświetlacz oryginalny z ramką: 799 zł'],
         duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
         title: 'Samsung Galaxy S10 wymiana tylnej szyby',
         shortTitle: 'Tylna szybka',
-        price: '230 zł',
+        price: '229 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
         duration: '4-5 godzin',
@@ -664,7 +1061,7 @@ export const galaxyS = [
         key: 'battery',
         title: 'Samsung Galaxy S10 wymiana baterii',
         shortTitle: 'Bateria',
-        price: '250 zł',
+        price: '249 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
@@ -679,7 +1076,7 @@ export const galaxyS = [
         key: 'front-glass',
         title: 'Samsung Galaxy S10e wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '250 zł',
+        price: '249 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -688,16 +1085,15 @@ export const galaxyS = [
         key: 'display',
         title: 'Samsung Galaxy S10e wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '500 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        price: '449 zł',
+        description: ['wyświetlacz oryginalny bez ramki: 449 zł', 'wyświetlacz oryginalny z ramką: 699 zł'],
         duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
         title: 'Samsung Galaxy S10e wymiana tylnej szyby',
         shortTitle: 'Tylna szybka',
-        price: '230 zł',
+        price: '229 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
         duration: '4-5 godzin',
@@ -706,7 +1102,7 @@ export const galaxyS = [
         key: 'battery',
         title: 'Samsung Galaxy S10e wymiana baterii',
         shortTitle: 'Bateria',
-        price: '250 zł',
+        price: '249 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
@@ -721,7 +1117,7 @@ export const galaxyS = [
         key: 'front-glass',
         title: 'Samsung Galaxy S9 Plus wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '350 zł',
+        price: '349 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -730,16 +1126,15 @@ export const galaxyS = [
         key: 'display',
         title: 'Samsung Galaxy S9 Plus wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '700 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        price: '549 zł',
+        description: ['wyświetlacz oryginalny bez ramki: 549 zł', 'wyświetlacz oryginalny z ramką: 799 zł'],
         duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
         title: 'Samsung Galaxy S9 Plus wymiana tylnej szyby',
         shortTitle: 'Tylna szybka',
-        price: '200 zł',
+        price: '199 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
         duration: '4-5 godzin',
@@ -748,7 +1143,7 @@ export const galaxyS = [
         key: 'battery',
         title: 'Samsung Galaxy S9 Plus wymiana baterii',
         shortTitle: 'Bateria',
-        price: '250 zł',
+        price: '249 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
@@ -763,7 +1158,7 @@ export const galaxyS = [
         key: 'front-glass',
         title: 'Samsung Galaxy S9 wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '300 zł',
+        price: '299 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -772,16 +1167,15 @@ export const galaxyS = [
         key: 'display',
         title: 'Samsung Galaxy S9 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '600 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        price: '499 zł',
+        description: ['wyświetlacz oryginalny bez ramki: 499 zł', 'wyświetlacz oryginalny z ramką: 699 zł'],
         duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
         title: 'Samsung Galaxy S9 wymiana tylnej szyby',
         shortTitle: 'Tylna szybka',
-        price: '180 zł',
+        price: '179 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
         duration: '4-5 godzin',
@@ -790,7 +1184,7 @@ export const galaxyS = [
         key: 'battery',
         title: 'Samsung Galaxy S9 wymiana baterii',
         shortTitle: 'Bateria',
-        price: '230 zł',
+        price: '229 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
@@ -805,7 +1199,7 @@ export const galaxyS = [
         key: 'front-glass',
         title: 'Samsung Galaxy S8 Plus wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '300 zł',
+        price: '299 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -814,16 +1208,15 @@ export const galaxyS = [
         key: 'display',
         title: 'Samsung Galaxy S8 Plus wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '600 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        price: '499 zł',
+        description: ['wyświetlacz oryginalny regenerowany: 499 zł', 'wyświetlacz oryginalny: 599 zł'],
         duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
         title: 'Samsung Galaxy S8 Plus wymiana tylnej szyby',
         shortTitle: 'Tylna szybka',
-        price: '180 zł',
+        price: '179 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
         duration: '4-5 godzin',
@@ -832,7 +1225,7 @@ export const galaxyS = [
         key: 'battery',
         title: 'Samsung Galaxy S8 Plus wymiana baterii',
         shortTitle: 'Bateria',
-        price: '200 zł',
+        price: '199 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
@@ -847,7 +1240,7 @@ export const galaxyS = [
         key: 'front-glass',
         title: 'Samsung Galaxy S8 wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '260 zł',
+        price: '249 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -856,16 +1249,15 @@ export const galaxyS = [
         key: 'display',
         title: 'Samsung Galaxy S8 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '500 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        price: '398 zł',
+        description: ['wyświetlacz oryginalny bez ramki: 399 zł', 'wyświetlacz oryginalny z ramką: 599 zł'],
         duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
         title: 'Samsung Galaxy S8 wymiana tylnej szyby',
         shortTitle: 'Tylna szybka',
-        price: '180 zł',
+        price: '179 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
         duration: '4-5 godzin',
@@ -874,7 +1266,7 @@ export const galaxyS = [
         key: 'battery',
         title: 'Samsung Galaxy S8 wymiana baterii',
         shortTitle: 'Bateria',
-        price: '200 zł',
+        price: '199 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
@@ -889,7 +1281,7 @@ export const galaxyS = [
         key: 'front-glass',
         title: 'Samsung Galaxy S7 Edge wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '300 zł',
+        price: '299 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -898,9 +1290,8 @@ export const galaxyS = [
         key: 'display',
         title: 'Samsung Galaxy S7 Edge wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '500 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        price: '499 zł',
+        description: ['wyświetlacz oryginalny regenerowany: 499 zł', 'wyświetlacz oryginalny: 699 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -931,7 +1322,7 @@ export const galaxyS = [
         key: 'front-glass',
         title: 'Samsung Galaxy S7 wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '200 zł',
+        price: '199 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -940,16 +1331,15 @@ export const galaxyS = [
         key: 'display',
         title: 'Samsung Galaxy S7 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '400 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        price: '399 zł',
+        description: ['wyświetlacz oryginalny regenerowany: 399 zł', 'wyświetlacz oryginalny: 599 zł'],
         duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
         title: 'Samsung Galaxy S7 wymiana tylnej szyby',
         shortTitle: 'Tylna szybka',
-        price: '180 zł',
+        price: '179 zł',
         description:
           'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
         duration: '4-5 godzin',
@@ -958,7 +1348,7 @@ export const galaxyS = [
         key: 'battery',
         title: 'Samsung Galaxy S7 wymiana baterii',
         shortTitle: 'Bateria',
-        price: '180 zł',
+        price: '179 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
