@@ -1359,6 +1359,1770 @@ export const galaxyS = [
 
 export const galaxyA = [
   {
+    name: 'Samsung Galaxy A73',
+    slug: 'samsung-galaxy-a73/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A73 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '250 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A73 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '440 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A73 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '180 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A73 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '210 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A72',
+    slug: 'samsung-galaxy-a72/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A72 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '299 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A72 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '549 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A72 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '199 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A72 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '239 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A71',
+    slug: 'samsung-galaxy-a71/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A71 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '299 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A71 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '539 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A71 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '199 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A71 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '229 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A70',
+    slug: 'samsung-galaxy-a70/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A70 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '249 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A70 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '499 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A70 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '189 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A70 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '229 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A56',
+    slug: 'samsung-galaxy-a56/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A56 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '299 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A56 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '499 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A56 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '189 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A56 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '249 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A55',
+    slug: 'samsung-galaxy-a55/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A55 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '299 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A55 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '499 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A55 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '189 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A55 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '249 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A54 5G',
+    slug: 'samsung-galaxy-a54-5g/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A54 5G wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '299 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A54 5G wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '499 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A54 5G wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '189 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A54 5G wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '249 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A53 5G',
+    slug: 'samsung-galaxy-a53-5g/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A53 5G wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '299 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A53 5G wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '499 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A53 5G wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '179 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A53 5G wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '249 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A52s',
+    slug: 'samsung-galaxy-a52s/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A52s wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '279 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A52s wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '499 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A52s wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '179 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A52s wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '249 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A52',
+    slug: 'samsung-galaxy-a52/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A52 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '279 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A52 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '499 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A52 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '179 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A52 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '249 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A51',
+    slug: 'samsung-galaxy-a51/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A51 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '229 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A51 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '499 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A51 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '179 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A51 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '249 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A50',
+    slug: 'samsung-galaxy-a50/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A50 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '199 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A50 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '449 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A50 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '179 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A50 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '229 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A42 5G',
+    slug: 'samsung-galaxy-a42-5g/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A42 5G wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '199 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A42 5G wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '399 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A42 5G wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '179 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A42 5G wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '229 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A41',
+    slug: 'samsung-galaxy-a41/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A41 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '199 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A41 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '449 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A41 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '169 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A41 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '229 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A40',
+    slug: 'samsung-galaxy-a40/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A40 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '199 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A40 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '399 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A40 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '179 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A40 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '229 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A36 5G',
+    slug: 'samsung-galaxy-a36-5g/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A36 5G wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '349 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A36 5G wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '549 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A36 5G wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '199 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A36 5G wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '249 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A35 5G',
+    slug: 'samsung-galaxy-A35-5g/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A35 5G wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '299 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A35 5G wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '499 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A35 5G wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '199 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A35 5G wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '249 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A34 5G',
+    slug: 'samsung-galaxy-a34-5g/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A34 5G wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '299 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A34 5G wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '499 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A34 5G wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '179 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A34 5G wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '249 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A33 5G',
+    slug: 'samsung-galaxy-a33-5g/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A33 5G wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '299 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A33 5G wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '499 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A33 5G wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '199 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A33 5G wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '249 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A34 4G',
+    slug: 'samsung-galaxy-a34-4g/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A34 4G wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '250 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A34 4G wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '570 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A34 4G wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '200 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A34 4G wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '240 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A31',
+    slug: 'samsung-galaxy-a31/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A31 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '230 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A31 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '380 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A31 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '180 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A31 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '230 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A30s',
+    slug: 'samsung-galaxy-a30s/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A30s wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '200 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A30s wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '350 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A30s wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '170 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A30s wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '220 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A26 5G',
+    slug: 'samsung-galaxy-a26-5g/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A26 5G wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '200 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A26 5G wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '350 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A26 5G wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '170 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A26 5G wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '220 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A25 5G',
+    slug: 'samsung-galaxy-a26-5g/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A25 5G wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '200 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A25 5G wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '350 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A25 5G wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '170 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A25 5G wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '220 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A23 5G',
+    slug: 'samsung-galaxy-a23-5g/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A23 5G wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '300 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A23 5G wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '400 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A23 5G wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '200 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A23 5G wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '240 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A22 5G',
+    slug: 'samsung-galaxy-a22-5g/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A22 5G wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '300 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A22 5G wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '400 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A22 5G wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '200 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A22 5G wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '240 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A22 5G',
+    slug: 'samsung-galaxy-a22-5g/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A22 5G wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '300 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A22 5G wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '400 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A22 5G wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '200 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A22 5G wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '240 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A22 4G',
+    slug: 'samsung-galaxy-a22-4g/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A22 4G wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '300 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A22 4G wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '400 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A22 4G wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '200 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A22 4G wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '240 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A21s',
+    slug: 'samsung-galaxy-a21s/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A21s wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '200 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A21s wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '350 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A21s wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '170 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A21s wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '230 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A20e',
+    slug: 'samsung-galaxy-a20e/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A20e wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '170 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A20e wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '350 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A20e wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '170 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A20e wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '210 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A16 5G',
+    slug: 'samsung-galaxy-a16-5g/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A16 5G wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '250 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A16 5G wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '440 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A16 5G wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '180 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A16 5G wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '210 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A15 5G',
+    slug: 'samsung-galaxy-a15-5g/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A15 5G wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '250 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A15 5G wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '440 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A15 5G wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '180 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A15 5G wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '210 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A14 5G',
+    slug: 'samsung-galaxy-a14-5g/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A14 5G wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '250 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A14 5G wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '440 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A14 5G wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '180 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A14 5G wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '210 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A14 4G',
+    slug: 'samsung-galaxy-a14-4g/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A14 4G wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '250 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A14 4G wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '440 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A14 4G wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '180 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A14 4G wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '210 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A13 5G',
+    slug: 'samsung-galaxy-a13-5g/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A13 5G wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '250 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A13 5G wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '440 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A13 5G wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '180 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A13 5G wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '210 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A12',
+    slug: 'samsung-galaxy-a12/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A12 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '200 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A12 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '330 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A12 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '170 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A12 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '230 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A10',
+    slug: 'samsung-galaxy-a10/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A10 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '180 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A10 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '350 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A10 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '140 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A10 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '210 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A05s',
+    slug: 'samsung-galaxy-a05s/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A05s wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '180 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A05s wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '350 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A05s wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '140 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A05s wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '210 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A05',
+    slug: 'samsung-galaxy-a05/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A05 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '180 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A05 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '350 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A05 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '140 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A05 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '210 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A04s',
+    slug: 'samsung-galaxy-a04s/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A04s wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '180 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A04s wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '350 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A04s wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '140 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A04s wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '210 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A04',
+    slug: 'samsung-galaxy-a04/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A04 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '180 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A04 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '350 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A04 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '140 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A04 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '210 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A03s',
+    slug: 'samsung-galaxy-a03s/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A03s wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '230 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A03s wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '340 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A03s wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '150 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A03s wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '240 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
     name: 'Samsung Galaxy A9',
     slug: 'samsung-galaxy-a9/',
     repairs: [
@@ -1436,132 +3200,6 @@ export const galaxyA = [
         title: 'Samsung Galaxy A8 wymiana baterii',
         shortTitle: 'Bateria',
         price: '200 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Samsung Galaxy A72',
-    slug: 'samsung-galaxy-a72/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Samsung Galaxy A72 wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '300 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Samsung Galaxy A72 wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '550 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Samsung Galaxy A72 wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '170 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '4-5 godzin',
-      },
-      {
-        key: 'battery',
-        title: 'Samsung Galaxy A72 wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '240 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Samsung Galaxy A71',
-    slug: 'samsung-galaxy-a71/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Samsung Galaxy A71 wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '300 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Samsung Galaxy A71 wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '560 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Samsung Galaxy A71 wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '200 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '4-5 godzin',
-      },
-      {
-        key: 'battery',
-        title: 'Samsung Galaxy A71 wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '230 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Samsung Galaxy A70',
-    slug: 'samsung-galaxy-a70/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Samsung Galaxy A70 wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '250 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Samsung Galaxy A70 wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '550 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Samsung Galaxy A70 wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '190 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '4-5 godzin',
-      },
-      {
-        key: 'battery',
-        title: 'Samsung Galaxy A70 wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '230 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
@@ -1695,300 +3333,6 @@ export const galaxyA = [
     ],
   },
   {
-    name: 'Samsung Galaxy A55',
-    slug: 'samsung-galaxy-a55/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Samsung Galaxy A55 wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '350 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Samsung Galaxy A55 wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '550 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Samsung Galaxy A55 wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '160 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '4-5 godzin',
-      },
-      {
-        key: 'battery',
-        title: 'Samsung Galaxy A55 wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '260 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Samsung Galaxy A54 5G',
-    slug: 'samsung-galaxy-a54-5g/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Samsung Galaxy A54 5G wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '350 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Samsung Galaxy A54 5G wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '550 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Samsung Galaxy A54 5G wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '200 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '4-5 godzin',
-      },
-      {
-        key: 'battery',
-        title: 'Samsung Galaxy A54 5G wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '260 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Samsung Galaxy A53 5G',
-    slug: 'samsung-galaxy-a53-5g/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Samsung Galaxy A53 5G wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '340 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Samsung Galaxy A53 5G wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '570 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Samsung Galaxy A53 5G wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '180 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '4-5 godzin',
-      },
-      {
-        key: 'battery',
-        title: 'Samsung Galaxy A53 5G wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '240 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Samsung Galaxy A52s',
-    slug: 'samsung-galaxy-a52s/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Samsung Galaxy A52s wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '280 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Samsung Galaxy A52s wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '540 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Samsung Galaxy A52s wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '180 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '4-5 godzin',
-      },
-      {
-        key: 'battery',
-        title: 'Samsung Galaxy A52s wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '230 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Samsung Galaxy A52',
-    slug: 'samsung-galaxy-a52/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Samsung Galaxy A52 wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '280 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Samsung Galaxy A52 wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '540 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Samsung Galaxy A52 wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '170 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '4-5 godzin',
-      },
-      {
-        key: 'battery',
-        title: 'Samsung Galaxy A52 wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '230 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Samsung Galaxy A51',
-    slug: 'samsung-galaxy-a51/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Samsung Galaxy A51 wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '230 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Samsung Galaxy A51 wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '520 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Samsung Galaxy A51 wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '190 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '4-5 godzin',
-      },
-      {
-        key: 'battery',
-        title: 'Samsung Galaxy A51 wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '230 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Samsung Galaxy A50',
-    slug: 'samsung-galaxy-a50/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Samsung Galaxy A50 wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '200 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Samsung Galaxy A50 wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '450 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Samsung Galaxy A50 wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '180 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '4-5 godzin',
-      },
-      {
-        key: 'battery',
-        title: 'Samsung Galaxy A50 wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '230 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
     name: 'Samsung Galaxy A42',
     slug: 'samsung-galaxy-a42/',
     repairs: [
@@ -2031,90 +3375,6 @@ export const galaxyA = [
     ],
   },
   {
-    name: 'Samsung Galaxy A41',
-    slug: 'samsung-galaxy-a41/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Samsung Galaxy A41 wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '250 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Samsung Galaxy A41 wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '470 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Samsung Galaxy A41 wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '170 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '4-5 godzin',
-      },
-      {
-        key: 'battery',
-        title: 'Samsung Galaxy A41 wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '240 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Samsung Galaxy A40',
-    slug: 'samsung-galaxy-a40/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Samsung Galaxy A40 wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '200 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Samsung Galaxy A40 wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '420 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Samsung Galaxy A40 wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '160 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '4-5 godzin',
-      },
-      {
-        key: 'battery',
-        title: 'Samsung Galaxy A40 wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '220 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
     name: 'Samsung Galaxy A320',
     slug: 'samsung-galaxy-a320/',
     repairs: [
@@ -2150,90 +3410,6 @@ export const galaxyA = [
         title: 'Samsung Galaxy A320 wymiana baterii',
         shortTitle: 'Bateria',
         price: '200 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Samsung Galaxy A34 5G',
-    slug: 'samsung-galaxy-a34-5g/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Samsung Galaxy A34 5G wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '280 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Samsung Galaxy A34 5G wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '540 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Samsung Galaxy A34 5G wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '170 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '4-5 godzin',
-      },
-      {
-        key: 'battery',
-        title: 'Samsung Galaxy A34 5G wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '240 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Samsung Galaxy A33 5G',
-    slug: 'samsung-galaxy-a33-5g/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Samsung Galaxy A33 5G wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '250 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Samsung Galaxy A33 5G wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '570 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Samsung Galaxy A33 5G wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '200 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '4-5 godzin',
-      },
-      {
-        key: 'battery',
-        title: 'Samsung Galaxy A33 5G wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '240 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
@@ -2325,132 +3501,6 @@ export const galaxyA = [
     ],
   },
   {
-    name: 'Samsung Galaxy A31',
-    slug: 'samsung-galaxy-a31/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Samsung Galaxy A31 wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '230 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Samsung Galaxy A31 wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '380 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Samsung Galaxy A31 wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '180 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '4-5 godzin',
-      },
-      {
-        key: 'battery',
-        title: 'Samsung Galaxy A31 wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '230 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Samsung Galaxy A30s',
-    slug: 'samsung-galaxy-a30s/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Samsung Galaxy A30s wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '200 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Samsung Galaxy A30s wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '350 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Samsung Galaxy A30s wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '170 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '4-5 godzin',
-      },
-      {
-        key: 'battery',
-        title: 'Samsung Galaxy A30s wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '220 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Samsung Galaxy A23 5G',
-    slug: 'samsung-galaxy-a23-5g/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Samsung Galaxy A23 5G wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '300 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Samsung Galaxy A23 5G wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '400 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Samsung Galaxy A23 5G wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '200 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '4-5 godzin',
-      },
-      {
-        key: 'battery',
-        title: 'Samsung Galaxy A23 5G wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '240 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
     name: 'Samsung Galaxy A22',
     slug: 'samsung-galaxy-a22/',
     repairs: [
@@ -2486,90 +3536,6 @@ export const galaxyA = [
         title: 'Samsung Galaxy A22 wymiana baterii',
         shortTitle: 'Bateria',
         price: '230 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Samsung Galaxy A21s',
-    slug: 'samsung-galaxy-a21s/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Samsung Galaxy A21s wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '200 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Samsung Galaxy A21s wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '350 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Samsung Galaxy A21s wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '170 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '4-5 godzin',
-      },
-      {
-        key: 'battery',
-        title: 'Samsung Galaxy A21s wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '230 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Samsung Galaxy A20e',
-    slug: 'samsung-galaxy-a20e/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Samsung Galaxy A20e wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '170 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Samsung Galaxy A20e wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '350 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Samsung Galaxy A20e wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '170 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '4-5 godzin',
-      },
-      {
-        key: 'battery',
-        title: 'Samsung Galaxy A20e wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '210 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
@@ -2778,6 +3744,48 @@ export const galaxyA = [
       {
         key: 'battery',
         title: 'Samsung Galaxy A03s wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '240 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A03',
+    slug: 'samsung-galaxy-a03/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A03 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '230 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A03 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '340 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A03 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '150 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A03 wymiana baterii',
         shortTitle: 'Bateria',
         price: '240 zł',
         description:
