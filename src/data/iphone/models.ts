@@ -207,6 +207,7 @@ const iPhoneModels = [
           'wyświetlacz oryginalny Apple: 2199 zł',
         ],
         duration: '3-4 godziny',
+        duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
