@@ -2157,30 +2157,30 @@ export const galaxyA = [
     ],
   },
   {
-    name: 'Samsung Galaxy A34 4G',
-    slug: 'samsung-galaxy-a34-4g/',
+    name: 'Samsung Galaxy A32 5G',
+    slug: 'samsung-galaxy-a32-5g/',
     repairs: [
       {
         key: 'front-glass',
-        title: 'Samsung Galaxy A34 4G wymiana szybki',
+        title: 'Samsung Galaxy A32 5G wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '250 zł',
+        price: '220 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
       },
       {
         key: 'display',
-        title: 'Samsung Galaxy A34 4G wymiana wyświetlacza',
+        title: 'Samsung Galaxy A32 5G wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '570 zł',
+        price: '380 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
       },
       {
         key: 'back-glass',
-        title: 'Samsung Galaxy A34 4G wymiana tylnej szyby',
+        title: 'Samsung Galaxy A32 5G wymiana tylnej szyby',
         shortTitle: 'Tylna szybka',
         price: '200 zł',
         description:
@@ -2189,9 +2189,51 @@ export const galaxyA = [
       },
       {
         key: 'battery',
-        title: 'Samsung Galaxy A34 4G wymiana baterii',
+        title: 'Samsung Galaxy A32 5G wymiana baterii',
         shortTitle: 'Bateria',
-        price: '240 zł',
+        price: '230 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Samsung Galaxy A32',
+    slug: 'samsung-galaxy-a32/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy A32 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '250 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy A32 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '480 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy A32 wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '200 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy A32 wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '230 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
@@ -3410,90 +3452,6 @@ export const galaxyA = [
         title: 'Samsung Galaxy A320 wymiana baterii',
         shortTitle: 'Bateria',
         price: '200 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Samsung Galaxy A32 5G',
-    slug: 'samsung-galaxy-a32-5g/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Samsung Galaxy A32 5G wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '220 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Samsung Galaxy A32 5G wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '380 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Samsung Galaxy A32 5G wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '200 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '4-5 godzin',
-      },
-      {
-        key: 'battery',
-        title: 'Samsung Galaxy A32 5G wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '230 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
-    name: 'Samsung Galaxy A32',
-    slug: 'samsung-galaxy-a32/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Samsung Galaxy A32 wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '250 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Samsung Galaxy A32 wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '480 zł',
-        description:
-          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Samsung Galaxy A32 wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '200 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '4-5 godzin',
-      },
-      {
-        key: 'battery',
-        title: 'Samsung Galaxy A32 wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '230 zł',
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
