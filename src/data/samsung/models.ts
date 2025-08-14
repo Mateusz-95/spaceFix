@@ -123,47 +123,6 @@ export const galaxyS = [
     ],
   },
   {
-    name: 'Samsung Galaxy S25 FE',
-    slug: 'samsung-galaxy-s25-fe/',
-    repairs: [
-      {
-        key: 'front-glass',
-        title: 'Samsung Galaxy S25 FE wymiana szybki',
-        shortTitle: 'Przednia szybka',
-        price: '550 zł',
-        description:
-          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'display',
-        title: 'Samsung Galaxy S25 FE wymiana wyświetlacza',
-        shortTitle: 'Wyświetlacz',
-        price: '900 zł',
-        description: ['wyświetlacz oryginalny regenerowany: 900 zł', 'wyświetlacz oryginalny: 900 zł'],
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'back-glass',
-        title: 'Samsung Galaxy S25 FE wymiana tylnej szyby',
-        shortTitle: 'Tylna szybka',
-        price: '330 zł',
-        description:
-          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
-        duration: '4-5 godzin',
-      },
-      {
-        key: 'battery',
-        title: 'Samsung Galaxy S25 FE wymiana baterii',
-        shortTitle: 'Bateria',
-        price: '280 zł',
-        description:
-          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
-        duration: '1-2 godziny',
-      },
-    ],
-  },
-  {
     name: 'Samsung Galaxy S24 Ultra',
     slug: 'samsung-galaxy-s24-ultra/',
     repairs: [
