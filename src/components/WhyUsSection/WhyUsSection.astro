@@ -1,0 +1,36 @@
+---
+const points = [
+  {
+    title: "Szybkie i sprawne naprawy",
+    description: "Twoje urządzenie naprawimy w ciągu 24-48 godzin, bez zbędnego czekania."
+  },
+  {
+    title: "Profesjonalizm i doświadczenie",
+    description: "Od lat naprawiamy smartfony z pasją i precyzją, obsługując tysiące klientów."
+  },
+  {
+    title: "Konkurencyjne ceny",
+    description: "Oferujemy wysoką jakość usług w cenach niższych niż w wielu innych serwisach."
+  },
+  {
+    title: "Gwarancja i wsparcie",
+    description: "Po każdej naprawie otrzymujesz 3 miesiące gwarancji oraz wsparcie."
+  }
+];
+---
+
+<section class="py-16 bg-gray-50">
+  <div class="container mx-auto px-4">
+    <h2 class="text-3xl md:text-4xl font-bold text-center mb-12">Dlaczego warto wybrać SpaceFix?</h2>
+    
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+      {points.map(point => (
+        <div class="bg-white p-6 rounded-lg shadow-md hover:shadow-xl transition-shadow text-center">
+          <h3 class="text-xl font-semibold mb-2">{point.title}</h3>
+          <p class="text-gray-600">{point.description}</p>
+        </div>
+      ))}
+    </div>
+  </div>
+</section>
+
