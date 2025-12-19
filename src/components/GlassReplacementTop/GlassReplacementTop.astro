@@ -1,0 +1,119 @@
+---
+---
+
+<section class="py-16 bg-white">
+  <div class="container mx-auto px-4">
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-14 items-center">
+      <div class="max-w-2xl">
+        <h1 class="text-3xl md:text-4xl font-bold tracking-tight text-gray-900 mb-6">
+          Wymiana szybki w telefonie
+        </h1>
+        
+        <div class="space-y-4 text-base md:text-lg leading-relaxed text-gray-700">
+          <p>
+            Twój telefon ma <strong class="font-semibold text-gray-900">rozbitą szybkę</strong>? W <strong class="font-semibold text-gray-900">SpaceFix</strong> 
+            specjalizujemy się w profesjonalnej <strong class="font-semibold text-gray-900">wymianie zbitej szybki</strong> w smartfonach. 
+            Nasza usługa <strong class="font-semibold text-gray-900">naprawy wyświetlacza</strong> polega na precyzyjnej 
+            <strong class="font-semibold text-gray-900">separacji warstw ekranu</strong> i montażu nowej, wysokiej jakości szybki.
+          </p>
+          
+          <p>
+            Dzięki <strong class="font-semibold text-gray-900">wymianie szybki</strong> przywracamy Twojemu telefonowi świeżość 
+            i pełną funkcjonalność, zachowując jednocześnie <strong class="font-semibold text-gray-900">oryginalną jakość wyświetlacza</strong>. 
+            To rozwiązanie jest znacznie bardziej <strong class="font-semibold text-gray-900">ekonomiczne</strong> niż wymiana całego ekranu.
+          </p>
+          
+          <p>
+            Nasi <strong class="font-semibold text-gray-900">doświadczeni technicy</strong> wykonują każdą naprawę z najwyższą precyzją, 
+            zapewniając pełną <strong class="font-semibold text-gray-900">gwarancję jakości</strong> i sprawdzając funkcjonalność 
+            warstwy dotykowej oraz matrycy po zakończeniu usługi.
+          </p>
+        </div>
+
+        <div class="flex flex-col sm:flex-row gap-4 mt-8">
+          <a 
+            href="https://maps.app.goo.gl/XFepeV89HQe8BKV67"
+            class="inline-flex items-center justify-center px-6 py-3 border-2 border-gray-900 bg-white text-gray-900 font-semibold rounded-lg hover:bg-gray-50 transition-colors"
+          >
+            <img src="/images/delivery.png" alt="Kurier" class="w-5 h-5 mr-2" />
+            Zamów Kuriera za 0 zł
+          </a>
+          
+          <a 
+            href="tel:730889759"
+            class="inline-flex items-center justify-center px-6 py-3 bg-green-600 text-white font-semibold rounded-lg hover:bg-green-700 transition-colors"
+          >
+            Wycena lub Pytania
+            <svg class="w-5 h-5 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8.228 9c.549-1.165 2.03-2 3.772-2 2.21 0 4 1.343 4 3 0 1.4-1.278 2.575-3.006 2.907-.542.104-.994.54-.994 1.093m0 3h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+              </svg>
+          </a>
+        </div>
+      </div>
+
+      <div class="w-full flex justify-center lg:justify-center">
+        <div class="relative max-w-md w-full">
+
+          <img
+            src="/images/fixed-screen-transparent.png"
+            alt="Telefon po wymianie szybki"
+            class="w-full h-auto object-contain drop-shadow-2xl"
+            loading="eager"
+          />
+
+          <div 
+            id="cracked-overlay"
+            class="absolute inset-0 overflow-hidden transition-all duration-100 ease-out"
+            style="clip-path: inset(0 0 0 0);"
+          >
+            <img
+              src="/images/broken-screen-transparent.png"
+              alt="Telefon z pękniętą szybką"
+              class="w-full h-auto object-contain drop-shadow-2xl"
+              loading="eager"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<script>
+  let ticking = false;
+
+  function updateCrackedOverlay() {
+    const overlay = document.getElementById('cracked-overlay');
+    if (!overlay) return;
+
+    const scrollY = window.scrollY;
+    const minScroll = 0;
+    const maxScroll = 200;
+    
+    const scrollProgress = Math.min(Math.max((scrollY - minScroll) / (maxScroll - minScroll), 0), 1);
+    
+    const slidePercentage = scrollProgress * 100;
+    
+    overlay.style.clipPath = `inset(0 0 0 ${slidePercentage}%)`;
+    
+    ticking = false;
+  }
+
+  function onScroll() {
+    if (!ticking) {
+      window.requestAnimationFrame(() => {
+        updateCrackedOverlay();
+      });
+      ticking = true;
+    }
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', updateCrackedOverlay);
+  } else {
+    updateCrackedOverlay();
+  }
+  
+  // Update on scroll
+  window.addEventListener('scroll', onScroll, { passive: true });
+</script>
