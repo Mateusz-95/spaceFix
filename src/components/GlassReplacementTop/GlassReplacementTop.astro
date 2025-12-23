@@ -52,7 +52,7 @@
       </div>
 
       <div class="w-full flex justify-center lg:justify-center">
-        <div class="relative max-w-md w-full">
+        <div id="phone-container" class="relative max-w-md w-full">
 
           <img
             src="/images/fixed-screen-transparent.png"
@@ -84,13 +84,33 @@
 
   function updateCrackedOverlay() {
     const overlay = document.getElementById('cracked-overlay');
-    if (!overlay) return;
+    const phoneContainer = document.getElementById('phone-container');
+    if (!overlay || !phoneContainer) return;
 
-    const scrollY = window.scrollY;
-    const minScroll = 0;
-    const maxScroll = 200;
+    // Detect mobile device
+    const isMobile = window.innerWidth < 1024;
     
-    const scrollProgress = Math.min(Math.max((scrollY - minScroll) / (maxScroll - minScroll), 0), 1);
+
+    const rect = phoneContainer.getBoundingClientRect();
+    const windowHeight = window.innerHeight;
+    
+    const startOffset = isMobile ? windowHeight * 0.5 : windowHeight * 0.8;
+    const endOffset = isMobile ? windowHeight * 0.1 : windowHeight * 0.2; 
+
+    const distance = startOffset - endOffset;
+    const currentPosition = rect.top;
+    
+    let scrollProgress = 0;
+    if (currentPosition <= endOffset) {
+      scrollProgress = 1; // Animation complete
+    } else if (currentPosition < startOffset) {
+      scrollProgress = 1 - ((currentPosition - endOffset) / distance);
+    } else {
+      scrollProgress = 0; // Animation not started
+    }
+    
+    // Clamp between 0 and 1
+    scrollProgress = Math.min(Math.max(scrollProgress, 0), 1);
     
     const slidePercentage = scrollProgress * 100;
     
@@ -116,4 +136,7 @@
   
   // Update on scroll
   window.addEventListener('scroll', onScroll, { passive: true });
+  
+  // Also update on resize to handle orientation changes
+  window.addEventListener('resize', updateCrackedOverlay, { passive: true });
 </script>
