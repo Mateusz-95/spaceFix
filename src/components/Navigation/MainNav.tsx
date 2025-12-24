@@ -22,6 +22,9 @@ const MainNav = () => {
           <li className="text-zinc-800 hover:text-zinc-600 active:text-zinc-400">
             <a href="/about/">O nas</a>
           </li>
+          <li className="text-zinc-800 hover:text-zinc-600 active:text-zinc-400">
+            <a href="/wymiana-szybki/">Wymiana szybki</a>
+          </li>
         </ul>
         <ul className="flex gap-4 items-center">
           <li>
