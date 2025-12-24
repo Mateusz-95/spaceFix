@@ -79,75 +79,85 @@
   </div>
 </section>
 
-<script>
-  let ticking = false;
+<script is:inline>
+  (function() {
+    'use strict';
+    
+    let ticking = false;
+    let initialized = false;
 
-  function updateCrackedOverlay() {
-    const overlay = document.getElementById('cracked-overlay');
-    const phoneContainer = document.getElementById('phone-container');
-    if (!overlay || !phoneContainer) return;
-
-    // Detect mobile device
-    const isMobile = window.innerWidth < 1024;
-    
-    const rect = phoneContainer.getBoundingClientRect();
-    const windowHeight = window.innerHeight;
-    
-    let scrollProgress = 0;
-    
-    if (isMobile) {
-      // Mobile: start at 50%, end at 10%
-      const startOffset = windowHeight * 0.5;
-      const endOffset = windowHeight * 0.1;
-      const distance = startOffset - endOffset;
-      const currentPosition = rect.top;
-      
-      if (currentPosition <= endOffset) {
-        scrollProgress = 1; // Animation complete
-      } else if (currentPosition < startOffset) {
-        scrollProgress = 1 - ((currentPosition - endOffset) / distance);
-      } else {
-        scrollProgress = 0; // Animation not started
+    function updateCrackedOverlay() {
+      const overlay = document.getElementById('cracked-overlay');
+      const phoneContainer = document.getElementById('phone-container');
+      if (!overlay || !phoneContainer) {
+        if (!initialized) {
+          setTimeout(updateCrackedOverlay, 100);
+        }
+        return;
       }
-    } else {
-      // Desktop: animation based on scroll position
-      // Start showing broken screen initially (at page top)
-      // Animate as user scrolls down
-      const scrollY = window.scrollY;
-      const minScroll = 0;
-      const maxScroll = 300; // Animation completes after 300px of scroll
+
+      initialized = true;
+
+      // Detect mobile device
+      const isMobile = window.innerWidth < 1024;
       
-      scrollProgress = Math.min(Math.max((scrollY - minScroll) / (maxScroll - minScroll), 0), 1);
+      const rect = phoneContainer.getBoundingClientRect();
+      const windowHeight = window.innerHeight;
+      
+      let scrollProgress = 0;
+      
+      if (isMobile) {
+        // Mobile: start at 50%, end at 10%
+        const startOffset = windowHeight * 0.5;
+        const endOffset = windowHeight * 0.1;
+        const distance = startOffset - endOffset;
+        const currentPosition = rect.top;
+        
+        if (currentPosition <= endOffset) {
+          scrollProgress = 1; // Animation complete
+        } else if (currentPosition < startOffset) {
+          scrollProgress = 1 - ((currentPosition - endOffset) / distance);
+        } else {
+          scrollProgress = 0; // Animation not started
+        }
+      } else {
+        const scrollY = window.scrollY;
+        const minScroll = 0;
+        const maxScroll = 300; // Animation completes after 300px of scroll
+        
+        scrollProgress = Math.min(Math.max((scrollY - minScroll) / (maxScroll - minScroll), 0), 1);
+      }
+      
+      // Clamp between 0 and 1
+      scrollProgress = Math.min(Math.max(scrollProgress, 0), 1);
+      
+      const slidePercentage = scrollProgress * 100;
+      
+      overlay.style.clipPath = 'inset(0 0 0 ' + slidePercentage + '%)';
+      
+      ticking = false;
     }
-    
-    // Clamp between 0 and 1
-    scrollProgress = Math.min(Math.max(scrollProgress, 0), 1);
-    
-    const slidePercentage = scrollProgress * 100;
-    
-    overlay.style.clipPath = `inset(0 0 0 ${slidePercentage}%)`;
-    
-    ticking = false;
-  }
 
-  function onScroll() {
-    if (!ticking) {
-      window.requestAnimationFrame(() => {
-        updateCrackedOverlay();
-      });
-      ticking = true;
+    function onScroll() {
+      if (!ticking) {
+        window.requestAnimationFrame(function() {
+          updateCrackedOverlay();
+        });
+        ticking = true;
+      }
     }
-  }
 
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', updateCrackedOverlay);
-  } else {
-    updateCrackedOverlay();
-  }
-  
-  // Update on scroll
-  window.addEventListener('scroll', onScroll, { passive: true });
-  
-  // Also update on resize to handle orientation changes
-  window.addEventListener('resize', updateCrackedOverlay, { passive: true });
+    function init() {
+      updateCrackedOverlay();
+      window.addEventListener('scroll', onScroll, { passive: true });
+      window.addEventListener('resize', updateCrackedOverlay, { passive: true });
+    }
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', init);
+    } else {
+      // DOM already ready
+      setTimeout(init, 0);
+    }
+  })();
 </script>
