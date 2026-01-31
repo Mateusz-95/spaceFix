@@ -22,8 +22,30 @@ const MainNav = () => {
           <li className="text-zinc-800 hover:text-zinc-600 active:text-zinc-400">
             <a href="/about/">O nas</a>
           </li>
-          <li className="text-zinc-800 hover:text-zinc-600 active:text-zinc-400">
-            <a href="/wymiana-szybki/">Wymiana szybki</a>
+          <li className="relative group text-zinc-800 hover:text-zinc-600 active:text-zinc-400">
+            <button type="button" className="flex items-center gap-1 pb-1 whitespace-nowrap" aria-expanded="false" aria-haspopup="true">
+              Usługi naprawy
+              <svg className="w-4 h-4 transition group-hover:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+              </svg>
+            </button>
+            <ul className="absolute left-0 top-full pt-1 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 min-w-[280px] bg-white rounded-lg shadow-lg border border-gray-200 py-2 z-50">
+              <li>
+                <a href="/wymiana-szybki/" className="block px-4 py-2 hover:bg-gray-100 text-zinc-800 whitespace-nowrap">Wymiana szybki</a>
+              </li>
+              <li>
+                <a href="/wymiana-wyswietlacza/" className="block px-4 py-2 hover:bg-gray-100 text-zinc-800 whitespace-nowrap">Wymiana wyświetlacza</a>
+              </li>
+              <li>
+                <a href="/wymiana-baterii/" className="block px-4 py-2 hover:bg-gray-100 text-zinc-800 whitespace-nowrap">Wymiana baterii</a>
+              </li>
+              <li>
+                <a href="/wymiana-tylnej-szyby/" className="block px-4 py-2 hover:bg-gray-100 text-zinc-800 whitespace-nowrap">Wymiana tylnej szyby</a>
+              </li>
+              <li>
+                <a href="/naprawa-po-zalaniu/" className="block px-4 py-2 hover:bg-gray-100 text-zinc-800 whitespace-nowrap">Naprawa po zalaniu</a>
+              </li>
+            </ul>
           </li>
         </ul>
         <ul className="flex gap-4 items-center">
