@@ -7,11 +7,11 @@ interface MobileMenuProps {
 export default function MobileMenu({ show }: MobileMenuProps) {
   return (
     <div
-      className={`xl:hidden fixed top-[var(--header-height)] w-full h-[calc(100vh-var(--header-height))] transition-all duration-500 bg-white flex flex-col justify-center gap-20 text-[2rem] ${
+      className={`xl:hidden fixed top-[var(--header-height)] w-full h-[calc(100vh-var(--header-height))] transition-all duration-500 bg-white flex flex-col justify-start items-center gap-8 sm:gap-12 text-xl sm:text-2xl py-8 overflow-y-auto ${
         show ? 'left-0' : 'left-full'
       }`}
     >
-      <ul className="text-center flex flex-col gap-16">
+      <ul className="text-center flex flex-col gap-6 sm:gap-8">
         <li className="text-zinc-800 hover:text-zinc-600 active:text-zinc-400">
           <a href="/">Strona główna</a>
         </li>
