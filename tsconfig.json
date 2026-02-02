@@ -6,7 +6,6 @@
   },
   "exclude": [
     "src/pages/wymiana-baterii.astro",
-    "src/pages/wymiana-tylnej-szyby.astro",
-    "src/pages/wymiana-wyswietlacza.astro"
+    "src/pages/wymiana-tylnej-szyby.astro"
   ]
 }
