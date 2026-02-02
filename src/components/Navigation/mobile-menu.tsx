@@ -22,8 +22,20 @@ export default function MobileMenu({ show }: MobileMenuProps) {
           <a href="/about/">O nas</a>
         </li>
         <li className="text-zinc-800 hover:text-zinc-600 active:text-zinc-400">
-            <a href="/wymiana-szybki/">Wymiana szybki</a>
-          </li>
+          <a href="/wymiana-szybki/">Wymiana szybki</a>
+        </li>
+        <li className="text-zinc-800 hover:text-zinc-600 active:text-zinc-400">
+          <a href="/wymiana-wyswietlacza/">Wymiana wyświetlacza</a>
+        </li>
+        <li className="text-zinc-800 hover:text-zinc-600 active:text-zinc-400">
+          <a href="/wymiana-baterii/">Wymiana baterii</a>
+        </li>
+        <li className="text-zinc-800 hover:text-zinc-600 active:text-zinc-400">
+          <a href="/wymiana-tylnej-szyby/">Wymiana tylnej szyby</a>
+        </li>
+        <li className="text-zinc-800 hover:text-zinc-600 active:text-zinc-400">
+          <a href="/naprawa-po-zalaniu/">Naprawa po zalaniu</a>
+        </li>
       </ul>
       <a href="tel:+48730889759" className="text-blue-500 hover:text-blue-700 text-center leading-1">
         <span className="text-lg font-bold">
