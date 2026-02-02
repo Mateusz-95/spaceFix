@@ -8,7 +8,9 @@ const MainNav = () => {
 
   return (
     <div className="w-full xl:w-max grid grid-cols-[max-content_1fr_max-content] grid-rows-[100%] items-center text-lg xl:text-xl lg:gap-10 xl:gap-24">
-      <img alt="spaceFix logo" src="/images/logo.png" className="h-full" />
+      <a href="/" className="h-full">
+        <img alt="spaceFix logo" src="/images/logo.png" className="h-full" />
+      </a>
       <HamburgerButton onClick={activeHamburger} className={`[grid-column:3] ${isHamburgerActive ? 'expanded' : ''}`} />
 
       <div className="max-xl:hidden w-full flex items-center justify-between gap-10">
