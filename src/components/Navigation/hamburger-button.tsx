@@ -8,7 +8,7 @@ interface HamburgerButtonProps {
 export default function HamburgerButton({ className = '', onClick }: HamburgerButtonProps) {
   return (
     <button
-      className={`xl:hidden flex flex-col h-12 w-12 rounded justify-center items-center cursor-pointer group ${className}`}
+      className={`nav:hidden flex flex-col h-12 w-12 rounded justify-center items-center cursor-pointer group ${className}`}
       aria-label="Przełącz menu"
       onClick={onClick}
     >
