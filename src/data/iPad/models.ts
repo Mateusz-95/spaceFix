@@ -195,6 +195,30 @@ export const ipadStandard = [
 
 export const ipadMini = [
   {
+    name: 'iPad Mini 7',
+    slug: 'ipad-mini-7/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'iPad Mini 7 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '949 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim iPadzie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'iPad Mini 7 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '1599 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+    ],
+  },
+  {
     name: 'iPad Mini 6',
     slug: 'ipad-mini-6/',
     repairs: [
@@ -202,7 +226,7 @@ export const ipadMini = [
         key: 'front-glass',
         title: 'iPad Mini 6 wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '499 zł',
+        price: '749 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim iPadzie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -211,7 +235,7 @@ export const ipadMini = [
         key: 'display',
         title: 'iPad Mini 6 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '899 zł',
+        price: '1099 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
