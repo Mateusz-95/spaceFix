@@ -7,7 +7,7 @@ const googleModels = [
         key: 'front-glass',
         title: 'Pixel 9 Pro XL wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '999 zł',
+        price: '899 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -91,7 +91,7 @@ const googleModels = [
         key: 'front-glass',
         title: 'Pixel 9 wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '699 zł',
+        price: '549 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -100,7 +100,7 @@ const googleModels = [
         key: 'display',
         title: 'Pixel 9 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '899 zł',
+        price: '799 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
@@ -133,7 +133,7 @@ const googleModels = [
         key: 'front-glass',
         title: 'Pixel 9a wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '800 zł',
+        price: '749 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -175,7 +175,7 @@ const googleModels = [
         key: 'front-glass',
         title: 'Pixel 8 Pro wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '999 zł',
+        price: '749 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -259,7 +259,7 @@ const googleModels = [
         key: 'front-glass',
         title: 'Pixel 8 wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '599 zł',
+        price: '499 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -310,7 +310,7 @@ const googleModels = [
         key: 'display',
         title: 'Pixel 7 Pro wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '1399 zł',
+        price: '1099 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim smartfonie. Wymiana wyświetlacza jest rozwiązaniem, kiedy ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
