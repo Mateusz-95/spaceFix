@@ -1,5 +1,29 @@
 export const ipadStandard = [
   {
+    name: 'iPad 11gen',
+    slug: 'ipad-11gen/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'iPad 11gen wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '599 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim iPadzie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'iPad 11gen wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '899 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+    ],
+  },
+  {
     name: 'iPad 10gen',
     slug: 'ipad-10gen/',
     repairs: [
@@ -7,7 +31,7 @@ export const ipadStandard = [
         key: 'front-glass',
         title: 'iPad 10gen wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '449 zł',
+        price: '599 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim iPadzie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -16,7 +40,7 @@ export const ipadStandard = [
         key: 'display',
         title: 'iPad 10gen wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '799 zł',
+        price: '849 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
@@ -55,7 +79,7 @@ export const ipadStandard = [
         key: 'front-glass',
         title: 'iPad 8gen wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '399 zł',
+        price: '449 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim iPadzie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -79,7 +103,7 @@ export const ipadStandard = [
         key: 'front-glass',
         title: 'iPad 7gen wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '399 zł',
+        price: '449 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim iPadzie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -171,6 +195,30 @@ export const ipadStandard = [
 
 export const ipadMini = [
   {
+    name: 'iPad Mini 7',
+    slug: 'ipad-mini-7/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'iPad Mini 7 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '949 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim iPadzie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'iPad Mini 7 wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '1599 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+    ],
+  },
+  {
     name: 'iPad Mini 6',
     slug: 'ipad-mini-6/',
     repairs: [
@@ -178,7 +226,7 @@ export const ipadMini = [
         key: 'front-glass',
         title: 'iPad Mini 6 wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '499 zł',
+        price: '749 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim iPadzie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -187,7 +235,7 @@ export const ipadMini = [
         key: 'display',
         title: 'iPad Mini 6 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '899 zł',
+        price: '1099 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
@@ -318,12 +366,36 @@ export const ipadMini = [
 
 export const ipadAir = [
   {
-    name: 'iPad Air 6gen.',
-    slug: 'ipad-air-6/',
+    name: 'iPad Air M3 13”',
+    slug: 'ipad-air-m3-13/',
     repairs: [
       {
         key: 'front-glass',
-        title: 'iPad Air 6gen. wymiana szybki',
+        title: 'iPad Air M3 13” wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '1699 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim iPadzie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'iPad Air M3 13” wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '2699 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+    ],
+  },
+  {
+    name: 'iPad Air M3 11”',
+    slug: 'ipad-air-m3-11/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'iPad Air M3 11” wymiana szybki',
         shortTitle: 'Przednia szybka',
         price: '1599 zł',
         description:
@@ -332,9 +404,33 @@ export const ipadAir = [
       },
       {
         key: 'display',
-        title: 'iPad Air 6gen. wymiana wyświetlacza',
+        title: 'iPad Air M3 11” wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '2699 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+    ],
+  },
+  {
+    name: 'iPad Air 6gen.',
+    slug: 'ipad-air-6/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'iPad Air 6gen. wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '1399 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim iPadzie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'iPad Air 6gen. wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '2099 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
@@ -465,14 +561,110 @@ export const ipadAir = [
 
 export const ipadPro = [
   {
+    name: 'iPad Pro M5 13"',
+    slug: 'ipad-pro-m5-13/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'iPad Pro M5 13" wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '1999 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim iPadzie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'iPad Pro M5 13" wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '3899 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+    ],
+  },
+  {
+    name: 'iPad Pro M5 11"',
+    slug: 'ipad-pro-m5-11/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'iPad Pro M5 11" wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '1899 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim iPadzie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'iPad Pro M5 11" wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '3099 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+    ],
+  },
+  {
+    name: 'iPad Pro M4 13"',
+    slug: 'ipad-pro-m4-13/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'iPad Pro M4 13" wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '1999 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim iPadzie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'iPad Pro M4 13" wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '3899 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+    ],
+  },
+  {
+    name: 'iPad Pro M4 11"',
+    slug: 'ipad-pro-m4-11/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'iPad Pro M4 11" wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '1399 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim iPadzie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'iPad Pro M4 11" wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '2999 zł',
+        description:
+          'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+    ],
+  },
+  {
     name: 'iPad Pro 13"',
     slug: 'ipad-pro-13/',
     repairs: [
       {
         key: 'front-glass',
-        title: 'iPad Pro 13" wymiana szybki',
+        title: 'iPad Pro M2 13" wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '1699 zł',
+        price: '1599 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim iPadzie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
