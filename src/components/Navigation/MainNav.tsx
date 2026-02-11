@@ -99,7 +99,7 @@ const MainNav = () => {
           <li className="flex-shrink-0">
             <a
               className="flex"
-              href="https://www.facebook.com/profile.php?id=100094392695973"
+              href="https://www.facebook.com/share/186wnHCJRX/?mibextid=wwXIfr"
               target="_blank"
               rel="noopener noreferrer"
             >

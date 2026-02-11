@@ -58,7 +58,11 @@ export default function MobileMenu({ show }: MobileMenuProps) {
           </a>
         </li>
         <li>
-          <a href="https://www.facebook.com/profile.php?id=100094392695973" target="_blank" rel="noopener noreferrer">
+          <a
+            href="https://www.facebook.com/share/186wnHCJRX/?mibextid=wwXIfr"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <img alt="facebook icon" src="/images/facebook.png" className="w-10 h-10" />
           </a>
         </li>
