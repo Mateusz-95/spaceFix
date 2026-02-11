@@ -123,6 +123,47 @@ export const galaxyS = [
     ],
   },
   {
+    name: 'Samsung Galaxy S25 FE',
+    slug: 'samsung-galaxy-s25-fe/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Samsung Galaxy S25 FE wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '399 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'Samsung Galaxy S25 FE wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '499 zł',
+        description: ['wyświetlacz oryginalny regenerowany: 499 zł', 'wyświetlacz oryginalny: 699 zł'],
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'Samsung Galaxy S25 FE wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '299 zł',
+        description:
+          'Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.',
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'Samsung Galaxy S25 FE wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '289 zł',
+        description:
+          'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
     name: 'Samsung Galaxy S24 Ultra',
     slug: 'samsung-galaxy-s24-ultra/',
     repairs: [
@@ -130,7 +171,7 @@ export const galaxyS = [
         key: 'front-glass',
         title: 'Samsung Galaxy S24 Ultra wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '799 zł',
+        price: '699 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -139,8 +180,8 @@ export const galaxyS = [
         key: 'display',
         title: 'Samsung Galaxy S24 Ultra wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '1199 zł',
-        description: ['wyświetlacz oryginalny bez ramki: 1199 zł', 'wyświetlacz oryginalny z ramką: 1499 zł'],
+        price: '1099 zł',
+        description: ['wyświetlacz oryginalny bez ramki: 1099 zł', 'wyświetlacz oryginalny z ramką: 1499 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -180,8 +221,8 @@ export const galaxyS = [
         key: 'display',
         title: 'Samsung Galaxy S24 Plus wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
-        price: '899 zł',
-        description: ['wyświetlacz oryginalny bez ramki: 999 zł', 'wyświetlacz oryginalny z ramką: 1299 zł'],
+        price: '979 zł',
+        description: ['wyświetlacz oryginalny bez ramki: 979 zł', 'wyświetlacz oryginalny z ramką: 1299 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -294,7 +335,7 @@ export const galaxyS = [
         key: 'front-glass',
         title: 'Samsung Galaxy S23 Ultra wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '649 zł',
+        price: '549 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -335,7 +376,7 @@ export const galaxyS = [
         key: 'front-glass',
         title: 'Samsung Galaxy S23 Plus wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '599 zł',
+        price: '449 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -376,7 +417,7 @@ export const galaxyS = [
         key: 'front-glass',
         title: 'Samsung Galaxy S23 wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '499 zł',
+        price: '399 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -499,7 +540,7 @@ export const galaxyS = [
         key: 'front-glass',
         title: 'Samsung Galaxy S22 Ultra wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '699 zł',
+        price: '549 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -540,7 +581,7 @@ export const galaxyS = [
         key: 'front-glass',
         title: 'Samsung Galaxy S22 Plus wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '499 zł',
+        price: '449 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -581,7 +622,7 @@ export const galaxyS = [
         key: 'front-glass',
         title: 'Samsung Galaxy S22 wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '499 zł',
+        price: '399 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -622,7 +663,7 @@ export const galaxyS = [
         key: 'front-glass',
         title: 'Samsung Galaxy S21 Plus wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '499 zł',
+        price: '349 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -704,7 +745,7 @@ export const galaxyS = [
         key: 'front-glass',
         title: 'Samsung Galaxy S21 FE wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '499 zł',
+        price: '399 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -788,7 +829,7 @@ export const galaxyS = [
         key: 'front-glass',
         title: 'Samsung Galaxy S20 Ultra wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '599 zł',
+        price: '499 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -830,7 +871,7 @@ export const galaxyS = [
         key: 'front-glass',
         title: 'Samsung Galaxy S20 Plus wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '499 zł',
+        price: '449 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -871,7 +912,7 @@ export const galaxyS = [
         key: 'front-glass',
         title: 'Samsung Galaxy S20 wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '449 zł',
+        price: '399 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -953,7 +994,7 @@ export const galaxyS = [
         key: 'front-glass',
         title: 'Samsung Galaxy S10 Plus wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '399 zł',
+        price: '349 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -994,7 +1035,7 @@ export const galaxyS = [
         key: 'front-glass',
         title: 'Samsung Galaxy S10 wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '369 zł',
+        price: '299 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -1076,7 +1117,7 @@ export const galaxyS = [
         key: 'front-glass',
         title: 'Samsung Galaxy S9 Plus wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '349 zł',
+        price: '299 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
