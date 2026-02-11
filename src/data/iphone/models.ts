@@ -18,7 +18,7 @@ const iPhoneModels = [
         price: '1299 zł',
         description: [
           'wyświetlacz zamiennik 1299',
-          'wyświetlacz oryginalny regenerowany: 1899 zł',
+          'wyświetlacz oryginalny odnowiony: 1899 zł',
           'wyświetlacz oryginalny Apple: 2299 zł',
         ],
         duration: '3-4 godziny',
@@ -64,7 +64,7 @@ const iPhoneModels = [
         price: '1299 zł',
         description: [
           'wyświetlacz zamiennik 1299',
-          'wyświetlacz oryginalny regenerowany: 1799 zł',
+          'wyświetlacz oryginalny odnowiony: 1799 zł',
           'wyświetlacz oryginalny Apple: 2299 zł',
         ],
         duration: '3-4 godziny',
@@ -110,7 +110,7 @@ const iPhoneModels = [
         price: '1099 zł',
         description: [
           'wyświetlacz zamiennik 1199',
-          'wyświetlacz oryginalny regenerowany: 1799 zł',
+          'wyświetlacz oryginalny odnowiony: 1799 zł',
           'wyświetlacz oryginalny Apple: 2099 zł',
         ],
         duration: '3-4 godziny',
@@ -157,7 +157,7 @@ const iPhoneModels = [
         price: '1199 zł',
         description: [
           'wyświetlacz zamiennik: 1199 zł',
-          'wyświetlacz oryginalny regenerowany: 1699 zł',
+          'wyświetlacz oryginalny odnowiony: 1699 zł',
           'wyświetlacz oryginalny Apple: 2099 zł',
         ],
         duration: '3-4 godziny',
@@ -204,7 +204,7 @@ const iPhoneModels = [
         price: '899 zł',
         description: [
           'wyświetlacz zamiennik 899',
-          'wyświetlacz oryginalny regenerowany: 1799 zł',
+          'wyświetlacz oryginalny odnowiony: 1799 zł',
           'wyświetlacz oryginalny Apple: 2099 zł',
         ],
         duration: '3-4 godziny',
@@ -250,7 +250,7 @@ const iPhoneModels = [
         price: '899 zł',
         description: [
           'wyświetlacz zamiennik 899',
-          'wyświetlacz oryginalny regenerowany: 1799 zł',
+          'wyświetlacz oryginalny odnowiony: 1799 zł',
           'wyświetlacz oryginalny Apple: 2099 zł',
         ],
         duration: '3-4 godziny',
@@ -296,7 +296,7 @@ const iPhoneModels = [
         price: '899 zł',
         description: [
           'wyświetlacz zamiennik 899',
-          'wyświetlacz oryginalny regenerowany: 1599 zł',
+          'wyświetlacz oryginalny odnowiony: 1599 zł',
           'wyświetlacz oryginalny Apple: 2099 zł',
         ],
         duration: '3-4 godziny',
@@ -343,7 +343,7 @@ const iPhoneModels = [
         price: '899 zł',
         description: [
           'wyświetlacz zamiennik: 899 zł',
-          'wyświetlacz oryginalny regenerowany: 1499 zł',
+          'wyświetlacz oryginalny odnowiony: 1499 zł',
           'wyświetlacz oryginalny Apple: 1799 zł',
         ],
         duration: '3-4 godziny',
@@ -389,7 +389,7 @@ const iPhoneModels = [
         price: '899 zł',
         description: [
           'wyświetlacz zamiennik: 899 zł',
-          'wyświetlacz oryginalny regenerowany: 1799 zł',
+          'wyświetlacz oryginalny odnowiony: 1799 zł',
           'wyświetlacz oryginalny Apple: 2099 zł',
         ],
         duration: '3-4 godziny',
@@ -436,7 +436,7 @@ const iPhoneModels = [
         price: '899 zł',
         description: [
           'wyświetlacz zamiennik 899',
-          'wyświetlacz oryginalny regenerowany: 1699 zł',
+          'wyświetlacz oryginalny odnowiony: 1699 zł',
           'wyświetlacz oryginalny Apple: 2099 zł',
         ],
         duration: '3-4 godziny',
@@ -482,7 +482,7 @@ const iPhoneModels = [
         price: '799 zł',
         description: [
           'wyświetlacz zamiennik 799',
-          'wyświetlacz oryginalny regenerowany: 1199 zł',
+          'wyświetlacz oryginalny odnowiony: 1199 zł',
           'wyświetlacz oryginalny Apple: 1899 zł',
         ],
         duration: '3-4 godziny',
@@ -528,7 +528,7 @@ const iPhoneModels = [
         price: '799 zł',
         description: [
           'wyświetlacz zamiennik 799',
-          'wyświetlacz oryginalny regenerowany: 1099 zł',
+          'wyświetlacz oryginalny odnowiony: 1099 zł',
           'wyświetlacz oryginalny Apple: 1699 zł',
         ],
         duration: '3-4 godziny',
@@ -574,7 +574,7 @@ const iPhoneModels = [
         price: '899 zł',
         description: [
           'wyświetlacz zamiennik 899',
-          'wyświetlacz oryginalny regenerowany: 1649 zł',
+          'wyświetlacz oryginalny odnowiony: 1649 zł',
           'wyświetlacz oryginalny Apple: 2099 zł',
         ],
         duration: '3-4 godziny',
@@ -616,7 +616,7 @@ const iPhoneModels = [
         price: '849 zł',
         description: [
           'wyświetlacz zamiennik 849',
-          'wyświetlacz oryginalny regenerowany: 1499 zł',
+          'wyświetlacz oryginalny odnowiony: 1499 zł',
           'wyświetlacz oryginalny Apple: 1899 zł',
         ],
         duration: '3-4 godziny',
@@ -658,7 +658,7 @@ const iPhoneModels = [
         price: '799 zł',
         description: [
           'wyświetlacz zamiennik 799',
-          'wyświetlacz oryginalny regenerowany: 1099 zł',
+          'wyświetlacz oryginalny odnowiony: 1099 zł',
           'wyświetlacz oryginalny Apple: 1899 zł',
         ],
         duration: '3-4 godziny',
@@ -1384,7 +1384,7 @@ const iPhoneModels = [
         title: 'iPhone XR wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '249 zł',
-        description: ['zamiennik: 249 zł', 'wyświetlacz oryginalny regenerowany: 349 zł'],
+        description: ['zamiennik: 249 zł', 'wyświetlacz oryginalny odnowiony: 349 zł'],
         duration: '3-4 godziny',
       },
       {
@@ -1460,7 +1460,7 @@ const iPhoneModels = [
         title: 'iPhone 8 wymiana wyświetlacza',
         shortTitle: 'Wyświetlacz',
         price: '199 zł',
-        description: ['zamiennik: 199 zł', 'wyświetlacz oryginalny regenerowany: 279 zł'],
+        description: ['zamiennik: 199 zł', 'wyświetlacz oryginalny odnowiony: 279 zł'],
         duration: '3-4 godziny',
       },
       {
