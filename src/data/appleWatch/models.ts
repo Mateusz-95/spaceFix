@@ -1,5 +1,36 @@
 export const appleWatchModels = [
   {
+    name: 'Apple Watch Series 11',
+    slug: 'AW-series-11/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Apple Watch Series 11 wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '799 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim Apple Watch. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+    ],
+  },
+  {
+    name: 'Apple Watch SE (gen.3)',
+    slug: 'AW-se-gen3/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'Apple Watch SE (gen.3) wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '499 zł',
+        description:
+          'Oferujemy profesjonalną wymianę szyby w Twoim Apple Watch. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
+        duration: '3-4 godziny',
+      },
+    ],
+  },
+
+  {
     name: 'Apple Watch Ultra 3',
     slug: 'AW-ultra-3/',
     repairs: [
@@ -22,7 +53,7 @@ export const appleWatchModels = [
         key: 'front-glass',
         title: 'Apple Watch Series X wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '799 zł',
+        price: '699 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim Apple Watch. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -37,7 +68,7 @@ export const appleWatchModels = [
         key: 'front-glass',
         title: 'Apple Watch Ultra 2 wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '1499 zł',
+        price: '699 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim Apple Watch. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -67,7 +98,7 @@ export const appleWatchModels = [
         key: 'front-glass',
         title: 'Apple Watch Ultra wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '1199 zł',
+        price: '699 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim Apple Watch. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -82,7 +113,7 @@ export const appleWatchModels = [
         key: 'front-glass',
         title: 'Apple Watch Series 8 wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '699 zł',
+        price: '449 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim Apple Watch. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -97,7 +128,7 @@ export const appleWatchModels = [
         key: 'front-glass',
         title: 'Apple Watch SE (gen.2) wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '499 zł',
+        price: '399 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim Apple Watch. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -112,7 +143,7 @@ export const appleWatchModels = [
         key: 'front-glass',
         title: 'Apple Watch Series 7 wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '549 zł',
+        price: '399 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim Apple Watch. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -127,7 +158,7 @@ export const appleWatchModels = [
         key: 'front-glass',
         title: 'Apple Watch Series 6 wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '499 zł',
+        price: '399 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim Apple Watch. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -142,7 +173,7 @@ export const appleWatchModels = [
         key: 'front-glass',
         title: 'Apple Watch SE (gen.1) wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '449 zł',
+        price: '399 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim Apple Watch. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -157,7 +188,7 @@ export const appleWatchModels = [
         key: 'front-glass',
         title: 'Apple Watch 5 wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '449 zł',
+        price: '349 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim Apple Watch. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
@@ -172,7 +203,7 @@ export const appleWatchModels = [
         key: 'front-glass',
         title: 'Apple Watch Series 4 wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '389 zł',
+        price: '349 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim Apple Watch. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
         duration: '3-4 godziny',
