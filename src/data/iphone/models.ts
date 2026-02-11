@@ -325,6 +325,51 @@ const iPhoneModels = [
     ],
   },
   {
+    name: 'iPhone 16e',
+    slug: 'iPhone-16e/',
+    repairs: [
+      {
+        key: 'front-glass',
+        title: 'iPhone 16e wymiana szybki',
+        shortTitle: 'Przednia szybka',
+        price: '499 zł',
+        description: ['Wymiana szybki: 499 zł'],
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'display',
+        title: 'iPhone 16e wymiana wyświetlacza',
+        shortTitle: 'Wyświetlacz',
+        price: '599 zł',
+        description: [
+          'wyświetlacz zamiennik: 599 zł',
+          'wyświetlacz oryginalny odnowiony: 899 zł',
+          'wyświetlacz oryginalny Apple: 1449 zł',
+        ],
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'back-glass',
+        title: 'iPhone 16e wymiana tylnej szyby',
+        shortTitle: 'Tylna szybka',
+        price: '449 zł',
+        description: [
+          'Wymiana tylnego panelu (zamiennik): 449 zł',
+          'Wymiana całego korpusu: Skontaktuj się aby poznać cenę',
+        ],
+        duration: '4-5 godzin',
+      },
+      {
+        key: 'battery',
+        title: 'iPhone 16e wymiana baterii',
+        shortTitle: 'Bateria',
+        price: '269 zł',
+        description: ['Bateria zamiennik: 269 zł', 'Oryginalna bateria Apple: 499 zł'],
+        duration: '1-2 godziny',
+      },
+    ],
+  },
+  {
     name: 'iPhone 16',
     slug: 'iPhone-16/',
     repairs: [
