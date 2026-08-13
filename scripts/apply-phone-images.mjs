@@ -33,18 +33,28 @@ const IMAGE_OVERRIDES = {
 };
 
 /**
+ * Literówki w nazwach modeli -> poprawna nazwa do dopasowania ze GSMArena.
+ * Nie zmienia danych źródłowych, tylko lookup zdjęcia.
+ */
+const NAME_ALIASES = {
+  'Pixlel 8a': 'Pixel 8a',
+  'Pxel 4a': 'Pixel 4a',
+  'Pixlel 3': 'Pixel 3',
+};
+
+/**
  * Normalizuje nazwę do porównań:
  *  - małe litery,
  *  - "+" -> "plus" (np. Galaxy S26+ == Galaxy S26 Plus),
- *  - usuwa prefiksy marek (Samsung/Xiaomi), bo GSMArena ich nie używa
- *    (np. "Samsung Galaxy S25" -> "galaxys25", "Xiaomi Redmi Note 12" -> "redminote12"),
+ *  - usuwa prefiksy marek (Samsung/Xiaomi/Google), bo GSMArena ich nie używa
+ *    (np. "Samsung Galaxy S25" -> "galaxys25", "Google Pixel 9" -> "pixel9"),
  *  - usuwa wszystkie znaki niealfanumeryczne.
  */
 function normalize(name) {
   return String(name)
     .toLowerCase()
     .replace(/\+/g, ' plus ')
-    .replace(/\b(samsung|xiaomi)\b/g, ' ')
+    .replace(/\b(samsung|xiaomi|google)\b/g, ' ')
     .replace(/[^a-z0-9]+/g, '');
 }
 
@@ -57,7 +67,7 @@ function looseKey(name) {
   return String(name)
     .toLowerCase()
     .replace(/\+/g, ' plus ')
-    .replace(/\b(samsung|xiaomi)\b/g, ' ')
+    .replace(/\b(samsung|xiaomi|google)\b/g, ' ')
     .replace(/\b(5g|4g|lte)\b/g, ' ')
     .replace(/[^a-z0-9]+/g, '');
 }
@@ -93,7 +103,8 @@ function loadScrapedImages() {
 
 /** Znajduje URL zdjęcia dla nazwy modelu: najpierw exact, potem loose. */
 function findImage(maps, modelName) {
-  return maps.exact.get(normalize(modelName)) ?? maps.loose.get(looseKey(modelName)) ?? null;
+  const lookupName = NAME_ALIASES[modelName] ?? modelName;
+  return maps.exact.get(normalize(lookupName)) ?? maps.loose.get(looseKey(lookupName)) ?? null;
 }
 
 /** Wyciąga pary { name, slug } z pliku TS modeli (kolejne pola name/slug). */

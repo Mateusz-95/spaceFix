@@ -148,7 +148,7 @@ export const shipping = {
 export const serviceWarranty = '6 miesięcy';
 
 /** Adres paczkomatu do wysyłki telefonu (ekran 6). */
-export const paczkomat = 'Paczkomat WAW33B Bohaterów Warszawy 25, Warszawa';
+export const paczkomat = 'Paczkomat WAW312M Tadeusza Kościuszki 44, Warszawa';
 
 /** Plik formularza do pobrania (placeholder - docelowy PDF podstawimy później). */
 export const FORM_URL = '/forms/formularz-wysylki.pdf';
