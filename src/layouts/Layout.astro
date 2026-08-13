@@ -2,24 +2,87 @@
 import Navigation from '../components/Navigation/Navigation';
 import Footer from '../components/Footer/Footer';
 import GoogleAnalytics from '../components/GoogleAnalytics.astro';
+import { contact, socialLinks } from '../config/site';
+import { GOOGLE_RATING } from '../components/GoogleOpinions/types';
 
 interface Props {
+  /** Krótki tytuł dołączany do nazwy marki (np. „Konfigurator naprawy”). */
   title?: string;
+  /** Pełny <title> nadpisujący domyślny szablon (używany na podstronach usług). */
+  metaTitle?: string;
+  /** Meta description dla danej podstrony. */
+  description?: string;
 }
 
 import '../index.css';
 
-const { title } = Astro.props;
+const { title, metaTitle, description: descriptionProp } = Astro.props;
 
-const transformedTitle = `${title ? `${title} | ` : ''}SpaceFix - serwis smartfonów`;
-const description =
+const baseUrl = import.meta.env.BASE_URL;
+
+const defaultDescription =
   'Profesjonalna naprawa smartfonów. Ekspresowa wymiana szybki, baterii, wyświetlacza. Zadzwoń pod numer 730 889 759 lub napraw od ręki pod adresem ul. Malinowa 16/U1.';
+const description = descriptionProp ?? defaultDescription;
+const transformedTitle =
+  metaTitle ?? `${title ? `${title} | ` : ''}SpaceFix - serwis smartfonów`;
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+
+const siteOrigin = Astro.site ? new URL(Astro.site).origin : 'https://spacefix.pl';
+
+const localBusinessSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'LocalBusiness',
+  '@id': `${siteOrigin}/#business`,
+  name: 'SpaceFix - Serwis Apple, Samsung, Xiaomi',
+  image: `${baseUrl}og-image.png`,
+  url: siteOrigin,
+  telephone: '+48730889759',
+  email: contact.email,
+  priceRange: '$$',
+  address: {
+    '@type': 'PostalAddress',
+    streetAddress: 'ul. Malinowa 16/U1',
+    addressLocality: 'Warszawa',
+    postalCode: '02-495',
+    addressCountry: 'PL',
+  },
+  geo: {
+    '@type': 'GeoCoordinates',
+    latitude: 52.1931235,
+    longitude: 20.8805978,
+  },
+  openingHoursSpecification: [
+    {
+      '@type': 'OpeningHoursSpecification',
+      dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'],
+      opens: '10:00',
+      closes: '19:00',
+    },
+    {
+      '@type': 'OpeningHoursSpecification',
+      dayOfWeek: 'Saturday',
+      opens: '10:00',
+      closes: '16:00',
+    },
+  ],
+  aggregateRating: {
+    '@type': 'AggregateRating',
+    ratingValue: GOOGLE_RATING.score.toFixed(1),
+    bestRating: GOOGLE_RATING.maxScore,
+    reviewCount: GOOGLE_RATING.reviewCount,
+  },
+  sameAs: socialLinks.map((link) => link.href),
+};
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang="pl" class="font-sans">
   <head>
+    <link rel="preconnect" href="https://api.fontshare.com" crossorigin />
+    <link
+      href="https://api.fontshare.com/v2/css?f[]=satoshi@400,500,600,700,900&display=swap"
+      rel="stylesheet"
+    />
     <!-- Google Tag Manager -->
     <script>
       (function (w, d, s, l, i) {
@@ -40,17 +103,19 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     <meta property="og:description" content={description} />
     <meta property="twitter:description" content={description} />
     <meta name="viewport" content="width=device-width" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.png" />
+    <link rel="icon" type="image/svg+xml" href={`${baseUrl}favicon.png`} />
     <meta name="generator" content={Astro.generator} />
     <title>{transformedTitle}</title>
     <meta property="og:title" content={transformedTitle} />
     <meta property="twitter:title" content={transformedTitle} />
-    <meta property="og:image" content="/og-image.png" />
-    <meta property="twitter:image" content="/og-image.png" />
+    <meta property="og:image" content={`${baseUrl}og-image.png`} />
+    <meta property="twitter:image" content={`${baseUrl}og-image.png`} />
     <meta property="og:type" content="website" />
     <link rel="canonical" href={canonicalURL} />
     <meta property="og:url" content={canonicalURL} />
-    <link rel="sitemap" href="/sitemap-index.xml" />
+    <link rel="sitemap" href={`${baseUrl}sitemap-index.xml`} />
+    <script type="application/ld+json" set:html={JSON.stringify(localBusinessSchema)} is:inline
+    ></script>
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16696753754"></script>
     <script>
@@ -65,7 +130,7 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
   </head>
   <body>
     <Navigation client:load />
-    <main class="pt-[var(--header-height)]">
+    <main class="pt-[var(--header-height)] min-h-[calc(100vh-var(--header-height))]">
       <slot />
     </main>
     <Footer />

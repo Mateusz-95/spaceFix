@@ -1,0 +1,24 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Configurator from '../components/Configurator/Configurator';
+import ConfiguratorShell from '../components/Configurator/ConfiguratorShell.astro';
+import { getRepairIdFromSearch } from '../components/Configurator/konfigurator-url';
+
+const initialRepairId = getRepairIdFromSearch(Astro.url.searchParams);
+---
+
+<Layout
+  title="Konfigurator naprawy"
+  description="Sprawdź cenę telefonu online — wybierz usługę, markę i model, a od razu zobaczysz cenę. Naprawa stacjonarna w Warszawie lub wysyłkowa. SpaceFix."
+>
+  <Configurator client:only="react" initialRepairId={initialRepairId}>
+    <div
+      slot="fallback"
+      class="relative min-h-[calc(100vh-var(--header-height))] bg-[#fbfcfe]"
+      aria-busy="true"
+      aria-label="Ładowanie konfiguratora"
+    />
+  </Configurator>
+
+  <ConfiguratorShell />
+</Layout>
