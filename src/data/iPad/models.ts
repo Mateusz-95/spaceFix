@@ -21,6 +21,24 @@ export const ipadStandard = [
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'iPad 11gen naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPad 11gen naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -43,6 +61,24 @@ export const ipadStandard = [
         price: '849 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'iPad 10gen naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPad 10gen naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
     ],
@@ -69,6 +105,24 @@ export const ipadStandard = [
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'iPad 9gen naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPad 9gen naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -91,6 +145,24 @@ export const ipadStandard = [
         price: '549 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'iPad 8gen naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPad 8gen naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
     ],
@@ -117,6 +189,24 @@ export const ipadStandard = [
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'iPad 7gen naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPad 7gen naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -139,6 +229,24 @@ export const ipadStandard = [
         price: '499 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'iPad 6gen naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPad 6gen naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
     ],
@@ -165,6 +273,24 @@ export const ipadStandard = [
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'iPad 5gen naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPad 5gen naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -187,6 +313,24 @@ export const ipadStandard = [
         price: '299 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'iPad 4gen naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPad 4gen naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
     ],
@@ -216,6 +360,24 @@ export const ipadMini = [
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'iPad Mini 7 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPad Mini 7 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -238,6 +400,24 @@ export const ipadMini = [
         price: '1099 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'iPad Mini 6 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPad Mini 6 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
     ],
@@ -264,6 +444,24 @@ export const ipadMini = [
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'iPad Mini 5 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPad Mini 5 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -286,6 +484,24 @@ export const ipadMini = [
         price: '499 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'iPad Mini 4 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPad Mini 4 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
     ],
@@ -312,6 +528,24 @@ export const ipadMini = [
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'iPad Mini 3 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPad Mini 3 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -336,6 +570,24 @@ export const ipadMini = [
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'iPad Mini 2 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPad Mini 2 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -358,6 +610,24 @@ export const ipadMini = [
         price: '299 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'iPad Mini naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPad Mini naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
     ],
@@ -387,6 +657,24 @@ export const ipadAir = [
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'iPad Air M3 13” naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPad Air M3 13” naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -409,6 +697,24 @@ export const ipadAir = [
         price: '2699 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'iPad Air M3 11” naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPad Air M3 11” naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
     ],
@@ -435,6 +741,24 @@ export const ipadAir = [
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'iPad Air 6gen. naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPad Air 6gen. naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -457,6 +781,24 @@ export const ipadAir = [
         price: '1299 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'iPad Air 5gen. naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPad Air 5gen. naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
     ],
@@ -483,6 +825,24 @@ export const ipadAir = [
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'iPad Air 4gen. naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPad Air 4gen. naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -505,6 +865,24 @@ export const ipadAir = [
         price: '699 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'iPad Air 3gen. naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPad Air 3gen. naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
     ],
@@ -531,6 +909,24 @@ export const ipadAir = [
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'iPad Air 2 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPad Air 2 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -553,6 +949,24 @@ export const ipadAir = [
         price: '399 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'iPad Air naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPad Air naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
     ],
@@ -582,6 +996,24 @@ export const ipadPro = [
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'iPad Pro M5 13" naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPad Pro M5 13" naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -604,6 +1036,24 @@ export const ipadPro = [
         price: '3099 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'iPad Pro M5 11" naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPad Pro M5 11" naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
     ],
@@ -630,6 +1080,24 @@ export const ipadPro = [
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'iPad Pro M4 13" naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPad Pro M4 13" naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -652,6 +1120,24 @@ export const ipadPro = [
         price: '2999 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'iPad Pro M4 11" naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPad Pro M4 11" naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
     ],
@@ -678,6 +1164,24 @@ export const ipadPro = [
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'iPad Pro 13" naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPad Pro 13" naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -700,6 +1204,24 @@ export const ipadPro = [
         price: '1999 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'iPad Pro 12.9" 6gen. naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPad Pro 12.9" 6gen. naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
     ],
@@ -726,6 +1248,24 @@ export const ipadPro = [
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'iPad Pro 12.9 5gen. naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPad Pro 12.9 5gen. naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -748,6 +1288,24 @@ export const ipadPro = [
         price: '1599 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'iPad Pro 12,9" 4gen. naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPad Pro 12,9" 4gen. naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
     ],
@@ -774,6 +1332,24 @@ export const ipadPro = [
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'iPad Pro 12,9" 3gen. naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPad Pro 12,9" 3gen. naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -796,6 +1372,24 @@ export const ipadPro = [
         price: '1199 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'iPad Pro 12,9" 2gen. naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPad Pro 12,9" 2gen. naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
     ],
@@ -822,6 +1416,24 @@ export const ipadPro = [
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'iPad Pro 12,9" 1gen. naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPad Pro 12,9" 1gen. naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -844,6 +1456,24 @@ export const ipadPro = [
         price: '1499 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'iPad Pro 11" 5gen. naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPad Pro 11" 5gen. naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
     ],
@@ -870,6 +1500,24 @@ export const ipadPro = [
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'iPad Pro 11" 4gen. naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPad Pro 11" 4gen. naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -892,6 +1540,24 @@ export const ipadPro = [
         price: '1199 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'iPad Pro 11" 3gen. naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPad Pro 11" 3gen. naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
     ],
@@ -918,6 +1584,24 @@ export const ipadPro = [
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'iPad Pro 11" 2gen. naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPad Pro 11" 2gen. naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -940,6 +1624,24 @@ export const ipadPro = [
         price: '1099 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'iPad Pro 11" 1gen. naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPad Pro 11" 1gen. naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
     ],
@@ -966,6 +1668,24 @@ export const ipadPro = [
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'iPad Pro 10.5" naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPad Pro 10.5" naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -988,6 +1708,24 @@ export const ipadPro = [
         price: '799 zł',
         description:
           'Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'iPad Pro 9,7" naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPad Pro 9,7" naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
     ],

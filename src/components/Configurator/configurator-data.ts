@@ -11,7 +11,7 @@ export type PopularRepairIcon =
   | 'chargingPort'
   | 'motherboard';
 
-export type RepairKey = 'front-glass' | 'display' | 'back-glass' | 'battery';
+export type RepairKey = 'front-glass' | 'display' | 'back-glass' | 'battery' | 'charging-port' | 'motherboard';
 
 export interface RepairType {
   id: string;
@@ -109,7 +109,7 @@ export const repairTypes: RepairType[] = [
     metaDescription:
       'Naprawa i wymiana złącza ładowania (USB-C / Lightning) w telefonie w Warszawie. Telefon znów ładuje się szybko i stabilnie. Gwarancja 6 miesięcy. Wyceń online.',
     icon: 'chargingPort',
-    repairKey: null,
+    repairKey: 'charging-port',
   },
   {
     id: 'naprawa-plyty-glownej',
@@ -122,7 +122,7 @@ export const repairTypes: RepairType[] = [
     metaDescription:
       'Zaawansowana naprawa płyty głównej telefonu w Warszawie – mikroelektronika, reballing BGA, naprawa układu zasilania. iPhone, Samsung, Xiaomi. Bezpłatna wstępna wycena.',
     icon: 'motherboard',
-    repairKey: null,
+    repairKey: 'motherboard',
   },
 ];
 
@@ -133,7 +133,7 @@ export const getServiceHref = (slug: string): string => withBase(`/${slug}/`);
 export const getRepairBySlug = (slug: string): RepairType | undefined =>
   repairTypes.find((repair) => repair.slug === slug);
 
-/** Marki dostępne w konfiguratorze (pomijamy te oznaczone jako ignore: 'list', np. iPad). */
+/** Marki dostępne w konfiguratorze (pomijamy te oznaczone jako ignore: 'list', np. iPad, Xiaomi). */
 export const brands = data.filter((brand: any) => brand.ignore !== 'list');
 
 /** Stałe dotyczące wysyłki telefonu do serwisu (ekran 5 i 6). */
@@ -177,14 +177,10 @@ export const findModelSelection = (
   const brand = data.find((item) => trimSlashes(item.slug) === trimSlashes(brandSlug));
   if (!brand?.categories) return null;
 
-  const category = brand.categories.find(
-    (item) => trimSlashes(item.slug) === trimSlashes(categorySlug),
-  );
+  const category = brand.categories.find((item) => trimSlashes(item.slug) === trimSlashes(categorySlug));
   if (!category) return null;
 
-  const model = getModels(category).find(
-    (phone) => trimSlashes(phone.slug) === trimSlashes(modelSlug),
-  );
+  const model = getModels(category).find((phone) => trimSlashes(phone.slug) === trimSlashes(modelSlug));
   if (!model) return null;
 
   return { brand, category, model };
@@ -198,5 +194,4 @@ export const parsePrice = (price?: string): number | null => {
 };
 
 /** Formatuje liczbę złotych jako "549,00 zł". */
-export const formatPln = (value: number): string =>
-  `${value.toLocaleString('pl-PL')},00 zł`;
+export const formatPln = (value: number): string => `${value.toLocaleString('pl-PL')},00 zł`;

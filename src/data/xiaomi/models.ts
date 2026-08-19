@@ -39,6 +39,24 @@ export const xiaomiMi = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi 13 Pro naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi 13 Pro naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -80,6 +98,24 @@ export const xiaomiMi = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi 13 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi 13 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -123,6 +159,24 @@ export const xiaomiMi = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi 13 Lite naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi 13 Lite naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -164,6 +218,24 @@ export const xiaomiMi = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi 12T naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi 12T naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -207,6 +279,24 @@ export const xiaomiMi = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi 12 Pro naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi 12 Pro naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -248,6 +338,24 @@ export const xiaomiMi = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi 12X naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi 12X naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -291,6 +399,24 @@ export const xiaomiMi = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi 12 Lite naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi 12 Lite naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -332,6 +458,24 @@ export const xiaomiMi = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi 12 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi 12 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -375,6 +519,24 @@ export const xiaomiMi = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi MI 11 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi MI 11 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -416,6 +578,24 @@ export const xiaomiMi = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi MI 11i naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi MI 11i naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -459,6 +639,24 @@ export const xiaomiMi = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi MI 11 Lite naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi MI 11 Lite naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -500,6 +698,24 @@ export const xiaomiMi = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi MI 11 Lite 5G naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi MI 11 Lite 5G naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -543,6 +759,24 @@ export const xiaomiMi = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi MI 10 Pro naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi MI 10 Pro naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -584,6 +818,24 @@ export const xiaomiMi = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi MI 10 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi MI 10 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -627,6 +879,24 @@ export const xiaomiMi = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi MI 10 Lite naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi MI 10 Lite naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -668,6 +938,24 @@ export const xiaomiMi = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi MI 10T Pro naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi MI 10T Pro naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -711,6 +999,24 @@ export const xiaomiMi = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi MI 10T naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi MI 10T naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -752,6 +1058,24 @@ export const xiaomiMi = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi MI 10T Lite naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi MI 10T Lite naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -795,6 +1119,24 @@ export const xiaomiMi = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi MI Note 10 Pro naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi MI Note 10 Pro naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -836,6 +1178,24 @@ export const xiaomiMi = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi MI Note 10 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi MI Note 10 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -879,6 +1239,24 @@ export const xiaomiMi = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi MI Note 10 Lite naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi MI Note 10 Lite naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -920,6 +1298,24 @@ export const xiaomiMi = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi MI 9T Pro naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi MI 9T Pro naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -963,6 +1359,24 @@ export const xiaomiMi = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi MI 9T naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi MI 9T naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -1004,6 +1418,24 @@ export const xiaomiMi = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi MI 9 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi MI 9 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -1047,6 +1479,24 @@ export const xiaomiMi = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi MI 9 Lite naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi MI 9 Lite naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -1088,6 +1538,24 @@ export const xiaomiMi = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi MI 9SE naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi MI 9SE naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -1134,6 +1602,24 @@ export const xiaomiRedmi = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi Redmi 12 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi Redmi 12 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -1175,6 +1661,24 @@ export const xiaomiRedmi = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi Redmi 12C naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi Redmi 12C naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -1218,6 +1722,24 @@ export const xiaomiRedmi = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi Redmi 10C naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi Redmi 10C naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -1259,6 +1781,24 @@ export const xiaomiRedmi = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi Redmi 10 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi Redmi 10 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -1302,6 +1842,24 @@ export const xiaomiRedmi = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi Redmi 9 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi Redmi 9 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -1343,6 +1901,24 @@ export const xiaomiRedmi = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi Redmi 9A naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi Redmi 9A naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -1386,6 +1962,24 @@ export const xiaomiRedmi = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi Redmi 9C NFC naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi Redmi 9C NFC naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -1427,6 +2021,24 @@ export const xiaomiRedmi = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi Redmi 9T naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi Redmi 9T naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -1470,6 +2082,24 @@ export const xiaomiRedmi = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi Redmi 8 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi Redmi 8 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -1511,6 +2141,24 @@ export const xiaomiRedmi = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi Redmi 8a naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi Redmi 8a naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -1554,6 +2202,24 @@ export const xiaomiRedmi = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi Redmi Note 12 Pro5G naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi Redmi Note 12 Pro5G naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -1595,6 +2261,24 @@ export const xiaomiRedmi = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi Redmi Note 12 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi Redmi Note 12 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -1638,6 +2322,24 @@ export const xiaomiRedmi = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi Redmi Note 12s naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi Redmi Note 12s naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -1679,6 +2381,24 @@ export const xiaomiRedmi = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi Redmi Note 11 Pro naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi Redmi Note 11 Pro naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -1722,6 +2442,24 @@ export const xiaomiRedmi = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi Redmi Note 11s naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi Redmi Note 11s naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -1763,6 +2501,24 @@ export const xiaomiRedmi = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi Redmi Note 11 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi Redmi Note 11 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -1806,6 +2562,24 @@ export const xiaomiRedmi = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi Redmi Note 10pro naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi Redmi Note 10pro naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -1847,6 +2621,24 @@ export const xiaomiRedmi = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi Redmi Note 10 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi Redmi Note 10 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -1890,6 +2682,24 @@ export const xiaomiRedmi = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi Redmi Note 10s naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi Redmi Note 10s naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -1931,6 +2741,24 @@ export const xiaomiRedmi = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi Redmi Note 9 Pro naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi Redmi Note 9 Pro naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -1974,6 +2802,24 @@ export const xiaomiRedmi = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi Redmi Note 9i naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi Redmi Note 9i naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -2015,6 +2861,24 @@ export const xiaomiRedmi = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi Redmi Note 9s naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi Redmi Note 9s naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -2058,6 +2922,24 @@ export const xiaomiRedmi = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi Redmi Note 8 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi Redmi Note 8 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -2099,6 +2981,24 @@ export const xiaomiRedmi = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi Redmi Note 8 Pro naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi Redmi Note 8 Pro naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -2142,6 +3042,24 @@ export const xiaomiRedmi = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi Redmi Note 8T naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi Redmi Note 8T naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -2183,6 +3101,24 @@ export const xiaomiRedmi = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Xiaomi Redmi Note 7 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Xiaomi Redmi Note 7 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -2229,6 +3165,24 @@ export const poco = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Poco X5 Pro 5G naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Poco X5 Pro 5G naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -2270,6 +3224,24 @@ export const poco = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Poco X5 5G naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Poco X5 5G naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -2313,6 +3285,24 @@ export const poco = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Poco X4 Pro 5G naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Poco X4 Pro 5G naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -2354,6 +3344,24 @@ export const poco = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Poco X4 GT naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Poco X4 GT naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -2397,6 +3405,24 @@ export const poco = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Poco X3 Pro  naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Poco X3 Pro  naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -2438,6 +3464,24 @@ export const poco = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Poco X3 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Poco X3 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -2481,6 +3525,24 @@ export const poco = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Poco M5s naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Poco M5s naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -2522,6 +3584,24 @@ export const poco = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Poco M5 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Poco M5 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -2565,6 +3645,24 @@ export const poco = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Poco M4 Pro 5G naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Poco M4 Pro 5G naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -2606,6 +3704,24 @@ export const poco = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Poco M4 Pro naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Poco M4 Pro naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -2649,6 +3765,24 @@ export const poco = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Poco M3 Pro naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Poco M3 Pro naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -2690,6 +3824,24 @@ export const poco = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Poco M3 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Poco M3 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -2733,6 +3885,24 @@ export const poco = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Poco F5 Pro naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Poco F5 Pro naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -2774,6 +3944,24 @@ export const poco = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Poco F5 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Poco F5 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -2817,6 +4005,24 @@ export const poco = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Poco F4 GT naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Poco F4 GT naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -2858,6 +4064,24 @@ export const poco = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Poco F4 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Poco F4 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -2901,6 +4125,24 @@ export const poco = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Poco F3 5G naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Poco F3 5G naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -2942,6 +4184,24 @@ export const poco = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Poco F2 Pro naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Poco F2 Pro naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -2985,6 +4245,24 @@ export const poco = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Poco F1 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Poco F1 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -3026,6 +4304,24 @@ export const poco = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Poco C40 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Poco C40 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },

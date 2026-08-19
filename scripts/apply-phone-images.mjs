@@ -21,6 +21,7 @@ const MODEL_FILES = [
   'src/data/samsung/models.ts',
   'src/data/xiaomi/models.ts',
   'src/data/google/models.ts',
+  'src/data/iPad/models.ts',
 ];
 
 /**
@@ -40,6 +41,45 @@ const NAME_ALIASES = {
   'Pixlel 8a': 'Pixel 8a',
   'Pxel 4a': 'Pixel 4a',
   'Pixlel 3': 'Pixel 3',
+  'iPad 11gen': 'iPad (2025)',
+  'iPad 10gen': 'iPad (2022)',
+  'iPad 9gen': 'iPad 10.2 (2021)',
+  'iPad 8gen': 'iPad 10.2 (2020)',
+  'iPad 7gen': 'iPad 10.2 (2019)',
+  'iPad 6gen': 'iPad 9.7 (2018)',
+  'iPad 5gen': 'iPad 9.7 (2017)',
+  'iPad 4gen': 'iPad 4 Wi-Fi',
+  'iPad Mini 7': 'iPad mini (2024)',
+  'iPad Mini 6': 'iPad mini (2021)',
+  'iPad Mini 5': 'iPad mini (2019)',
+  'iPad Mini 4': 'iPad mini 4 (2015)',
+  'iPad Mini 3': 'iPad mini 3',
+  'iPad Mini 2': 'iPad mini 2',
+  'iPad Mini': 'iPad mini Wi-Fi',
+  'iPad Air M3 13”': 'iPad Air 13 (2025)',
+  'iPad Air M3 11”': 'iPad Air 11 (2025)',
+  'iPad Air 6gen.': 'iPad Air 11 (2024)',
+  'iPad Air 5gen.': 'iPad Air (2022)',
+  'iPad Air 4gen.': 'iPad Air (2020)',
+  'iPad Air 3gen.': 'iPad Air (2019)',
+  'iPad Pro M5 13"': 'iPad Pro 13 (2025)',
+  'iPad Pro M5 11"': 'iPad Pro 11 (2025)',
+  'iPad Pro M4 13"': 'iPad Pro 13 (2024)',
+  'iPad Pro M4 11"': 'iPad Pro 11 (2024)',
+  'iPad Pro 13"': 'iPad Pro 13 (2024)',
+  'iPad Pro 12.9" 6gen.': 'iPad Pro 12.9 (2022)',
+  'iPad Pro 12.9 5gen.': 'iPad Pro 12.9 (2021)',
+  'iPad Pro 12,9" 4gen.': 'iPad Pro 12.9 (2020)',
+  'iPad Pro 12,9" 3gen.': 'iPad Pro 12.9 (2018)',
+  'iPad Pro 12,9" 2gen.': 'iPad Pro 12.9 (2017)',
+  'iPad Pro 12,9" 1gen.': 'iPad Pro 12.9 (2015)',
+  'iPad Pro 11" 5gen.': 'iPad Pro 11 (2024)',
+  'iPad Pro 11" 4gen.': 'iPad Pro 11 (2022)',
+  'iPad Pro 11" 3gen.': 'iPad Pro 11 (2021)',
+  'iPad Pro 11" 2gen.': 'iPad Pro 11 (2020)',
+  'iPad Pro 11" 1gen.': 'iPad Pro 11 (2018)',
+  'iPad Pro 10.5"': 'iPad Pro 10.5 (2017)',
+  'iPad Pro 9,7"': 'iPad Pro 9.7 (2016)',
 };
 
 /**
@@ -54,7 +94,7 @@ function normalize(name) {
   return String(name)
     .toLowerCase()
     .replace(/\+/g, ' plus ')
-    .replace(/\b(samsung|xiaomi|google)\b/g, ' ')
+    .replace(/\b(samsung|xiaomi|google|apple)\b/g, ' ')
     .replace(/[^a-z0-9]+/g, '');
 }
 
@@ -67,7 +107,7 @@ function looseKey(name) {
   return String(name)
     .toLowerCase()
     .replace(/\+/g, ' plus ')
-    .replace(/\b(samsung|xiaomi|google)\b/g, ' ')
+    .replace(/\b(samsung|xiaomi|google|apple)\b/g, ' ')
     .replace(/\b(5g|4g|lte)\b/g, ' ')
     .replace(/[^a-z0-9]+/g, '');
 }
@@ -107,6 +147,19 @@ function findImage(maps, modelName) {
   return maps.exact.get(normalize(lookupName)) ?? maps.loose.get(looseKey(lookupName)) ?? null;
 }
 
+/** Wczytuje istniejącą mapę slug -> ścieżka, żeby nie kasować zdjęć przy częściowym scrapie. */
+function loadExistingMap() {
+  const map = {};
+  if (!fs.existsSync(MAP_FILE)) return map;
+  const text = fs.readFileSync(MAP_FILE, 'utf8');
+  const regex = /'([^']+)':\s*'([^']+)'/g;
+  let match;
+  while ((match = regex.exec(text)) !== null) {
+    map[match[1]] = match[2];
+  }
+  return map;
+}
+
 /** Wyciąga pary { name, slug } z pliku TS modeli (kolejne pola name/slug). */
 function extractModels(fileText) {
   const regex = /name:\s*'([^']*)'\s*,\s*slug:\s*'([^']*)'/g;
@@ -126,7 +179,13 @@ function imageFileName(slug, url) {
 }
 
 async function download(url, destPath) {
-  const res = await fetch(url);
+  const res = await fetch(url, {
+    headers: {
+      'User-Agent':
+        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+      Referer: 'https://www.gsmarena.com/',
+    },
+  });
   if (!res.ok) throw new Error(`HTTP ${res.status} dla ${url}`);
   const buffer = Buffer.from(await res.arrayBuffer());
   fs.writeFileSync(destPath, buffer);
@@ -141,7 +200,7 @@ async function main() {
 
   fs.mkdirSync(IMAGES_DIR, { recursive: true });
 
-  const slugToPath = {};
+  const slugToPath = loadExistingMap();
   const matched = [];
   const unmatched = [];
 
