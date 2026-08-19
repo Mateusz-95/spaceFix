@@ -42,7 +42,7 @@ export const galaxyS = [
         key: "charging-port",
         title: "Samsung Galaxy S25 Ultra naprawa złącza ładowania",
         shortTitle: "Złącze ładowania",
-        price: "199",
+        price: "Wycena telefoniczna",
         description: "Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.",
         duration: "3-4 godziny",
       },
