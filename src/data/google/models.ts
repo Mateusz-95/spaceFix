@@ -39,6 +39,24 @@ const googleModels = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Pixel 9 Pro XL naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Pixel 9 Pro XL naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -80,6 +98,24 @@ const googleModels = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Pixel 9 Pro naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Pixel 9 Pro naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -123,6 +159,24 @@ const googleModels = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Pixel 9 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Pixel 9 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -164,6 +218,24 @@ const googleModels = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Pixel 9a naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Pixel 9a naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -207,6 +279,24 @@ const googleModels = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Pixel 8 Pro naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Pixel 8 Pro naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -248,6 +338,24 @@ const googleModels = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Pixlel 8a naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Pixlel 8a naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -291,6 +399,24 @@ const googleModels = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Pixel 8 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Pixel 8 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -332,6 +458,24 @@ const googleModels = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Pixel 7 Pro naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Pixel 7 Pro naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -375,6 +519,24 @@ const googleModels = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Pixel 7 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Pixel 7 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -416,6 +578,24 @@ const googleModels = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Pixel 7a naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Pixel 7a naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -459,6 +639,24 @@ const googleModels = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Pixel 6 Pro naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Pixel 6 Pro naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -500,6 +698,24 @@ const googleModels = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Pixel 6a naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Pixel 6a naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -543,6 +759,24 @@ const googleModels = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Pixel 6 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Pixel 6 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -584,6 +818,24 @@ const googleModels = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Pixel 5a naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Pixel 5a naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -627,6 +879,24 @@ const googleModels = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Pixel 5 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Pixel 5 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -668,6 +938,24 @@ const googleModels = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Pixel 4a 5g naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Pixel 4a 5g naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -711,6 +999,24 @@ const googleModels = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Pxel 4a naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Pxel 4a naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -752,6 +1058,24 @@ const googleModels = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Pixel 4 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Pixel 4 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -795,6 +1119,24 @@ const googleModels = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Pixel 3a XL naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Pixel 3a XL naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -836,6 +1178,24 @@ const googleModels = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Pixel 3a naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Pixel 3a naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -879,6 +1239,24 @@ const googleModels = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Pixlel 3 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Pixlel 3 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -921,6 +1299,24 @@ const googleModels = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Pixel XL naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Pixel XL naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -962,6 +1358,24 @@ const googleModels = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Pixel  naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Pixel  naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },

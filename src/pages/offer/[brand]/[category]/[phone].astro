@@ -9,7 +9,11 @@ export function getStaticPaths() {
   const trimSlashes = (value: string) => value.replace(/^\/+|\/+$/g, '');
 
   return data
-    .filter((item) => item.categories)
+    .filter(
+      (item) =>
+        item.categories &&
+        (item.ignore !== 'list' || item.slug === 'apple-ipad/'),
+    )
     .flatMap(({ slug, categories }) =>
       categories
         .filter((category) => (category.phones?.length ?? 0) > 0)

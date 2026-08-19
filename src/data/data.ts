@@ -24,6 +24,7 @@ const data = [
     imgSrc: '/images/xiaomi-photo.png',
     categories: categories,
     categoryTitle: 'Wybierz serię Xiaomi',
+    ignore: 'list',
   },
   {
     name: 'Google',
