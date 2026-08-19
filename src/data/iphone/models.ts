@@ -7,7 +7,7 @@ const iPhoneModels = [
         key: 'front-glass',
         title: 'iPhone 17 Pro Max wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '1299 zł',
+        price: '1298 zł',
         description: ['Wymiana szybki: 1299 zł'],
         duration: '3-4 godziny',
       },
@@ -161,7 +161,6 @@ const iPhoneModels = [
           'wymiana tylnego panelu (oryginał Apple): 1099 zł',
           'Wymiana całego korpusu: Skontaktuj się aby poznać cenę',
         ],
-
         duration: '4-5 godzin',
       },
       {
@@ -256,7 +255,6 @@ const iPhoneModels = [
       },
     ],
   },
-
   {
     name: 'iPhone 16 Pro Max',
     slug: 'iPhone-16-pro-max/',
@@ -419,7 +417,6 @@ const iPhoneModels = [
           'wymiana tylnego panelu (oryginał Apple): 1099 zł',
           'Wymiana całego korpusu: Skontaktuj się aby poznać cenę',
         ],
-
         duration: '4-5 godzin',
       },
       {
@@ -611,7 +608,6 @@ const iPhoneModels = [
           'wymiana tylnego panelu (oryginał Apple): 1099 zł',
           'Wymiana całego korpusu: Skontaktuj się aby poznać cenę',
         ],
-
         duration: '4-5 godzin',
       },
       {
