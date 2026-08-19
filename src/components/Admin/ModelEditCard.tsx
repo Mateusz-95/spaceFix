@@ -1,14 +1,5 @@
 import React, { useState } from 'react';
-import {
-  FiChevronDown,
-  FiChevronUp,
-  FiCheckCircle,
-  FiClock,
-  FiEdit3,
-  FiCheck,
-  FiDollarSign,
-  FiFileText,
-} from 'react-icons/fi';
+import { FiChevronDown, FiChevronUp, FiClock, FiDollarSign, FiFileText } from 'react-icons/fi';
 import type { ModelData, RepairItem } from './fileGenerators';
 
 interface Props {
@@ -108,20 +99,6 @@ export const ModelEditCard: React.FC<Props> = ({ model, isModified, onUpdateRepa
                     placeholder="np. 249 zł lub Wycena telefoniczna"
                     className="w-full rounded-lg border border-slate-300 px-3 py-1.5 text-sm font-semibold text-slate-900 focus:border-[#1c1d11] focus:ring-1 focus:ring-[#1c1d11]"
                   />
-                  <div className="mt-1 flex flex-wrap gap-1">
-                    {['Wycena telefoniczna', '199 zł', '249 zł', '299 zł', '349 zł', '399 zł', '499 zł'].map(
-                      (preset) => (
-                        <button
-                          key={preset}
-                          type="button"
-                          onClick={() => onUpdateRepair(model.slug, idx, { price: preset })}
-                          className="rounded bg-slate-100 px-1.5 py-0.5 text-[10px] text-slate-600 hover:bg-slate-200"
-                        >
-                          {preset}
-                        </button>
-                      ),
-                    )}
-                  </div>
                 </div>
 
                 <div>

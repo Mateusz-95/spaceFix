@@ -4,14 +4,19 @@ import { phoneImages } from '../../data/phone-images';
 import { AuthLock } from './AuthLock';
 import { ModelEditCard } from './ModelEditCard';
 import { ExportModal } from './ExportModal';
-import type { ModelData, RepairItem } from './fileGenerators';
+import { PublishModal } from './PublishModal';
 import {
-  FiSearch,
-  FiDownload,
-  FiRefreshCw,
-  FiCheck,
-  FiLayers,
-} from 'react-icons/fi';
+  type ModelData,
+  type RepairItem,
+  generateIphoneFile,
+  generateAppleWatchFile,
+  generateGoogleFile,
+  generateSamsungFile,
+  generateXiaomiFile,
+  generateIpadFile,
+} from './fileGenerators';
+import type { ModifiedFile } from './githubService';
+import { FiSearch, FiDownload, FiRefreshCw, FiCheck, FiLayers, FiSend } from 'react-icons/fi';
 
 interface DataRepair {
   key: string;
@@ -72,6 +77,7 @@ export const PriceEditor: React.FC = () => {
   const [selectedCategory, setSelectedCategory] = useState<string>('all');
   const [filterType, setFilterType] = useState<'all' | 'modified' | 'quotes'>('all');
   const [isExportOpen, setIsExportOpen] = useState<boolean>(false);
+  const [isPublishOpen, setIsPublishOpen] = useState<boolean>(false);
   const [saveStatus, setSaveStatus] = useState<string>('');
   const [page, setPage] = useState<number>(1);
   const itemsPerPage = 20;
@@ -101,6 +107,94 @@ export const PriceEditor: React.FC = () => {
     }
     setModels(initialModels);
   }, [initialModels]);
+
+  // List of modified files ready for GitHub publish
+  const modifiedFilesList = useMemo(() => {
+    const list: ModifiedFile[] = [];
+    if (modifiedSlugs.size === 0) return list;
+
+    const hasIphone = Array.from(modifiedSlugs).some((slug) => {
+      const m = models.find((item) => item.slug === slug);
+      return m?.brandSlug === 'apple/' && m?.categorySlug === 'iphone/';
+    });
+    if (hasIphone) {
+      const iphoneModels = models.filter((m) => m.brandSlug === 'apple/' && m.categorySlug === 'iphone/');
+      list.push({ path: 'src/data/iphone/models.ts', content: generateIphoneFile(iphoneModels) });
+    }
+
+    const hasAppleWatch = Array.from(modifiedSlugs).some((slug) => {
+      const m = models.find((item) => item.slug === slug);
+      return m?.brandSlug === 'apple/' && m?.categorySlug === 'apple-watch/';
+    });
+    if (hasAppleWatch) {
+      const appleWatchModels = models.filter((m) => m.brandSlug === 'apple/' && m.categorySlug === 'apple-watch/');
+      list.push({
+        path: 'src/data/appleWatch/models.ts',
+        content: generateAppleWatchFile(appleWatchModels),
+      });
+    }
+
+    const hasSamsung = Array.from(modifiedSlugs).some((slug) => {
+      const m = models.find((item) => item.slug === slug);
+      return m?.brandSlug === 'samsung/';
+    });
+    if (hasSamsung) {
+      const samsungMap: Record<string, ModelData[]> = {};
+      models
+        .filter((m) => m.brandSlug === 'samsung/')
+        .forEach((m) => {
+          const cat = m.categorySlug || 'default';
+          if (!samsungMap[cat]) samsungMap[cat] = [];
+          samsungMap[cat].push(m);
+        });
+      list.push({ path: 'src/data/samsung/models.ts', content: generateSamsungFile(samsungMap) });
+    }
+
+    const hasGoogle = Array.from(modifiedSlugs).some((slug) => {
+      const m = models.find((item) => item.slug === slug);
+      return m?.brandSlug === 'google/';
+    });
+    if (hasGoogle) {
+      const googleModels = models.filter((m) => m.brandSlug === 'google/');
+      list.push({ path: 'src/data/google/models.ts', content: generateGoogleFile(googleModels) });
+    }
+
+    const hasXiaomi = Array.from(modifiedSlugs).some((slug) => {
+      const m = models.find((item) => item.slug === slug);
+      return m?.brandSlug === 'xiaomi/';
+    });
+    if (hasXiaomi) {
+      const xiaomiMap: Record<string, ModelData[]> = {};
+      models
+        .filter((m) => m.brandSlug === 'xiaomi/')
+        .forEach((m) => {
+          const cat = m.categorySlug || 'default';
+          if (!xiaomiMap[cat]) xiaomiMap[cat] = [];
+          xiaomiMap[cat].push(m);
+        });
+      list.push({ path: 'src/data/xiaomi/models.ts', content: generateXiaomiFile(xiaomiMap) });
+    }
+
+    const hasIpad = Array.from(modifiedSlugs).some((slug) => {
+      const m = models.find((item) => item.slug === slug);
+      return m?.brandSlug === 'apple-ipad/' || m?.categorySlug === 'ipad/' || m?.brandSlug === 'apple/';
+    });
+    if (hasIpad) {
+      const ipadMap: Record<string, ModelData[]> = {};
+      models
+        .filter((m) => m.brandSlug === 'apple-ipad/' || m.categorySlug === 'ipad/' || m.brandSlug === 'apple/')
+        .forEach((m) => {
+          const cat = m.categorySlug || 'default';
+          if (['10.2/', 'mini/', 'air/', 'pro/'].includes(cat)) {
+            if (!ipadMap[cat]) ipadMap[cat] = [];
+            ipadMap[cat].push(m);
+          }
+        });
+      list.push({ path: 'src/data/iPad/models.ts', content: generateIpadFile(ipadMap) });
+    }
+
+    return list;
+  }, [models, modifiedSlugs]);
 
   // Update a repair
   const handleUpdateRepair = (modelSlug: string, repairIndex: number, updated: Partial<RepairItem>) => {
@@ -230,10 +324,20 @@ export const PriceEditor: React.FC = () => {
                 <button
                   type="button"
                   onClick={() => setIsExportOpen(true)}
-                  className="inline-flex items-center gap-2 rounded-xl bg-[#1c1d11] px-5 py-2.5 text-xs font-bold text-white shadow-md hover:bg-[#2a2b1a] transition active:scale-[0.98]"
+                  className="inline-flex items-center gap-2 rounded-xl border border-slate-200 bg-white px-4 py-2.5 text-xs font-semibold text-slate-700 shadow-sm hover:bg-slate-50 transition"
+                  title="Pobierz pliki kodu (.ts / .json)"
                 >
                   <FiDownload className="h-4 w-4" />
-                  Eksportuj / Pobierz pliki ({modifiedSlugs.size} zmian)
+                  Pobierz pliki
+                </button>
+
+                <button
+                  type="button"
+                  onClick={() => setIsPublishOpen(true)}
+                  className="inline-flex items-center gap-2 rounded-xl bg-[#1c1d11] px-5 py-2.5 text-xs font-bold text-white shadow-md hover:bg-[#2a2b1a] transition active:scale-[0.98]"
+                >
+                  <FiSend className="h-4 w-4 text-emerald-400" />
+                  Opublikuj na żywo ({modifiedSlugs.size} zmian)
                 </button>
               </div>
             </div>
@@ -389,6 +493,14 @@ export const PriceEditor: React.FC = () => {
 
         {/* Export Modal */}
         <ExportModal isOpen={isExportOpen} onClose={() => setIsExportOpen(false)} models={models} />
+
+        {/* Live Publish Modal */}
+        <PublishModal
+          isOpen={isPublishOpen}
+          onClose={() => setIsPublishOpen(false)}
+          modifiedFiles={modifiedFilesList}
+          modifiedCount={modifiedSlugs.size}
+        />
       </div>
     </AuthLock>
   );
