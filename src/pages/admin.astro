@@ -1,0 +1,9 @@
+---
+import Layout from '../layouts/Layout.astro';
+import PriceEditor from '../components/Admin/PriceEditor';
+---
+
+<Layout title="Panel Edycji Cennika" description="Panel zarządzania cennikiem SpaceFix">
+  <PriceEditor client:only="react" />
+</Layout>
+

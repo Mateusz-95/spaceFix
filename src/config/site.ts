@@ -1,5 +1,6 @@
 import { withBase } from '../utils/withBase';
 import { repairTypes, getServiceHref } from '../components/Configurator/configurator-data';
+import { KONFIGURATOR_PATH } from '../components/Configurator/konfigurator-url';
 
 export const contact = {
   phone: '+48 730 889 759',
@@ -12,8 +13,7 @@ export const contact = {
   addressLine1: 'ul. Malinowa 16/U1',
   addressLine2: '02-495 Warszawa',
   mapsHref: 'https://www.google.com/maps/place/SpaceFix+-+Serwis+Apple+,+Samsung+,+Xiaomi/@52.1931235,20.8805978,17z',
-  mapsDirectionsHref:
-    'https://www.google.com/maps/dir/?api=1&destination=ul.+Malinowa+16%2FU1,+02-495+Warszawa',
+  mapsDirectionsHref: 'https://www.google.com/maps/dir/?api=1&destination=ul.+Malinowa+16%2FU1,+02-495+Warszawa',
   mapsEmbedSrc:
     'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2445.7661380908194!2d20.8831727!3d52.1931235!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4719357b16c39af7%3A0x93bd1b1e77aeba83!2sSpaceFix%20-%20Serwis%20Apple%2C%20Samsung%2C%20Xiaomi%2C%20Huawei!5e0!3m2!1spl!2spl!4v1727521001502!5m2!1spl!2spl',
   instagram: 'https://www.instagram.com/spacefix_repair/',
@@ -55,7 +55,7 @@ export const serviceNavLinks: NavLink[] = repairTypes.map((repair) => ({
 export const homeNavLinks: NavLink[] = [
   { label: 'Strona Główna', href: withBase('/#hero') },
   { label: 'Usługi', href: withBase('/#naprawy'), children: serviceNavLinks },
-  { label: 'Cennik', href: withBase('/#cennik') },
+  { label: 'Cennik', href: KONFIGURATOR_PATH },
   { label: 'Kontakt', href: withBase('/#kontakt') },
 ];
 

@@ -38,6 +38,24 @@ export const galaxyS = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy S25 Ultra naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy S25 Ultra naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -78,6 +96,24 @@ export const galaxyS = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy S25 Plus naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy S25 Plus naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -120,6 +156,24 @@ export const galaxyS = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy S25 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy S25 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -160,6 +214,24 @@ export const galaxyS = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy S25 FE naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy S25 FE naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -202,6 +274,24 @@ export const galaxyS = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy S24 Ultra naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy S24 Ultra naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -242,6 +332,24 @@ export const galaxyS = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy S24 Plus naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy S24 Plus naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -284,6 +392,24 @@ export const galaxyS = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy S24 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy S24 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -324,6 +450,24 @@ export const galaxyS = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy S24 FE naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy S24 FE naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -366,6 +510,24 @@ export const galaxyS = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy S23 Ultra naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy S23 Ultra naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -406,6 +568,24 @@ export const galaxyS = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy S23 Plus naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy S23 Plus naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -448,6 +628,24 @@ export const galaxyS = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy S23 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy S23 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -488,6 +686,24 @@ export const galaxyS = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy S23 FE naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy S23 FE naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -530,6 +746,24 @@ export const galaxyS = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy S22 Ultra naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy S22 Ultra naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -570,6 +804,24 @@ export const galaxyS = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy S22 Plus naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy S22 Plus naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -612,6 +864,24 @@ export const galaxyS = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy S22 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy S22 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -653,6 +923,24 @@ export const galaxyS = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy S21 Plus naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy S21 Plus naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -693,6 +981,24 @@ export const galaxyS = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy S21 Ultra naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy S21 Ultra naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -736,6 +1042,24 @@ export const galaxyS = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy S21 FE naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy S21 FE naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -777,6 +1101,24 @@ export const galaxyS = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy S21 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy S21 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -820,6 +1162,24 @@ export const galaxyS = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy S20 Ultra naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy S20 Ultra naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -860,6 +1220,24 @@ export const galaxyS = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy S20 Plus naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy S20 Plus naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -902,6 +1280,24 @@ export const galaxyS = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy S20 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy S20 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -942,6 +1338,24 @@ export const galaxyS = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy S20 FE naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy S20 FE naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -984,6 +1398,24 @@ export const galaxyS = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy S10 Plus naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy S10 Plus naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -1024,6 +1456,24 @@ export const galaxyS = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy S10 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy S10 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -1066,6 +1516,24 @@ export const galaxyS = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy S10e naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy S10e naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -1106,6 +1574,24 @@ export const galaxyS = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy S9 Plus naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy S9 Plus naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -1148,6 +1634,24 @@ export const galaxyS = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy S9 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy S9 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -1188,6 +1692,24 @@ export const galaxyS = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy S8 Plus naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy S8 Plus naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -1230,6 +1752,24 @@ export const galaxyS = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy S8 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy S8 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -1271,6 +1811,24 @@ export const galaxyS = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy S7 Edge naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy S7 Edge naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -1311,6 +1869,24 @@ export const galaxyS = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy S7 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy S7 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -1357,6 +1933,24 @@ export const galaxyA = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A73 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A73 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -1398,6 +1992,24 @@ export const galaxyA = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A72 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A72 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -1441,6 +2053,24 @@ export const galaxyA = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A71 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A71 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -1482,6 +2112,24 @@ export const galaxyA = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A70 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A70 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -1525,6 +2173,24 @@ export const galaxyA = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A56 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A56 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -1566,6 +2232,24 @@ export const galaxyA = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A55 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A55 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -1609,6 +2293,24 @@ export const galaxyA = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A54 5G naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A54 5G naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -1650,6 +2352,24 @@ export const galaxyA = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A53 5G naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A53 5G naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -1693,6 +2413,24 @@ export const galaxyA = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A52s naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A52s naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -1734,6 +2472,24 @@ export const galaxyA = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A52 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A52 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -1777,6 +2533,24 @@ export const galaxyA = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A51 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A51 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -1818,6 +2592,24 @@ export const galaxyA = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A50 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A50 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -1861,6 +2653,24 @@ export const galaxyA = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A42 5G naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A42 5G naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -1902,6 +2712,24 @@ export const galaxyA = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A41 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A41 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -1945,6 +2773,24 @@ export const galaxyA = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A40 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A40 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -1986,6 +2832,24 @@ export const galaxyA = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A36 5G naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A36 5G naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -2029,6 +2893,24 @@ export const galaxyA = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A35 5G naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A35 5G naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -2070,6 +2952,24 @@ export const galaxyA = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A34 5G naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A34 5G naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -2113,6 +3013,24 @@ export const galaxyA = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A33 5G naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A33 5G naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -2154,6 +3072,24 @@ export const galaxyA = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A34 4G naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A34 4G naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -2197,6 +3133,24 @@ export const galaxyA = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A31 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A31 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -2238,6 +3192,24 @@ export const galaxyA = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A30s naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A30s naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -2281,6 +3253,24 @@ export const galaxyA = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A26 5G naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A26 5G naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -2322,6 +3312,24 @@ export const galaxyA = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A25 5G naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A25 5G naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -2365,6 +3373,24 @@ export const galaxyA = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A23 5G naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A23 5G naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -2407,6 +3433,24 @@ export const galaxyA = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A22 5G naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A22 5G naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -2448,6 +3492,24 @@ export const galaxyA = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A22 5G naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A22 5G naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -2491,6 +3553,24 @@ export const galaxyA = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A22 4G naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A22 4G naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -2532,6 +3612,24 @@ export const galaxyA = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A21s naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A21s naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -2575,6 +3673,24 @@ export const galaxyA = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A20e naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A20e naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -2616,6 +3732,24 @@ export const galaxyA = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A16 5G naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A16 5G naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -2659,6 +3793,24 @@ export const galaxyA = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A15 5G naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A15 5G naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -2700,6 +3852,24 @@ export const galaxyA = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A14 5G naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A14 5G naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -2743,6 +3913,24 @@ export const galaxyA = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A14 4G naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A14 4G naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -2784,6 +3972,24 @@ export const galaxyA = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A13 5G naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A13 5G naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -2827,6 +4033,24 @@ export const galaxyA = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A12 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A12 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -2868,6 +4092,24 @@ export const galaxyA = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A10 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A10 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -2911,6 +4153,24 @@ export const galaxyA = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A05s naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A05s naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -2952,6 +4212,24 @@ export const galaxyA = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A05 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A05 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -2995,6 +4273,24 @@ export const galaxyA = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A04s naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A04s naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -3037,6 +4333,24 @@ export const galaxyA = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A04 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A04 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -3078,6 +4392,24 @@ export const galaxyA = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A03s naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A03s naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -3121,6 +4453,24 @@ export const galaxyA = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A9 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A9 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -3162,6 +4512,24 @@ export const galaxyA = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A8 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A8 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -3205,6 +4573,24 @@ export const galaxyA = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A7 2018 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A7 2018 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -3246,6 +4632,24 @@ export const galaxyA = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A6 Plus naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A6 Plus naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -3289,6 +4693,24 @@ export const galaxyA = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A6 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A6 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -3330,6 +4752,24 @@ export const galaxyA = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A42 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A42 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -3373,6 +4813,24 @@ export const galaxyA = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A320 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A320 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -3414,6 +4872,24 @@ export const galaxyA = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A32 5G naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A32 5G naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -3457,6 +4933,24 @@ export const galaxyA = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A32 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A32 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -3498,6 +4992,24 @@ export const galaxyA = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A22 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A22 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -3541,6 +5053,24 @@ export const galaxyA = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A14 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A14 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -3582,6 +5112,24 @@ export const galaxyA = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A13 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A13 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -3625,6 +5173,24 @@ export const galaxyA = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A12 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A12 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -3666,6 +5232,24 @@ export const galaxyA = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A10 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A10 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -3709,6 +5293,24 @@ export const galaxyA = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A03s naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A03s naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -3751,6 +5353,24 @@ export const galaxyA = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A03 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A03 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -3792,6 +5412,24 @@ export const galaxyA = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy A02s naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy A02s naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -3838,6 +5476,24 @@ export const galaxyM = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy M53 5G naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy M53 5G naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -3879,6 +5535,24 @@ export const galaxyM = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy M52 5G naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy M52 5G naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -3922,6 +5596,24 @@ export const galaxyM = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy M51 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy M51 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -3963,6 +5655,24 @@ export const galaxyM = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy M33 5G naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy M33 5G naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -4006,6 +5716,24 @@ export const galaxyM = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy M32 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy M32 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -4047,6 +5775,24 @@ export const galaxyM = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy M31s naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy M31s naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -4090,6 +5836,24 @@ export const galaxyM = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy M31 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy M31 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -4131,6 +5895,24 @@ export const galaxyM = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy M23 5G naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy M23 5G naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -4174,6 +5956,24 @@ export const galaxyM = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy M22 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy M22 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -4215,6 +6015,24 @@ export const galaxyM = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy M21 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy M21 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -4258,6 +6076,24 @@ export const galaxyM = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy M20 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy M20 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -4299,6 +6135,24 @@ export const galaxyM = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy M13 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy M13 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -4342,6 +6196,24 @@ export const galaxyM = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy M12 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy M12 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -4383,6 +6255,24 @@ export const galaxyM = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy M11 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy M11 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -4429,6 +6319,24 @@ export const galaxyJ = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy J730 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy J730 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -4470,6 +6378,24 @@ export const galaxyJ = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy J710 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy J710 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -4513,6 +6439,24 @@ export const galaxyJ = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy J6 Plus naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy J6 Plus naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -4554,6 +6498,24 @@ export const galaxyJ = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy J6 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy J6 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -4597,6 +6559,24 @@ export const galaxyJ = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy J530 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy J530 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -4638,6 +6618,24 @@ export const galaxyJ = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy J510 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy J510 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -4681,6 +6679,24 @@ export const galaxyJ = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy J500 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy J500 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -4722,6 +6738,24 @@ export const galaxyJ = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy J4 Plus naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy J4 Plus naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -4765,6 +6799,24 @@ export const galaxyJ = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy J330 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy J330 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -4806,6 +6858,24 @@ export const galaxyJ = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy J320 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy J320 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -4852,6 +6922,24 @@ export const galaxyNote = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy Note 20 Ultra naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy Note 20 Ultra naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -4893,6 +6981,24 @@ export const galaxyNote = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy Note 20 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy Note 20 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -4936,6 +7042,24 @@ export const galaxyNote = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy Note 10 Plus naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy Note 10 Plus naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -4977,6 +7101,24 @@ export const galaxyNote = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy Note 10 Lite naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy Note 10 Lite naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -5020,6 +7162,24 @@ export const galaxyNote = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy Note 10 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy Note 10 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -5062,6 +7222,24 @@ export const galaxyNote = [
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy Note 9 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy Note 9 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -5103,6 +7281,24 @@ export const galaxyNote = [
         description:
           'Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.',
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'Samsung Galaxy Note 8 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'Samsung Galaxy Note 8 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },

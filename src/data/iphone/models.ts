@@ -7,7 +7,7 @@ const iPhoneModels = [
         key: 'front-glass',
         title: 'iPhone 17 Pro Max wymiana szybki',
         shortTitle: 'Przednia szybka',
-        price: '1299 zł',
+        price: '1298 zł',
         description: ['Wymiana szybki: 1299 zł'],
         duration: '3-4 godziny',
       },
@@ -42,6 +42,24 @@ const iPhoneModels = [
         price: '349 zł',
         description: ['Bateria zamiennik: 349 zł', 'Oryginalna bateria Apple: 499 zł'],
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'iPhone 17 Pro Max naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPhone 17 Pro Max naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -89,6 +107,24 @@ const iPhoneModels = [
         description: ['Bateria zamiennik: 399 zł', 'Oryginalna bateria Apple: 549 zł'],
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'iPhone 17 Pro naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPhone 17 Pro naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -125,7 +161,6 @@ const iPhoneModels = [
           'wymiana tylnego panelu (oryginał Apple): 1099 zł',
           'Wymiana całego korpusu: Skontaktuj się aby poznać cenę',
         ],
-
         duration: '4-5 godzin',
       },
       {
@@ -135,6 +170,24 @@ const iPhoneModels = [
         price: '349 zł',
         description: ['Bateria zamiennik: 399 zł', 'Oryginalna bateria Apple: 549 zł'],
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'iPhone Air naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPhone Air naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -182,9 +235,26 @@ const iPhoneModels = [
         description: ['Bateria zamiennik: 399 zł', 'Oryginalna bateria Apple: 549 zł'],
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'iPhone 17 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPhone 17 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
-
   {
     name: 'iPhone 16 Pro Max',
     slug: 'iPhone-16-pro-max/',
@@ -228,6 +298,24 @@ const iPhoneModels = [
         price: '349 zł',
         description: ['Bateria zamiennik: 349 zł', 'Oryginalna bateria Apple: 499 zł'],
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'iPhone 16 Pro Max naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPhone 16 Pro Max naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -275,6 +363,24 @@ const iPhoneModels = [
         description: ['Bateria zamiennik: 349 zł', 'Oryginalna bateria Apple: 499 zł'],
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'iPhone 16 Pro naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPhone 16 Pro naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -311,7 +417,6 @@ const iPhoneModels = [
           'wymiana tylnego panelu (oryginał Apple): 1099 zł',
           'Wymiana całego korpusu: Skontaktuj się aby poznać cenę',
         ],
-
         duration: '4-5 godzin',
       },
       {
@@ -321,6 +426,24 @@ const iPhoneModels = [
         price: '349 zł',
         description: ['Bateria zamiennik: 349 zł', 'Oryginalna bateria Apple: 499 zł'],
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'iPhone 16 Plus naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPhone 16 Plus naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -366,6 +489,24 @@ const iPhoneModels = [
         price: '269 zł',
         description: ['Bateria zamiennik: 269 zł', 'Oryginalna bateria Apple: 499 zł'],
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'iPhone 16e naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPhone 16e naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -413,6 +554,24 @@ const iPhoneModels = [
         description: ['Bateria zamiennik: 349 zł', 'Oryginalna bateria Apple: 499 zł'],
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'iPhone 16 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPhone 16 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -449,7 +608,6 @@ const iPhoneModels = [
           'wymiana tylnego panelu (oryginał Apple): 1099 zł',
           'Wymiana całego korpusu: Skontaktuj się aby poznać cenę',
         ],
-
         duration: '4-5 godzin',
       },
       {
@@ -459,6 +617,24 @@ const iPhoneModels = [
         price: '349 zł',
         description: ['Bateria zamiennik: 349 zł', 'Oryginalna bateria Apple: 499 zł'],
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'iPhone 15 Pro Max naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPhone 15 Pro Max naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -506,6 +682,24 @@ const iPhoneModels = [
         description: ['Bateria zamiennik: 349 zł', 'Oryginalna bateria Apple: 499 zł'],
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'iPhone 15 Pro naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPhone 15 Pro naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -551,6 +745,24 @@ const iPhoneModels = [
         price: '349 zł',
         description: ['Bateria zamiennik: 349 zł', 'Oryginalna bateria Apple: 499 zł'],
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'iPhone 15 Plus naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPhone 15 Plus naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -598,6 +810,24 @@ const iPhoneModels = [
         description: ['Bateria zamiennik: 349 zł', 'Oryginalna bateria Apple: 499 zł'],
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'iPhone 15 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPhone 15 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -639,6 +869,24 @@ const iPhoneModels = [
         price: '349 zł',
         description: ['Bateria zamiennik: 349 zł', 'Oryginalna bateria Apple: 499 zł'],
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'iPhone 14 Pro Max naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPhone 14 Pro Max naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -682,6 +930,24 @@ const iPhoneModels = [
         description: ['Bateria zamiennik: 349 zł', 'Oryginalna bateria Apple: 499 zł'],
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'iPhone 14 Pro naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPhone 14 Pro naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -724,6 +990,24 @@ const iPhoneModels = [
         description: ['Bateria zamiennik: 349 zł', 'Oryginalna bateria Apple: 499 zł'],
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'iPhone 14 Plus naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPhone 14 Plus naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -761,6 +1045,24 @@ const iPhoneModels = [
         price: '269 zł',
         description: ['Bateria zamiennik: 269 zł', 'Oryginalna bateria Apple: 499 zł'],
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'iPhone 14 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPhone 14 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -804,6 +1106,24 @@ const iPhoneModels = [
         description: ['Bateria zamiennik: 269 zł', 'Oryginalna bateria Apple: 449 zł'],
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'iPhone 13 Pro Max naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPhone 13 Pro Max naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -841,6 +1161,24 @@ const iPhoneModels = [
         price: '269 zł',
         description: ['Bateria zamiennik: 269 zł', 'Oryginalna bateria Apple: 449 zł'],
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'iPhone 13 Pro naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPhone 13 Pro naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -880,6 +1218,24 @@ const iPhoneModels = [
         description: ['Bateria zamiennik: 269 zł', 'Oryginalna bateria Apple: 449 zł'],
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'iPhone 13  naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPhone 13  naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -917,6 +1273,24 @@ const iPhoneModels = [
         price: '269 zł',
         description: ['Bateria zamiennik: 269 zł', 'Oryginalna bateria Apple: 449 zł'],
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'iPhone 13 mini naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPhone 13 mini naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -960,6 +1334,24 @@ const iPhoneModels = [
         description: ['Bateria zamiennik: 249 zł', 'Oryginalna bateria Apple: 449 zł'],
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'iPhone SE 2022 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPhone SE 2022 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -997,6 +1389,24 @@ const iPhoneModels = [
         price: '269 zł',
         description: ['Bateria zamiennik: 269 zł', 'Oryginalna bateria Apple: 449 zł'],
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'iPhone 12 Pro Max naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPhone 12 Pro Max naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -1040,6 +1450,24 @@ const iPhoneModels = [
         description: ['Bateria zamiennik: 249 zł', 'Oryginalna bateria Apple: 449 zł'],
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'iPhone 12 Pro naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPhone 12 Pro naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -1077,6 +1505,24 @@ const iPhoneModels = [
         price: '249 zł',
         description: ['Bateria zamiennik: 249 zł', 'Oryginalna bateria Apple: 449 zł'],
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'iPhone 12 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPhone 12 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -1120,6 +1566,24 @@ const iPhoneModels = [
         description: ['Bateria zamiennik: 249 zł', 'Oryginalna bateria Apple: 449 zł'],
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'iPhone 12 Mini naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPhone 12 Mini naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -1157,6 +1621,24 @@ const iPhoneModels = [
         price: '249 zł',
         description: ['Bateria zamiennik: 249 zł', 'Oryginalna bateria Apple: 449 zł'],
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'iPhone 11 Pro Max naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPhone 11 Pro Max naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -1200,6 +1682,24 @@ const iPhoneModels = [
         description: ['Bateria zamiennik: 229 zł', 'Oryginalna bateria Apple: Skontaktuj się aby poznać cenę'],
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'iPhone 11 Pro naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPhone 11 Pro naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -1241,6 +1741,24 @@ const iPhoneModels = [
         price: '199 zł',
         description: ['Bateria zamiennik 199 zł', 'Oryginalna bateria Apple: Skontaktuj się aby poznać cenę'],
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'iPhone 11 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPhone 11 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -1284,6 +1802,24 @@ const iPhoneModels = [
         description: ['Bateria zamiennik: 199 zł', 'Oryginalna bateria Apple: Skontaktuj się aby poznać cenę'],
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'iPhone SE 2020 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPhone SE 2020 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -1325,6 +1861,24 @@ const iPhoneModels = [
         price: '199 zł',
         description: ['Bateria zamiennik: 199 zł', 'Oryginalna bateria Apple: Skontaktuj się aby poznać cenę'],
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'iPhone XS Max naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPhone XS Max naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -1368,6 +1922,24 @@ const iPhoneModels = [
         description: ['Bateria zamiennik: 199 zł', 'Oryginalna bateria Apple: Skontaktuj się aby poznać cenę'],
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'iPhone XS naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPhone XS naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -1410,6 +1982,24 @@ const iPhoneModels = [
         description: ['Wymiana baterii: 199 zł'],
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'iPhone X naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPhone X naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -1447,6 +2037,24 @@ const iPhoneModels = [
         price: '199 zł',
         description: ['Wymiana baterii: 199 zł'],
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'iPhone XR naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPhone XR naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -1486,6 +2094,24 @@ const iPhoneModels = [
         description: ['Wymiana baterii: 189 zł'],
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'iPhone 8 Plus naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPhone 8 Plus naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -1523,6 +2149,24 @@ const iPhoneModels = [
         price: '189 zł',
         description: ['Wymiana baterii: 189 zł'],
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'iPhone 8 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPhone 8 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -1562,6 +2206,24 @@ const iPhoneModels = [
         description: ['Wymiana baterii: 149 zł'],
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'iPhone 7 Plus naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPhone 7 Plus naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -1599,6 +2261,24 @@ const iPhoneModels = [
         price: '149 zł',
         description: ['Wymiana baterii: 149 zł'],
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'iPhone 7 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPhone 7 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -1638,6 +2318,24 @@ const iPhoneModels = [
         description: ['Wymiana baterii: 149 zł'],
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'iPhone 6 Plus naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPhone 6 Plus naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -1675,6 +2373,24 @@ const iPhoneModels = [
         price: '139 zł',
         description: ['Wymiana baterii: 139 zł'],
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'iPhone 6 naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPhone 6 naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
@@ -1714,6 +2430,24 @@ const iPhoneModels = [
         description: ['Wymiana baterii: 149 zł'],
         duration: '1-2 godziny',
       },
+      {
+        key: 'charging-port',
+        title: 'iPhone 6s Plus naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPhone 6s Plus naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
     ],
   },
   {
@@ -1751,6 +2485,24 @@ const iPhoneModels = [
         price: '149 zł',
         description: ['Wymiana baterii: 149 zł'],
         duration: '1-2 godziny',
+      },
+      {
+        key: 'charging-port',
+        title: 'iPhone 6s naprawa złącza ładowania',
+        shortTitle: 'Złącze ładowania',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
+      },
+      {
+        key: 'motherboard',
+        title: 'iPhone 6s naprawa płyty głównej',
+        shortTitle: 'Płyta główna',
+        price: 'Wycena telefoniczna',
+        description:
+          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
+        duration: '3-4 godziny',
       },
     ],
   },
