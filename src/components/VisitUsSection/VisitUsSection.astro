@@ -25,7 +25,7 @@ const lightButtonClass =
 const contactPanelClass = 'rounded-xl bg-white shadow-contact';
 ---
 
-<section id="kontakt" class="section-padding bg-[#fbfcfe] scroll-mt-[var(--header-height)]">
+<section id="lokalizacja" class="section-padding bg-[#fbfcfe] scroll-mt-[var(--header-height)]">
   <div class="section-container">
     <div class="mx-auto mb-8 max-w-3xl text-center md:mb-10">
       <h2 class="section-title mb-4">Odwiedź nas w Ursusie</h2>
@@ -111,7 +111,7 @@ const contactPanelClass = 'rounded-xl bg-white shadow-contact';
 
         <div class="flex shrink-0 flex-col gap-3" data-contact-actions>
           <a
-            href={contact.emailHref}
+            href={contact.formHref}
             class={`${darkButtonClass} order-first`}
             data-contact-option="email"
             data-primary-class={darkButtonClass}
