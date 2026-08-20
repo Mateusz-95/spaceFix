@@ -40,7 +40,7 @@ export default function PhoneCta({
   return (
     <div className={`flex ${fullWidth ? 'w-full flex-col gap-3' : 'items-center gap-2'}`}>
       <a
-        href={contact.emailHref}
+        href={contact.formHref}
         className={`${emailIsPriority ? primaryLinkClass : secondaryLinkClass} ${
           emailIsPriority ? 'order-first' : 'order-last'
         }`}

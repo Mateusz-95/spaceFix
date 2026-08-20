@@ -9,6 +9,12 @@ export const contact = {
   email: 'kontakt@spacefix.pl',
   emailHref:
     'mailto:kontakt@spacefix.pl?subject=Potrzebuję%20naprawy!&body=Potrzebuję%20naprawy!%0D%0APoniżej%20podaję%20jaki%20sprzęt%20potrzebuje%20Waszej%20naprawy%20i%20co%20dokładnie%20mu%20dolega!%20:)%0D%0AZostawiam%20również%20numer%20telefonu%20pod%20który%20zadzwonicie%20z%20wyceną:',
+  formHref: withBase('/#kontakt'),
+  testEmail: 'grygorowiczdev@gmail.com',
+  /** Klucz dostępu Web3Forms (uzyskaj darmowy klucz na https://web3forms.com podając swój e-mail) */
+  web3FormsAccessKey:
+    (typeof process !== 'undefined' && process.env?.PUBLIC_WEB3FORMS_ACCESS_KEY) ||
+    '03c8fed9-1f18-45ca-9df0-661dfaec435c',
   address: 'ul. Malinowa 16/U1, 02-495 Warszawa',
   addressLine1: 'ul. Malinowa 16/U1',
   addressLine2: '02-495 Warszawa',
