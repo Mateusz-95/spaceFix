@@ -1,0 +1,135 @@
+---
+import { FiClock, FiMail, FiMapPin, FiPhone, FiShield, FiZap, FiCheck } from 'react-icons/fi';
+import ContactForm from '../ContactForm/ContactForm';
+import { contact, openingHours } from '../../config/site';
+
+const benefits = [
+  {
+    icon: FiZap,
+    title: 'Szybka odpowiedź',
+    description: 'W godzinach pracy odpowiadamy na zgłoszenia zazwyczaj w ciągu 30 minut.',
+  },
+  {
+    icon: FiShield,
+    title: 'Bezpłatna wycena i gwarancja',
+    description: 'Dokładna kalkulacja kosztów przed naprawą oraz do 12 miesięcy gwarancji.',
+  },
+  {
+    icon: FiCheck,
+    title: 'Oryginalne części i zamienniki',
+    description: 'Ty decydujesz o wariancie części — zawsze doradzamy najlepsze rozwiązanie.',
+  },
+];
+---
+
+<section id="kontakt" class="section-padding relative overflow-hidden bg-[#fbfcfe] scroll-mt-[var(--header-height)]">
+  <span id="formularz-kontaktowy" class="absolute -top-20" aria-hidden="true"></span>
+
+  <div class="section-container">
+    <div class="mx-auto mb-10 max-w-3xl text-center md:mb-14">
+      <div class="mb-3 inline-flex items-center gap-2 rounded-full bg-[#1c1d11]/5 px-4 py-1.5 text-xs font-bold uppercase tracking-wider text-[#1c1d11]">
+        <FiMail className="h-3.5 w-3.5" aria-hidden="true" />
+        Formularz kontaktowy
+      </div>
+      <h2 class="section-title mb-4">Masz pytanie? Napisz do nas!</h2>
+      <p class="section-subtitle mx-auto">
+        Wypełnij poniższy formularz, a nasz technik skontaktuje się z Tobą i przedstawi bezpłatną wycenę naprawy.
+      </p>
+    </div>
+
+    <div class="grid grid-cols-1 gap-8 lg:grid-cols-12 lg:items-start lg:gap-10">
+      <!-- Lewa kolumna: Formularz kontaktowy -->
+      <div class="lg:col-span-7">
+        <ContactForm client:visible />
+      </div>
+
+      <!-- Prawa kolumna: Informacje i bezpośredni kontakt -->
+      <div class="flex flex-col gap-6 lg:col-span-5">
+        <!-- Karta korzyści -->
+        <div class="rounded-2xl bg-white p-6 shadow-contact sm:p-7">
+          <h3 class="text-lg font-bold text-[#010101] sm:text-xl">Dlaczego warto do nas napisać?</h3>
+          <ul class="mt-5 space-y-4">
+            {
+              benefits.map((benefit) => (
+                <li class="flex items-start gap-3.5">
+                  <div class="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-[#eeeeec] text-[#1c1d11]">
+                    <benefit.icon className="h-5 w-5" aria-hidden="true" />
+                  </div>
+                  <div>
+                    <h4 class="text-sm font-bold text-[#010101] sm:text-base">{benefit.title}</h4>
+                    <p class="mt-0.5 text-xs leading-relaxed text-[#64748b] sm:text-sm">{benefit.description}</p>
+                  </div>
+                </li>
+              ))
+            }
+          </ul>
+        </div>
+
+        <!-- Karta szybkiego kontaktu -->
+        <div class="rounded-2xl bg-[#1c1d11] p-6 text-white shadow-contact sm:p-7">
+          <h3 class="text-lg font-bold text-white sm:text-xl">Wolisz bezpośredni kontakt?</h3>
+          <p class="mt-2 text-sm text-white/80">
+            Jesteśmy do Twojej dyspozycji telefonicznie, mailowo oraz stacjonarnie w naszym serwisie w Warszawie Ursus.
+          </p>
+
+          <div class="mt-6 space-y-4 text-sm">
+            <a
+              href={contact.phoneHref}
+              class="flex items-center gap-3.5 rounded-xl bg-white/10 p-3.5 transition hover:bg-white/15"
+            >
+              <div class="flex h-9 w-9 shrink-0 items-center justify-center rounded-lg bg-white text-[#1c1d11]">
+                <FiPhone className="h-4 w-4" aria-hidden="true" />
+              </div>
+              <div class="min-w-0">
+                <p class="text-xs text-white/70">Zadzwoń do nas</p>
+                <p class="font-bold text-white">{contact.phoneDisplay}</p>
+              </div>
+            </a>
+
+            <a
+              href={contact.emailHref}
+              class="flex items-center gap-3.5 rounded-xl bg-white/10 p-3.5 transition hover:bg-white/15"
+            >
+              <div class="flex h-9 w-9 shrink-0 items-center justify-center rounded-lg bg-white text-[#1c1d11]">
+                <FiMail className="h-4 w-4" aria-hidden="true" />
+              </div>
+              <div class="min-w-0">
+                <p class="text-xs text-white/70">Napisz e-mail</p>
+                <p class="font-bold text-white truncate">{contact.email}</p>
+              </div>
+            </a>
+
+            <div class="flex items-start gap-3.5 rounded-xl bg-white/10 p-3.5">
+              <div class="flex h-9 w-9 shrink-0 items-center justify-center rounded-lg bg-white text-[#1c1d11]">
+                <FiMapPin className="h-4 w-4" aria-hidden="true" />
+              </div>
+              <div class="min-w-0 text-xs">
+                <p class="text-white/70">Adres serwisu</p>
+                <p class="font-bold text-white">{contact.address}</p>
+              </div>
+            </div>
+
+            <div class="flex items-start gap-3.5 rounded-xl bg-white/10 p-3.5">
+              <div class="flex h-9 w-9 shrink-0 items-center justify-center rounded-lg bg-white text-[#1c1d11]">
+                <FiClock className="h-4 w-4" aria-hidden="true" />
+              </div>
+              <div class="min-w-0 text-xs flex-1">
+                <p class="text-white/70">Godziny otwarcia</p>
+                <div class="mt-1 space-y-0.5">
+                  {
+                    openingHours.map((entry) => (
+                      <div class="flex justify-between gap-2 text-white/90">
+                        <span>{entry.days}:</span>
+                        <span class="font-bold">{entry.hours}</span>
+                      </div>
+                    ))
+                  }
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

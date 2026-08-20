@@ -1,5 +1,5 @@
 import React from 'react';
-import { FiClock, FiMapPin, FiPhone } from 'react-icons/fi';
+import { FiClock, FiMail, FiMapPin, FiPhone } from 'react-icons/fi';
 import { contact, openingHours, socialLinks } from '../../config/site';
 import { withBase } from '../../utils/withBase';
 
@@ -72,6 +72,15 @@ const Footer = () => {
                 >
                   <FiPhone className="h-4 w-4 shrink-0" aria-hidden="true" />
                   <span>{contact.phoneDisplay}</span>
+                </a>
+              </li>
+              <li className="flex justify-center">
+                <a
+                  href={contact.formHref}
+                  className="inline-flex items-center justify-center gap-3 transition hover:text-black/70"
+                >
+                  <FiMail className="h-4 w-4 shrink-0" aria-hidden="true" />
+                  <span>Napisz do nas</span>
                 </a>
               </li>
               <li className="flex justify-center">

@@ -25,7 +25,7 @@ const WelcomeHeroActions = () => (
       Sprawdź cenę
     </a>
     <a
-      href={contact.emailHref}
+      href={contact.formHref}
       className={`${ctaBase} border border-white/30 bg-[#f5f5f0] text-[#1c1d11] shadow-sm hover:bg-white`}
     >
       <img
