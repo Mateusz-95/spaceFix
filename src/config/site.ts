@@ -12,7 +12,9 @@ export const contact = {
   formHref: withBase('/#kontakt'),
   testEmail: 'grygorowiczdev@gmail.com',
   /** Klucz dostępu Web3Forms (uzyskaj darmowy klucz na https://web3forms.com podając swój e-mail) */
-  web3FormsAccessKey: (typeof process !== 'undefined' && process.env?.PUBLIC_WEB3FORMS_ACCESS_KEY) || '',
+  web3FormsAccessKey:
+    (typeof process !== 'undefined' && process.env?.PUBLIC_WEB3FORMS_ACCESS_KEY) ||
+    '03c8fed9-1f18-45ca-9df0-661dfaec435c',
   address: 'ul. Malinowa 16/U1, 02-495 Warszawa',
   addressLine1: 'ul. Malinowa 16/U1',
   addressLine2: '02-495 Warszawa',
