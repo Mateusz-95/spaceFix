@@ -52,7 +52,7 @@ const iPhoneModels = [
         key: "charging-port",
         title: "iPhone 17 Pro Max naprawa złącza ładowania",
         shortTitle: "Złącze ładowania",
-        price: "Wycena telefoniczna",
+        price: "699 zł",
         description: "Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.",
         duration: "3-4 godziny",
       },
