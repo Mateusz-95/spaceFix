@@ -19,7 +19,7 @@ const iPhoneModels = [
         shortTitle: "Wyświetlacz",
         price: "899 zł",
         description: [
-          "Wyświetlacz zamiennik najwyższej jakości: 899 zł",
+          "Wyświetlacz zamiennik najwyższej jakości: 899 zł ",
           "Wysokiej klasy zamiennik z bardzo dobrym odwzorowaniem kolorów i płynnym dotykiem.",
           "Wyświetlacz oryginalny odnowiony: 1749 zł",
           "Oryginalna matryca Apple z wymienioną szybką — 100% fabryczna jakość obrazu i kolorów.",
@@ -35,7 +35,7 @@ const iPhoneModels = [
         price: "499 zł",
         description: [
           "Wymiana tylnego panelu (zamiennik): 499 zł",
-          "wymiana tylnego panelu (oryginał Apple): 899 zł",
+          "Wymiana tylnego panelu (oryginał Apple): 899 zł",
           "Wymiana całego korpusu: Skontaktuj się aby poznać cenę",
         ],
         duration: "4-5 godzin",
@@ -115,7 +115,7 @@ const iPhoneModels = [
         price: "499 zł",
         description: [
           "Wymiana tylnego panelu (zamiennik): 499 zł",
-          "wymiana tylnego panelu (oryginał Apple): 899 zł",
+          "Wymiana tylnego panelu (oryginał Apple): 899 zł",
           "Wymiana całego korpusu: Skontaktuj się aby poznać cenę",
         ],
         duration: "4-5 godzin",
@@ -195,7 +195,7 @@ const iPhoneModels = [
         price: "499 zł",
         description: [
           "Wymiana tylnego panelu (zamiennik): 499 zł",
-          "wymiana tylnego panelu (oryginał Apple): 899 zł",
+          "Wymiana tylnego panelu (oryginał Apple): 899 zł",
           "Wymiana całego korpusu: Skontaktuj się aby poznać cenę",
         ],
         duration: "4-5 godzin",
@@ -275,7 +275,7 @@ const iPhoneModels = [
         price: "499 zł",
         description: [
           "Wymiana tylnego panelu (zamiennik): 499 zł",
-          "wymiana tylnego panelu (oryginał Apple): 899 zł",
+          "Wymiana tylnego panelu (oryginał Apple): 899 zł",
           "Wymiana całego korpusu: Skontaktuj się aby poznać cenę",
         ],
         duration: "4-5 godzin",
@@ -355,7 +355,7 @@ const iPhoneModels = [
         price: "549 zł",
         description: [
           "Wymiana tylnego panelu (zamiennik): 549 zł",
-          "wymiana tylnego panelu (oryginał Apple): 899 zł",
+          "Wymiana tylnego panelu (oryginał Apple): 899 zł",
           "Wymiana całego korpusu: Skontaktuj się aby poznać cenę",
         ],
         duration: "4-5 godzin",
@@ -435,7 +435,7 @@ const iPhoneModels = [
         price: "499 zł",
         description: [
           "Wymiana tylnego panelu (zamiennik): 499 zł",
-          "wymiana tylnego panelu (oryginał Apple): 899 zł",
+          "Wymiana tylnego panelu (oryginał Apple): 899 zł",
           "Wymiana całego korpusu: Skontaktuj się aby poznać cenę",
         ],
         duration: "4-5 godzin",
@@ -515,7 +515,7 @@ const iPhoneModels = [
         price: "449 zł",
         description: [
           "Wymiana tylnego panelu (zamiennik): 449 zł",
-          "wymiana tylnego panelu (oryginał Apple): 899 zł",
+          "Wymiana tylnego panelu (oryginał Apple): 899 zł",
           "Wymiana całego korpusu: Skontaktuj się aby poznać cenę",
         ],
         duration: "4-5 godzin",
