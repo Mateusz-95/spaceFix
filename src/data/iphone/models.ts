@@ -8,7 +8,9 @@ const iPhoneModels = [
         title: "iPhone 17 Pro Max wymiana szybki",
         shortTitle: "Przednia szybka",
         price: "1199 zł",
-        description: "Wymiana szybki: 1199 zł",
+        description: [
+          "Oryginalna matryca OLED oraz dotyk pozostają bez zmian. Wymieniamy wyłącznie pęknięte szkło, zachowując fabryczną jakość obrazu.",
+        ],
         duration: "3-4 godziny",
       },
       {
@@ -76,7 +78,7 @@ const iPhoneModels = [
         title: "iPhone 17 Pro wymiana szybki",
         shortTitle: "Przednia szybka",
         price: "1099 zł",
-        description: "Wymiana szybki: 1099 zł",
+        description: "Oryginalna matryca OLED oraz dotyk pozostają bez zmian. Wymieniamy wyłącznie pęknięte szkło, zachowując fabryczną jakość obrazu.",
         duration: "3-4 godziny",
       },
       {
@@ -144,7 +146,7 @@ const iPhoneModels = [
         title: "iPhone Air wymiana szybki",
         shortTitle: "Przednia szybka",
         price: "1099 zł",
-        description: "Wymiana szybki: 1099 zł",
+        description: "Oryginalna matryca OLED oraz dotyk pozostają bez zmian. Wymieniamy wyłącznie pęknięte szkło, zachowując fabryczną jakość obrazu.",
         duration: "3-4 godziny",
       },
       {
@@ -212,7 +214,7 @@ const iPhoneModels = [
         title: "iPhone 17 wymiana szybki",
         shortTitle: "Przednia szybka",
         price: "899 zł",
-        description: "Wymiana szybki: 899 zł",
+        description: "Oryginalna matryca OLED oraz dotyk pozostają bez zmian. Wymieniamy wyłącznie pęknięte szkło, zachowując fabryczną jakość obrazu.",
         duration: "3-4 godziny",
       },
       {
@@ -280,7 +282,7 @@ const iPhoneModels = [
         title: "iPhone 16 Pro Max wymiana szybki",
         shortTitle: "Przednia szybka",
         price: "1049 zł",
-        description: "Wymiana szybki: 1049 zł",
+        description: "Oryginalna matryca OLED oraz dotyk pozostają bez zmian. Wymieniamy wyłącznie pęknięte szkło, zachowując fabryczną jakość obrazu.",
         duration: "3-4 godziny",
       },
       {
@@ -348,7 +350,7 @@ const iPhoneModels = [
         title: "iPhone 16 Pro wymiana szybki",
         shortTitle: "Przednia szybka",
         price: "899 zł",
-        description: "Wymiana szybki: 899 zł",
+        description: "Oryginalna matryca OLED oraz dotyk pozostają bez zmian. Wymieniamy wyłącznie pęknięte szkło, zachowując fabryczną jakość obrazu.",
         duration: "3-4 godziny",
       },
       {
@@ -416,7 +418,7 @@ const iPhoneModels = [
         title: "iPhone 16 Plus wymiana szybki",
         shortTitle: "Przednia szybka",
         price: "799 zł",
-        description: "Wymiana szybki: 799 zł",
+        description: "Oryginalna matryca OLED oraz dotyk pozostają bez zmian. Wymieniamy wyłącznie pęknięte szkło, zachowując fabryczną jakość obrazu.",
         duration: "3-4 godziny",
       },
       {
@@ -484,7 +486,7 @@ const iPhoneModels = [
         title: "iPhone 16e wymiana szybki",
         shortTitle: "Przednia szybka",
         price: "449 zł",
-        description: "Wymiana szybki: 449 zł",
+        description: "Oryginalna matryca OLED oraz dotyk pozostają bez zmian. Wymieniamy wyłącznie pęknięte szkło, zachowując fabryczną jakość obrazu.",
         duration: "3-4 godziny",
       },
       {
@@ -551,7 +553,7 @@ const iPhoneModels = [
         title: "iPhone 16 wymiana szybki",
         shortTitle: "Przednia szybka",
         price: "699 zł",
-        description: "Wymiana szybki: 699 zł",
+        description: "Oryginalna matryca OLED oraz dotyk pozostają bez zmian. Wymieniamy wyłącznie pęknięte szkło, zachowując fabryczną jakość obrazu.",
         duration: "3-4 godziny",
       },
       {
@@ -619,7 +621,7 @@ const iPhoneModels = [
         title: "iPhone 15 Pro Max wymiana szybki",
         shortTitle: "Przednia szybka",
         price: "799 zł",
-        description: "Wymiana szybki: 799 zł",
+        description: "Oryginalna matryca OLED oraz dotyk pozostają bez zmian. Wymieniamy wyłącznie pęknięte szkło, zachowując fabryczną jakość obrazu.",
         duration: "3-4 godziny",
       },
       {
@@ -687,7 +689,7 @@ const iPhoneModels = [
         title: "iPhone 15 Pro wymiana szybki",
         shortTitle: "Przednia szybka",
         price: "699 zł",
-        description: "Wymiana szybki: 699 zł",
+        description: "Oryginalna matryca OLED oraz dotyk pozostają bez zmian. Wymieniamy wyłącznie pęknięte szkło, zachowując fabryczną jakość obrazu.",
         duration: "3-4 godziny",
       },
       {
@@ -755,7 +757,7 @@ const iPhoneModels = [
         title: "iPhone 15 Plus wymiana szybki",
         shortTitle: "Przednia szybka",
         price: "699 zł",
-        description: "Wymiana szybki: 699 zł",
+        description: "Oryginalna matryca OLED oraz dotyk pozostają bez zmian. Wymieniamy wyłącznie pęknięte szkło, zachowując fabryczną jakość obrazu.",
         duration: "3-4 godziny",
       },
       {
@@ -823,7 +825,7 @@ const iPhoneModels = [
         title: "iPhone 15 wymiana szybki",
         shortTitle: "Przednia szybka",
         price: "599 zł",
-        description: "Wymiana szybki: 599 zł",
+        description: "Oryginalna matryca OLED oraz dotyk pozostają bez zmian. Wymieniamy wyłącznie pęknięte szkło, zachowując fabryczną jakość obrazu.",
         duration: "3-4 godziny",
       },
       {
@@ -891,7 +893,7 @@ const iPhoneModels = [
         title: "iPhone 14 Pro Max wymiana szybki",
         shortTitle: "Przednia szybka",
         price: "599 zł",
-        description: "Wymiana szybki: 599 zł",
+        description: "Oryginalna matryca OLED oraz dotyk pozostają bez zmian. Wymieniamy wyłącznie pęknięte szkło, zachowując fabryczną jakość obrazu.",
         duration: "3-4 godziny",
       },
       {
@@ -958,7 +960,7 @@ const iPhoneModels = [
         title: "iPhone 14 Pro wymiana szybki",
         shortTitle: "Przednia szybka",
         price: "549 zł",
-        description: "Wymiana szybki: 549 zł",
+        description: "Oryginalna matryca OLED oraz dotyk pozostają bez zmian. Wymieniamy wyłącznie pęknięte szkło, zachowując fabryczną jakość obrazu.",
         duration: "3-4 godziny",
       },
       {
@@ -1025,7 +1027,7 @@ const iPhoneModels = [
         title: "iPhone 14 Plus wymiana szybki",
         shortTitle: "Przednia szybka",
         price: "499 zł",
-        description: "Wymiana szybki: 499 zł",
+        description: "Oryginalna matryca OLED oraz dotyk pozostają bez zmian. Wymieniamy wyłącznie pęknięte szkło, zachowując fabryczną jakość obrazu.",
         duration: "3-4 godziny",
       },
       {
@@ -1092,9 +1094,7 @@ const iPhoneModels = [
         title: "iPhone 14 wymiana szybki",
         shortTitle: "Przednia szybka",
         price: "449 zł",
-        description: [
-          "Wymiana szybki: 449 zł",
-        ],
+        description: "Oryginalna matryca OLED oraz dotyk pozostają bez zmian. Wymieniamy wyłącznie pęknięte szkło, zachowując fabryczną jakość obrazu.",
         duration: "3-4 godziny",
       },
       {
@@ -1161,7 +1161,7 @@ const iPhoneModels = [
         title: "iPhone 13 Pro Max wymiana szybki",
         shortTitle: "Przednia szybka",
         price: "499 zł",
-        description: "Wymiana szybki: 499 zł",
+        description: "Oryginalna matryca OLED oraz dotyk pozostają bez zmian. Wymieniamy wyłącznie pęknięte szkło, zachowując fabryczną jakość obrazu.",
         duration: "3-4 godziny",
       },
       {
@@ -1228,7 +1228,7 @@ const iPhoneModels = [
         title: "iPhone 13 Pro wymiana szybki",
         shortTitle: "Przednia szybka",
         price: "449 zł",
-        description: "Wymiana szybki: 449 zł (jeśli dotyk działa)",
+        description: "Oryginalna matryca OLED oraz dotyk pozostają bez zmian. Wymieniamy wyłącznie pęknięte szkło, zachowując fabryczną jakość obrazu.",
         duration: "3-4 godziny",
       },
       {
@@ -1295,9 +1295,7 @@ const iPhoneModels = [
         title: "iPhone 13  wymiana szybki",
         shortTitle: "Przednia szybka",
         price: "399 zł",
-        description: [
-          "Wymiana szybki: 399 zł (jeśli dotyk działa)",
-        ],
+        description: "Oryginalna matryca OLED oraz dotyk pozostają bez zmian. Wymieniamy wyłącznie pęknięte szkło, zachowując fabryczną jakość obrazu.",
         duration: "3-4 godziny",
       },
       {
@@ -1364,9 +1362,7 @@ const iPhoneModels = [
         title: "iPhone 13 mini wymiana szybki",
         shortTitle: "Przednia szybka",
         price: "399 zł",
-        description: [
-          "Wymiana szybki: 399 zł",
-        ],
+        description: "Oryginalna matryca OLED oraz dotyk pozostają bez zmian. Wymieniamy wyłącznie pęknięte szkło, zachowując fabryczną jakość obrazu.",
         duration: "3-4 godziny",
       },
       {
@@ -1433,9 +1429,7 @@ const iPhoneModels = [
         title: "iPhone SE 2022 wymiana szybki",
         shortTitle: "Przednia szybka",
         price: "249 zł",
-        description: [
-          "Wymiana szybki: 249 zł",
-        ],
+        description: "Oryginalna matryca OLED oraz dotyk pozostają bez zmian. Wymieniamy wyłącznie pęknięte szkło, zachowując fabryczną jakość obrazu.",
         duration: "3-4 godziny",
       },
       {
@@ -1502,9 +1496,7 @@ const iPhoneModels = [
         title: "iPhone 12 Pro Max wymiana szybki",
         shortTitle: "Przednia szybka",
         price: "449 zł",
-        description: [
-          "Wymiana szybki: 449 zł",
-        ],
+        description: "Oryginalna matryca OLED oraz dotyk pozostają bez zmian. Wymieniamy wyłącznie pęknięte szkło, zachowując fabryczną jakość obrazu.",
         duration: "3-4 godziny",
       },
       {
@@ -1570,9 +1562,7 @@ const iPhoneModels = [
         title: "iPhone 12 Pro wymiana szybki",
         shortTitle: "Przednia szybka",
         price: "349 zł",
-        description: [
-          "Wymiana szybki: 349 zł",
-        ],
+        description: "Oryginalna matryca OLED oraz dotyk pozostają bez zmian. Wymieniamy wyłącznie pęknięte szkło, zachowując fabryczną jakość obrazu.",
         duration: "3-4 godziny",
       },
       {
@@ -1639,7 +1629,7 @@ const iPhoneModels = [
         title: "iPhone 12 wymiana szybki",
         shortTitle: "Przednia szybka",
         price: "349 zł",
-        description: "Wymiana szybki: 349 zł",
+        description: "Oryginalna matryca OLED oraz dotyk pozostają bez zmian. Wymieniamy wyłącznie pęknięte szkło, zachowując fabryczną jakość obrazu.",
         duration: "3-4 godziny",
       },
       {
@@ -1706,9 +1696,7 @@ const iPhoneModels = [
         title: "iPhone 12 Mini wymiana szybki",
         shortTitle: "Przednia szybka",
         price: "349 zł",
-        description: [
-          "Wymiana szybki: 349 zł (jeśli dotyk działa)",
-        ],
+        description: "Oryginalna matryca OLED oraz dotyk pozostają bez zmian. Wymieniamy wyłącznie pęknięte szkło, zachowując fabryczną jakość obrazu.",
         duration: "3-4 godziny",
       },
       {
@@ -1775,7 +1763,7 @@ const iPhoneModels = [
         title: "iPhone 11 Pro Max wymiana szybki",
         shortTitle: "Przednia szybka",
         price: "349 zł",
-        description: "Wymiana szybki: 349 zł",
+        description: "Oryginalna matryca OLED oraz dotyk pozostają bez zmian. Wymieniamy wyłącznie pęknięte szkło, zachowując fabryczną jakość obrazu.",
         duration: "3-4 godziny",
       },
       {
@@ -1912,7 +1900,7 @@ const iPhoneModels = [
         title: "iPhone 11 wymiana szybki",
         shortTitle: "Przednia szybka",
         price: "299 zł",
-        description: "Wymiana szybki: 299 zł",
+        description: "Oryginalna matryca OLED oraz dotyk pozostają bez zmian. Wymieniamy wyłącznie pęknięte szkło, zachowując fabryczną jakość obrazu.",
         duration: "3-4 godziny",
       },
       {
@@ -1979,9 +1967,7 @@ const iPhoneModels = [
         title: "iPhone SE 2020 wymiana szybki",
         shortTitle: "Przednia szybka",
         price: "249 zł",
-        description: [
-          "Wymiana szybki: 249 zł",
-        ],
+        description: "Oryginalna matryca OLED oraz dotyk pozostają bez zmian. Wymieniamy wyłącznie pęknięte szkło, zachowując fabryczną jakość obrazu.",
         duration: "3-4 godziny",
       },
       {
@@ -2048,7 +2034,7 @@ const iPhoneModels = [
         title: "iPhone XS Max wymiana szybki",
         shortTitle: "Przednia szybka",
         price: "349 zł",
-        description: "Wymiana szybki: 349 zł",
+        description: "Oryginalna matryca OLED oraz dotyk pozostają bez zmian. Wymieniamy wyłącznie pęknięte szkło, zachowując fabryczną jakość obrazu.",
         duration: "3-4 godziny",
       },
       {
@@ -2115,7 +2101,7 @@ const iPhoneModels = [
         title: "iPhone XS wymiana szybki",
         shortTitle: "Przednia szybka",
         price: "299 zł",
-        description: "Wymiana szybki: 299 zł",
+        description: "Oryginalna matryca OLED oraz dotyk pozostają bez zmian. Wymieniamy wyłącznie pęknięte szkło, zachowując fabryczną jakość obrazu.",
         duration: "3-4 godziny",
       },
       {
@@ -2182,7 +2168,7 @@ const iPhoneModels = [
         title: "iPhone X wymiana szybki",
         shortTitle: "Przednia szybka",
         price: "299 zł",
-        description: "Wymiana szybki: 299 zł ",
+        description: "Oryginalna matryca OLED oraz dotyk pozostają bez zmian. Wymieniamy wyłącznie pęknięte szkło, zachowując fabryczną jakość obrazu.",
         duration: "3-4 godziny",
       },
       {
@@ -2248,9 +2234,7 @@ const iPhoneModels = [
         title: "iPhone XR wymiana szybki",
         shortTitle: "Przednia szybka",
         price: "249 zł",
-        description: [
-          "Wymiana szybki: 249 zł ",
-        ],
+        description: "Oryginalna matryca OLED oraz dotyk pozostają bez zmian. Wymieniamy wyłącznie pęknięte szkło, zachowując fabryczną jakość obrazu.",
         duration: "3-4 godziny",
       },
       {
@@ -2316,9 +2300,7 @@ const iPhoneModels = [
         title: "iPhone 8 Plus wymiana szybki",
         shortTitle: "Przednia szybka",
         price: "229 zł",
-        description: [
-          "Wymiana szybki: 229 zł",
-        ],
+        description: "Oryginalna matryca OLED oraz dotyk pozostają bez zmian. Wymieniamy wyłącznie pęknięte szkło, zachowując fabryczną jakość obrazu.",
         duration: "3-4 godziny",
       },
       {
@@ -2380,9 +2362,7 @@ const iPhoneModels = [
         title: "iPhone 8 wymiana szybki",
         shortTitle: "Przednia szybka",
         price: "199 zł",
-        description: [
-          "Wymiana szybki: 199 zł (jeśli dotyk działa)",
-        ],
+        description: "Oryginalna matryca OLED oraz dotyk pozostają bez zmian. Wymieniamy wyłącznie pęknięte szkło, zachowując fabryczną jakość obrazu.",
         duration: "3-4 godziny",
       },
       {
@@ -2444,9 +2424,7 @@ const iPhoneModels = [
         title: "iPhone 7 Plus wymiana szybki",
         shortTitle: "Przednia szybka",
         price: "199 zł",
-        description: [
-          "Wymiana szybki: 199 zł (jeśli dotyk działa)",
-        ],
+        description: "Oryginalna matryca OLED oraz dotyk pozostają bez zmian. Wymieniamy wyłącznie pęknięte szkło, zachowując fabryczną jakość obrazu.",
         duration: "3-4 godziny",
       },
       {
@@ -2507,9 +2485,7 @@ const iPhoneModels = [
         title: "iPhone 7 wymiana szybki",
         shortTitle: "Przednia szybka",
         price: "179 zł",
-        description: [
-          "Wymiana szybki: 179 zł (jeśli dotyk działa)",
-        ],
+        description: "Oryginalna matryca OLED oraz dotyk pozostają bez zmian. Wymieniamy wyłącznie pęknięte szkło, zachowując fabryczną jakość obrazu.",
         duration: "3-4 godziny",
       },
       {
