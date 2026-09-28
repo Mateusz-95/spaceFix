@@ -18,7 +18,9 @@ export const ipadStandard = [
         title: "iPad 11gen wymiana wyświetlacza",
         shortTitle: "Wyświetlacz",
         price: "899 zł",
-        description: "Oferujemy profesjonalną wymianę wyświetlacza w Twoim iPadzie. Wymiana wyświetlacza jest rozwiązaniem, kiedy na ekran nie działa, wyświetla plamy, linie itp.",
+        description: [
+          "Wymiana całego modułu wyświetlacza. Usługa jest wymagana, gdy na ekranie pojawiły się plamy, linie, przebarwienia lub matryca nie wyświetla obrazu.",
+        ],
         duration: "3-4 godziny",
       },
       {

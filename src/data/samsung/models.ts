@@ -7,8 +7,8 @@ export const galaxyS = [
         key: "front-glass",
         title: "Samsung Galaxy S25 Ultra wymiana szybki",
         shortTitle: "Przednia szybka",
-        price: "649 zł",
-        description: "Oferujemy profesjonalną wymianę szyby w Twoim smartfonie. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).",
+        price: "699 zł",
+        description: "Oryginalna matryca OLED oraz dotyk pozostają bez zmian. Wymieniamy wyłącznie pęknięte szkło, zachowując fabryczną jakość obrazu. Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).",
         duration: "3-4 godziny",
       },
       {
@@ -17,8 +17,8 @@ export const galaxyS = [
         shortTitle: "Wyświetlacz",
         price: "1099 zł",
         description: [
-          "wyświetlacz oryginalny bez ramki: 1099 zł",
-          "wyświetlacz oryginalny z ramką: 1499 zł",
+          "Wyświetlacz oryginalny bez ramki: 1099 zł — opcja możliwa, gdy fabryczna ramka telefonu nie jest wygięta ani uszkodzona.",
+          "Wyświetlacz oryginalny z ramką: 1499 zł — fabrycznie nowy moduł Samsung Service Pack z nową ramką i uszczelką.",
         ],
         duration: "3-4 godziny",
       },
@@ -27,7 +27,9 @@ export const galaxyS = [
         title: "Samsung Galaxy S25 Ultra wymiana tylnej szyby",
         shortTitle: "Tylna szybka",
         price: "289 zł",
-        description: "Oferujemy profesjonalną wymianę tylnej szyby w Twoim smartfonie. Nasza precyzyjna praca i zaawansowany sprzęt gwarantują bezpieczną i efektywną operację.",
+        description: [
+          "Wymiana na 100% oryginalną klapkę Samsung z fabryczną taśmą montażową, zachowująca idealne dopasowanie i estetykę urządzenia.",
+        ],
         duration: "4-5 godzin",
       },
       {
@@ -35,15 +37,20 @@ export const galaxyS = [
         title: "Samsung Galaxy S25 Ultra wymiana baterii",
         shortTitle: "Bateria",
         price: "289 zł",
-        description: "Oferujemy profesjonalną wymianę baterii w Twoim smartfonie. Korzystamy tylko z najlepszych części zamiennych.",
+        description: [
+          "Montaż fabrycznie nowej, oryginalnej baterii Samsung wraz z prawidłową kalibracją i przypisaniem w systemie telefonu.",
+        ],
         duration: "1-2 godziny",
       },
       {
         key: "charging-port",
         title: "Samsung Galaxy S25 Ultra naprawa złącza ładowania",
         shortTitle: "Złącze ładowania",
-        price: "Wycena telefoniczna",
-        description: "Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.",
+        price: "320 zł",
+        description: [
+          "Regeneracja / czyszczenie złącza ładowania: 99 zł — usuwanie zabrudzeń i naprawa styków (gdy wymiana nie jest konieczna).",
+          "Wymiana oryginalnej płytki ładowania Samsung: 320 zł — montaż fabrycznie nowej, oryginalnej części.",
+        ],
         duration: "3-4 godziny",
       },
       {
@@ -51,7 +58,16 @@ export const galaxyS = [
         title: "Samsung Galaxy S25 Ultra naprawa płyty głównej",
         shortTitle: "Płyta główna",
         price: "Wycena telefoniczna",
-        description: "Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.",
+        description: [
+          "Wykonujemy zaawansowane naprawy płyty głównej (mikrolutowanie BGA). Ostateczny koszt naprawy ustalamy po bezpłatnej diagnozie.",
+          "Zakres naszych napraw obejmuje m.in.:",
+          "Odzyskiwanie danych z zalanych, mocno uszkodzonych lub niewłączających się telefonów",
+          "SWAP płyty głównej (przeniesienie kompletu układów BGA)",
+          "Naprawa modułów Wi-Fi / Bluetooth / braku zasięgu (GSM)",
+          "Usuwanie zwarć i naprawa układów zasilania (telefon nie włącza się / nie ładuje)",
+          "Naprawa urządzeń po zalaniu oraz po nieudanych naprawach w innych serwisach",
+          "Diagnoza jest BEZPŁATNA w przypadku wykonania naprawy. W przypadku rezygnacji z naprawy po wykonaniu diagnozy zaawansowanej, koszt wynosi 100 zł.",
+        ],
         duration: "3-4 godziny",
       }
     ],
