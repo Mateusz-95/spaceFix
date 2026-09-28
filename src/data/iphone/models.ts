@@ -9,7 +9,8 @@ const iPhoneModels = [
         shortTitle: "Przednia szybka",
         price: "1199 zł",
         description: [
-          "Oryginalna matryca OLED oraz dotyk pozostają bez zmian. Wymieniamy wyłącznie pęknięte szkło, zachowując fabryczną jakość obrazu.",
+          "Oryginalna matryca OLED oraz dotyk pozostają bez zmian. Wymieniamy wyłącznie pęknięte szkło, zachowując fabryczną jakość obrazu. ",
+          "Wymiana samej szyby jest możliwa w przypadku, gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).",
         ],
         duration: "3-4 godziny",
       },
@@ -35,7 +36,7 @@ const iPhoneModels = [
           "Wymiana tylnego panelu (oryginał Apple): 899 zł",
           "Wymiana całego korpusu: Skontaktuj się aby poznać cenę",
         ],
-        duration: "4-5 godzin",
+        duration: "1-2 godzin",
       },
       {
         key: "battery",
@@ -54,8 +55,8 @@ const iPhoneModels = [
         shortTitle: "Złącze ładowania",
         price: "549 zł",
         description: [
-          "Regeneracja złącza ładowania: 99 zł",
-          "Wymiana oryginalnego złącza Apple: 549 zł",
+          "Regeneracja / czyszczenie złącza ładowania: 99 zł — usuwanie zabrudzeń i naprawa styków (gdy wymiana nie jest konieczna).",
+          "Wymiana oryginalnego złącza Apple: 549 zł — montaż oryginalnej części.",
         ],
         duration: "3-4 godziny",
       },
@@ -65,8 +66,8 @@ const iPhoneModels = [
         shortTitle: "Płyta główna",
         price: "Wycena telefoniczna",
         description: [
-          "Wykonujemy zaawansowane naprawy płyty głównej (mikrolutowanie BGA). Ostateczny koszt naprawy ustalamy po bezpłatnej diagnozie.",
-          "Zakres naszych napraw obejmuje m.in.:",
+          " Wykonujemy zaawansowane naprawy płyty głównej (mikrolutowanie BGA). Ostateczny koszt naprawy ustalamy po bezpłatnej diagnozie.",
+          " Zakres naszych napraw obejmuje m.in.:",
           "Odzyskiwanie danych z zalanych, mocno uszkodzonych lub niewłączających się telefonów",
           "SWAP płyty głównej (przeniesienie kompletu układów BGA)",
           "Naprawa modułów Wi-Fi / Bluetooth / braku zasięgu (GSM)",
