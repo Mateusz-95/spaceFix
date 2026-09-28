@@ -8,7 +8,9 @@ export const ipadStandard = [
         title: "iPad 11gen wymiana szybki",
         shortTitle: "Przednia szybka",
         price: "599 zł",
-        description: "Oferujemy profesjonalną wymianę szyby w Twoim iPadzie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).",
+        description: [
+          "Wymieniamy szybkę na oryginalny panel dotykowy z pełną obsługą Apple Pencil i możliwością rysowania. Usługa jest możliwa, gdy matryca jest w pełni sprawna i wyświetla obraz bez plam czy linii.",
+        ],
         duration: "3-4 godziny",
       },
       {
@@ -23,8 +25,11 @@ export const ipadStandard = [
         key: "charging-port",
         title: "iPad 11gen naprawa złącza ładowania",
         shortTitle: "Złącze ładowania",
-        price: "Wycena telefoniczna",
-        description: "Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.",
+        price: "449 zł",
+        description: [
+          "Regeneracja złącza ładowania: 99 zł",
+          "Wymiana oryginalnego złącza Apple: 449 zł",
+        ],
         duration: "3-4 godziny",
       },
       {
@@ -32,7 +37,16 @@ export const ipadStandard = [
         title: "iPad 11gen naprawa płyty głównej",
         shortTitle: "Płyta główna",
         price: "Wycena telefoniczna",
-        description: "Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.",
+        description: [
+          "Wykonujemy zaawansowane naprawy płyty głównej (mikrolutowanie BGA). Ostateczny koszt naprawy ustalamy po bezpłatnej diagnozie.",
+          "Zakres naszych napraw obejmuje m.in.:",
+          "Odzyskiwanie danych z zalanych, mocno uszkodzonych lub niewłączających się telefonów",
+          "SWAP płyty głównej (przeniesienie kompletu układów BGA)",
+          "Naprawa modułów Wi-Fi / Bluetooth / braku zasięgu (GSM)",
+          "Usuwanie zwarć i naprawa układów zasilania (telefon nie włącza się / nie ładuje)",
+          "Naprawa urządzeń po zalaniu oraz po nieudanych naprawach w innych serwisach",
+          "Diagnoza jest BEZPŁATNA w przypadku wykonania naprawy. W przypadku rezygnacji z naprawy po wykonaniu diagnozy zaawansowanej, koszt wynosi 100 zł.",
+        ],
         duration: "3-4 godziny",
       }
     ],
@@ -70,7 +84,16 @@ export const ipadStandard = [
         title: "iPad 10gen naprawa płyty głównej",
         shortTitle: "Płyta główna",
         price: "Wycena telefoniczna",
-        description: "Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.",
+        description: [
+          "Wykonujemy zaawansowane naprawy płyty głównej (mikrolutowanie BGA). Ostateczny koszt naprawy ustalamy po bezpłatnej diagnozie.",
+          "Zakres naszych napraw obejmuje m.in.:",
+          "Odzyskiwanie danych z zalanych, mocno uszkodzonych lub niewłączających się telefonów",
+          "SWAP płyty głównej (przeniesienie kompletu układów BGA)",
+          "Naprawa modułów Wi-Fi / Bluetooth / braku zasięgu (GSM)",
+          "Usuwanie zwarć i naprawa układów zasilania (telefon nie włącza się / nie ładuje)",
+          "Naprawa urządzeń po zalaniu oraz po nieudanych naprawach w innych serwisach",
+          "Diagnoza jest BEZPŁATNA w przypadku wykonania naprawy. W przypadku rezygnacji z naprawy po wykonaniu diagnozy zaawansowanej, koszt wynosi 100 zł.",
+        ],
         duration: "3-4 godziny",
       }
     ],
