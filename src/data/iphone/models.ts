@@ -1496,8 +1496,8 @@ const iPhoneModels = [
         shortTitle: "Bateria",
         price: "269 zł",
         description: [
-          "Bateria zamiennik najwyższej jakości: 269 zł",
-          "Oryginalna bateria Apple: 399 zł",
+          "Bateria zamiennik najwyższej jakości: 299 zł",
+          "Oryginalna bateria Apple: 449 zł",
         ],
         duration: "1-2 godziny",
       },
