@@ -1494,7 +1494,7 @@ const iPhoneModels = [
         key: "battery",
         title: "iPhone 13  wymiana baterii",
         shortTitle: "Bateria",
-        price: "269 zł",
+        price: "299 zł",
         description: [
           "Bateria zamiennik najwyższej jakości: 299 zł",
           "Oryginalna bateria Apple: 449 zł",
