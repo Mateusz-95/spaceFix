@@ -1,0 +1,75 @@
+﻿---
+import ServiceIntroSection from '../ServiceIntroSection/ServiceIntroSection.astro';
+import ServiceInfoWithImage from '../ServiceInfoWithImage/ServiceInfoWithImage.astro';
+import GlassReplacementSteps from '../GlassReplacementSteps/GlassReplacementSteps.astro';
+import ServiceCta from '../ServiceCta/ServiceCta.astro';
+import { repairTypes } from '../Configurator/configurator-data';
+
+const repair = repairTypes.find((item) => item.id === 'wymiana-aparatu')!;
+---
+
+<ServiceIntroSection title="Wymiana aparatu w telefonie – serwis smartfonów Warszawa">
+  <p>
+    Twój telefon ma <strong>uszkodzony aparat</strong>? Zdjęcia są <strong>rozmazane</strong>, wycięte
+    lub aplikacja aparatu w ogóle się nie uruchamia? W <strong>SpaceFix Warszawa</strong> wykonujemy
+    profesjonalną <strong>wymianę aparatu w telefonach</strong> — iPhone, Samsung, Xiaomi, Google i
+    innych marek. Nasza usługa polega na precyzyjnym <strong>demontażu uszkodzonego modułu
+    aparatu</strong> i montażu nowego modułu o pełnej, fabrycznej jakości zdjęć i nagrywania.
+  </p>
+  <p>
+    Dzięki <strong>wymianie aparatu</strong> przywracamy Twojemu urządzeniu pełną
+    <strong>sprawność fotograficzną</strong> — ostre zdjęcia, poprawne działanie autofokusa oraz
+    stabilne nagrywanie wideo. To rozwiązanie jest znacznie bardziej <strong>ekonomiczne niż wymiana
+    całego telefonu</strong>, a czas naprawy jest krótki, bo aparat wymieniamy zwykle tego samego dnia.
+  </p>
+  <p>
+    Nasi <strong>doświadczeni technicy w Warszawie</strong> po zakończeniu naprawy wykonują pełną
+    serię <strong>testów aparatu</strong> — sprawdzają wszystkie obiektywy (przód i tył), autofokus,
+    funkcję zoomu, lampę błyskową oraz stabilizację obrazu, zapewniając
+    <strong>gwarancję na wykonaną usługę</strong>.
+  </p>
+</ServiceIntroSection>
+
+<ServiceCta
+  repairId={repair.id}
+  repairTitle={repair.title}
+  hasPricing={repair.repairKey !== null}
+/>
+
+<ServiceInfoWithImage
+  title="Na czym polega wymiana aparatu?"
+  imageSrc="/images/camera-crashed-phone.png"
+  imageAlt="Wymiana aparatu w telefonie – serwis SpaceFix"
+>
+  <div slot="firstBlock">
+    <p>
+      Twój smartfon robi <strong>rozmazane zdjęcia</strong>, ma <strong>uszkodzony obiektyw</strong> lub
+      aparat przestał się uruchamiać? <strong>Wymiana aparatu w telefonie</strong> rozwiąże ten problem!
+      Usługa polega na precyzyjnym <strong>demontażu uszkodzonego modułu aparatu</strong> i montażu
+      nowego, <strong>wysokiej jakości</strong> modułu o pełnej fabrycznej sprawności.
+    </p>
+    <p>
+      Naprawa ta jest bardzo korzystna dla klientów, którzy chcą odzyskać pełną jakość zdjęć bez
+      wymiany całego urządzenia. Koszty <strong>wymiany aparatu</strong> są znacznie niższe niż zakup
+      nowego smartfona, a telefon po naprawie fotografuje i nagrywa jak w dniu zakupu.
+    </p>
+  </div>
+  <p slot="thirdBlock">
+    <strong>Kiedy konieczna jest wymiana aparatu?</strong><br />
+    Jeśli aparat robi <strong>rozmazane lub plamiste zdjęcia</strong>, na fotografiach pojawiły się
+    <strong>piksele lub prześwietlenia</strong>, obiektyw jest <strong>zabrudzony od wewnątrz</strong> lub
+    aparat w ogóle <strong>przestał się uruchamiać</strong> — moduł aparatu wymaga wymiany. Wymiana
+    przywraca pełną funkcjonalność: ostrość, autofokus, zoom oraz stabilne nagrywanie wideo.
+    Wybierając serwis <strong>SpaceFix</strong> masz pewność, że aparat przejdzie wszelkie możliwe
+    <strong>testy</strong> związane z poprawnym działaniem wszystkich obiektywów i funkcji fotograficznych.
+  </p>
+  <p slot="fourthBlock">
+    Zanim zdecydujesz się na <strong>wymianę aparatu</strong>, warto sprawdzić, czy przyczyną problemu
+    nie jest np. <strong>uszkodzona szybka aparatu</strong> lub zanieczyszczenie obiektywu od zewnątrz.
+    Jeśli zabrudzenie czy pęknięta szybka aparatu są jedynym problemem — wystarczy ich
+    <strong>czyszczenie lub wymiana szybki aparatu</strong>, co jest usługą znacznie tańszą. Jeśli natomiast
+    <strong>moduł aparatu jest uszkodzony</strong> — konieczna jest jego pełna wymiana.
+  </p>
+</ServiceInfoWithImage>
+
+<GlassReplacementSteps />

@@ -124,6 +124,32 @@ export const repairTypes: RepairType[] = [
     icon: 'motherboard',
     repairKey: 'motherboard',
   },
+  {
+    id: 'wymiana-aparatu',
+    slug: 'wymiana-aparatu',
+    title: 'Wymiana aparatu',
+    description: 'Profesjonalna wymiana aparatu',
+    h1: 'Wymiana aparatu w telefonie – Warszawa',
+    lead: 'Profesjonalna wymiana uszkodzonego aparatu w iPhone, Samsung, Xiaomi i innych. Pełna jakość zdjęć i nagrywania, gwarancja 6 miesięcy.',
+    metaTitle: 'Wymiana aparatu w telefonie Warszawa – serwis SpaceFix',
+    metaDescription:
+      'Profesjonalna wymiana aparatu w telefonie w Warszawie. iPhone, Samsung, Xiaomi i inne marki. Pełna jakość zdjęć, gwarancja 6 miesięcy. Wyceń naprawę online.',
+    icon: 'monitor',
+    repairKey: null,
+  },
+  {
+    id: 'wymiana-szybki-aparatu',
+    slug: 'wymiana-szybki-aparatu',
+    title: 'Wymiana szybki aparatu',
+    description: 'Wymiana pękniętej szybki aparatu',
+    h1: 'Wymiana szybki aparatu w telefonie – Warszawa',
+    lead: 'Wymiana pękniętej szybki aparatu przywraca pełną jakość zdjęć i wygląd telefonu. iPhone, Samsung, Xiaomi. Gwarancja 6 miesięcy.',
+    metaTitle: 'Wymiana szybki aparatu w telefonie Warszawa – serwis SpaceFix',
+    metaDescription:
+      'Wymiana pękniętej szybki aparatu w telefonie w Warszawie. Przywracamy estetykę i pełną jakość zdjęć. iPhone, Samsung, Xiaomi. Gwarancja 6 miesięcy. Wyceń online.',
+    icon: 'monitor',
+    repairKey: null,
+  },
 ];
 
 /** URL samodzielnej podstrony usługi (SEO), np. '/wymiana-wyswietlacza/'. */

@@ -9,6 +9,8 @@ import NaprawaZalania from '../components/ServicePages/NaprawaZalania.astro';
 import WymianaTylnejSzyby from '../components/ServicePages/WymianaTylnejSzyby.astro';
 import NaprawaZlaczaLadowania from '../components/ServicePages/NaprawaZlaczaLadowania.astro';
 import NaprawaPlytyGlownej from '../components/ServicePages/NaprawaPlytyGlownej.astro';
+import WymianaAparatu from '../components/ServicePages/WymianaAparatu.astro';
+import WymianaSzybkiAparatu from '../components/ServicePages/WymianaSzybkiAparatu.astro';
 
 export function getStaticPaths() {
   return repairTypes.map((repair) => ({
@@ -31,6 +33,8 @@ const contentComponents: Record<string, any> = {
   'wymiana-tylnej-szyby': WymianaTylnejSzyby,
   'naprawa-zlacza-ladowania': NaprawaZlaczaLadowania,
   'naprawa-plyty-glownej': NaprawaPlytyGlownej,
+  'wymiana-aparatu': WymianaAparatu,
+  'wymiana-szybki-aparatu': WymianaSzybkiAparatu,
 };
 
 const Content = contentComponents[repair.slug];

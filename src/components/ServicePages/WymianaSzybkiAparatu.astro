@@ -1,0 +1,79 @@
+﻿---
+import ServiceIntroSection from '../ServiceIntroSection/ServiceIntroSection.astro';
+import ServiceInfoWithImage from '../ServiceInfoWithImage/ServiceInfoWithImage.astro';
+import GlassReplacementSteps from '../GlassReplacementSteps/GlassReplacementSteps.astro';
+import ServiceCta from '../ServiceCta/ServiceCta.astro';
+import { repairTypes } from '../Configurator/configurator-data';
+
+const repair = repairTypes.find((item) => item.id === 'wymiana-szybki-aparatu')!;
+---
+
+<ServiceIntroSection title="Wymiana szybki aparatu w telefonie – serwis smartfonów Warszawa">
+  <p>
+    Twój telefon ma <strong>pękniętą szybkę aparatu</strong>? Zdjęcia są <strong>rozmazane</strong>, mają
+    <strong>prześwietlenia</strong> lub obiektyw jest <strong>zarysowany</strong>? W
+    <strong>SpaceFix Warszawa</strong> wykonujemy profesjonalną <strong>wymianę szybki aparatu
+    w telefonach</strong> — iPhone, Samsung, Xiaomi, Google i innych marek. Nasza usługa polega na
+    precyzyjnym <strong>demontażu uszkodzonej szyby obiektywu</strong> i montażu nowej, o pełnej,
+    fabrycznej przezroczystości.
+  </p>
+  <p>
+    Dzięki <strong>wymianie szybki aparatu</strong> przywracamy Twojemu urządzeniu pełną
+    <strong>jakość zdjęć</strong> — ostre fotografie bez prześwietleń i rozmazań, poprawne działanie
+    autofokusa i stabilne nagrywanie wideo. To rozwiązanie jest znacznie bardziej
+    <strong>ekonomiczne niż wymiana całego modułu aparatu</strong>, a czas naprawy jest krótki —
+    szybkę wymieniamy zwykle tego samego dnia.
+  </p>
+  <p>
+    Nasi <strong>doświadczeni technicy w Warszawie</strong> po zakończeniu naprawy wykonują pełną
+    serię <strong>testów aparatu</strong> — sprawdzają wszystkie obiektywy (przód i tył), autofokus,
+    funkcję zoomu, lampę błyskową oraz stabilizację obrazu, zapewniając
+    <strong>gwarancję na wykonaną usługę</strong>.
+  </p>
+</ServiceIntroSection>
+
+<ServiceCta
+  repairId={repair.id}
+  repairTitle={repair.title}
+  hasPricing={repair.repairKey !== null}
+/>
+
+<ServiceInfoWithImage
+  title="Na czym polega wymiana szybki aparatu?"
+  imageSrc="/images/camera-crashed-phone.png"
+  imageAlt="Wymiana szybki aparatu w telefonie – serwis SpaceFix"
+>
+  <div slot="firstBlock">
+    <p>
+      Twój smartfon robi <strong>rozmazane zdjęcia</strong>, ma <strong>pękniętą szybkę obiektywu</strong>
+      lub aparat robi zdjęcia z <strong>prześwietleniami</strong>? <strong>Wymiana szybki aparatu
+      w telefonie</strong> rozwiąże ten problem! Usługa polega na precyzyjnym <strong>demontażu
+      uszkodzonej szyby obiektywu</strong> i montażu nowej, o pełnej <strong>fabrycznej
+      przezroczystości</strong>.
+    </p>
+    <p>
+      Naprawa ta jest bardzo korzystna dla klientów, którzy chcą odzyskać pełną jakość zdjęć bez
+      wymiany całego modułu aparatu. Koszty <strong>wymiany szybki aparatu</strong> są znacznie niższe
+      niż wymiana całego aparatu, a telefon po naprawie fotografuje i nagrywa jak w dniu zakupu.
+    </p>
+  </div>
+  <p slot="thirdBlock">
+    <strong>Kiedy warto wymienić szybkę aparatu?</strong><br />
+    Jeśli aparat robi <strong>rozmazane lub plamiste zdjęcia</strong>, na fotografiach pojawiły się
+    <strong>piksele lub prześwietlenia</strong>, obiektyw jest <strong>zabrudzony od wewnątrz</strong> lub
+    <strong>pęknięty od zewnątrz</strong> — szybka aparatu wymaga wymiany. Wymiana przywraca pełną
+    funkcjonalność: ostrość, autofokus, zoom oraz stabilne nagrywanie wideo. Wybierając serwis
+    <strong>SpaceFix</strong> masz pewność, że aparat przejdzie wszelkie możliwe <strong>testy</strong>
+    związane z poprawnym działaniem wszystkich obiektywów i funkcji fotograficznych.
+  </p>
+  <p slot="fourthBlock">
+    Zanim zdecydujesz się na <strong>wymianę szybki aparatu</strong>, warto sprawdzić, czy przyczyną
+    problemu nie jest np. <strong>zanieczyszczenie obiektywu od zewnątrz</strong>. Jeśli zabrudzenie
+    jest jedynym problemem — wystarczy <strong>czyszczenie obiektywu</strong>, co jest usługą darmową
+    w ramach diagnostyki. Jeśli natomiast <strong>szybka obiektywu jest pęknięta lub porysowana</strong> —
+    konieczna jest jej wymiana. W przypadku <strong>uszkodzonego modułu aparatu</strong> konieczna jest
+    pełna <strong>wymiana aparatu</strong>.
+  </p>
+</ServiceInfoWithImage>
+
+<GlassReplacementSteps />
