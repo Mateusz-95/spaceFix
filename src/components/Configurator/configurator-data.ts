@@ -9,9 +9,18 @@ export type PopularRepairIcon =
   | 'water'
   | 'backGlass'
   | 'chargingPort'
-  | 'motherboard';
+  | 'motherboard'
+  | 'camera';
 
-export type RepairKey = 'front-glass' | 'display' | 'back-glass' | 'battery' | 'charging-port' | 'motherboard';
+export type RepairKey =
+  | 'front-glass'
+  | 'display'
+  | 'back-glass'
+  | 'battery'
+  | 'charging-port'
+  | 'motherboard'
+  | 'camera'
+  | 'camera-glass';
 
 export interface RepairType {
   id: string;
@@ -30,6 +39,8 @@ export interface RepairType {
   icon: PopularRepairIcon;
   /** Klucz dopasowujący ten typ do konkretnej naprawy modelu. null => brak ceny per-model. */
   repairKey: RepairKey | null;
+  /** false => podstrona i menu Usługi, bez pozycji w konfiguratorze. */
+  inPriceList?: boolean;
 }
 
 export const repairTypes: RepairType[] = [
@@ -134,8 +145,8 @@ export const repairTypes: RepairType[] = [
     metaTitle: 'Wymiana aparatu w telefonie Warszawa – serwis SpaceFix',
     metaDescription:
       'Profesjonalna wymiana aparatu w telefonie w Warszawie. iPhone, Samsung, Xiaomi i inne marki. Pełna jakość zdjęć, gwarancja 6 miesięcy. Wyceń naprawę online.',
-    icon: 'monitor',
-    repairKey: null,
+    icon: 'camera',
+    repairKey: 'camera',
   },
   {
     id: 'wymiana-szybki-aparatu',
@@ -147,10 +158,27 @@ export const repairTypes: RepairType[] = [
     metaTitle: 'Wymiana szybki aparatu w telefonie Warszawa – serwis SpaceFix',
     metaDescription:
       'Wymiana pękniętej szybki aparatu w telefonie w Warszawie. Przywracamy estetykę i pełną jakość zdjęć. iPhone, Samsung, Xiaomi. Gwarancja 6 miesięcy. Wyceń online.',
-    icon: 'monitor',
+    icon: 'camera',
+    repairKey: 'camera-glass',
+  },
+  {
+    id: 'naprawa-urzadzenia-po-zalaniu',
+    slug: 'naprawa-urzadzenia-po-zalaniu',
+    title: 'Naprawa urządzenia po zalaniu',
+    description: 'Diagnostyka i naprawa po kontakcie z cieczą',
+    h1: 'Naprawa urządzenia po zalaniu – Warszawa',
+    lead: 'Diagnostyka i naprawa smartfona, tabletu lub zegarka po kontakcie z wodą. Wycena po telefonie, bez sztywnego cennika.',
+    metaTitle: 'Naprawa urządzenia po zalaniu Warszawa – serwis SpaceFix',
+    metaDescription:
+      'Naprawa urządzenia po zalaniu w Warszawie. Smartfon, tablet i zegarek po kontakcie z cieczą. Diagnostyka, czyszczenie i odzyskiwanie danych. Zadzwoń po wycenę.',
+    icon: 'water',
     repairKey: null,
+    inPriceList: false,
   },
 ];
+
+/** Usługi widoczne w konfiguratorze (cennik). Pomija pozycje tylko z menu Usługi. */
+export const priceListRepairTypes = repairTypes.filter((repair) => repair.inPriceList !== false);
 
 /** URL samodzielnej podstrony usługi (SEO), np. '/wymiana-wyswietlacza/'. */
 export const getServiceHref = (slug: string): string => withBase(`/${slug}/`);
@@ -161,6 +189,26 @@ export const getRepairBySlug = (slug: string): RepairType | undefined =>
 
 /** Marki dostępne w konfiguratorze (pomijamy te oznaczone jako ignore: 'list', np. iPad, Xiaomi). */
 export const brands = data.filter((brand: any) => brand.ignore !== 'list');
+
+/** Marka iPada z seriami iPad, Air, Pro i mini. W konfiguratorze wchodzi się do niej z Apple → iPad. */
+export const ipadLineBrand = data.find((brand: any) => brand.slug === 'apple-ipad/');
+
+/** Czy model ma w cenniku wybraną naprawę. Usługa bez repairKey pasuje do każdego modelu. */
+export const modelSupportsRepair = (
+  model: { repairs?: { key?: string }[] } | null | undefined,
+  repair?: RepairType | null,
+): boolean => {
+  if (!repair?.repairKey) return true;
+  if (!model) return true;
+  return (model.repairs ?? []).some((item) => item.key === repair.repairKey);
+};
+
+const categorySupportsRepair = (category: any, repair?: RepairType | null): boolean => {
+  if (!repair?.repairKey) return true;
+  const ownPhones = category?.phones ?? [];
+  if (ownPhones.some((phone: any) => modelSupportsRepair(phone, repair))) return true;
+  return (category?.subcategories ?? []).some((child: any) => categorySupportsRepair(child, repair));
+};
 
 /** Stałe dotyczące wysyłki telefonu do serwisu (ekran 5 i 6). */
 export const shipping = {
@@ -180,10 +228,17 @@ export const paczkomat = 'Paczkomat WAW312M Tadeusza Kościuszki 44, Warszawa';
 export const FORM_URL = '/forms/formularz-wysylki.pdf';
 
 /** Serie (kategorie) marki dostępne w konfiguratorze - z modelami i nie kierujące na osobne strony. */
-export const getSelectableCategories = (brand: any): any[] =>
+export const getSelectableCategories = (brand: any, repair?: RepairType | null): any[] =>
   (brand?.categories ?? []).filter(
-    (category: any) => category?.ignore !== 'pages' && (category?.phones?.length ?? 0) > 0,
+    (category: any) =>
+      category?.ignore !== 'pages' &&
+      (category?.phones?.length ?? 0) > 0 &&
+      categorySupportsRepair(category, repair),
   );
+
+/** Marki, które mają choć jedną serię pasującą do wybranej naprawy. */
+export const getSelectableBrands = (repair?: RepairType | null): any[] =>
+  brands.filter((brand: any) => getSelectableCategories(brand, repair).length > 0);
 
 /** Modele danej serii (z dołączonym zdjęciem frontu, jeśli dostępne). */
 export const getModels = (category: any): any[] =>

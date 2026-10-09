@@ -3,18 +3,19 @@ import { FiSearch } from 'react-icons/fi';
 import StepHeader from './StepHeader';
 import NotFoundCta from './NotFoundCta';
 import { ModelCard } from './cards';
-import { getModels } from './configurator-data';
+import { getModels, modelSupportsRepair, type RepairType } from './configurator-data';
 import type { Brand, Category, Phone } from './types';
 
 interface Props {
   brand: Brand;
   category: Category;
+  repair?: RepairType;
   onSelect: (model: Phone) => void;
   onBack: () => void;
 }
 
-const StepChooseModel: React.FC<Props> = ({ brand, category, onSelect, onBack }) => {
-  const models = getModels(category);
+const StepChooseModel: React.FC<Props> = ({ brand, category, repair, onSelect, onBack }) => {
+  const models = getModels(category).filter((model) => modelSupportsRepair(model, repair));
   const title = String(category?.name ?? '').replace(brand?.name ?? '', '').trim() || category?.name;
 
   const [query, setQuery] = useState('');

@@ -57,6 +57,22 @@ export const xiaomiMi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi 13 Pro wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi 13 Pro wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -117,6 +133,22 @@ export const xiaomiMi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi 13 wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi 13 wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -177,6 +209,22 @@ export const xiaomiMi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi 13 Lite wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi 13 Lite wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -237,6 +285,22 @@ export const xiaomiMi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi 12T wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi 12T wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -297,6 +361,22 @@ export const xiaomiMi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi 12 Pro wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi 12 Pro wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -357,6 +437,22 @@ export const xiaomiMi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi 12X wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi 12X wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -417,6 +513,22 @@ export const xiaomiMi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi 12 Lite wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi 12 Lite wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -477,6 +589,22 @@ export const xiaomiMi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi 12 wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi 12 wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -537,6 +665,22 @@ export const xiaomiMi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi MI 11 wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi MI 11 wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -597,6 +741,22 @@ export const xiaomiMi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi MI 11i wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi MI 11i wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -657,6 +817,22 @@ export const xiaomiMi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi MI 11 Lite wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi MI 11 Lite wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -717,6 +893,22 @@ export const xiaomiMi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi MI 11 Lite 5G wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi MI 11 Lite 5G wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -777,6 +969,22 @@ export const xiaomiMi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi MI 10 Pro wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi MI 10 Pro wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -837,6 +1045,22 @@ export const xiaomiMi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi MI 10 wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi MI 10 wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -897,6 +1121,22 @@ export const xiaomiMi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi MI 10 Lite wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi MI 10 Lite wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -957,6 +1197,22 @@ export const xiaomiMi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi MI 10T Pro wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi MI 10T Pro wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -1017,6 +1273,22 @@ export const xiaomiMi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi MI 10T wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi MI 10T wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -1077,6 +1349,22 @@ export const xiaomiMi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi MI 10T Lite wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi MI 10T Lite wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -1137,6 +1425,22 @@ export const xiaomiMi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi MI Note 10 Pro wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi MI Note 10 Pro wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -1197,6 +1501,22 @@ export const xiaomiMi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi MI Note 10 wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi MI Note 10 wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -1257,6 +1577,22 @@ export const xiaomiMi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi MI Note 10 Lite wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi MI Note 10 Lite wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -1317,6 +1653,22 @@ export const xiaomiMi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi MI 9T Pro wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi MI 9T Pro wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -1377,6 +1729,22 @@ export const xiaomiMi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi MI 9T wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi MI 9T wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -1437,6 +1805,22 @@ export const xiaomiMi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi MI 9 wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi MI 9 wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -1497,6 +1881,22 @@ export const xiaomiMi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi MI 9 Lite wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi MI 9 Lite wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -1557,6 +1957,22 @@ export const xiaomiMi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi MI 9SE wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi MI 9SE wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
 ];
@@ -1620,6 +2036,22 @@ export const xiaomiRedmi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi Redmi 12 wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi Redmi 12 wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -1680,6 +2112,22 @@ export const xiaomiRedmi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi Redmi 12C wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi Redmi 12C wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -1740,6 +2188,22 @@ export const xiaomiRedmi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi Redmi 10C wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi Redmi 10C wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -1800,6 +2264,22 @@ export const xiaomiRedmi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi Redmi 10 wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi Redmi 10 wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -1860,6 +2340,22 @@ export const xiaomiRedmi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi Redmi 9 wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi Redmi 9 wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -1920,6 +2416,22 @@ export const xiaomiRedmi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi Redmi 9A wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi Redmi 9A wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -1980,6 +2492,22 @@ export const xiaomiRedmi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi Redmi 9C NFC wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi Redmi 9C NFC wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -2040,6 +2568,22 @@ export const xiaomiRedmi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi Redmi 9T wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi Redmi 9T wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -2100,6 +2644,22 @@ export const xiaomiRedmi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi Redmi 8 wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi Redmi 8 wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -2160,6 +2720,22 @@ export const xiaomiRedmi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi Redmi 8a wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi Redmi 8a wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -2220,6 +2796,22 @@ export const xiaomiRedmi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi Redmi Note 12 Pro5G wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi Redmi Note 12 Pro5G wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -2280,6 +2872,22 @@ export const xiaomiRedmi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi Redmi Note 12 wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi Redmi Note 12 wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -2340,6 +2948,22 @@ export const xiaomiRedmi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi Redmi Note 12s wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi Redmi Note 12s wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -2400,6 +3024,22 @@ export const xiaomiRedmi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi Redmi Note 11 Pro wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi Redmi Note 11 Pro wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -2460,6 +3100,22 @@ export const xiaomiRedmi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi Redmi Note 11s wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi Redmi Note 11s wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -2520,6 +3176,22 @@ export const xiaomiRedmi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi Redmi Note 11 wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi Redmi Note 11 wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -2580,6 +3252,22 @@ export const xiaomiRedmi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi Redmi Note 10pro wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi Redmi Note 10pro wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -2640,6 +3328,22 @@ export const xiaomiRedmi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi Redmi Note 10 wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi Redmi Note 10 wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -2700,6 +3404,22 @@ export const xiaomiRedmi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi Redmi Note 10s wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi Redmi Note 10s wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -2760,6 +3480,22 @@ export const xiaomiRedmi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi Redmi Note 9 Pro wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi Redmi Note 9 Pro wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -2820,6 +3556,22 @@ export const xiaomiRedmi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi Redmi Note 9i wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi Redmi Note 9i wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -2880,6 +3632,22 @@ export const xiaomiRedmi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi Redmi Note 9s wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi Redmi Note 9s wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -2940,6 +3708,22 @@ export const xiaomiRedmi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi Redmi Note 8 wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi Redmi Note 8 wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -3000,6 +3784,22 @@ export const xiaomiRedmi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi Redmi Note 8 Pro wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi Redmi Note 8 Pro wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -3060,6 +3860,22 @@ export const xiaomiRedmi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi Redmi Note 8T wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi Redmi Note 8T wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -3120,6 +3936,22 @@ export const xiaomiRedmi = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Xiaomi Redmi Note 7 wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Xiaomi Redmi Note 7 wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
 ];
@@ -3183,6 +4015,22 @@ export const poco = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Poco X5 Pro 5G wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Poco X5 Pro 5G wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -3243,6 +4091,22 @@ export const poco = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Poco X5 5G wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Poco X5 5G wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -3303,6 +4167,22 @@ export const poco = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Poco X4 Pro 5G wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Poco X4 Pro 5G wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -3363,6 +4243,22 @@ export const poco = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Poco X4 GT wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Poco X4 GT wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -3423,6 +4319,22 @@ export const poco = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Poco X3 Pro  wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Poco X3 Pro  wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -3483,6 +4395,22 @@ export const poco = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Poco X3 wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Poco X3 wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -3543,6 +4471,22 @@ export const poco = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Poco M5s wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Poco M5s wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -3603,6 +4547,22 @@ export const poco = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Poco M5 wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Poco M5 wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -3663,6 +4623,22 @@ export const poco = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Poco M4 Pro 5G wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Poco M4 Pro 5G wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -3723,6 +4699,22 @@ export const poco = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Poco M4 Pro wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Poco M4 Pro wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -3783,6 +4775,22 @@ export const poco = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Poco M3 Pro wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Poco M3 Pro wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -3843,6 +4851,22 @@ export const poco = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Poco M3 wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Poco M3 wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -3903,6 +4927,22 @@ export const poco = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Poco F5 Pro wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Poco F5 Pro wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -3963,6 +5003,22 @@ export const poco = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Poco F5 wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Poco F5 wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -4023,6 +5079,22 @@ export const poco = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Poco F4 GT wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Poco F4 GT wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -4083,6 +5155,22 @@ export const poco = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Poco F4 wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Poco F4 wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -4143,6 +5231,22 @@ export const poco = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Poco F3 5G wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Poco F3 5G wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -4203,6 +5307,22 @@ export const poco = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Poco F2 Pro wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Poco F2 Pro wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -4263,6 +5383,22 @@ export const poco = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Poco F1 wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Poco F1 wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
   {
@@ -4323,6 +5459,22 @@ export const poco = [
           'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
+      {
+        key: 'camera',
+        title: 'Poco C40 wymiana aparatu',
+        shortTitle: 'Aparat',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.',
+        duration: '1-2 godziny',
+      },
+      {
+        key: 'camera-glass',
+        title: 'Poco C40 wymiana szybki aparatu',
+        shortTitle: 'Szybka aparatu',
+        price: 'Wycena telefoniczna',
+        description: 'Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.',
+        duration: '1-2 godziny',
+      }
     ],
   },
 ];

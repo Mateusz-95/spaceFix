@@ -1,0 +1,72 @@
+---
+import ServiceIntroSection from '../ServiceIntroSection/ServiceIntroSection.astro';
+import ServiceInfoWithImage from '../ServiceInfoWithImage/ServiceInfoWithImage.astro';
+import GlassReplacementSteps from '../GlassReplacementSteps/GlassReplacementSteps.astro';
+import ServiceCta from '../ServiceCta/ServiceCta.astro';
+import { repairTypes } from '../Configurator/configurator-data';
+import { contact } from '../../config/site';
+
+const repair = repairTypes.find((item) => item.id === 'naprawa-urzadzenia-po-zalaniu')!;
+---
+
+<ServiceIntroSection title="Naprawa urządzenia po zalaniu – serwis Warszawa">
+  <p>
+    Telefon wpadł do wody, tablet oblano kawą albo zegarek przestał reagować po deszczu? W
+    <strong>SpaceFix Warszawa</strong> zajmujemy się <strong>naprawą urządzeń po zalaniu</strong> —
+    smartfonów, tabletów i zegarków. Zaczynamy od <strong>diagnostyki po kontakcie z cieczą</strong>:
+    sprawdzamy, czy ucierpiała płyta, złącza, bateria albo wyświetlacz, i mówimy wprost, co da się
+    uratować.
+  </p>
+  <p>
+    Im szybciej urządzenie trafi do serwisu, tym większa szansa na naprawę. Nie włączaj go na siłę i
+    nie susz suszarką. Po czyszczeniu i naprawie technicy sprawdzają ładowanie, obraz, dźwięk i
+    łączność. Gdy płyta jest zbyt uszkodzona, możemy <strong>odzyskać dane</strong> z zalanego
+    urządzenia.
+  </p>
+  <p>
+    Ta usługa nie ma sztywnej ceny w cenniku — każdy przypadek wygląda inaczej. W razie pytań i
+    wyceny <strong>zadzwoń: {contact.phoneDisplay}</strong>. Opisz, co się stało i jaki to model, a
+    przygotujemy wstępną wycenę. Możesz też napisać przez formularz na dole tej strony.
+  </p>
+</ServiceIntroSection>
+
+<ServiceCta
+  repairId={repair.id}
+  repairTitle={repair.title}
+  hasPricing={false}
+  quoteNote="Zadzwoń i opisz model oraz co się stało — przygotujemy wstępną wycenę. Możesz też napisać przez formularz na dole strony."
+  formHref="#kontakt"
+/>
+
+<ServiceInfoWithImage
+  title="Na czym polega naprawa urządzenia po zalaniu?"
+  imageSrc="/images/fixing-section/liquid-damage.jpg"
+  imageAlt="Mokry smartfon po zalaniu – naprawa urządzenia w serwisie SpaceFix"
+>
+  <div slot="firstBlock">
+    <p>
+      Ciecz zostawia osady na płycie i złączach, nawet gdy urządzenie jeszcze się włącza. Naprawa
+      polega na otwarciu obudowy, usunięciu wilgoci i korozji, a potem wymianie tylko tych części,
+      które naprawdę przestały działać.
+    </p>
+    <p>
+      Dotyczy to nie tylko telefonów. Tak samo diagnozujemy <strong>tablety i zegarki</strong> po
+      kąpieli, deszczu albo rozlanej cieczy. Celem jest przywrócenie działania bez wymiany całego
+      urządzenia.
+    </p>
+  </div>
+  <p slot="thirdBlock">
+    <strong>Kiedy warto przyjechać od razu?</strong><br />
+    Gdy urządzenie samo się restartuje, nie ładuje, ma plamy na ekranie, nie łapie sieci albo w ogóle
+    nie wstaje po kontakcie z wodą. Im krócej ciecz zostaje w środku, tym mniej elementów trzeba
+    wymieniać. W SpaceFix po naprawie sprawdzamy podstawowe funkcje i obejmujemy usługę gwarancją.
+  </p>
+  <p slot="fourthBlock">
+    Nie publikujemy tu cennika, bo zakres zależy od modelu i od tego, jak głęboko weszła ciecz.
+    <strong>Zadzwoń pod {contact.phoneDisplay}</strong> — w razie pytań i wyceny doradzimy, czy
+    urządzenie warto naprawiać i jaki jest orientacyjny koszt. Jeśli wolisz napisać, użyj formularza
+    kontaktowego pod tą sekcją.
+  </p>
+</ServiceInfoWithImage>
+
+<GlassReplacementSteps />

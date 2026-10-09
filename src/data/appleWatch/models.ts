@@ -13,15 +13,6 @@ export const appleWatchModels = [
         duration: '3-4 godziny',
       },
       {
-        key: 'charging-port',
-        title: 'Apple Watch Series 11 naprawa złącza ładowania',
-        shortTitle: 'Złącze ładowania',
-        price: 'Wycena telefoniczna',
-        description:
-          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
-        duration: '3-4 godziny',
-      },
-      {
         key: 'motherboard',
         title: 'Apple Watch Series 11 naprawa płyty głównej',
         shortTitle: 'Płyta główna',
@@ -43,15 +34,6 @@ export const appleWatchModels = [
         price: '499 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim Apple Watch. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'charging-port',
-        title: 'Apple Watch SE (gen.3) naprawa złącza ładowania',
-        shortTitle: 'Złącze ładowania',
-        price: 'Wycena telefoniczna',
-        description:
-          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
       {
@@ -80,15 +62,6 @@ export const appleWatchModels = [
         duration: '3-4 godziny',
       },
       {
-        key: 'charging-port',
-        title: 'Apple Watch Ultra 3 naprawa złącza ładowania',
-        shortTitle: 'Złącze ładowania',
-        price: 'Wycena telefoniczna',
-        description:
-          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
-        duration: '3-4 godziny',
-      },
-      {
         key: 'motherboard',
         title: 'Apple Watch Ultra 3 naprawa płyty głównej',
         shortTitle: 'Płyta główna',
@@ -110,15 +83,6 @@ export const appleWatchModels = [
         price: '699 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim Apple Watch. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'charging-port',
-        title: 'Apple Watch Series X (Series 10) naprawa złącza ładowania',
-        shortTitle: 'Złącze ładowania',
-        price: 'Wycena telefoniczna',
-        description:
-          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
       {
@@ -146,15 +110,6 @@ export const appleWatchModels = [
         duration: '3-4 godziny',
       },
       {
-        key: 'charging-port',
-        title: 'Apple Watch Ultra 2 naprawa złącza ładowania',
-        shortTitle: 'Złącze ładowania',
-        price: 'Wycena telefoniczna',
-        description:
-          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
-        duration: '3-4 godziny',
-      },
-      {
         key: 'motherboard',
         title: 'Apple Watch Ultra 2 naprawa płyty głównej',
         shortTitle: 'Płyta główna',
@@ -176,15 +131,6 @@ export const appleWatchModels = [
         price: '699 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim Apple Watch. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'charging-port',
-        title: 'Apple Watch Series 9 naprawa złącza ładowania',
-        shortTitle: 'Złącze ładowania',
-        price: 'Wycena telefoniczna',
-        description:
-          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
       {
@@ -212,15 +158,6 @@ export const appleWatchModels = [
         duration: '3-4 godziny',
       },
       {
-        key: 'charging-port',
-        title: 'Apple Watch Ultra naprawa złącza ładowania',
-        shortTitle: 'Złącze ładowania',
-        price: 'Wycena telefoniczna',
-        description:
-          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
-        duration: '3-4 godziny',
-      },
-      {
         key: 'motherboard',
         title: 'Apple Watch Ultra naprawa płyty głównej',
         shortTitle: 'Płyta główna',
@@ -242,15 +179,6 @@ export const appleWatchModels = [
         price: '449 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim Apple Watch. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'charging-port',
-        title: 'Apple Watch Series 8 naprawa złącza ładowania',
-        shortTitle: 'Złącze ładowania',
-        price: 'Wycena telefoniczna',
-        description:
-          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
       {
@@ -278,15 +206,6 @@ export const appleWatchModels = [
         duration: '3-4 godziny',
       },
       {
-        key: 'charging-port',
-        title: 'Apple Watch SE (gen.2) naprawa złącza ładowania',
-        shortTitle: 'Złącze ładowania',
-        price: 'Wycena telefoniczna',
-        description:
-          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
-        duration: '3-4 godziny',
-      },
-      {
         key: 'motherboard',
         title: 'Apple Watch SE (gen.2) naprawa płyty głównej',
         shortTitle: 'Płyta główna',
@@ -308,15 +227,6 @@ export const appleWatchModels = [
         price: '399 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim Apple Watch. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'charging-port',
-        title: 'Apple Watch Series 7 naprawa złącza ładowania',
-        shortTitle: 'Złącze ładowania',
-        price: 'Wycena telefoniczna',
-        description:
-          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
       {
@@ -344,15 +254,6 @@ export const appleWatchModels = [
         duration: '3-4 godziny',
       },
       {
-        key: 'charging-port',
-        title: 'Apple Watch Series 6 naprawa złącza ładowania',
-        shortTitle: 'Złącze ładowania',
-        price: 'Wycena telefoniczna',
-        description:
-          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
-        duration: '3-4 godziny',
-      },
-      {
         key: 'motherboard',
         title: 'Apple Watch Series 6 naprawa płyty głównej',
         shortTitle: 'Płyta główna',
@@ -374,15 +275,6 @@ export const appleWatchModels = [
         price: '399 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim Apple Watch. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'charging-port',
-        title: 'Apple Watch SE (gen.1) naprawa złącza ładowania',
-        shortTitle: 'Złącze ładowania',
-        price: 'Wycena telefoniczna',
-        description:
-          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
       {
@@ -410,15 +302,6 @@ export const appleWatchModels = [
         duration: '3-4 godziny',
       },
       {
-        key: 'charging-port',
-        title: 'Apple Watch 5 naprawa złącza ładowania',
-        shortTitle: 'Złącze ładowania',
-        price: 'Wycena telefoniczna',
-        description:
-          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
-        duration: '3-4 godziny',
-      },
-      {
         key: 'motherboard',
         title: 'Apple Watch 5 naprawa płyty głównej',
         shortTitle: 'Płyta główna',
@@ -440,15 +323,6 @@ export const appleWatchModels = [
         price: '349 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim Apple Watch. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'charging-port',
-        title: 'Apple Watch Series 4 naprawa złącza ładowania',
-        shortTitle: 'Złącze ładowania',
-        price: 'Wycena telefoniczna',
-        description:
-          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
       {
@@ -476,15 +350,6 @@ export const appleWatchModels = [
         duration: '3-4 godziny',
       },
       {
-        key: 'charging-port',
-        title: 'Apple Watch Series 3 naprawa złącza ładowania',
-        shortTitle: 'Złącze ładowania',
-        price: 'Wycena telefoniczna',
-        description:
-          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
-        duration: '3-4 godziny',
-      },
-      {
         key: 'motherboard',
         title: 'Apple Watch Series 3 naprawa płyty głównej',
         shortTitle: 'Płyta główna',
@@ -506,15 +371,6 @@ export const appleWatchModels = [
         price: '349 zł',
         description:
           'Oferujemy profesjonalną wymianę szyby w Twoim Apple Watch. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).',
-        duration: '3-4 godziny',
-      },
-      {
-        key: 'charging-port',
-        title: 'Apple Watch Series 2 naprawa złącza ładowania',
-        shortTitle: 'Złącze ładowania',
-        price: 'Wycena telefoniczna',
-        description:
-          'Skontaktuj się z nami telefonicznie - przygotujemy indywidualną wycenę tej naprawy dla Twojego modelu.',
         duration: '3-4 godziny',
       },
       {

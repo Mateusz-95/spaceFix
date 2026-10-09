@@ -48,6 +48,21 @@ interface DataBrand {
 
 const STORAGE_KEY = 'spacefix_price_editor_draft_v1';
 
+/** Dopasowuje wersję roboczą do danych źródłowych: dopina nowe naprawy i usuwa wycofane. */
+function mergeMissingRepairs(draft: ModelData, source: ModelData | undefined): ModelData {
+  if (!source) return draft;
+  const sourceKeys = new Set(source.repairs.map((repair) => repair.key));
+  const repairs = draft.repairs.filter((repair) => sourceKeys.has(repair.key));
+  for (const template of source.repairs) {
+    if (!repairs.some((repair) => repair.key === template.key)) {
+      repairs.push({ ...template });
+    }
+  }
+  const order = new Map(source.repairs.map((repair, index) => [repair.key, index]));
+  repairs.sort((a, b) => (order.get(a.key) ?? 0) - (order.get(b.key) ?? 0));
+  return { ...draft, repairs };
+}
+
 export const PriceEditor: React.FC = () => {
   // Flatten initial data from data.ts
   const initialModels: ModelData[] = useMemo(() => {
@@ -59,7 +74,9 @@ export const PriceEditor: React.FC = () => {
             name: phone.name,
             slug: phone.slug,
             image: phone.image || phoneImages[phone.slug],
-            repairs: (phone.repairs || []).map((r) => ({ ...r })),
+            repairs: (phone.repairs || [])
+              .filter((r) => !(brand.slug === 'apple-ipad/' || category.slug === 'ipad/') || r.key !== 'back-glass')
+              .map((r) => ({ ...r })),
             brandSlug: brand.slug,
             categorySlug: category.slug,
             categoryName: category.name,
@@ -89,10 +106,16 @@ export const PriceEditor: React.FC = () => {
       try {
         const parsed = JSON.parse(saved);
         if (Array.isArray(parsed) && parsed.length > 0) {
-          setModels(parsed);
+          const merged = parsed.map((draft: ModelData) =>
+            mergeMissingRepairs(
+              draft,
+              initialModels.find((origM) => origM.slug === draft.slug),
+            ),
+          );
+          setModels(merged);
           // Calculate modified
           const diffs = new Set<string>();
-          parsed.forEach((m: ModelData) => {
+          merged.forEach((m: ModelData) => {
             const orig = initialModels.find((origM) => origM.slug === m.slug);
             if (orig && JSON.stringify(orig.repairs) !== JSON.stringify(m.repairs)) {
               diffs.add(m.slug);

@@ -2,6 +2,7 @@
 import Layout from '../../../../layouts/Layout.astro';
 import Configurator from '../../../../components/Configurator/Configurator';
 import ConfiguratorShell from '../../../../components/Configurator/ConfiguratorShell.astro';
+import ContactSection from '../../../../components/ContactSection/ContactSection.astro';
 import { getRepairIdFromSearch } from '../../../../components/Configurator/konfigurator-url';
 import data from '../../../../data/data';
 
@@ -52,4 +53,5 @@ const initialModelSlugs = { brandSlug: brand!, categorySlug: category!, modelSlu
   </Configurator>
 
   <ConfiguratorShell />
+  <ContactSection />
 </Layout>

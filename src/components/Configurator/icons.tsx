@@ -6,6 +6,7 @@ import {
   MdBatteryChargingFull,
   MdMonitor,
   MdOutlinePhonelinkSetup,
+  MdPhotoCamera,
   MdSmartphone,
 } from 'react-icons/md';
 import type { IconType } from 'react-icons';
@@ -18,6 +19,7 @@ const repairIcons: Partial<Record<PopularRepairIcon, IconType>> = {
   battery: MdBatteryChargingFull,
   water: IoWaterOutline,
   backGlass: MdOutlinePhonelinkSetup,
+  camera: MdPhotoCamera,
 };
 
 const repairSvgIcons: Partial<Record<PopularRepairIcon, string>> = {

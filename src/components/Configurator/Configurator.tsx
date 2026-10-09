@@ -7,7 +7,14 @@ import StepSummary from './StepSummary';
 import StepFillForm from './StepFillForm';
 import StepForm from './StepForm';
 import { emptyShippingFormData, type ShippingFormData } from './shipping-form-data';
-import { getSelectableCategories, repairTypes, findModelSelection, type RepairType } from './configurator-data';
+import {
+  brands,
+  getSelectableCategories,
+  ipadLineBrand,
+  repairTypes,
+  findModelSelection,
+  type RepairType,
+} from './configurator-data';
 import {
   getModelSelectionSlugs,
   resolveInitialRepairId,
@@ -89,6 +96,13 @@ const Configurator: React.FC<ConfiguratorProps> = ({
   const [shippingFormData, setShippingFormData] = useState<ShippingFormData>(
     emptyShippingFormData,
   );
+  /** Apple → iPad otwiera serie iPad / Air / Pro / mini zamiast jednej listy modeli. */
+  const [ipadSeriesOpen, setIpadSeriesOpen] = useState(
+    () => (initial.brand?.slug ?? '').replace(/^\/+|\/+$/g, '') === 'apple-ipad',
+  );
+
+  const trimSlug = (value?: string) => (value ?? '').replace(/^\/+|\/+$/g, '');
+  const appleBrand = brands.find((item: any) => trimSlug(item.slug) === 'apple');
 
   // Przewijamy na górę przy każdej zmianie kroku.
   useEffect(() => {
@@ -126,9 +140,10 @@ const Configurator: React.FC<ConfiguratorProps> = ({
 
   const handleSelectBrand = (selected: Brand) => {
     setBrand(selected);
+    setIpadSeriesOpen(false);
     setCategory(undefined);
     setModel(undefined);
-    const categories = getSelectableCategories(selected);
+    const categories = getSelectableCategories(selected, repair);
     if (categories.length === 1) {
       setCategory(categories[0]);
       setStep(4);
@@ -138,6 +153,22 @@ const Configurator: React.FC<ConfiguratorProps> = ({
   };
 
   const handleSelectCategory = (selected: Category) => {
+    const openingIpadLine =
+      !ipadSeriesOpen &&
+      trimSlug(brand?.slug) === 'apple' &&
+      trimSlug(selected?.slug) === 'ipad';
+
+    if (openingIpadLine && ipadLineBrand) {
+      setIpadSeriesOpen(true);
+      setCategory(undefined);
+      setModel(undefined);
+      setStep(3);
+      return;
+    }
+
+    if (ipadSeriesOpen && ipadLineBrand) {
+      setBrand(ipadLineBrand);
+    }
     setCategory(selected);
     setModel(undefined);
     setStep(4);
@@ -148,25 +179,50 @@ const Configurator: React.FC<ConfiguratorProps> = ({
     setStep(5);
   };
 
+  const backFromSeries = () => {
+    if (ipadSeriesOpen) {
+      setIpadSeriesOpen(false);
+      setBrand(appleBrand);
+      setCategory(undefined);
+      setStep(3);
+      return;
+    }
+    setStep(2);
+  };
+
   const backFromModel = () => {
-    setStep(brand && getSelectableCategories(brand).length <= 1 ? 2 : 3);
+    if (ipadSeriesOpen) {
+      setStep(3);
+      return;
+    }
+    const categories = brand ? getSelectableCategories(brand, repair) : [];
+    setStep(categories.length <= 1 ? 2 : 3);
   };
 
   const renderStep = () => {
     switch (step) {
       case 1:
-        return <StepChooseRepair onSelect={handleSelectRepair} />;
+        return <StepChooseRepair model={model} onSelect={handleSelectRepair} />;
       case 2:
-        return <StepChooseDevice onSelect={handleSelectBrand} onBack={() => setStep(1)} />;
+        return (
+          <StepChooseDevice repair={repair} onSelect={handleSelectBrand} onBack={() => setStep(1)} />
+        );
       case 3:
         return (
-          <StepChooseSeries brand={brand} onSelect={handleSelectCategory} onBack={() => setStep(2)} />
+          <StepChooseSeries
+            brand={ipadSeriesOpen ? ipadLineBrand : brand}
+            repair={repair}
+            title={ipadSeriesOpen ? 'Wybierz serię iPada' : 'Wybierz serię'}
+            onSelect={handleSelectCategory}
+            onBack={backFromSeries}
+          />
         );
       case 4:
         return (
           <StepChooseModel
             brand={brand}
             category={category}
+            repair={repair}
             onSelect={handleSelectModel}
             onBack={backFromModel}
           />

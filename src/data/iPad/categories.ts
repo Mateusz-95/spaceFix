@@ -1,10 +1,10 @@
 import { ipadStandard, ipadMini, ipadAir, ipadPro } from './models.ts';
 
 const ipadCategories = [
-  { name: 'iPad Podstawowy', slug: '10.2/', imgSrc: '/images/ipad10.png', phones: ipadStandard },
-  { name: 'iPad Mini', slug: 'mini/', imgSrc: '/images/ipadMini.png', phones: ipadMini },
+  { name: 'iPad', slug: '10.2/', imgSrc: '/images/ipad10.png', phones: ipadStandard },
   { name: 'iPad Air', slug: 'air/', imgSrc: '/images/ipadAir.png', phones: ipadAir },
   { name: 'iPad Pro', slug: 'pro/', imgSrc: '/images/ipadPro.png', phones: ipadPro },
+  { name: 'iPad mini', slug: 'mini/', imgSrc: '/images/ipadMini.png', phones: ipadMini },
 ];
 
 export default ipadCategories;

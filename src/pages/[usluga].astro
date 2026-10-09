@@ -11,6 +11,8 @@ import NaprawaZlaczaLadowania from '../components/ServicePages/NaprawaZlaczaLado
 import NaprawaPlytyGlownej from '../components/ServicePages/NaprawaPlytyGlownej.astro';
 import WymianaAparatu from '../components/ServicePages/WymianaAparatu.astro';
 import WymianaSzybkiAparatu from '../components/ServicePages/WymianaSzybkiAparatu.astro';
+import NaprawaUrzadzeniaPoZalaniu from '../components/ServicePages/NaprawaUrzadzeniaPoZalaniu.astro';
+import ContactSection from '../components/ContactSection/ContactSection.astro';
 
 export function getStaticPaths() {
   return repairTypes.map((repair) => ({
@@ -35,6 +37,7 @@ const contentComponents: Record<string, any> = {
   'naprawa-plyty-glownej': NaprawaPlytyGlownej,
   'wymiana-aparatu': WymianaAparatu,
   'wymiana-szybki-aparatu': WymianaSzybkiAparatu,
+  'naprawa-urzadzenia-po-zalaniu': NaprawaUrzadzeniaPoZalaniu,
 };
 
 const Content = contentComponents[repair.slug];
@@ -103,6 +106,7 @@ const breadcrumbSchema = {
   </section>
 
   <Content />
+  <ContactSection />
 
   <script type="application/ld+json" set:html={JSON.stringify(serviceSchema)} is:inline />
   <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} is:inline />

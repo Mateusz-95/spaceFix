@@ -2,6 +2,7 @@
 import Layout from '../layouts/Layout.astro';
 import Configurator from '../components/Configurator/Configurator';
 import ConfiguratorShell from '../components/Configurator/ConfiguratorShell.astro';
+import ContactSection from '../components/ContactSection/ContactSection.astro';
 import { getRepairIdFromSearch } from '../components/Configurator/konfigurator-url';
 
 const initialRepairId = getRepairIdFromSearch(Astro.url.searchParams);
@@ -21,4 +22,5 @@ const initialRepairId = getRepairIdFromSearch(Astro.url.searchParams);
   </Configurator>
 
   <ConfiguratorShell />
+  <ContactSection />
 </Layout>
