@@ -113,7 +113,7 @@ const GoogleOpinions: React.FC = () => {
       <div className="absolute inset-y-0 left-1/2 w-full max-w-[1440px] -translate-x-1/2 overflow-hidden" aria-hidden>
         <div
           className="absolute inset-0 scale-105 bg-cover bg-center blur"
-          style={{ backgroundImage: "url('/images/assets/opinions-bg.png')" }}
+          style={{ backgroundImage: "url('/images/assets/opinions-bg.webp')" }}
         />
       </div>
       <div className="absolute inset-0 bg-[#fbfcfe]/70" aria-hidden />

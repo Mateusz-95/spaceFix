@@ -12,11 +12,11 @@ const WelcomeSection = () => {
     >
       <div className="hero-kv-frame relative mx-auto h-[801px] overflow-hidden">
         <img
-          src="/images/assets/main-KV.png"
+          src="/images/assets/main-KV.webp"
           alt=""
           className="hero-kv-image pointer-events-none absolute inset-y-0 left-1/2 h-full -translate-x-1/2 select-none"
-          width={1920}
-          height={801}
+          width={3840}
+          height={5120}
           decoding="async"
           fetchpriority="high"
           aria-hidden="true"

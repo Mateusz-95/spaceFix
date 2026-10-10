@@ -25,13 +25,13 @@ import { withBase } from '../../utils/withBase';
 import type { Brand, Category, Phone, Step } from './types';
 
 const stepBackgrounds: Record<Step, string | null> = {
-  1: withBase('/images/assets/naprawy-screen-1.png'),
-  2: withBase('/images/assets/naprawy-screen-2.png'),
-  3: withBase('/images/assets/naprawy-screen-3.png'),
+  1: withBase('/images/assets/naprawy-screen-1.webp'),
+  2: withBase('/images/assets/naprawy-screen-2.webp'),
+  3: withBase('/images/assets/naprawy-screen-3.webp'),
   4: null,
-  5: withBase('/images/assets/naprawy-screen-5-6.png'),
-  6: withBase('/images/assets/naprawy-screen-5-6.png'),
-  7: withBase('/images/assets/naprawy-screen-5-6.png'),
+  5: withBase('/images/assets/naprawy-screen-5-6.webp'),
+  6: withBase('/images/assets/naprawy-screen-5-6.webp'),
+  7: withBase('/images/assets/naprawy-screen-5-6.webp'),
 };
 
 function resolveInitialFromRepairId(repairId?: string | null): { step: Step; repair?: RepairType } {
