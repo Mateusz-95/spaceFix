@@ -11,14 +11,17 @@ import VisitUsSection from '../components/VisitUsSection/VisitUsSection.astro';
 import AboutText from '../components/AboutText/AboutText';
 ---
 
-<Layout>
+<Layout
+  metaTitle="Serwis telefonów Warszawa Ursus – SpaceFix"
+  description="Naprawa telefonów w Warszawie, dzielnica Ursus. Wymiana szybki, baterii i wyświetlacza od ręki, gwarancja 6 miesięcy. ul. Malinowa 16/U1, tel. 730 889 759."
+>
   <WelcomeSection />
   <PopularRepairs />
   <HowItWorksSection />
   <WhyUsSection />
   <AboutText />
   <RepairPricingSection />
-  <GoogleOpinions client:load />
+  <GoogleOpinions client:visible />
   <ContactSection />
   <VisitUsSection />
 </Layout>

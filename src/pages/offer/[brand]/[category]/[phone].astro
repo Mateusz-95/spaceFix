@@ -4,10 +4,20 @@ import Configurator from '../../../../components/Configurator/Configurator';
 import ConfiguratorShell from '../../../../components/Configurator/ConfiguratorShell.astro';
 import ContactSection from '../../../../components/ContactSection/ContactSection.astro';
 import { getRepairIdFromSearch } from '../../../../components/Configurator/konfigurator-url';
+import ModelRepairPrices from '../../../../components/Offer/ModelRepairPrices.astro';
 import data from '../../../../data/data';
 
 export function getStaticPaths() {
   const trimSlashes = (value: string) => value.replace(/^\/+|\/+$/g, '');
+
+  const canonicalIpadPath = (phoneSlug: string): string | undefined => {
+    const ipadBrand = data.find((item) => item.slug === 'apple-ipad/');
+    const series = ipadBrand?.categories?.find((category) =>
+      category.phones?.some((phone) => trimSlashes(phone.slug) === phoneSlug),
+    );
+    if (!series) return undefined;
+    return `/offer/apple-ipad/${trimSlashes(series.slug)}/${phoneSlug}/`;
+  };
 
   return data
     .filter(
@@ -19,30 +29,46 @@ export function getStaticPaths() {
       categories
         .filter((category) => (category.phones?.length ?? 0) > 0)
         .flatMap((category) =>
-          category.phones.map((phone) => ({
-            params: {
-              brand: trimSlashes(slug),
-              category: trimSlashes(category.slug),
-              phone: trimSlashes(phone.slug),
-            },
-            props: {
-              modelName: phone.name,
-            },
-          })),
+          category.phones.map((phone) => {
+            const brand = trimSlashes(slug);
+            const categorySlug = trimSlashes(category.slug);
+            const phoneSlug = trimSlashes(phone.slug);
+            const duplicateIpad = brand === 'apple' && categorySlug === 'ipad';
+            return {
+              params: {
+                brand,
+                category: categorySlug,
+                phone: phoneSlug,
+              },
+              props: {
+                modelName: phone.name,
+                repairs: (phone.repairs ?? []).map((repair) => ({
+                  name: repair.shortTitle || repair.title,
+                  price: repair.price,
+                  duration: repair.duration ?? '',
+                })),
+                noindex: duplicateIpad,
+                canonicalPath: duplicateIpad ? canonicalIpadPath(phoneSlug) : undefined,
+              },
+            };
+          }),
         ),
     );
 }
 
 const { brand, category, phone } = Astro.params;
-const { modelName } = Astro.props;
+const { modelName, repairs, noindex, canonicalPath } = Astro.props;
 const initialRepairId = getRepairIdFromSearch(Astro.url.searchParams);
 const initialModelSlugs = { brandSlug: brand!, categorySlug: category!, modelSlug: phone! };
 ---
 
 <Layout
-  title={`${modelName} | SpaceFix - serwis smartfonów`}
-  description={`Sprawdź cenę ${modelName} online — wymiana szybki, wyświetlacza, baterii i inne usługi. SpaceFix, Warszawa.`}
+  metaTitle={`${modelName} – naprawa Warszawa | SpaceFix`}
+  description={`Cennik naprawy ${modelName} w Warszawie (Ursus). Wymiana szybki, wyświetlacza i baterii. Gwarancja 6 miesięcy. SpaceFix, ul. Malinowa 16/U1.`}
+  noindex={noindex}
+  canonicalPath={canonicalPath}
 >
+  <ModelRepairPrices modelName={modelName} repairs={repairs} />
   <Configurator client:only="react" initialRepairId={initialRepairId} initialModelSlugs={initialModelSlugs}>
     <div
       slot="fallback"

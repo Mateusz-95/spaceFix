@@ -3,7 +3,7 @@ import ServiceIntroSection from '../ServiceIntroSection/ServiceIntroSection.astr
 import ServiceInfoWithImage from '../ServiceInfoWithImage/ServiceInfoWithImage.astro';
 import GlassReplacementSteps from '../GlassReplacementSteps/GlassReplacementSteps.astro';
 import ServiceCta from '../ServiceCta/ServiceCta.astro';
-import { repairTypes } from '../Configurator/configurator-data';
+import { getServiceHref, repairTypes } from '../Configurator/configurator-data';
 
 const repair = repairTypes.find((item) => item.id === 'naprawa-zalania')!;
 ---
@@ -17,6 +17,10 @@ const repair = repairTypes.find((item) => item.id === 'naprawa-zalania')!;
   </p>
   <p>
     Nasi <strong>doświadczeni technicy w Warszawie</strong> wykorzystują specjalistyczny sprzęt i nowoczesne metody serwisowe, zapewniając pełną <strong>gwarancję jakości naprawy telefonu po zalaniu</strong> oraz sprawdzając pełną funkcjonalność urządzenia po zakończeniu usługi.
+  </p>
+  <p>
+    Tablet albo zegarek? Przejdź do
+    <a class="font-semibold text-[#1c1d11] underline" href={getServiceHref('naprawa-urzadzenia-po-zalaniu')}>naprawy tabletu i zegarka po zalaniu</a>.
   </p>
 </ServiceIntroSection>
 

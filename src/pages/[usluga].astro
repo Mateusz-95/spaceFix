@@ -13,6 +13,7 @@ import WymianaAparatu from '../components/ServicePages/WymianaAparatu.astro';
 import WymianaSzybkiAparatu from '../components/ServicePages/WymianaSzybkiAparatu.astro';
 import NaprawaUrzadzeniaPoZalaniu from '../components/ServicePages/NaprawaUrzadzeniaPoZalaniu.astro';
 import ContactSection from '../components/ContactSection/ContactSection.astro';
+import ServiceFaq from '../components/ServicePages/ServiceFaq.astro';
 
 export function getStaticPaths() {
   return repairTypes.map((repair) => ({
@@ -106,6 +107,7 @@ const breadcrumbSchema = {
   </section>
 
   <Content />
+  <ServiceFaq repair={repair} />
   <ContactSection />
 
   <script type="application/ld+json" set:html={JSON.stringify(serviceSchema)} is:inline />

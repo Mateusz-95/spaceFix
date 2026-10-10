@@ -2,6 +2,9 @@ import { withBase } from '../utils/withBase';
 import { repairTypes, getServiceHref } from '../components/Configurator/configurator-data';
 import { KONFIGURATOR_PATH } from '../components/Configurator/konfigurator-url';
 
+/** Nazwa zgodna z wizytówką Google (Mapy). */
+export const businessName = 'SpaceFix - Serwis Apple, Samsung, Xiaomi, Huawei';
+
 export const contact = {
   phone: '+48 730 889 759',
   phoneDisplay: '730 889 759',

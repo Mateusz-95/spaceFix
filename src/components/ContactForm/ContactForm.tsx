@@ -11,6 +11,7 @@ import {
 } from './contact-form-data';
 import { contact } from '../../config/site';
 import { withBase } from '../../utils/withBase';
+import { trackEvent } from '../../utils/trackEvent';
 
 interface ContactFormProps {
   accessKey?: string;
@@ -75,6 +76,7 @@ export default function ContactForm({ accessKey, className = '' }: ContactFormPr
     const result = await sendContactInquiry(formData, key);
 
     if (result.success) {
+      trackEvent('generate_lead');
       setStatus('success');
       setFormData(emptyContactFormData());
     } else {

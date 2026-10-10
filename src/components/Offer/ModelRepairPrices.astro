@@ -1,0 +1,50 @@
+---
+interface RepairPrice {
+  name: string;
+  price: string;
+  duration: string;
+}
+
+interface Props {
+  modelName: string;
+  repairs: RepairPrice[];
+}
+
+const { modelName, repairs } = Astro.props;
+---
+
+<section class="bg-[#fbfcfe] pb-2 pt-10 sm:pt-12" aria-labelledby="model-prices-heading">
+  <div class="section-container">
+    <h2 id="model-prices-heading" class="text-2xl font-bold text-[#010101] sm:text-3xl">
+      Cennik napraw {modelName} – Warszawa Ursus
+    </h2>
+    <p class="mt-3 max-w-3xl text-base leading-relaxed text-[#64748b] sm:text-lg">
+      Ceny w serwisie SpaceFix przy ul. Malinowa 16/U1. Gwarancja 6 miesięcy. Wiele napraw robimy od ręki.
+    </p>
+
+    {
+      repairs.length > 0 && (
+        <div class="mt-6 overflow-x-auto rounded-2xl border border-[#e2e8f0] bg-white">
+          <table class="w-full min-w-[32rem] text-left text-sm sm:text-base">
+            <thead class="border-b border-[#e2e8f0] text-[#64748b]">
+              <tr>
+                <th class="px-4 py-3 font-semibold sm:px-5">Usługa</th>
+                <th class="px-4 py-3 font-semibold sm:px-5">Cena</th>
+                <th class="px-4 py-3 font-semibold sm:px-5">Czas</th>
+              </tr>
+            </thead>
+            <tbody>
+              {repairs.map((repair) => (
+                <tr class="border-b border-[#e2e8f0] last:border-0">
+                  <td class="px-4 py-3 font-medium text-[#010101] sm:px-5">{repair.name}</td>
+                  <td class="px-4 py-3 text-[#010101] sm:px-5">{repair.price}</td>
+                  <td class="px-4 py-3 text-[#64748b] sm:px-5">{repair.duration}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      )
+    }
+  </div>
+</section>

@@ -16,7 +16,7 @@ export default defineConfig({
       applyBaseStyles: false
     }),
     sitemap({
-      lastmod: new Date(),
+      filter: (page) => !page.includes('/admin') && !page.includes('/offer/apple/ipad/'),
     })],
   trailingSlash: 'always'
 });

@@ -3,19 +3,19 @@ import ServiceIntroSection from '../ServiceIntroSection/ServiceIntroSection.astr
 import ServiceInfoWithImage from '../ServiceInfoWithImage/ServiceInfoWithImage.astro';
 import GlassReplacementSteps from '../GlassReplacementSteps/GlassReplacementSteps.astro';
 import ServiceCta from '../ServiceCta/ServiceCta.astro';
-import { repairTypes } from '../Configurator/configurator-data';
+import { getServiceHref, repairTypes } from '../Configurator/configurator-data';
 import { contact } from '../../config/site';
 
 const repair = repairTypes.find((item) => item.id === 'naprawa-urzadzenia-po-zalaniu')!;
 ---
 
-<ServiceIntroSection title="Naprawa urządzenia po zalaniu – serwis Warszawa">
+<ServiceIntroSection title="Naprawa tabletu i zegarka po zalaniu – Warszawa">
   <p>
-    Telefon wpadł do wody, tablet oblano kawą albo zegarek przestał reagować po deszczu? W
-    <strong>SpaceFix Warszawa</strong> zajmujemy się <strong>naprawą urządzeń po zalaniu</strong> —
-    smartfonów, tabletów i zegarków. Zaczynamy od <strong>diagnostyki po kontakcie z cieczą</strong>:
-    sprawdzamy, czy ucierpiała płyta, złącza, bateria albo wyświetlacz, i mówimy wprost, co da się
-    uratować.
+    Tablet oblany kawą albo zegarek, który przestał reagować po deszczu? W
+    <strong>SpaceFix Warszawa</strong> ta strona jest o <strong>tablecie i zegarku po zalaniu</strong>.
+    Telefon ma osobną usługę:
+    <a class="font-semibold text-[#1c1d11] underline" href={getServiceHref('naprawa-zalania')}>naprawa telefonu po zalaniu</a>.
+    Zaczynamy od diagnostyki: sprawdzamy płytę, złącza, baterię i wyświetlacz, i mówimy wprost, co da się uratować.
   </p>
   <p>
     Im szybciej urządzenie trafi do serwisu, tym większa szansa na naprawę. Nie włączaj go na siłę i
