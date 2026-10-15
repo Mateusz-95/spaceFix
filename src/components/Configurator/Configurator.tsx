@@ -17,6 +17,7 @@ import {
 } from './configurator-data';
 import {
   getModelSelectionSlugs,
+  openOfferPage,
   resolveInitialRepairId,
   syncBrowserUrl,
   type ModelSelectionSlugs,
@@ -104,12 +105,16 @@ const Configurator: React.FC<ConfiguratorProps> = ({
   const trimSlug = (value?: string) => (value ?? '').replace(/^\/+|\/+$/g, '');
   const appleBrand = brands.find((item: any) => trimSlug(item.slug) === 'apple');
 
-  // Przewijamy na górę przy każdej zmianie kroku.
+  // Na stronie modelu zjeżdżamy do okna naprawy (cennik zostaje wyżej).
+  // W konfiguratorze przewijamy na górę kroku.
   useEffect(() => {
-    if (typeof window !== 'undefined') {
-      window.scrollTo({ top: 0, behavior: 'smooth' });
+    if (typeof window === 'undefined') return;
+    if (initialModelSlugs) {
+      document.getElementById('konfigurator')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      return;
     }
-  }, [step]);
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }, [step, initialModelSlugs]);
 
   // Informujemy stronę (.astro) o aktualnym kroku i wybranej naprawie, aby pod
   // ekranem podsumowania z ceną (krok 5) pokazać sekcje z odpowiedniej strony usługi.
@@ -122,15 +127,18 @@ const Configurator: React.FC<ConfiguratorProps> = ({
     );
   }, [step, repair]);
 
-  // Po wyborze modelu (krok 5+) aktualizujemy URL na /offer/<marka>/<seria>/<model>/.
+  // Po wyborze modelu otwieramy stronę /offer/..., żeby wczytać cennik.
+  // Na tej stronie tylko dopisujemy ?naprawa= bez przeładowania.
   useEffect(() => {
     if (typeof window === 'undefined') return;
     if (step >= 5 && model && brand && category) {
-      syncBrowserUrl(getModelSelectionSlugs(brand, category, model), repair?.id ?? null);
-    } else {
+      openOfferPage(getModelSelectionSlugs(brand, category, model), repair?.id ?? null);
+      return;
+    }
+    if (!initialModelSlugs) {
       syncBrowserUrl(null, repair?.id ?? null);
     }
-  }, [step, model, brand, category, repair]);
+  }, [step, model, brand, category, repair, initialModelSlugs]);
 
   const handleSelectRepair = (selected: RepairType) => {
     setRepair(selected);
@@ -265,7 +273,10 @@ const Configurator: React.FC<ConfiguratorProps> = ({
   };
 
   return (
-    <section className="relative min-h-[calc(100vh-var(--header-height))] overflow-hidden bg-[#fbfcfe]">
+    <section
+      id="konfigurator"
+      className="relative min-h-[calc(100vh-var(--header-height))] scroll-mt-[var(--header-height)] overflow-hidden bg-[#fbfcfe]"
+    >
       {stepBackgrounds[step] && (
         <>
           <div

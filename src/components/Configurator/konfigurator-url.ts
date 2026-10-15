@@ -62,3 +62,23 @@ export function syncBrowserUrl(selection: ModelSelectionSlugs | null, repairId?:
     : getKonfiguratorHref(repairId ?? undefined);
   window.history.replaceState(window.history.state, '', href);
 }
+
+function samePath(left: string, right: string): boolean {
+  const normalize = (value: string) => value.replace(/\/+$/, '') || '/';
+  return normalize(left) === normalize(right);
+}
+
+/**
+ * Z konfiguratora przechodzi na prawdziwą stronę modelu (jest na niej cennik).
+ * Gdy ta strona jest już otwarta, tylko aktualizuje adres.
+ */
+export function openOfferPage(selection: ModelSelectionSlugs, repairId?: string | null): void {
+  if (typeof window === 'undefined') return;
+  const href = getOfferHref(selection, repairId ?? undefined);
+  const target = new URL(href, window.location.origin);
+  if (!samePath(window.location.pathname, target.pathname)) {
+    window.location.assign(`${target.pathname}${target.search}`);
+    return;
+  }
+  syncBrowserUrl(selection, repairId);
+}
