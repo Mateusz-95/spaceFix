@@ -22,6 +22,7 @@ const MODEL_FILES = [
   'src/data/xiaomi/models.ts',
   'src/data/google/models.ts',
   'src/data/iPad/models.ts',
+  'src/data/appleWatch/models.ts',
 ];
 
 /**
@@ -31,6 +32,22 @@ const MODEL_FILES = [
 const IMAGE_OVERRIDES = {
   iphone11promax: 'https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-11-pro-max-.jpg',
   iphone11pro: 'https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-11-pro.jpg',
+  watchseries11: 'https://fdn2.gsmarena.com/vv/bigpic/apple-watch11.jpg',
+  watchsegen3: 'https://fdn2.gsmarena.com/vv/bigpic/apple-watch-se3.jpg',
+  watchultra3: 'https://fdn2.gsmarena.com/vv/bigpic/apple-watch-ultra3.jpg',
+  watchseriesxseries10: 'https://fdn2.gsmarena.com/vv/bigpic/apple-watch-series10.jpg',
+  watchultra2: 'https://fdn2.gsmarena.com/vv/bigpic/apple-watch-ultra2-black.jpg',
+  watchseries9: 'https://fdn2.gsmarena.com/vv/bigpic/apple-watch-series9.jpg',
+  watchultra: 'https://fdn2.gsmarena.com/vv/bigpic/apple-watch-ultra.jpg',
+  watchseries8: 'https://fdn2.gsmarena.com/vv/bigpic/apple-watch-8.jpg',
+  watchsegen2: 'https://fdn2.gsmarena.com/vv/bigpic/apple-watch-8se-2022.jpg',
+  watchseries7: 'https://fdn2.gsmarena.com/vv/bigpic/apple-watch-series-7-aluminum.jpg',
+  watchseries6: 'https://fdn2.gsmarena.com/vv/bigpic/apple-watch-s6.jpg',
+  watchsegen1: 'https://fdn2.gsmarena.com/vv/bigpic/apple-watch-se.jpg',
+  watch5: 'https://fdn2.gsmarena.com/vv/bigpic/apple-watch-series-5.jpg',
+  watchseries4: 'https://fdn2.gsmarena.com/vv/bigpic/apple-watch-series-4-aluminum.jpg',
+  watchseries3: 'https://fdn2.gsmarena.com/vv/bigpic/apple-watch-series3-sport-.jpg',
+  watchseries2: 'https://fdn2.gsmarena.com/vv/bigpic/apple-watch2-s2-sport-42mm.jpg',
 };
 
 /**
@@ -119,18 +136,19 @@ function looseKey(name) {
 function loadScrapedImages() {
   const exact = new Map();
   const loose = new Map();
-  if (!fs.existsSync(OUTPUT_DIR)) return { exact, loose };
 
-  for (const file of fs.readdirSync(OUTPUT_DIR)) {
-    if (!/^phone-images-.*\.json$/.test(file)) continue;
-    const items = JSON.parse(fs.readFileSync(path.join(OUTPUT_DIR, file), 'utf8'));
-    for (const item of items) {
-      if (!item?.phoneName || !item?.phoneImage) continue;
-      const exactKey = normalize(item.phoneName);
-      const looseK = looseKey(item.phoneName);
-      if (!exact.has(exactKey)) exact.set(exactKey, item.phoneImage);
-      // W mapie luźnej preferujemy wpis bazowy (bez sufiksu), gdy klucze kolidują.
-      if (!loose.has(looseK) || exactKey === looseK) loose.set(looseK, item.phoneImage);
+  if (fs.existsSync(OUTPUT_DIR)) {
+    for (const file of fs.readdirSync(OUTPUT_DIR)) {
+      if (!/^phone-images-.*\.json$/.test(file)) continue;
+      const items = JSON.parse(fs.readFileSync(path.join(OUTPUT_DIR, file), 'utf8'));
+      for (const item of items) {
+        if (!item?.phoneName || !item?.phoneImage) continue;
+        const exactKey = normalize(item.phoneName);
+        const looseK = looseKey(item.phoneName);
+        if (!exact.has(exactKey)) exact.set(exactKey, item.phoneImage);
+        // W mapie luźnej preferujemy wpis bazowy (bez sufiksu), gdy klucze kolidują.
+        if (!loose.has(looseK) || exactKey === looseK) loose.set(looseK, item.phoneImage);
+      }
     }
   }
 

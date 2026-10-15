@@ -5,6 +5,7 @@ import ConfiguratorShell from '../../../../components/Configurator/ConfiguratorS
 import ContactSection from '../../../../components/ContactSection/ContactSection.astro';
 import { getRepairIdFromSearch } from '../../../../components/Configurator/konfigurator-url';
 import ModelRepairPrices from '../../../../components/Offer/ModelRepairPrices.astro';
+import { repairTypes } from '../../../../components/Configurator/configurator-data';
 import data from '../../../../data/data';
 
 export function getStaticPaths() {
@@ -46,6 +47,7 @@ export function getStaticPaths() {
                   name: repair.shortTitle || repair.title,
                   price: repair.price,
                   duration: repair.duration ?? '',
+                  repairId: repairTypes.find((type) => type.repairKey === repair.key)?.id,
                 })),
                 noindex: duplicateIpad,
                 canonicalPath: duplicateIpad ? canonicalIpadPath(phoneSlug) : undefined,

@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { FiChevronDown, FiX } from 'react-icons/fi';
 import PhoneCta from './phone-cta.tsx';
+import ModelSearchBox from '../FindModel/ModelSearchBox';
 import { homeNavLinks } from '../../config/site';
 import { withBase } from '../../utils/withBase';
 
@@ -68,7 +69,8 @@ export default function MobileMenu({ show = false, onClose, logoSrc }: MobileMen
                   />
                 </button>
                 {openGroup === link.href && (
-                  <div className="mt-5 flex flex-col items-center gap-4">
+                  <div className="mt-5 flex w-full max-w-md flex-col items-center gap-4">
+                    {link.search && <ModelSearchBox onNavigate={onClose} />}
                     {link.children.map((child) => (
                       <a
                         key={child.href}

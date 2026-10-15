@@ -11,17 +11,27 @@ import {
   brands,
   getSelectableCategories,
   ipadLineBrand,
+  modelSupportsRepair,
   repairTypes,
   findModelSelection,
   type RepairType,
 } from './configurator-data';
 import {
+  DEVICE_QUERY_PARAM,
+  ENTRY_QUERY_PARAM,
+  MODEL_ENTRY,
+  MODEL_QUERY_PARAM,
+  getFindModelHref,
+  getModelRepairHref,
   getModelSelectionSlugs,
   openOfferPage,
+  parseModelParam,
   resolveInitialRepairId,
   syncBrowserUrl,
+  type DeviceKind,
   type ModelSelectionSlugs,
 } from './konfigurator-url';
+import type { ModelHit } from './configurator-data';
 import { withBase } from '../../utils/withBase';
 import type { Brand, Category, Phone, Step } from './types';
 
@@ -42,6 +52,10 @@ function resolveInitialFromRepairId(repairId?: string | null): { step: Step; rep
   return { step: 1 };
 }
 
+function isDeviceKind(value: string | null): value is DeviceKind {
+  return value === 'telefon' || value === 'tablet' || value === 'zegarek';
+}
+
 function resolveInitialState(
   initialRepairIdProp?: string | null,
   initialModelSlugs?: ModelSelectionSlugs | null,
@@ -51,6 +65,8 @@ function resolveInitialState(
   brand?: Brand;
   category?: Category;
   model?: Phone;
+  modelFirst?: boolean;
+  deviceKind?: DeviceKind | null;
 } {
   const repairId = resolveInitialRepairId(initialRepairIdProp);
 
@@ -71,6 +87,45 @@ function resolveInitialState(
         model: selection.model,
       };
     }
+  }
+
+  const search = typeof window === 'undefined' ? null : new URLSearchParams(window.location.search);
+  const fromUrl = parseModelParam(search?.get(MODEL_QUERY_PARAM));
+  if (fromUrl) {
+    const selection = findModelSelection(fromUrl.brandSlug, fromUrl.categorySlug, fromUrl.modelSlug);
+    if (selection) {
+      const repair = repairId ? repairTypes.find((item) => item.id === repairId) : undefined;
+      return {
+        step: repair ? 5 : 1,
+        repair,
+        brand: selection.brand,
+        category: selection.category,
+        model: selection.model,
+        modelFirst: !repair,
+      };
+    }
+  }
+
+  if (search?.get(ENTRY_QUERY_PARAM) === MODEL_ENTRY) {
+    const kindParam = search.get(DEVICE_QUERY_PARAM);
+    const deviceKind = isDeviceKind(kindParam) ? kindParam : null;
+    const presetRepair = repairId ? repairTypes.find((item) => item.id === repairId) : undefined;
+    if (deviceKind === 'tablet' && ipadLineBrand) {
+      return { step: 3, modelFirst: true, deviceKind, brand: ipadLineBrand, repair: presetRepair };
+    }
+    if (deviceKind === 'zegarek') {
+      const apple = brands.find((item: any) => String(item.slug).replace(/^\/+|\/+$/g, '') === 'apple');
+      const watch = getSelectableCategories(apple, presetRepair, 'zegarek')[0];
+      if (apple && watch) {
+        return { step: 4, modelFirst: true, deviceKind, brand: apple, category: watch, repair: presetRepair };
+      }
+    }
+    return {
+      step: 2,
+      modelFirst: true,
+      deviceKind: deviceKind === 'telefon' ? 'telefon' : null,
+      repair: presetRepair,
+    };
   }
 
   const fromRepair = resolveInitialFromRepairId(repairId);
@@ -94,6 +149,8 @@ const Configurator: React.FC<ConfiguratorProps> = ({
   const [brand, setBrand] = useState<Brand | undefined>(initial.brand);
   const [category, setCategory] = useState<Category | undefined>(initial.category);
   const [model, setModel] = useState<Phone | undefined>(initial.model);
+  const [modelFirst] = useState(Boolean(initial.modelFirst));
+  const [deviceKind, setDeviceKind] = useState<DeviceKind | null>(initial.deviceKind ?? null);
   const [shippingFormData, setShippingFormData] = useState<ShippingFormData>(
     emptyShippingFormData,
   );
@@ -104,6 +161,22 @@ const Configurator: React.FC<ConfiguratorProps> = ({
 
   const trimSlug = (value?: string) => (value ?? '').replace(/^\/+|\/+$/g, '');
   const appleBrand = brands.find((item: any) => trimSlug(item.slug) === 'apple');
+
+  useEffect(() => {
+    document.getElementById('konfigurator')?.setAttribute('data-ready', 'true');
+  }, []);
+
+  useEffect(() => {
+    const onSelectRepair = (event: Event) => {
+      const repairId = (event as CustomEvent<{ repairId?: string }>).detail?.repairId;
+      const selected = repairTypes.find((item) => item.id === repairId);
+      if (!selected) return;
+      setRepair(selected);
+      setStep(model ? 5 : 2);
+    };
+    window.addEventListener('configurator:select-repair', onSelectRepair);
+    return () => window.removeEventListener('configurator:select-repair', onSelectRepair);
+  }, [model]);
 
   // Na stronie modelu zjeżdżamy do okna naprawy (cennik zostaje wyżej).
   // W konfiguratorze przewijamy na górę kroku.
@@ -131,14 +204,34 @@ const Configurator: React.FC<ConfiguratorProps> = ({
   // Na tej stronie tylko dopisujemy ?naprawa= bez przeładowania.
   useEffect(() => {
     if (typeof window === 'undefined') return;
-    if (step >= 5 && model && brand && category) {
-      openOfferPage(getModelSelectionSlugs(brand, category, model), repair?.id ?? null);
+    if (step >= 5 && model && brand && category && repair) {
+      openOfferPage(getModelSelectionSlugs(brand, category, model), repair.id);
       return;
     }
     if (!initialModelSlugs) {
+      if (model && brand && category && !repair) {
+        window.history.replaceState(
+          window.history.state,
+          '',
+          getModelRepairHref(getModelSelectionSlugs(brand, category, model)),
+        );
+        return;
+      }
+      if (modelFirst && repair && step < 5) {
+        window.history.replaceState(
+          window.history.state,
+          '',
+          getFindModelHref(deviceKind ?? undefined, repair.id),
+        );
+        return;
+      }
+      if (modelFirst && !repair) {
+        window.history.replaceState(window.history.state, '', getFindModelHref(deviceKind ?? undefined));
+        return;
+      }
       syncBrowserUrl(null, repair?.id ?? null);
     }
-  }, [step, model, brand, category, repair, initialModelSlugs]);
+  }, [step, model, brand, category, repair, initialModelSlugs, modelFirst, deviceKind]);
 
   const handleSelectRepair = (selected: RepairType) => {
     setRepair(selected);
@@ -151,7 +244,7 @@ const Configurator: React.FC<ConfiguratorProps> = ({
     setIpadSeriesOpen(false);
     setCategory(undefined);
     setModel(undefined);
-    const categories = getSelectableCategories(selected, repair);
+    const categories = getSelectableCategories(selected, repair, deviceKind === 'telefon' ? 'telefon' : null);
     if (categories.length === 1) {
       setCategory(categories[0]);
       setStep(4);
@@ -184,11 +277,60 @@ const Configurator: React.FC<ConfiguratorProps> = ({
 
   const handleSelectModel = (selected: Phone) => {
     setModel(selected);
-    setStep(5);
+    setStep(repair ? 5 : 1);
+  };
+
+  const chooseKind = (kind: DeviceKind) => {
+    setDeviceKind(kind);
+    setModel(undefined);
+    setCategory(undefined);
+    if (kind === 'tablet' && ipadLineBrand) {
+      setBrand(ipadLineBrand);
+      setIpadSeriesOpen(true);
+      setStep(3);
+      return;
+    }
+    if (kind === 'zegarek') {
+      const watch = getSelectableCategories(appleBrand, repair, 'zegarek')[0];
+      if (appleBrand && watch) {
+        setBrand(appleBrand);
+        setIpadSeriesOpen(false);
+        setCategory(watch);
+        setStep(4);
+        return;
+      }
+    }
+    setBrand(undefined);
+    setIpadSeriesOpen(false);
+    setStep(2);
+  };
+
+  const chooseFoundModel = (hit: ModelHit) => {
+    const keepRepair = Boolean(repair && modelSupportsRepair(hit.model, repair));
+    setBrand(hit.brand);
+    setCategory(hit.category);
+    setModel(hit.model);
+    setRepair(keepRepair ? repair : undefined);
+    setIpadSeriesOpen(trimSlug(hit.brand?.slug) === 'apple-ipad');
+    setStep(keepRepair ? 5 : 1);
+  };
+
+  const clearPickedModel = () => {
+    setModel(undefined);
+    setBrand(undefined);
+    setCategory(undefined);
+    setIpadSeriesOpen(false);
   };
 
   const backFromSeries = () => {
     if (ipadSeriesOpen) {
+      if (modelFirst && deviceKind === 'tablet') {
+        setIpadSeriesOpen(false);
+        setBrand(undefined);
+        setDeviceKind(null);
+        setStep(2);
+        return;
+      }
       setIpadSeriesOpen(false);
       setBrand(appleBrand);
       setCategory(undefined);
@@ -199,21 +341,49 @@ const Configurator: React.FC<ConfiguratorProps> = ({
   };
 
   const backFromModel = () => {
+    if (modelFirst && deviceKind === 'zegarek') {
+      setDeviceKind(null);
+      setBrand(undefined);
+      setCategory(undefined);
+      setStep(2);
+      return;
+    }
     if (ipadSeriesOpen) {
       setStep(3);
       return;
     }
-    const categories = brand ? getSelectableCategories(brand, repair) : [];
+    const categories = brand
+      ? getSelectableCategories(brand, repair, deviceKind === 'telefon' ? 'telefon' : null)
+      : [];
     setStep(categories.length <= 1 ? 2 : 3);
   };
 
   const renderStep = () => {
     switch (step) {
       case 1:
-        return <StepChooseRepair model={model} onSelect={handleSelectRepair} />;
+        return (
+          <StepChooseRepair
+            model={model}
+            onSelect={handleSelectRepair}
+            onPickModel={model ? undefined : chooseFoundModel}
+            onBack={
+              modelFirst && model ? () => setStep(4) : model ? clearPickedModel : undefined
+            }
+          />
+        );
       case 2:
         return (
-          <StepChooseDevice repair={repair} onSelect={handleSelectBrand} onBack={() => setStep(1)} />
+          <StepChooseDevice
+            repair={repair}
+            modelFirst={modelFirst}
+            deviceKind={deviceKind}
+            onSelect={handleSelectBrand}
+            onKind={chooseKind}
+            onPickModel={chooseFoundModel}
+            onBack={
+              modelFirst ? (deviceKind ? () => setDeviceKind(null) : undefined) : () => setStep(1)
+            }
+          />
         );
       case 3:
         return (

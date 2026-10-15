@@ -3,6 +3,22 @@
  * Generowane automatycznie przez scripts/apply-phone-images.mjs — nie edytuj ręcznie.
  */
 export const phoneImages: Record<string, string> = {
+  'AW-se-gen1/': '/images/phones/aw-se-gen1.jpg',
+  'AW-se-gen2/': '/images/phones/aw-se-gen2.jpg',
+  'AW-se-gen3/': '/images/phones/aw-se-gen3.jpg',
+  'AW-series-11/': '/images/phones/aw-series-11.jpg',
+  'AW-series-2/': '/images/phones/aw-series-2.jpg',
+  'AW-series-3/': '/images/phones/aw-series-3.jpg',
+  'AW-series-4/': '/images/phones/aw-series-4.jpg',
+  'AW-series-6/': '/images/phones/aw-series-6.jpg',
+  'AW-series-7/': '/images/phones/aw-series-7.jpg',
+  'AW-series-8/': '/images/phones/aw-series-8.jpg',
+  'AW-series-9/': '/images/phones/aw-series-9.jpg',
+  'AW-series-x/': '/images/phones/aw-series-x.jpg',
+  'AW-ultra-2/': '/images/phones/aw-ultra-2.jpg',
+  'AW-ultra-3/': '/images/phones/aw-ultra-3.jpg',
+  'AW-ultra/': '/images/phones/aw-ultra.jpg',
+  'AW5/': '/images/phones/aw5.jpg',
   'iPhone-11-pro-max/': '/images/phones/iphone-11-pro-max.jpg',
   'iPhone-11-pro/': '/images/phones/iphone-11-pro.jpg',
   'iPhone-11/': '/images/phones/iphone-11.jpg',

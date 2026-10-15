@@ -1,6 +1,7 @@
 import React, { useEffect, useRef, useState } from 'react';
 import { FiChevronDown } from 'react-icons/fi';
 import type { NavLink } from '../../config/site';
+import ModelSearchBox from '../FindModel/ModelSearchBox';
 
 interface NavDropdownProps {
   link: NavLink;
@@ -70,11 +71,17 @@ const NavDropdown: React.FC<NavDropdownProps> = ({ link }) => {
       </button>
 
       <div
-        className={`absolute left-1/2 top-full z-50 w-64 -translate-x-1/2 pt-3 transition ${
-          open ? 'visible opacity-100' : 'invisible opacity-0'
-        }`}
+        className={`absolute left-1/2 top-full z-50 -translate-x-1/2 pt-3 transition ${
+          link.search ? 'w-80' : 'w-64'
+        } ${open ? 'visible opacity-100' : 'invisible opacity-0'}`}
       >
-        <ul className="overflow-hidden rounded-2xl border border-[#eeeeec] bg-white p-2 shadow-card-hover">
+        <div className="rounded-2xl border border-[#eeeeec] bg-white p-2 shadow-card-hover">
+          {link.search && (
+            <div className="px-2 pb-2 pt-1">
+              <ModelSearchBox />
+            </div>
+          )}
+          <ul>
           {children.map((child) => (
             <li key={child.href}>
               <a
@@ -85,7 +92,8 @@ const NavDropdown: React.FC<NavDropdownProps> = ({ link }) => {
               </a>
             </li>
           ))}
-        </ul>
+          </ul>
+        </div>
       </div>
     </li>
   );

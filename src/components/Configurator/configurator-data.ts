@@ -1,6 +1,7 @@
 import data from '../../data/data';
 import { phoneImages } from '../../data/phone-images';
 import { withBase } from '../../utils/withBase';
+import type { DeviceKind, ModelSelectionSlugs } from './konfigurator-url';
 
 export type PopularRepairIcon =
   | 'smartphone'
@@ -227,18 +228,31 @@ export const paczkomat = 'Paczkomat WAW312M Tadeusza Kościuszki 44, Warszawa';
 /** Plik formularza do pobrania (placeholder - docelowy PDF podstawimy później). */
 export const FORM_URL = '/forms/formularz-wysylki.pdf';
 
+const categoryMatchesKind = (category: any, kind?: DeviceKind | null): boolean => {
+  if (!kind) return true;
+  const slug = String(category?.slug ?? '').replace(/^\/+|\/+$/g, '');
+  if (kind === 'telefon') return slug !== 'ipad' && slug !== 'apple-watch';
+  if (kind === 'zegarek') return slug === 'apple-watch';
+  return true;
+};
+
 /** Serie (kategorie) marki dostępne w konfiguratorze - z modelami i nie kierujące na osobne strony. */
-export const getSelectableCategories = (brand: any, repair?: RepairType | null): any[] =>
+export const getSelectableCategories = (
+  brand: any,
+  repair?: RepairType | null,
+  kind?: DeviceKind | null,
+): any[] =>
   (brand?.categories ?? []).filter(
     (category: any) =>
       category?.ignore !== 'pages' &&
       (category?.phones?.length ?? 0) > 0 &&
-      categorySupportsRepair(category, repair),
+      categorySupportsRepair(category, repair) &&
+      categoryMatchesKind(category, kind),
   );
 
 /** Marki, które mają choć jedną serię pasującą do wybranej naprawy. */
-export const getSelectableBrands = (repair?: RepairType | null): any[] =>
-  brands.filter((brand: any) => getSelectableCategories(brand, repair).length > 0);
+export const getSelectableBrands = (repair?: RepairType | null, kind?: DeviceKind | null): any[] =>
+  brands.filter((brand: any) => getSelectableCategories(brand, repair, kind).length > 0);
 
 /** Modele danej serii (z dołączonym zdjęciem frontu, jeśli dostępne). */
 export const getModels = (category: any): any[] =>
@@ -248,6 +262,82 @@ export const getModels = (category: any): any[] =>
   }));
 
 const trimSlashes = (value: string): string => value.replace(/^\/+|\/+$/g, '');
+
+export interface ModelHit {
+  name: string;
+  image?: string;
+  brandName: string;
+  categoryName: string;
+  kind: DeviceKind;
+  brand: any;
+  category: any;
+  model: any;
+  selection: ModelSelectionSlugs;
+}
+
+const modelKind = (brandSlug: string, categorySlug: string): DeviceKind => {
+  if (categorySlug === 'apple-watch') return 'zegarek';
+  if (brandSlug === 'apple-ipad' || categorySlug === 'ipad') return 'tablet';
+  return 'telefon';
+};
+
+let modelHitCache: ModelHit[] | null = null;
+
+/** Wszystkie modele, które da się wybrać w konfiguratorze. iPad jest raz, z serii apple-ipad. */
+export function listModelHits(): ModelHit[] {
+  if (modelHitCache) return modelHitCache;
+  const hits: ModelHit[] = [];
+
+  const pushCategory = (brand: any, category: any) => {
+    const brandSlug = trimSlashes(brand.slug);
+    const categorySlug = trimSlashes(category.slug);
+    if (brandSlug === 'apple' && categorySlug === 'ipad') return;
+    const kind = modelKind(brandSlug, categorySlug);
+    for (const model of getModels(category)) {
+      const modelSlug = trimSlashes(model.slug);
+      hits.push({
+        name: model.name,
+        image: model.image,
+        brandName: brand.name,
+        categoryName: category.name,
+        kind,
+        brand,
+        category,
+        model,
+        selection: { brandSlug, categorySlug, modelSlug },
+      });
+    }
+  };
+
+  for (const brand of brands) {
+    for (const category of brand.categories ?? []) pushCategory(brand, category);
+  }
+  if (ipadLineBrand) {
+    for (const category of ipadLineBrand.categories ?? []) pushCategory(ipadLineBrand, category);
+  }
+
+  modelHitCache = hits;
+  return hits;
+}
+
+const compactName = (value: string): string => value.toLowerCase().replace(/[^a-z0-9]+/g, '');
+
+/** Wyszukiwanie modelu po fragmencie nazwy, np. „iphone 14” albo „watch ultra”. */
+export function searchModels(query: string): ModelHit[] {
+  const needle = compactName(query);
+  if (needle.length < 2) return [];
+  return listModelHits()
+    .map((hit) => ({ hit, index: compactName(hit.name).indexOf(needle) }))
+    .filter((item) => item.index >= 0)
+    .sort(
+      (left, right) =>
+        left.index - right.index ||
+        left.hit.name.length - right.hit.name.length ||
+        left.hit.name.localeCompare(right.hit.name, 'pl'),
+    )
+    .slice(0, 8)
+    .map((item) => item.hit);
+}
 
 /** Znajduje markę, serię i model po slugach z URL oferty. */
 export const findModelSelection = (

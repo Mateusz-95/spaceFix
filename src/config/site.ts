@@ -1,6 +1,6 @@
 import { withBase } from '../utils/withBase';
 import { repairTypes, getServiceHref } from '../components/Configurator/configurator-data';
-import { KONFIGURATOR_PATH } from '../components/Configurator/konfigurator-url';
+import { KONFIGURATOR_PATH, getFindModelHref } from '../components/Configurator/konfigurator-url';
 
 /** Nazwa zgodna z wizytówką Google (Mapy). */
 export const businessName = 'SpaceFix - Serwis Apple, Samsung, Xiaomi, Huawei';
@@ -53,6 +53,8 @@ export interface NavLink {
   label: string;
   href: string;
   children?: NavLink[];
+  /** Pole wyszukiwania modelu w rozwinięciu, np. przy Cenniku. */
+  search?: boolean;
 }
 
 /** Linki do samodzielnych podstron usług (SEO) — używane w menu i na stronie. */
@@ -64,7 +66,15 @@ export const serviceNavLinks: NavLink[] = repairTypes.map((repair) => ({
 export const homeNavLinks: NavLink[] = [
   { label: 'Strona Główna', href: withBase('/#hero') },
   { label: 'Usługi', href: withBase('/#naprawy'), children: serviceNavLinks },
-  { label: 'Cennik', href: KONFIGURATOR_PATH },
+  {
+    label: 'Cennik',
+    href: KONFIGURATOR_PATH,
+    search: true,
+    children: [
+      { label: 'Sprawdź cenę naprawy', href: KONFIGURATOR_PATH },
+      { label: 'Znajdź swój model', href: getFindModelHref() },
+    ],
+  },
   { label: 'Kontakt', href: withBase('/#kontakt') },
 ];
 

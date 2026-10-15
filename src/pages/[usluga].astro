@@ -14,6 +14,7 @@ import WymianaSzybkiAparatu from '../components/ServicePages/WymianaSzybkiAparat
 import NaprawaUrzadzeniaPoZalaniu from '../components/ServicePages/NaprawaUrzadzeniaPoZalaniu.astro';
 import ContactSection from '../components/ContactSection/ContactSection.astro';
 import ServiceFaq from '../components/ServicePages/ServiceFaq.astro';
+import FindModelSection from '../components/FindModel/FindModelSection';
 
 export function getStaticPaths() {
   return repairTypes.map((repair) => ({
@@ -42,6 +43,7 @@ const contentComponents: Record<string, any> = {
 };
 
 const Content = contentComponents[repair.slug];
+const repairInPriceList = repair.inPriceList !== false;
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site).href;
 const homeURL = new URL(withBase('/'), Astro.site).href;
@@ -106,6 +108,16 @@ const breadcrumbSchema = {
     </div>
   </section>
 
+  <FindModelSection
+    client:load
+    compact
+    repairId={repairInPriceList ? repair.id : undefined}
+    subtitle={
+      repairInPriceList
+        ? `Wpisz model, a od razu zobaczysz cenę: ${repair.title.toLowerCase()}. Możesz też wybrać telefon, tablet albo zegarek.`
+        : 'Wpisz telefon, tablet albo zegarek. Potem wybierzesz naprawę.'
+    }
+  />
   <Content />
   <ServiceFaq repair={repair} />
   <ContactSection />

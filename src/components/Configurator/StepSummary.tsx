@@ -1,5 +1,5 @@
-import React from 'react';
-import { FiArrowLeft, FiCheckCircle, FiClock, FiMail, FiPhone } from 'react-icons/fi';
+import React, { useState } from 'react';
+import { FiArrowLeft, FiArrowUp, FiCheckCircle, FiClock, FiMail, FiPhone } from 'react-icons/fi';
 import { RiMailSendLine } from 'react-icons/ri';
 import { contact } from '../../config/site';
 import { serviceWarranty } from './configurator-data';
@@ -30,6 +30,9 @@ const InfoCard: React.FC<{
 );
 
 const StepSummary: React.FC<Props> = ({ model, repair, onChangeRepair, onDownloadForm, onBack }) => {
+  const [hasPriceTable] = useState(
+    () => typeof document !== 'undefined' && Boolean(document.getElementById('cennik-modelu')),
+  );
   const repairObj: Repair | undefined = repair.repairKey
     ? model.repairs?.find((r) => r.key === repair.repairKey)
     : undefined;
@@ -110,6 +113,21 @@ const StepSummary: React.FC<Props> = ({ model, repair, onChangeRepair, onDownloa
                   <FiMail className="h-5 w-5 shrink-0" aria-hidden="true" />
                   Napisz do nas
                 </a>
+                {hasPriceTable && (
+                  <button
+                    type="button"
+                    onClick={() => {
+                      document.getElementById('cennik-modelu')?.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start',
+                      });
+                    }}
+                    className="inline-flex items-center justify-center gap-2 rounded-[14px] border border-[#EBEBEB] bg-white px-8 py-4 text-base font-bold text-[#1c1d11] transition hover:bg-slate-50 focus:outline-none focus:ring-2 focus:ring-slate-400 focus:ring-offset-2"
+                  >
+                    <FiArrowUp className="h-5 w-5 shrink-0" aria-hidden="true" />
+                    Zobacz pełny cennik
+                  </button>
+                )}
               </div>
             </div>
           </div>

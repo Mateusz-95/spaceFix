@@ -1,6 +1,7 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import WelcomeSection from '../components/WelcomeSection/WelcomeSection';
+import FindModelSection from '../components/FindModel/FindModelSection';
 import PopularRepairs from '../components/PopularRepairs/PopularRepairs.astro';
 import WhyUsSection from '../components/WhyUsSection/WhyUsSection.astro';
 import HowItWorksSection from '../components/HowItWorksSection/HowItWorksSection.astro';
@@ -16,6 +17,7 @@ import AboutText from '../components/AboutText/AboutText';
   description="Naprawa telefonów w Warszawie, dzielnica Ursus. Wymiana szybki, baterii i wyświetlacza od ręki, gwarancja 6 miesięcy. ul. Malinowa 16/U1, tel. 730 889 759."
 >
   <WelcomeSection />
+  <FindModelSection client:load />
   <PopularRepairs />
   <HowItWorksSection />
   <WhyUsSection />

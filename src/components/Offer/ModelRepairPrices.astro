@@ -3,6 +3,7 @@ interface RepairPrice {
   name: string;
   price: string;
   duration: string;
+  repairId?: string;
 }
 
 interface Props {
@@ -13,7 +14,11 @@ interface Props {
 const { modelName, repairs } = Astro.props;
 ---
 
-<section class="bg-[#fbfcfe] pb-2 pt-10 sm:pt-12" aria-labelledby="model-prices-heading">
+<section
+  id="cennik-modelu"
+  class="scroll-mt-[var(--header-height)] bg-[#fbfcfe] pb-2 pt-10 sm:pt-12"
+  aria-labelledby="model-prices-heading"
+>
   <div class="section-container">
     <h2 id="model-prices-heading" class="text-2xl font-bold text-[#010101] sm:text-3xl">
       Cennik napraw {modelName} – Warszawa Ursus
@@ -21,10 +26,17 @@ const { modelName, repairs } = Astro.props;
     <p class="mt-3 max-w-3xl text-base leading-relaxed text-[#64748b] sm:text-lg">
       Ceny w serwisie SpaceFix przy ul. Malinowa 16/U1. Gwarancja 6 miesięcy. Wiele napraw robimy od ręki.
     </p>
+    {
+      repairs.some((repair) => repair.repairId) && (
+        <p class="mt-2 text-sm font-medium text-[#334155] sm:text-base">
+          Kliknij nazwę usługi, żeby zobaczyć szczegóły tej naprawy.
+        </p>
+      )
+    }
 
     {
       repairs.length > 0 && (
-        <div class="mt-6 overflow-x-auto rounded-2xl border border-[#e2e8f0] bg-white">
+        <div class="mt-6 overflow-x-auto rounded-2xl border border-[#e2e8f0] bg-white" data-model-prices>
           <table class="w-full min-w-[32rem] text-left text-sm sm:text-base">
             <thead class="border-b border-[#e2e8f0] text-[#64748b]">
               <tr>
@@ -36,7 +48,19 @@ const { modelName, repairs } = Astro.props;
             <tbody>
               {repairs.map((repair) => (
                 <tr class="border-b border-[#e2e8f0] last:border-0">
-                  <td class="px-4 py-3 font-medium text-[#010101] sm:px-5">{repair.name}</td>
+                  <td class="px-4 py-3 font-medium text-[#010101] sm:px-5">
+                    {repair.repairId ? (
+                      <a
+                        href={`?naprawa=${repair.repairId}#konfigurator`}
+                        data-repair-id={repair.repairId}
+                        class="underline decoration-[#64748b] decoration-1 underline-offset-[5px] transition-colors hover:decoration-[#010101] focus-visible:rounded-sm focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#010101]"
+                      >
+                        {repair.name}
+                      </a>
+                    ) : (
+                      repair.name
+                    )}
+                  </td>
                   <td class="px-4 py-3 text-[#010101] sm:px-5">{repair.price}</td>
                   <td class="px-4 py-3 text-[#64748b] sm:px-5">{repair.duration}</td>
                 </tr>
@@ -48,3 +72,23 @@ const { modelName, repairs } = Astro.props;
     }
   </div>
 </section>
+
+<script>
+  const table = document.querySelector('[data-model-prices]');
+  table?.addEventListener('click', (event) => {
+    const target = event.target;
+    if (!(target instanceof Element)) return;
+    const link = target.closest('a[data-repair-id]');
+    if (!link) return;
+    const root = document.getElementById('konfigurator');
+    if (!root?.hasAttribute('data-ready')) return;
+
+    event.preventDefault();
+    window.dispatchEvent(
+      new CustomEvent('configurator:select-repair', {
+        detail: { repairId: link.getAttribute('data-repair-id') },
+      }),
+    );
+    root.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  });
+</script>
