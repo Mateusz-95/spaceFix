@@ -1,0 +1,17 @@
+---
+description: Zmiany strony idą na nową gałąź, a na main i prod dopiero po akceptacji
+alwaysApply: true
+---
+
+# Gałąź, PR, main, prod
+
+Każdą zmianę w tym repo rób na nowej gałęzi od aktualnego `main`. Nie commituj jej wprost na `main` ani na `prod`.
+
+Nazwa gałęzi: `cursor/krotki-opis-6c21`.
+
+Po akceptacji Mateusza, i tylko wtedy:
+
+1. Wypchnij gałąź i otwórz pull request do `main`.
+2. Po zmergowaniu PR zmerguj `main` do `prod` (`git push origin main:prod`), bo wdrożenie na spacefix.pl startuje z pusha na `prod`.
+
+Bez wyraźnej akceptacji zostaw pracę na gałęzi. Nie force-pushuj i nie omijaj hooków.
