@@ -12,9 +12,12 @@ export const ModelEditCard: React.FC<Props> = ({ model, isModified, onUpdateRepa
   const [isExpanded, setIsExpanded] = useState<boolean>(false);
 
   const phoneCount = model.repairs?.length || 0;
-  const quoteCount = (model.repairs || []).filter(
-    (r) => r.price?.toLowerCase().includes('wycena') || r.price?.trim() === '-' || r.price?.trim() === '- zł',
-  ).length;
+  const quoteCount = (model.repairs || []).filter((r) => {
+    const price = r.price?.toLowerCase() ?? '';
+    return (
+      price.includes('wycena') || price.includes('ustalenia') || r.price?.trim() === '-' || r.price?.trim() === '- zł'
+    );
+  }).length;
 
   return (
     <div

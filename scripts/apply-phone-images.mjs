@@ -32,6 +32,8 @@ const MODEL_FILES = [
 const IMAGE_OVERRIDES = {
   iphone11promax: 'https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-11-pro-max-.jpg',
   iphone11pro: 'https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-11-pro.jpg',
+  watchseries12: 'https://fdn2.gsmarena.com/vv/bigpic/apple-watch12.jpg',
+  watchseries1: 'https://fdn2.gsmarena.com/vv/bigpic/apple-watch1.jpg',
   watchseries11: 'https://fdn2.gsmarena.com/vv/bigpic/apple-watch11.jpg',
   watchsegen3: 'https://fdn2.gsmarena.com/vv/bigpic/apple-watch-se3.jpg',
   watchultra3: 'https://fdn2.gsmarena.com/vv/bigpic/apple-watch-ultra3.jpg',
@@ -73,6 +75,12 @@ const NAME_ALIASES = {
   'iPad Mini 3': 'iPad mini 3',
   'iPad Mini 2': 'iPad mini 2',
   'iPad Mini': 'iPad mini Wi-Fi',
+  'iPad Air 13" (2026)': 'iPad Air 13 (2026)',
+  'iPad Air 11" (2026)': 'iPad Air 11 (2026)',
+  'iPad Air 13" (2024)': 'iPad Air 13 (2024)',
+  'iPad Mini 8': 'iPad mini (2026)',
+  'iPad 3gen': 'iPad 3 Wi-Fi',
+  'iPad 2gen': 'iPad 2 Wi-Fi',
   'iPad Air M3 13”': 'iPad Air 13 (2025)',
   'iPad Air M3 11”': 'iPad Air 11 (2025)',
   'iPad Air 6gen.': 'iPad Air 11 (2024)',
@@ -180,7 +188,7 @@ function loadExistingMap() {
 
 /** Wyciąga pary { name, slug } z pliku TS modeli (kolejne pola name/slug). */
 function extractModels(fileText) {
-  const regex = /name:\s*'([^']*)'\s*,\s*slug:\s*'([^']*)'/g;
+  const regex = /name:\s*['"]([^'"]*)['"]\s*,\s*slug:\s*['"]([^'"]*)['"]/g;
   const models = [];
   let match;
   while ((match = regex.exec(fileText)) !== null) {

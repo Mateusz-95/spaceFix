@@ -61,18 +61,33 @@ export function generateGoogleFile(models: ModelData[]): string {
   return `const googleModels = ${formatArray(models)};\n\nexport default googleModels;\n`;
 }
 
+function pickCategory(categoriesMap: Record<string, ModelData[]>, ...keys: string[]): ModelData[] {
+  for (const key of keys) {
+    if (Array.isArray(categoriesMap[key])) return categoriesMap[key];
+  }
+  return [];
+}
+
 export function generateSamsungFile(categoriesMap: Record<string, ModelData[]>): string {
-  const s = categoriesMap['galaxy-s/'] || categoriesMap['galaxy-s'] || [];
-  const a = categoriesMap['galaxy-a/'] || categoriesMap['galaxy-a'] || [];
-  const m = categoriesMap['galaxy-m/'] || categoriesMap['galaxy-m'] || [];
-  const j = categoriesMap['galaxy-j/'] || categoriesMap['galaxy-j'] || [];
-  const note = categoriesMap['galaxy-note/'] || categoriesMap['galaxy-note'] || [];
+  const s = pickCategory(categoriesMap, 'galaxy-s/', 'galaxy-s');
+  const a = pickCategory(categoriesMap, 'galaxy-a/', 'galaxy-a');
+  const m = pickCategory(categoriesMap, 'galaxy-m/', 'galaxy-m');
+  const j = pickCategory(categoriesMap, 'galaxy-j/', 'galaxy-j');
+  const note = pickCategory(categoriesMap, 'galaxy-note/', 'galaxy-note');
+  const tab = pickCategory(categoriesMap, 'galaxy-tab/', 'galaxy-tab');
+  const watch = pickCategory(categoriesMap, 'galaxy-watch/', 'galaxy-watch');
+  const z = pickCategory(categoriesMap, 'galaxy-z/', 'galaxy-z');
+  const xcover = pickCategory(categoriesMap, 'galaxy-xcover/', 'galaxy-xcover');
 
   return `export const galaxyS = ${formatArray(s)};\n\nexport const galaxyA = ${formatArray(
     a,
   )};\n\nexport const galaxyM = ${formatArray(m)};\n\nexport const galaxyJ = ${formatArray(
     j,
-  )};\n\nexport const galaxyNote = ${formatArray(note)};\n`;
+  )};\n\nexport const galaxyNote = ${formatArray(note)};\n\nexport const galaxyTab = ${formatArray(
+    tab,
+  )};\n\nexport const galaxyWatch = ${formatArray(watch)};\n\nexport const galaxyZ = ${formatArray(
+    z,
+  )};\n\nexport const galaxyXcover = ${formatArray(xcover)};\n`;
 }
 
 export function generateXiaomiFile(categoriesMap: Record<string, ModelData[]>): string {

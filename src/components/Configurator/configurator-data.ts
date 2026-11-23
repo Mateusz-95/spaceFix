@@ -228,20 +228,21 @@ export const paczkomat = 'Paczkomat WAW312M Tadeusza Kościuszki 44, Warszawa';
 /** Plik formularza do pobrania (placeholder - docelowy PDF podstawimy później). */
 export const FORM_URL = '/forms/formularz-wysylki.pdf';
 
+const PHONE_EXCLUDED_CATEGORY_SLUGS = new Set(['ipad', 'apple-watch', 'galaxy-tab', 'galaxy-watch']);
+const WATCH_CATEGORY_SLUGS = new Set(['apple-watch', 'galaxy-watch']);
+const TABLET_CATEGORY_SLUGS = new Set(['ipad', 'galaxy-tab', '10.2', 'mini', 'air', 'pro']);
+
 const categoryMatchesKind = (category: any, kind?: DeviceKind | null): boolean => {
   if (!kind) return true;
   const slug = String(category?.slug ?? '').replace(/^\/+|\/+$/g, '');
-  if (kind === 'telefon') return slug !== 'ipad' && slug !== 'apple-watch';
-  if (kind === 'zegarek') return slug === 'apple-watch';
+  if (kind === 'telefon') return !PHONE_EXCLUDED_CATEGORY_SLUGS.has(slug);
+  if (kind === 'zegarek') return WATCH_CATEGORY_SLUGS.has(slug);
+  if (kind === 'tablet') return TABLET_CATEGORY_SLUGS.has(slug);
   return true;
 };
 
 /** Serie (kategorie) marki dostępne w konfiguratorze - z modelami i nie kierujące na osobne strony. */
-export const getSelectableCategories = (
-  brand: any,
-  repair?: RepairType | null,
-  kind?: DeviceKind | null,
-): any[] =>
+export const getSelectableCategories = (brand: any, repair?: RepairType | null, kind?: DeviceKind | null): any[] =>
   (brand?.categories ?? []).filter(
     (category: any) =>
       category?.ignore !== 'pages' &&
@@ -251,8 +252,16 @@ export const getSelectableCategories = (
   );
 
 /** Marki, które mają choć jedną serię pasującą do wybranej naprawy. */
-export const getSelectableBrands = (repair?: RepairType | null, kind?: DeviceKind | null): any[] =>
-  brands.filter((brand: any) => getSelectableCategories(brand, repair, kind).length > 0);
+export const getSelectableBrands = (repair?: RepairType | null, kind?: DeviceKind | null): any[] => {
+  const fromBrands = brands.filter((brand: any) => getSelectableCategories(brand, repair, kind).length > 0);
+  if (kind === 'tablet' && ipadLineBrand && getSelectableCategories(ipadLineBrand, repair, kind).length > 0) {
+    return [
+      ipadLineBrand,
+      ...fromBrands.filter((brand: any) => String(brand.slug ?? '').replace(/^\/+|\/+$/g, '') !== 'apple'),
+    ];
+  }
+  return fromBrands;
+};
 
 /** Modele danej serii (z dołączonym zdjęciem frontu, jeśli dostępne). */
 export const getModels = (category: any): any[] =>
@@ -276,8 +285,8 @@ export interface ModelHit {
 }
 
 const modelKind = (brandSlug: string, categorySlug: string): DeviceKind => {
-  if (categorySlug === 'apple-watch') return 'zegarek';
-  if (brandSlug === 'apple-ipad' || categorySlug === 'ipad') return 'tablet';
+  if (categorySlug === 'apple-watch' || categorySlug === 'galaxy-watch') return 'zegarek';
+  if (brandSlug === 'apple-ipad' || categorySlug === 'ipad' || categorySlug === 'galaxy-tab') return 'tablet';
   return 'telefon';
 };
 
