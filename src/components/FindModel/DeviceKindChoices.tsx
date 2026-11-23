@@ -12,13 +12,13 @@ const choices: { id: DeviceKind; label: string; text: string; icon: React.ReactN
   {
     id: 'tablet',
     label: 'Tablet',
-    text: 'iPad',
+    text: 'iPad, Galaxy Tab',
     icon: <MdTabletMac className="h-7 w-7" aria-hidden="true" />,
   },
   {
     id: 'zegarek',
     label: 'Zegarek',
-    text: 'Apple Watch',
+    text: 'Apple Watch, Galaxy Watch',
     icon: <MdWatch className="h-7 w-7" aria-hidden="true" />,
   },
 ];

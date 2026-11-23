@@ -78,7 +78,7 @@ export const ExportModal: React.FC<Props> = ({ isOpen, onClose, models }) => {
     },
     {
       id: 'samsung',
-      title: 'Samsung Galaxy (S, A, M, J, Note)',
+      title: 'Samsung Galaxy (S, A, Z, Tab, Watch, M, Note, XCover, J)',
       path: 'src/data/samsung/models.ts',
       filename: 'samsung-models.ts',
       modelCount: Object.values(samsungMap).reduce((acc, arr) => acc + arr.length, 0),

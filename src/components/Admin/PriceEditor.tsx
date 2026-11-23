@@ -106,12 +106,17 @@ export const PriceEditor: React.FC = () => {
       try {
         const parsed = JSON.parse(saved);
         if (Array.isArray(parsed) && parsed.length > 0) {
-          const merged = parsed.map((draft: ModelData) =>
-            mergeMissingRepairs(
-              draft,
-              initialModels.find((origM) => origM.slug === draft.slug),
-            ),
-          );
+          const draftBySlug = new Map<string, ModelData>(parsed.map((draft: ModelData) => [draft.slug, draft]));
+          const merged = initialModels.map((source) => {
+            const draft = draftBySlug.get(source.slug);
+            if (!draft) {
+              return {
+                ...source,
+                repairs: source.repairs.map((repair) => ({ ...repair })),
+              };
+            }
+            return mergeMissingRepairs(draft, source);
+          });
           setModels(merged);
           // Calculate modified
           const diffs = new Set<string>();
@@ -290,9 +295,15 @@ export const PriceEditor: React.FC = () => {
       // Filter type
       if (filterType === 'modified' && !modifiedSlugs.has(m.slug)) return false;
       if (filterType === 'quotes') {
-        const hasQuote = m.repairs.some(
-          (r) => r.price?.toLowerCase().includes('wycena') || r.price?.trim() === '-' || r.price?.trim() === '- zł',
-        );
+        const hasQuote = m.repairs.some((r) => {
+          const price = r.price?.toLowerCase() ?? '';
+          return (
+            price.includes('wycena') ||
+            price.includes('ustalenia') ||
+            r.price?.trim() === '-' ||
+            r.price?.trim() === '- zł'
+          );
+        });
         if (!hasQuote) return false;
       }
 
@@ -423,7 +434,7 @@ export const PriceEditor: React.FC = () => {
                   className="w-full rounded-xl border border-slate-300 bg-white px-3.5 py-2.5 text-sm font-medium text-slate-900 focus:border-[#1c1d11] focus:ring-1 focus:ring-[#1c1d11]"
                 >
                   <option value="all">Wszystkie modele</option>
-                  <option value="quotes">Do wyceny (Wycena telefoniczna)</option>
+                  <option value="quotes">Do wyceny (Wycena telefoniczna / Do ustalenia)</option>
                   <option value="modified">Tylko zmodyfikowane ({modifiedSlugs.size})</option>
                 </select>
               </div>

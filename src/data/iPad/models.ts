@@ -528,10 +528,234 @@ export const ipadStandard = [
         duration: "1-2 godziny",
       }
     ],
+  },
+  {
+    name: "iPad 3gen",
+    slug: "ipad-3gen/",
+    repairs: [
+      {
+        key: "front-glass",
+        title: "iPad 3gen wymiana szybki",
+        shortTitle: "Przednia szybka",
+        price: "Do ustalenia",
+        description: "Wymieniamy szybkę na oryginalny panel dotykowy. Usługa jest możliwa, gdy matryca jest w pełni sprawna i wyświetla obraz bez plam czy linii.",
+        duration: "3-4 godziny",
+      },
+      {
+        key: "display",
+        title: "iPad 3gen wymiana wyświetlacza",
+        shortTitle: "Wyświetlacz",
+        price: "Do ustalenia",
+        description: "Wymiana całego modułu wyświetlacza. Usługa jest wymagana, gdy na ekranie pojawiły się plamy, linie, przebarwienia lub matryca nie wyświetla obrazu.",
+        duration: "3-4 godziny",
+      },
+      {
+        key: "battery",
+        title: "iPad 3gen wymiana baterii",
+        shortTitle: "Bateria",
+        price: "Do ustalenia",
+        description: "Montaż fabrycznie nowej, oryginalnej baterii wraz z prawidłową kalibracją w systemie urządzenia.",
+        duration: "1-2 godziny",
+      },
+      {
+        key: "charging-port",
+        title: "iPad 3gen naprawa złącza ładowania",
+        shortTitle: "Złącze ładowania",
+        price: "Do ustalenia",
+        description: [
+          "Regeneracja / czyszczenie złącza ładowania — usuwanie zabrudzeń i naprawa styków (gdy wymiana nie jest konieczna).",
+          "Wymiana oryginalnej płytki ładowania — montaż fabrycznie nowej części.",
+        ],
+        duration: "3-4 godziny",
+      },
+      {
+        key: "motherboard",
+        title: "iPad 3gen naprawa płyty głównej",
+        shortTitle: "Płyta główna",
+        price: "Do ustalenia",
+        description: [
+          "Wykonujemy zaawansowane naprawy płyty głównej (mikrolutowanie BGA). Ostateczny koszt naprawy ustalamy po bezpłatnej diagnozie.",
+          "Zakres naszych napraw obejmuje m.in.:",
+          "Odzyskiwanie danych z zalanych, mocno uszkodzonych lub niewłączających się urządzeń",
+          "SWAP płyty głównej (przeniesienie kompletu układów BGA)",
+          "Naprawa modułów Wi-Fi / Bluetooth / braku zasięgu (GSM)",
+          "Usuwanie zwarć i naprawa układów zasilania (urządzenie nie włącza się / nie ładuje)",
+          "Naprawa urządzeń po zalaniu oraz po nieudanych naprawach w innych serwisach",
+          "Diagnoza jest BEZPŁATNA w przypadku wykonania naprawy. W przypadku rezygnacji z naprawy po wykonaniu diagnozy zaawansowanej, koszt wynosi 100 zł.",
+        ],
+        duration: "3-4 godziny",
+      },
+      {
+        key: "camera",
+        title: "iPad 3gen wymiana aparatu",
+        shortTitle: "Aparat",
+        price: "Do ustalenia",
+        description: "Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.",
+        duration: "1-2 godziny",
+      },
+      {
+        key: "camera-glass",
+        title: "iPad 3gen wymiana szybki aparatu",
+        shortTitle: "Szybka aparatu",
+        price: "Do ustalenia",
+        description: "Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd urządzenia.",
+        duration: "1-2 godziny",
+      }
+    ],
+  },
+  {
+    name: "iPad 2gen",
+    slug: "ipad-2gen/",
+    repairs: [
+      {
+        key: "front-glass",
+        title: "iPad 2gen wymiana szybki",
+        shortTitle: "Przednia szybka",
+        price: "Do ustalenia",
+        description: "Wymieniamy szybkę na oryginalny panel dotykowy. Usługa jest możliwa, gdy matryca jest w pełni sprawna i wyświetla obraz bez plam czy linii.",
+        duration: "3-4 godziny",
+      },
+      {
+        key: "display",
+        title: "iPad 2gen wymiana wyświetlacza",
+        shortTitle: "Wyświetlacz",
+        price: "Do ustalenia",
+        description: "Wymiana całego modułu wyświetlacza. Usługa jest wymagana, gdy na ekranie pojawiły się plamy, linie, przebarwienia lub matryca nie wyświetla obrazu.",
+        duration: "3-4 godziny",
+      },
+      {
+        key: "battery",
+        title: "iPad 2gen wymiana baterii",
+        shortTitle: "Bateria",
+        price: "Do ustalenia",
+        description: "Montaż fabrycznie nowej, oryginalnej baterii wraz z prawidłową kalibracją w systemie urządzenia.",
+        duration: "1-2 godziny",
+      },
+      {
+        key: "charging-port",
+        title: "iPad 2gen naprawa złącza ładowania",
+        shortTitle: "Złącze ładowania",
+        price: "Do ustalenia",
+        description: [
+          "Regeneracja / czyszczenie złącza ładowania — usuwanie zabrudzeń i naprawa styków (gdy wymiana nie jest konieczna).",
+          "Wymiana oryginalnej płytki ładowania — montaż fabrycznie nowej części.",
+        ],
+        duration: "3-4 godziny",
+      },
+      {
+        key: "motherboard",
+        title: "iPad 2gen naprawa płyty głównej",
+        shortTitle: "Płyta główna",
+        price: "Do ustalenia",
+        description: [
+          "Wykonujemy zaawansowane naprawy płyty głównej (mikrolutowanie BGA). Ostateczny koszt naprawy ustalamy po bezpłatnej diagnozie.",
+          "Zakres naszych napraw obejmuje m.in.:",
+          "Odzyskiwanie danych z zalanych, mocno uszkodzonych lub niewłączających się urządzeń",
+          "SWAP płyty głównej (przeniesienie kompletu układów BGA)",
+          "Naprawa modułów Wi-Fi / Bluetooth / braku zasięgu (GSM)",
+          "Usuwanie zwarć i naprawa układów zasilania (urządzenie nie włącza się / nie ładuje)",
+          "Naprawa urządzeń po zalaniu oraz po nieudanych naprawach w innych serwisach",
+          "Diagnoza jest BEZPŁATNA w przypadku wykonania naprawy. W przypadku rezygnacji z naprawy po wykonaniu diagnozy zaawansowanej, koszt wynosi 100 zł.",
+        ],
+        duration: "3-4 godziny",
+      },
+      {
+        key: "camera",
+        title: "iPad 2gen wymiana aparatu",
+        shortTitle: "Aparat",
+        price: "Do ustalenia",
+        description: "Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.",
+        duration: "1-2 godziny",
+      },
+      {
+        key: "camera-glass",
+        title: "iPad 2gen wymiana szybki aparatu",
+        shortTitle: "Szybka aparatu",
+        price: "Do ustalenia",
+        description: "Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd urządzenia.",
+        duration: "1-2 godziny",
+      }
+    ],
   }
+
 ];
 
 export const ipadMini = [
+  {
+    name: "iPad Mini 8",
+    slug: "ipad-mini-8/",
+    repairs: [
+      {
+        key: "front-glass",
+        title: "iPad Mini 8 wymiana szybki",
+        shortTitle: "Przednia szybka",
+        price: "Do ustalenia",
+        description: "Wymieniamy szybkę na oryginalny panel dotykowy. Usługa jest możliwa, gdy matryca jest w pełni sprawna i wyświetla obraz bez plam czy linii.",
+        duration: "3-4 godziny",
+      },
+      {
+        key: "display",
+        title: "iPad Mini 8 wymiana wyświetlacza",
+        shortTitle: "Wyświetlacz",
+        price: "Do ustalenia",
+        description: "Wymiana całego modułu wyświetlacza. Usługa jest wymagana, gdy na ekranie pojawiły się plamy, linie, przebarwienia lub matryca nie wyświetla obrazu.",
+        duration: "3-4 godziny",
+      },
+      {
+        key: "battery",
+        title: "iPad Mini 8 wymiana baterii",
+        shortTitle: "Bateria",
+        price: "Do ustalenia",
+        description: "Montaż fabrycznie nowej, oryginalnej baterii wraz z prawidłową kalibracją w systemie urządzenia.",
+        duration: "1-2 godziny",
+      },
+      {
+        key: "charging-port",
+        title: "iPad Mini 8 naprawa złącza ładowania",
+        shortTitle: "Złącze ładowania",
+        price: "Do ustalenia",
+        description: [
+          "Regeneracja / czyszczenie złącza ładowania — usuwanie zabrudzeń i naprawa styków (gdy wymiana nie jest konieczna).",
+          "Wymiana oryginalnej płytki ładowania — montaż fabrycznie nowej części.",
+        ],
+        duration: "3-4 godziny",
+      },
+      {
+        key: "motherboard",
+        title: "iPad Mini 8 naprawa płyty głównej",
+        shortTitle: "Płyta główna",
+        price: "Do ustalenia",
+        description: [
+          "Wykonujemy zaawansowane naprawy płyty głównej (mikrolutowanie BGA). Ostateczny koszt naprawy ustalamy po bezpłatnej diagnozie.",
+          "Zakres naszych napraw obejmuje m.in.:",
+          "Odzyskiwanie danych z zalanych, mocno uszkodzonych lub niewłączających się urządzeń",
+          "SWAP płyty głównej (przeniesienie kompletu układów BGA)",
+          "Naprawa modułów Wi-Fi / Bluetooth / braku zasięgu (GSM)",
+          "Usuwanie zwarć i naprawa układów zasilania (urządzenie nie włącza się / nie ładuje)",
+          "Naprawa urządzeń po zalaniu oraz po nieudanych naprawach w innych serwisach",
+          "Diagnoza jest BEZPŁATNA w przypadku wykonania naprawy. W przypadku rezygnacji z naprawy po wykonaniu diagnozy zaawansowanej, koszt wynosi 100 zł.",
+        ],
+        duration: "3-4 godziny",
+      },
+      {
+        key: "camera",
+        title: "iPad Mini 8 wymiana aparatu",
+        shortTitle: "Aparat",
+        price: "Do ustalenia",
+        description: "Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.",
+        duration: "1-2 godziny",
+      },
+      {
+        key: "camera-glass",
+        title: "iPad Mini 8 wymiana szybki aparatu",
+        shortTitle: "Szybka aparatu",
+        price: "Do ustalenia",
+        description: "Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd urządzenia.",
+        duration: "1-2 godziny",
+      }
+    ],
+  },
+
   {
     name: "iPad Mini 7",
     slug: "ipad-mini-7/",
@@ -954,6 +1178,229 @@ export const ipadMini = [
 ];
 
 export const ipadAir = [
+  {
+    name: "iPad Air 13” (2026)",
+    slug: "ipad-air-13-2026/",
+    repairs: [
+      {
+        key: "front-glass",
+        title: "iPad Air 13” (2026) wymiana szybki",
+        shortTitle: "Przednia szybka",
+        price: "Do ustalenia",
+        description: "Wymieniamy szybkę na oryginalny panel dotykowy. Usługa jest możliwa, gdy matryca jest w pełni sprawna i wyświetla obraz bez plam czy linii.",
+        duration: "3-4 godziny",
+      },
+      {
+        key: "display",
+        title: "iPad Air 13” (2026) wymiana wyświetlacza",
+        shortTitle: "Wyświetlacz",
+        price: "Do ustalenia",
+        description: "Wymiana całego modułu wyświetlacza. Usługa jest wymagana, gdy na ekranie pojawiły się plamy, linie, przebarwienia lub matryca nie wyświetla obrazu.",
+        duration: "3-4 godziny",
+      },
+      {
+        key: "battery",
+        title: "iPad Air 13” (2026) wymiana baterii",
+        shortTitle: "Bateria",
+        price: "Do ustalenia",
+        description: "Montaż fabrycznie nowej, oryginalnej baterii wraz z prawidłową kalibracją w systemie urządzenia.",
+        duration: "1-2 godziny",
+      },
+      {
+        key: "charging-port",
+        title: "iPad Air 13” (2026) naprawa złącza ładowania",
+        shortTitle: "Złącze ładowania",
+        price: "Do ustalenia",
+        description: [
+          "Regeneracja / czyszczenie złącza ładowania — usuwanie zabrudzeń i naprawa styków (gdy wymiana nie jest konieczna).",
+          "Wymiana oryginalnej płytki ładowania — montaż fabrycznie nowej części.",
+        ],
+        duration: "3-4 godziny",
+      },
+      {
+        key: "motherboard",
+        title: "iPad Air 13” (2026) naprawa płyty głównej",
+        shortTitle: "Płyta główna",
+        price: "Do ustalenia",
+        description: [
+          "Wykonujemy zaawansowane naprawy płyty głównej (mikrolutowanie BGA). Ostateczny koszt naprawy ustalamy po bezpłatnej diagnozie.",
+          "Zakres naszych napraw obejmuje m.in.:",
+          "Odzyskiwanie danych z zalanych, mocno uszkodzonych lub niewłączających się urządzeń",
+          "SWAP płyty głównej (przeniesienie kompletu układów BGA)",
+          "Naprawa modułów Wi-Fi / Bluetooth / braku zasięgu (GSM)",
+          "Usuwanie zwarć i naprawa układów zasilania (urządzenie nie włącza się / nie ładuje)",
+          "Naprawa urządzeń po zalaniu oraz po nieudanych naprawach w innych serwisach",
+          "Diagnoza jest BEZPŁATNA w przypadku wykonania naprawy. W przypadku rezygnacji z naprawy po wykonaniu diagnozy zaawansowanej, koszt wynosi 100 zł.",
+        ],
+        duration: "3-4 godziny",
+      },
+      {
+        key: "camera",
+        title: "iPad Air 13” (2026) wymiana aparatu",
+        shortTitle: "Aparat",
+        price: "Do ustalenia",
+        description: "Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.",
+        duration: "1-2 godziny",
+      },
+      {
+        key: "camera-glass",
+        title: "iPad Air 13” (2026) wymiana szybki aparatu",
+        shortTitle: "Szybka aparatu",
+        price: "Do ustalenia",
+        description: "Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd urządzenia.",
+        duration: "1-2 godziny",
+      }
+    ],
+  },
+  {
+    name: "iPad Air 11” (2026)",
+    slug: "ipad-air-11-2026/",
+    repairs: [
+      {
+        key: "front-glass",
+        title: "iPad Air 11” (2026) wymiana szybki",
+        shortTitle: "Przednia szybka",
+        price: "Do ustalenia",
+        description: "Wymieniamy szybkę na oryginalny panel dotykowy. Usługa jest możliwa, gdy matryca jest w pełni sprawna i wyświetla obraz bez plam czy linii.",
+        duration: "3-4 godziny",
+      },
+      {
+        key: "display",
+        title: "iPad Air 11” (2026) wymiana wyświetlacza",
+        shortTitle: "Wyświetlacz",
+        price: "Do ustalenia",
+        description: "Wymiana całego modułu wyświetlacza. Usługa jest wymagana, gdy na ekranie pojawiły się plamy, linie, przebarwienia lub matryca nie wyświetla obrazu.",
+        duration: "3-4 godziny",
+      },
+      {
+        key: "battery",
+        title: "iPad Air 11” (2026) wymiana baterii",
+        shortTitle: "Bateria",
+        price: "Do ustalenia",
+        description: "Montaż fabrycznie nowej, oryginalnej baterii wraz z prawidłową kalibracją w systemie urządzenia.",
+        duration: "1-2 godziny",
+      },
+      {
+        key: "charging-port",
+        title: "iPad Air 11” (2026) naprawa złącza ładowania",
+        shortTitle: "Złącze ładowania",
+        price: "Do ustalenia",
+        description: [
+          "Regeneracja / czyszczenie złącza ładowania — usuwanie zabrudzeń i naprawa styków (gdy wymiana nie jest konieczna).",
+          "Wymiana oryginalnej płytki ładowania — montaż fabrycznie nowej części.",
+        ],
+        duration: "3-4 godziny",
+      },
+      {
+        key: "motherboard",
+        title: "iPad Air 11” (2026) naprawa płyty głównej",
+        shortTitle: "Płyta główna",
+        price: "Do ustalenia",
+        description: [
+          "Wykonujemy zaawansowane naprawy płyty głównej (mikrolutowanie BGA). Ostateczny koszt naprawy ustalamy po bezpłatnej diagnozie.",
+          "Zakres naszych napraw obejmuje m.in.:",
+          "Odzyskiwanie danych z zalanych, mocno uszkodzonych lub niewłączających się urządzeń",
+          "SWAP płyty głównej (przeniesienie kompletu układów BGA)",
+          "Naprawa modułów Wi-Fi / Bluetooth / braku zasięgu (GSM)",
+          "Usuwanie zwarć i naprawa układów zasilania (urządzenie nie włącza się / nie ładuje)",
+          "Naprawa urządzeń po zalaniu oraz po nieudanych naprawach w innych serwisach",
+          "Diagnoza jest BEZPŁATNA w przypadku wykonania naprawy. W przypadku rezygnacji z naprawy po wykonaniu diagnozy zaawansowanej, koszt wynosi 100 zł.",
+        ],
+        duration: "3-4 godziny",
+      },
+      {
+        key: "camera",
+        title: "iPad Air 11” (2026) wymiana aparatu",
+        shortTitle: "Aparat",
+        price: "Do ustalenia",
+        description: "Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.",
+        duration: "1-2 godziny",
+      },
+      {
+        key: "camera-glass",
+        title: "iPad Air 11” (2026) wymiana szybki aparatu",
+        shortTitle: "Szybka aparatu",
+        price: "Do ustalenia",
+        description: "Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd urządzenia.",
+        duration: "1-2 godziny",
+      }
+    ],
+  },
+  {
+    name: "iPad Air 13” (2024)",
+    slug: "ipad-air-13-2024/",
+    repairs: [
+      {
+        key: "front-glass",
+        title: "iPad Air 13” (2024) wymiana szybki",
+        shortTitle: "Przednia szybka",
+        price: "Do ustalenia",
+        description: "Wymieniamy szybkę na oryginalny panel dotykowy. Usługa jest możliwa, gdy matryca jest w pełni sprawna i wyświetla obraz bez plam czy linii.",
+        duration: "3-4 godziny",
+      },
+      {
+        key: "display",
+        title: "iPad Air 13” (2024) wymiana wyświetlacza",
+        shortTitle: "Wyświetlacz",
+        price: "Do ustalenia",
+        description: "Wymiana całego modułu wyświetlacza. Usługa jest wymagana, gdy na ekranie pojawiły się plamy, linie, przebarwienia lub matryca nie wyświetla obrazu.",
+        duration: "3-4 godziny",
+      },
+      {
+        key: "battery",
+        title: "iPad Air 13” (2024) wymiana baterii",
+        shortTitle: "Bateria",
+        price: "Do ustalenia",
+        description: "Montaż fabrycznie nowej, oryginalnej baterii wraz z prawidłową kalibracją w systemie urządzenia.",
+        duration: "1-2 godziny",
+      },
+      {
+        key: "charging-port",
+        title: "iPad Air 13” (2024) naprawa złącza ładowania",
+        shortTitle: "Złącze ładowania",
+        price: "Do ustalenia",
+        description: [
+          "Regeneracja / czyszczenie złącza ładowania — usuwanie zabrudzeń i naprawa styków (gdy wymiana nie jest konieczna).",
+          "Wymiana oryginalnej płytki ładowania — montaż fabrycznie nowej części.",
+        ],
+        duration: "3-4 godziny",
+      },
+      {
+        key: "motherboard",
+        title: "iPad Air 13” (2024) naprawa płyty głównej",
+        shortTitle: "Płyta główna",
+        price: "Do ustalenia",
+        description: [
+          "Wykonujemy zaawansowane naprawy płyty głównej (mikrolutowanie BGA). Ostateczny koszt naprawy ustalamy po bezpłatnej diagnozie.",
+          "Zakres naszych napraw obejmuje m.in.:",
+          "Odzyskiwanie danych z zalanych, mocno uszkodzonych lub niewłączających się urządzeń",
+          "SWAP płyty głównej (przeniesienie kompletu układów BGA)",
+          "Naprawa modułów Wi-Fi / Bluetooth / braku zasięgu (GSM)",
+          "Usuwanie zwarć i naprawa układów zasilania (urządzenie nie włącza się / nie ładuje)",
+          "Naprawa urządzeń po zalaniu oraz po nieudanych naprawach w innych serwisach",
+          "Diagnoza jest BEZPŁATNA w przypadku wykonania naprawy. W przypadku rezygnacji z naprawy po wykonaniu diagnozy zaawansowanej, koszt wynosi 100 zł.",
+        ],
+        duration: "3-4 godziny",
+      },
+      {
+        key: "camera",
+        title: "iPad Air 13” (2024) wymiana aparatu",
+        shortTitle: "Aparat",
+        price: "Do ustalenia",
+        description: "Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.",
+        duration: "1-2 godziny",
+      },
+      {
+        key: "camera-glass",
+        title: "iPad Air 13” (2024) wymiana szybki aparatu",
+        shortTitle: "Szybka aparatu",
+        price: "Do ustalenia",
+        description: "Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd urządzenia.",
+        duration: "1-2 godziny",
+      }
+    ],
+  },
+
   {
     name: "iPad Air M3 13”",
     slug: "ipad-air-m3-13/",
@@ -1486,12 +1933,12 @@ export const ipadAir = [
 
 export const ipadPro = [
   {
-    name: "iPad Pro M5 13\"",
+    name: "iPad Pro M5 13”",
     slug: "ipad-pro-m5-13/",
     repairs: [
       {
         key: "front-glass",
-        title: "iPad Pro M5 13\" wymiana szybki",
+        title: "iPad Pro M5 13” wymiana szybki",
         shortTitle: "Przednia szybka",
         price: "1999 zł",
         description: "Wymieniamy szybkę na oryginalny panel dotykowy z pełną obsługą Apple Pencil i możliwością rysowania. Usługa jest możliwa, gdy matryca jest w pełni sprawna i wyświetla obraz bez plam czy linii.",
@@ -1499,7 +1946,7 @@ export const ipadPro = [
       },
       {
         key: "display",
-        title: "iPad Pro M5 13\" wymiana wyświetlacza",
+        title: "iPad Pro M5 13” wymiana wyświetlacza",
         shortTitle: "Wyświetlacz",
         price: "3899 zł",
         description: "Wymiana całego modułu wyświetlacza na oryginalny Apple. Usługa jest wymagana, gdy na ekranie pojawiły się plamy, linie, przebarwienia lub matryca nie wyświetla obrazu.",
@@ -1507,7 +1954,7 @@ export const ipadPro = [
       },
       {
         key: "charging-port",
-        title: "iPad Pro M5 13\" naprawa złącza ładowania",
+        title: "iPad Pro M5 13” naprawa złącza ładowania",
         shortTitle: "Złącze ładowania",
         price: "699 zł",
         description: [
@@ -1518,7 +1965,7 @@ export const ipadPro = [
       },
       {
         key: "motherboard",
-        title: "iPad Pro M5 13\" naprawa płyty głównej",
+        title: "iPad Pro M5 13” naprawa płyty głównej",
         shortTitle: "Płyta główna",
         price: "Wycena telefoniczna",
         description: [
@@ -1535,7 +1982,7 @@ export const ipadPro = [
       },
       {
         key: "camera",
-        title: "iPad Pro M5 13\" wymiana aparatu",
+        title: "iPad Pro M5 13” wymiana aparatu",
         shortTitle: "Aparat",
         price: "Wycena telefoniczna",
         description: "Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.",
@@ -1543,7 +1990,7 @@ export const ipadPro = [
       },
       {
         key: "camera-glass",
-        title: "iPad Pro M5 13\" wymiana szybki aparatu",
+        title: "iPad Pro M5 13” wymiana szybki aparatu",
         shortTitle: "Szybka aparatu",
         price: "Wycena telefoniczna",
         description: "Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.",
@@ -1552,12 +1999,12 @@ export const ipadPro = [
     ],
   },
   {
-    name: "iPad Pro M5 11\"",
+    name: "iPad Pro M5 11”",
     slug: "ipad-pro-m5-11/",
     repairs: [
       {
         key: "front-glass",
-        title: "iPad Pro M5 11\" wymiana szybki",
+        title: "iPad Pro M5 11” wymiana szybki",
         shortTitle: "Przednia szybka",
         price: "1999 zł",
         description: "Wymieniamy szybkę na oryginalny panel dotykowy z pełną obsługą Apple Pencil i możliwością rysowania. Usługa jest możliwa, gdy matryca jest w pełni sprawna i wyświetla obraz bez plam czy linii.",
@@ -1565,7 +2012,7 @@ export const ipadPro = [
       },
       {
         key: "display",
-        title: "iPad Pro M5 11\" wymiana wyświetlacza",
+        title: "iPad Pro M5 11” wymiana wyświetlacza",
         shortTitle: "Wyświetlacz",
         price: "3099 zł",
         description: "Wymiana całego modułu wyświetlacza na oryginalny Apple. Usługa jest wymagana, gdy na ekranie pojawiły się plamy, linie, przebarwienia lub matryca nie wyświetla obrazu.",
@@ -1573,7 +2020,7 @@ export const ipadPro = [
       },
       {
         key: "charging-port",
-        title: "iPad Pro M5 11\" naprawa złącza ładowania",
+        title: "iPad Pro M5 11” naprawa złącza ładowania",
         shortTitle: "Złącze ładowania",
         price: "599 zł",
         description: [
@@ -1584,7 +2031,7 @@ export const ipadPro = [
       },
       {
         key: "motherboard",
-        title: "iPad Pro M5 11\" naprawa płyty głównej",
+        title: "iPad Pro M5 11” naprawa płyty głównej",
         shortTitle: "Płyta główna",
         price: "Wycena telefoniczna",
         description: [
@@ -1601,7 +2048,7 @@ export const ipadPro = [
       },
       {
         key: "camera",
-        title: "iPad Pro M5 11\" wymiana aparatu",
+        title: "iPad Pro M5 11” wymiana aparatu",
         shortTitle: "Aparat",
         price: "Wycena telefoniczna",
         description: "Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.",
@@ -1609,7 +2056,7 @@ export const ipadPro = [
       },
       {
         key: "camera-glass",
-        title: "iPad Pro M5 11\" wymiana szybki aparatu",
+        title: "iPad Pro M5 11” wymiana szybki aparatu",
         shortTitle: "Szybka aparatu",
         price: "Wycena telefoniczna",
         description: "Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.",
@@ -1618,12 +2065,12 @@ export const ipadPro = [
     ],
   },
   {
-    name: "iPad Pro M4 13\"",
+    name: "iPad Pro M4 13”",
     slug: "ipad-pro-m4-13/",
     repairs: [
       {
         key: "front-glass",
-        title: "iPad Pro M4 13\" wymiana szybki",
+        title: "iPad Pro M4 13” wymiana szybki",
         shortTitle: "Przednia szybka",
         price: "1999 zł",
         description: "Wymieniamy szybkę na oryginalny panel dotykowy z pełną obsługą Apple Pencil i możliwością rysowania. Usługa jest możliwa, gdy matryca jest w pełni sprawna i wyświetla obraz bez plam czy linii.",
@@ -1631,7 +2078,7 @@ export const ipadPro = [
       },
       {
         key: "display",
-        title: "iPad Pro M4 13\" wymiana wyświetlacza",
+        title: "iPad Pro M4 13” wymiana wyświetlacza",
         shortTitle: "Wyświetlacz",
         price: "3899 zł",
         description: "Wymiana całego modułu wyświetlacza na oryginalny Apple. Usługa jest wymagana, gdy na ekranie pojawiły się plamy, linie, przebarwienia lub matryca nie wyświetla obrazu.",
@@ -1639,7 +2086,7 @@ export const ipadPro = [
       },
       {
         key: "charging-port",
-        title: "iPad Pro M4 13\" naprawa złącza ładowania",
+        title: "iPad Pro M4 13” naprawa złącza ładowania",
         shortTitle: "Złącze ładowania",
         price: "599 zł",
         description: [
@@ -1650,7 +2097,7 @@ export const ipadPro = [
       },
       {
         key: "motherboard",
-        title: "iPad Pro M4 13\" naprawa płyty głównej",
+        title: "iPad Pro M4 13” naprawa płyty głównej",
         shortTitle: "Płyta główna",
         price: "Wycena telefoniczna",
         description: [
@@ -1667,7 +2114,7 @@ export const ipadPro = [
       },
       {
         key: "camera",
-        title: "iPad Pro M4 13\" wymiana aparatu",
+        title: "iPad Pro M4 13” wymiana aparatu",
         shortTitle: "Aparat",
         price: "Wycena telefoniczna",
         description: "Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.",
@@ -1675,7 +2122,7 @@ export const ipadPro = [
       },
       {
         key: "camera-glass",
-        title: "iPad Pro M4 13\" wymiana szybki aparatu",
+        title: "iPad Pro M4 13” wymiana szybki aparatu",
         shortTitle: "Szybka aparatu",
         price: "Wycena telefoniczna",
         description: "Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.",
@@ -1684,12 +2131,12 @@ export const ipadPro = [
     ],
   },
   {
-    name: "iPad Pro M4 11\"",
+    name: "iPad Pro M4 11”",
     slug: "ipad-pro-m4-11/",
     repairs: [
       {
         key: "front-glass",
-        title: "iPad Pro M4 11\" wymiana szybki",
+        title: "iPad Pro M4 11” wymiana szybki",
         shortTitle: "Przednia szybka",
         price: "1399 zł",
         description: "Wymieniamy szybkę na oryginalny panel dotykowy z pełną obsługą Apple Pencil i możliwością rysowania. Usługa jest możliwa, gdy matryca jest w pełni sprawna i wyświetla obraz bez plam czy linii.",
@@ -1697,7 +2144,7 @@ export const ipadPro = [
       },
       {
         key: "display",
-        title: "iPad Pro M4 11\" wymiana wyświetlacza",
+        title: "iPad Pro M4 11” wymiana wyświetlacza",
         shortTitle: "Wyświetlacz",
         price: "3899 zł",
         description: "Wymiana całego modułu wyświetlacza na oryginalny Apple. Usługa jest wymagana, gdy na ekranie pojawiły się plamy, linie, przebarwienia lub matryca nie wyświetla obrazu.",
@@ -1705,7 +2152,7 @@ export const ipadPro = [
       },
       {
         key: "charging-port",
-        title: "iPad Pro M4 11\" naprawa złącza ładowania",
+        title: "iPad Pro M4 11” naprawa złącza ładowania",
         shortTitle: "Złącze ładowania",
         price: "599 zł",
         description: [
@@ -1716,7 +2163,7 @@ export const ipadPro = [
       },
       {
         key: "motherboard",
-        title: "iPad Pro M4 11\" naprawa płyty głównej",
+        title: "iPad Pro M4 11” naprawa płyty głównej",
         shortTitle: "Płyta główna",
         price: "Wycena telefoniczna",
         description: [
@@ -1733,7 +2180,7 @@ export const ipadPro = [
       },
       {
         key: "camera",
-        title: "iPad Pro M4 11\" wymiana aparatu",
+        title: "iPad Pro M4 11” wymiana aparatu",
         shortTitle: "Aparat",
         price: "Wycena telefoniczna",
         description: "Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.",
@@ -1741,7 +2188,7 @@ export const ipadPro = [
       },
       {
         key: "camera-glass",
-        title: "iPad Pro M4 11\" wymiana szybki aparatu",
+        title: "iPad Pro M4 11” wymiana szybki aparatu",
         shortTitle: "Szybka aparatu",
         price: "Wycena telefoniczna",
         description: "Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.",
@@ -1750,12 +2197,12 @@ export const ipadPro = [
     ],
   },
   {
-    name: "iPad Pro 13\"",
+    name: "iPad Pro 13”",
     slug: "ipad-pro-13/",
     repairs: [
       {
         key: "front-glass",
-        title: "iPad Pro M2 13\" wymiana szybki",
+        title: "iPad Pro M2 13” wymiana szybki",
         shortTitle: "Przednia szybka",
         price: "1599 zł",
         description: "Wymieniamy szybkę na oryginalny panel dotykowy z pełną obsługą Apple Pencil i możliwością rysowania. Usługa jest możliwa, gdy matryca jest w pełni sprawna i wyświetla obraz bez plam czy linii.",
@@ -1763,7 +2210,7 @@ export const ipadPro = [
       },
       {
         key: "display",
-        title: "iPad Pro 13\" wymiana wyświetlacza",
+        title: "iPad Pro 13” wymiana wyświetlacza",
         shortTitle: "Wyświetlacz",
         price: "2699 zł",
         description: "Wymiana całego modułu wyświetlacza na oryginalny Apple. Usługa jest wymagana, gdy na ekranie pojawiły się plamy, linie, przebarwienia lub matryca nie wyświetla obrazu.",
@@ -1771,7 +2218,7 @@ export const ipadPro = [
       },
       {
         key: "charging-port",
-        title: "iPad Pro 13\" naprawa złącza ładowania",
+        title: "iPad Pro 13” naprawa złącza ładowania",
         shortTitle: "Złącze ładowania",
         price: "599 zł",
         description: [
@@ -1782,7 +2229,7 @@ export const ipadPro = [
       },
       {
         key: "motherboard",
-        title: "iPad Pro 13\" naprawa płyty głównej",
+        title: "iPad Pro 13” naprawa płyty głównej",
         shortTitle: "Płyta główna",
         price: "Wycena telefoniczna",
         description: [
@@ -1799,7 +2246,7 @@ export const ipadPro = [
       },
       {
         key: "camera",
-        title: "iPad Pro 13\" wymiana aparatu",
+        title: "iPad Pro 13” wymiana aparatu",
         shortTitle: "Aparat",
         price: "Wycena telefoniczna",
         description: "Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.",
@@ -1807,7 +2254,7 @@ export const ipadPro = [
       },
       {
         key: "camera-glass",
-        title: "iPad Pro 13\" wymiana szybki aparatu",
+        title: "iPad Pro 13” wymiana szybki aparatu",
         shortTitle: "Szybka aparatu",
         price: "Wycena telefoniczna",
         description: "Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.",
@@ -2212,12 +2659,12 @@ export const ipadPro = [
     ],
   },
   {
-    name: "iPad Pro 11\" 5gen.",
+    name: "iPad Pro 11” 5gen.",
     slug: "ipad-pro-11-5gen/",
     repairs: [
       {
         key: "front-glass",
-        title: "iPad Pro 11\" 5gen. wymiana szybki",
+        title: "iPad Pro 11” 5gen. wymiana szybki",
         shortTitle: "Przednia szybka",
         price: "1199 zł",
         description: "Wymieniamy szybkę na oryginalny panel dotykowy z pełną obsługą Apple Pencil i możliwością rysowania. Usługa jest możliwa, gdy matryca jest w pełni sprawna i wyświetla obraz bez plam czy linii.",
@@ -2225,7 +2672,7 @@ export const ipadPro = [
       },
       {
         key: "display",
-        title: "iPad Pro 11\" 5gen. wymiana wyświetlacza",
+        title: "iPad Pro 11” 5gen. wymiana wyświetlacza",
         shortTitle: "Wyświetlacz",
         price: "1899 zł",
         description: "Wymiana całego modułu wyświetlacza na oryginalny Apple. Usługa jest wymagana, gdy na ekranie pojawiły się plamy, linie, przebarwienia lub matryca nie wyświetla obrazu.",
@@ -2233,7 +2680,7 @@ export const ipadPro = [
       },
       {
         key: "charging-port",
-        title: "iPad Pro 11\" 5gen. naprawa złącza ładowania",
+        title: "iPad Pro 11” 5gen. naprawa złącza ładowania",
         shortTitle: "Złącze ładowania",
         price: "449 zł",
         description: [
@@ -2244,7 +2691,7 @@ export const ipadPro = [
       },
       {
         key: "motherboard",
-        title: "iPad Pro 11\" 5gen. naprawa płyty głównej",
+        title: "iPad Pro 11” 5gen. naprawa płyty głównej",
         shortTitle: "Płyta główna",
         price: "Wycena telefoniczna",
         description: [
@@ -2261,7 +2708,7 @@ export const ipadPro = [
       },
       {
         key: "camera",
-        title: "iPad Pro 11\" 5gen. wymiana aparatu",
+        title: "iPad Pro 11” 5gen. wymiana aparatu",
         shortTitle: "Aparat",
         price: "Wycena telefoniczna",
         description: "Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.",
@@ -2269,7 +2716,7 @@ export const ipadPro = [
       },
       {
         key: "camera-glass",
-        title: "iPad Pro 11\" 5gen. wymiana szybki aparatu",
+        title: "iPad Pro 11” 5gen. wymiana szybki aparatu",
         shortTitle: "Szybka aparatu",
         price: "Wycena telefoniczna",
         description: "Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.",
@@ -2278,12 +2725,12 @@ export const ipadPro = [
     ],
   },
   {
-    name: "iPad Pro 11\" 4gen.",
+    name: "iPad Pro 11” 4gen.",
     slug: "ipad-pro-11-4gen/",
     repairs: [
       {
         key: "front-glass",
-        title: "iPad Pro 11\" 4gen. wymiana szybki",
+        title: "iPad Pro 11” 4gen. wymiana szybki",
         shortTitle: "Przednia szybka",
         price: "799 zł",
         description: "Wymieniamy szybkę na oryginalny panel dotykowy z pełną obsługą Apple Pencil i możliwością rysowania. Usługa jest możliwa, gdy matryca jest w pełni sprawna i wyświetla obraz bez plam czy linii.",
@@ -2291,7 +2738,7 @@ export const ipadPro = [
       },
       {
         key: "display",
-        title: "iPad Pro 11\" 4gen. wymiana wyświetlacza",
+        title: "iPad Pro 11” 4gen. wymiana wyświetlacza",
         shortTitle: "Wyświetlacz",
         price: "1299 zł",
         description: "Wymiana całego modułu wyświetlacza na oryginalny Apple. Usługa jest wymagana, gdy na ekranie pojawiły się plamy, linie, przebarwienia lub matryca nie wyświetla obrazu.",
@@ -2299,7 +2746,7 @@ export const ipadPro = [
       },
       {
         key: "charging-port",
-        title: "iPad Pro 11\" 4gen. naprawa złącza ładowania",
+        title: "iPad Pro 11” 4gen. naprawa złącza ładowania",
         shortTitle: "Złącze ładowania",
         price: "449 zł",
         description: [
@@ -2310,7 +2757,7 @@ export const ipadPro = [
       },
       {
         key: "motherboard",
-        title: "iPad Pro 11\" 4gen. naprawa płyty głównej",
+        title: "iPad Pro 11” 4gen. naprawa płyty głównej",
         shortTitle: "Płyta główna",
         price: "Wycena telefoniczna",
         description: [
@@ -2327,7 +2774,7 @@ export const ipadPro = [
       },
       {
         key: "camera",
-        title: "iPad Pro 11\" 4gen. wymiana aparatu",
+        title: "iPad Pro 11” 4gen. wymiana aparatu",
         shortTitle: "Aparat",
         price: "Wycena telefoniczna",
         description: "Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.",
@@ -2335,7 +2782,7 @@ export const ipadPro = [
       },
       {
         key: "camera-glass",
-        title: "iPad Pro 11\" 4gen. wymiana szybki aparatu",
+        title: "iPad Pro 11” 4gen. wymiana szybki aparatu",
         shortTitle: "Szybka aparatu",
         price: "Wycena telefoniczna",
         description: "Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.",
@@ -2344,12 +2791,12 @@ export const ipadPro = [
     ],
   },
   {
-    name: "iPad Pro 11\" 3gen.",
+    name: "iPad Pro 11” 3gen.",
     slug: "ipad-pro-11-3gen/",
     repairs: [
       {
         key: "front-glass",
-        title: "iPad Pro 11\" 3gen. wymiana szybki",
+        title: "iPad Pro 11” 3gen. wymiana szybki",
         shortTitle: "Przednia szybka",
         price: "699 zł",
         description: "Oferujemy profesjonalną wymianę szyby w Twoim iPadzie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).",
@@ -2357,7 +2804,7 @@ export const ipadPro = [
       },
       {
         key: "display",
-        title: "iPad Pro 11\" 3gen. wymiana wyświetlacza",
+        title: "iPad Pro 11” 3gen. wymiana wyświetlacza",
         shortTitle: "Wyświetlacz",
         price: "1199 zł",
         description: "Wymiana całego modułu wyświetlacza na oryginalny Apple. Usługa jest wymagana, gdy na ekranie pojawiły się plamy, linie, przebarwienia lub matryca nie wyświetla obrazu.",
@@ -2365,7 +2812,7 @@ export const ipadPro = [
       },
       {
         key: "charging-port",
-        title: "iPad Pro 11\" 3gen. naprawa złącza ładowania",
+        title: "iPad Pro 11” 3gen. naprawa złącza ładowania",
         shortTitle: "Złącze ładowania",
         price: "339 zł",
         description: [
@@ -2376,7 +2823,7 @@ export const ipadPro = [
       },
       {
         key: "motherboard",
-        title: "iPad Pro 11\" 3gen. naprawa płyty głównej",
+        title: "iPad Pro 11” 3gen. naprawa płyty głównej",
         shortTitle: "Płyta główna",
         price: "Wycena telefoniczna",
         description: [
@@ -2393,7 +2840,7 @@ export const ipadPro = [
       },
       {
         key: "camera",
-        title: "iPad Pro 11\" 3gen. wymiana aparatu",
+        title: "iPad Pro 11” 3gen. wymiana aparatu",
         shortTitle: "Aparat",
         price: "Wycena telefoniczna",
         description: "Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.",
@@ -2401,7 +2848,7 @@ export const ipadPro = [
       },
       {
         key: "camera-glass",
-        title: "iPad Pro 11\" 3gen. wymiana szybki aparatu",
+        title: "iPad Pro 11” 3gen. wymiana szybki aparatu",
         shortTitle: "Szybka aparatu",
         price: "Wycena telefoniczna",
         description: "Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.",
@@ -2410,12 +2857,12 @@ export const ipadPro = [
     ],
   },
   {
-    name: "iPad Pro 11\" 2gen.",
+    name: "iPad Pro 11” 2gen.",
     slug: "ipad-pro-11-2gen/",
     repairs: [
       {
         key: "front-glass",
-        title: "iPad Pro 11\" 2gen. wymiana szybki",
+        title: "iPad Pro 11” 2gen. wymiana szybki",
         shortTitle: "Przednia szybka",
         price: "699 zł",
         description: "Oferujemy profesjonalną wymianę szyby w Twoim iPadzie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).",
@@ -2423,7 +2870,7 @@ export const ipadPro = [
       },
       {
         key: "display",
-        title: "iPad Pro 11\" 2gen. wymiana wyświetlacza",
+        title: "iPad Pro 11” 2gen. wymiana wyświetlacza",
         shortTitle: "Wyświetlacz",
         price: "1099 zł",
         description: "Wymiana całego modułu wyświetlacza na oryginalny Apple. Usługa jest wymagana, gdy na ekranie pojawiły się plamy, linie, przebarwienia lub matryca nie wyświetla obrazu.",
@@ -2431,7 +2878,7 @@ export const ipadPro = [
       },
       {
         key: "charging-port",
-        title: "iPad Pro 11\" 2gen. naprawa złącza ładowania",
+        title: "iPad Pro 11” 2gen. naprawa złącza ładowania",
         shortTitle: "Złącze ładowania",
         price: "399 zł",
         description: [
@@ -2442,7 +2889,7 @@ export const ipadPro = [
       },
       {
         key: "motherboard",
-        title: "iPad Pro 11\" 2gen. naprawa płyty głównej",
+        title: "iPad Pro 11” 2gen. naprawa płyty głównej",
         shortTitle: "Płyta główna",
         price: "Wycena telefoniczna",
         description: [
@@ -2459,7 +2906,7 @@ export const ipadPro = [
       },
       {
         key: "camera",
-        title: "iPad Pro 11\" 2gen. wymiana aparatu",
+        title: "iPad Pro 11” 2gen. wymiana aparatu",
         shortTitle: "Aparat",
         price: "Wycena telefoniczna",
         description: "Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.",
@@ -2467,7 +2914,7 @@ export const ipadPro = [
       },
       {
         key: "camera-glass",
-        title: "iPad Pro 11\" 2gen. wymiana szybki aparatu",
+        title: "iPad Pro 11” 2gen. wymiana szybki aparatu",
         shortTitle: "Szybka aparatu",
         price: "Wycena telefoniczna",
         description: "Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.",
@@ -2476,12 +2923,12 @@ export const ipadPro = [
     ],
   },
   {
-    name: "iPad Pro 11\" 1gen.",
+    name: "iPad Pro 11” 1gen.",
     slug: "ipad-pro-11-1gen/",
     repairs: [
       {
         key: "front-glass",
-        title: "iPad Pro 11\" 1gen. wymiana szybki",
+        title: "iPad Pro 11” 1gen. wymiana szybki",
         shortTitle: "Przednia szybka",
         price: "699 zł",
         description: "Oferujemy profesjonalną wymianę szyby w Twoim iPadzie. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).",
@@ -2489,7 +2936,7 @@ export const ipadPro = [
       },
       {
         key: "display",
-        title: "iPad Pro 11\" 1gen. wymiana wyświetlacza",
+        title: "iPad Pro 11” 1gen. wymiana wyświetlacza",
         shortTitle: "Wyświetlacz",
         price: "1099 zł",
         description: "Wymiana całego modułu wyświetlacza na oryginalny Apple. Usługa jest wymagana, gdy na ekranie pojawiły się plamy, linie, przebarwienia lub matryca nie wyświetla obrazu.",
@@ -2497,7 +2944,7 @@ export const ipadPro = [
       },
       {
         key: "charging-port",
-        title: "iPad Pro 11\" 1gen. naprawa złącza ładowania",
+        title: "iPad Pro 11” 1gen. naprawa złącza ładowania",
         shortTitle: "Złącze ładowania",
         price: "399 zł",
         description: [
@@ -2508,7 +2955,7 @@ export const ipadPro = [
       },
       {
         key: "motherboard",
-        title: "iPad Pro 11\" 1gen. naprawa płyty głównej",
+        title: "iPad Pro 11” 1gen. naprawa płyty głównej",
         shortTitle: "Płyta główna",
         price: "Wycena telefoniczna",
         description: [
@@ -2525,7 +2972,7 @@ export const ipadPro = [
       },
       {
         key: "camera",
-        title: "iPad Pro 11\" 1gen. wymiana aparatu",
+        title: "iPad Pro 11” 1gen. wymiana aparatu",
         shortTitle: "Aparat",
         price: "Wycena telefoniczna",
         description: "Wymiana uszkodzonego modułu aparatu. Przywracamy ostrość zdjęć, autofokus i stabilne nagrywanie.",
@@ -2533,7 +2980,7 @@ export const ipadPro = [
       },
       {
         key: "camera-glass",
-        title: "iPad Pro 11\" 1gen. wymiana szybki aparatu",
+        title: "iPad Pro 11” 1gen. wymiana szybki aparatu",
         shortTitle: "Szybka aparatu",
         price: "Wycena telefoniczna",
         description: "Wymiana pękniętej szybki obiektywu bez wymiany całego modułu aparatu. Przywraca ostrość zdjęć i wygląd telefonu.",

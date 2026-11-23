@@ -1,5 +1,37 @@
 export const appleWatchModels = [
   {
+    name: "Apple Watch Series 12",
+    slug: "AW-series-12/",
+    repairs: [
+      {
+        key: "front-glass",
+        title: "Apple Watch Series 12 wymiana szybki",
+        shortTitle: "Przednia szybka",
+        price: "Do ustalenia",
+        description: "Oferujemy profesjonalną wymianę szyby w Twoim Apple Watch. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).",
+        duration: "3-4 godziny",
+      },
+      {
+        key: "motherboard",
+        title: "Apple Watch Series 12 naprawa płyty głównej",
+        shortTitle: "Płyta główna",
+        price: "Do ustalenia",
+        description: [
+          "Wykonujemy zaawansowane naprawy płyty głównej (mikrolutowanie BGA). Ostateczny koszt naprawy ustalamy po bezpłatnej diagnozie.",
+          "Zakres naszych napraw obejmuje m.in.:",
+          "Odzyskiwanie danych z zalanych, mocno uszkodzonych lub niewłączających się urządzeń",
+          "SWAP płyty głównej (przeniesienie kompletu układów BGA)",
+          "Naprawa modułów Wi-Fi / Bluetooth / braku zasięgu (GSM)",
+          "Usuwanie zwarć i naprawa układów zasilania (urządzenie nie włącza się / nie ładuje)",
+          "Naprawa urządzeń po zalaniu oraz po nieudanych naprawach w innych serwisach",
+          "Diagnoza jest BEZPŁATNA w przypadku wykonania naprawy. W przypadku rezygnacji z naprawy po wykonaniu diagnozy zaawansowanej, koszt wynosi 100 zł.",
+        ],
+        duration: "3-4 godziny",
+      }
+    ],
+  },
+
+  {
     name: 'Apple Watch Series 11',
     slug: 'AW-series-11/',
     repairs: [
@@ -384,4 +416,36 @@ export const appleWatchModels = [
       },
     ],
   },
+  {
+    name: "Apple Watch Series 1",
+    slug: "AW-series-1/",
+    repairs: [
+      {
+        key: "front-glass",
+        title: "Apple Watch Series 1 wymiana szybki",
+        shortTitle: "Przednia szybka",
+        price: "Do ustalenia",
+        description: "Oferujemy profesjonalną wymianę szyby w Twoim Apple Watch. Wymiana samej szyby jest możliwa w przypadku gdy wyświetlacz działa poprawnie (nie posiada plam, ma sprawny dotyk, nie wyświetla linii).",
+        duration: "3-4 godziny",
+      },
+      {
+        key: "motherboard",
+        title: "Apple Watch Series 1 naprawa płyty głównej",
+        shortTitle: "Płyta główna",
+        price: "Do ustalenia",
+        description: [
+          "Wykonujemy zaawansowane naprawy płyty głównej (mikrolutowanie BGA). Ostateczny koszt naprawy ustalamy po bezpłatnej diagnozie.",
+          "Zakres naszych napraw obejmuje m.in.:",
+          "Odzyskiwanie danych z zalanych, mocno uszkodzonych lub niewłączających się urządzeń",
+          "SWAP płyty głównej (przeniesienie kompletu układów BGA)",
+          "Naprawa modułów Wi-Fi / Bluetooth / braku zasięgu (GSM)",
+          "Usuwanie zwarć i naprawa układów zasilania (urządzenie nie włącza się / nie ładuje)",
+          "Naprawa urządzeń po zalaniu oraz po nieudanych naprawach w innych serwisach",
+          "Diagnoza jest BEZPŁATNA w przypadku wykonania naprawy. W przypadku rezygnacji z naprawy po wykonaniu diagnozy zaawansowanej, koszt wynosi 100 zł.",
+        ],
+        duration: "3-4 godziny",
+      }
+    ],
+  }
+
 ];

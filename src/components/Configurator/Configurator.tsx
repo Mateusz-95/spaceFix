@@ -77,8 +77,7 @@ function resolveInitialState(
       initialModelSlugs.modelSlug,
     );
     if (selection) {
-      const repair =
-        (repairId ? repairTypes.find((r) => r.id === repairId) : undefined) ?? repairTypes[0];
+      const repair = (repairId ? repairTypes.find((r) => r.id === repairId) : undefined) ?? repairTypes[0];
       return {
         step: 5,
         repair,
@@ -110,15 +109,8 @@ function resolveInitialState(
     const kindParam = search.get(DEVICE_QUERY_PARAM);
     const deviceKind = isDeviceKind(kindParam) ? kindParam : null;
     const presetRepair = repairId ? repairTypes.find((item) => item.id === repairId) : undefined;
-    if (deviceKind === 'tablet' && ipadLineBrand) {
-      return { step: 3, modelFirst: true, deviceKind, brand: ipadLineBrand, repair: presetRepair };
-    }
-    if (deviceKind === 'zegarek') {
-      const apple = brands.find((item: any) => String(item.slug).replace(/^\/+|\/+$/g, '') === 'apple');
-      const watch = getSelectableCategories(apple, presetRepair, 'zegarek')[0];
-      if (apple && watch) {
-        return { step: 4, modelFirst: true, deviceKind, brand: apple, category: watch, repair: presetRepair };
-      }
+    if (deviceKind === 'tablet' || deviceKind === 'zegarek') {
+      return { step: 2, modelFirst: true, deviceKind, repair: presetRepair };
     }
     return {
       step: 2,
@@ -139,10 +131,7 @@ interface ConfiguratorProps {
   initialModelSlugs?: ModelSelectionSlugs | null;
 }
 
-const Configurator: React.FC<ConfiguratorProps> = ({
-  initialRepairId: initialRepairIdProp,
-  initialModelSlugs,
-}) => {
+const Configurator: React.FC<ConfiguratorProps> = ({ initialRepairId: initialRepairIdProp, initialModelSlugs }) => {
   const [initial] = useState(() => resolveInitialState(initialRepairIdProp, initialModelSlugs));
   const [step, setStep] = useState<Step>(initial.step);
   const [repair, setRepair] = useState<RepairType | undefined>(initial.repair);
@@ -151,9 +140,7 @@ const Configurator: React.FC<ConfiguratorProps> = ({
   const [model, setModel] = useState<Phone | undefined>(initial.model);
   const [modelFirst] = useState(Boolean(initial.modelFirst));
   const [deviceKind, setDeviceKind] = useState<DeviceKind | null>(initial.deviceKind ?? null);
-  const [shippingFormData, setShippingFormData] = useState<ShippingFormData>(
-    emptyShippingFormData,
-  );
+  const [shippingFormData, setShippingFormData] = useState<ShippingFormData>(emptyShippingFormData);
   /** Apple → iPad otwiera serie iPad / Air / Pro / mini zamiast jednej listy modeli. */
   const [ipadSeriesOpen, setIpadSeriesOpen] = useState(
     () => (initial.brand?.slug ?? '').replace(/^\/+|\/+$/g, '') === 'apple-ipad',
@@ -218,11 +205,7 @@ const Configurator: React.FC<ConfiguratorProps> = ({
         return;
       }
       if (modelFirst && repair && step < 5) {
-        window.history.replaceState(
-          window.history.state,
-          '',
-          getFindModelHref(deviceKind ?? undefined, repair.id),
-        );
+        window.history.replaceState(window.history.state, '', getFindModelHref(deviceKind ?? undefined, repair.id));
         return;
       }
       if (modelFirst && !repair) {
@@ -241,10 +224,10 @@ const Configurator: React.FC<ConfiguratorProps> = ({
 
   const handleSelectBrand = (selected: Brand) => {
     setBrand(selected);
-    setIpadSeriesOpen(false);
+    setIpadSeriesOpen(trimSlug(selected?.slug) === 'apple-ipad');
     setCategory(undefined);
     setModel(undefined);
-    const categories = getSelectableCategories(selected, repair, deviceKind === 'telefon' ? 'telefon' : null);
+    const categories = getSelectableCategories(selected, repair, deviceKind);
     if (categories.length === 1) {
       setCategory(categories[0]);
       setStep(4);
@@ -254,10 +237,7 @@ const Configurator: React.FC<ConfiguratorProps> = ({
   };
 
   const handleSelectCategory = (selected: Category) => {
-    const openingIpadLine =
-      !ipadSeriesOpen &&
-      trimSlug(brand?.slug) === 'apple' &&
-      trimSlug(selected?.slug) === 'ipad';
+    const openingIpadLine = !ipadSeriesOpen && trimSlug(brand?.slug) === 'apple' && trimSlug(selected?.slug) === 'ipad';
 
     if (openingIpadLine && ipadLineBrand) {
       setIpadSeriesOpen(true);
@@ -284,22 +264,6 @@ const Configurator: React.FC<ConfiguratorProps> = ({
     setDeviceKind(kind);
     setModel(undefined);
     setCategory(undefined);
-    if (kind === 'tablet' && ipadLineBrand) {
-      setBrand(ipadLineBrand);
-      setIpadSeriesOpen(true);
-      setStep(3);
-      return;
-    }
-    if (kind === 'zegarek') {
-      const watch = getSelectableCategories(appleBrand, repair, 'zegarek')[0];
-      if (appleBrand && watch) {
-        setBrand(appleBrand);
-        setIpadSeriesOpen(false);
-        setCategory(watch);
-        setStep(4);
-        return;
-      }
-    }
     setBrand(undefined);
     setIpadSeriesOpen(false);
     setStep(2);
@@ -327,7 +291,6 @@ const Configurator: React.FC<ConfiguratorProps> = ({
       if (modelFirst && deviceKind === 'tablet') {
         setIpadSeriesOpen(false);
         setBrand(undefined);
-        setDeviceKind(null);
         setStep(2);
         return;
       }
@@ -341,21 +304,20 @@ const Configurator: React.FC<ConfiguratorProps> = ({
   };
 
   const backFromModel = () => {
-    if (modelFirst && deviceKind === 'zegarek') {
-      setDeviceKind(null);
-      setBrand(undefined);
-      setCategory(undefined);
-      setStep(2);
-      return;
-    }
     if (ipadSeriesOpen) {
       setStep(3);
       return;
     }
-    const categories = brand
-      ? getSelectableCategories(brand, repair, deviceKind === 'telefon' ? 'telefon' : null)
-      : [];
-    setStep(categories.length <= 1 ? 2 : 3);
+    const categories = brand ? getSelectableCategories(brand, repair, deviceKind) : [];
+    if (categories.length <= 1) {
+      setCategory(undefined);
+      if (modelFirst && (deviceKind === 'zegarek' || deviceKind === 'tablet')) {
+        setBrand(undefined);
+      }
+      setStep(2);
+      return;
+    }
+    setStep(3);
   };
 
   const renderStep = () => {
@@ -366,9 +328,7 @@ const Configurator: React.FC<ConfiguratorProps> = ({
             model={model}
             onSelect={handleSelectRepair}
             onPickModel={model ? undefined : chooseFoundModel}
-            onBack={
-              modelFirst && model ? () => setStep(4) : model ? clearPickedModel : undefined
-            }
+            onBack={modelFirst && model ? () => setStep(4) : model ? clearPickedModel : undefined}
           />
         );
       case 2:
@@ -380,9 +340,7 @@ const Configurator: React.FC<ConfiguratorProps> = ({
             onSelect={handleSelectBrand}
             onKind={chooseKind}
             onPickModel={chooseFoundModel}
-            onBack={
-              modelFirst ? (deviceKind ? () => setDeviceKind(null) : undefined) : () => setStep(1)
-            }
+            onBack={modelFirst ? (deviceKind ? () => setDeviceKind(null) : undefined) : () => setStep(1)}
           />
         );
       case 3:
@@ -390,6 +348,7 @@ const Configurator: React.FC<ConfiguratorProps> = ({
           <StepChooseSeries
             brand={ipadSeriesOpen ? ipadLineBrand : brand}
             repair={repair}
+            deviceKind={deviceKind}
             title={ipadSeriesOpen ? 'Wybierz serię iPada' : 'Wybierz serię'}
             onSelect={handleSelectCategory}
             onBack={backFromSeries}

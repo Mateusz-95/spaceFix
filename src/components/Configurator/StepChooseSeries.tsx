@@ -3,18 +3,27 @@ import StepHeader from './StepHeader';
 import NotFoundCta from './NotFoundCta';
 import { SeriesCard } from './cards';
 import { getSelectableCategories, type RepairType } from './configurator-data';
+import type { DeviceKind } from './konfigurator-url';
 import type { Brand, Category } from './types';
 
 interface Props {
   brand: Brand;
   repair?: RepairType;
+  deviceKind?: DeviceKind | null;
   title?: string;
   onSelect: (category: Category) => void;
   onBack: () => void;
 }
 
-const StepChooseSeries: React.FC<Props> = ({ brand, repair, title = 'Wybierz serię', onSelect, onBack }) => {
-  const categories = getSelectableCategories(brand, repair);
+const StepChooseSeries: React.FC<Props> = ({
+  brand,
+  repair,
+  deviceKind,
+  title = 'Wybierz serię',
+  onSelect,
+  onBack,
+}) => {
+  const categories = getSelectableCategories(brand, repair, deviceKind);
 
   return (
     <div>

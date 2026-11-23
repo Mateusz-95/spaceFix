@@ -27,11 +27,15 @@ const StepChooseDevice: React.FC<Props> = ({
   onPickModel,
   onBack,
 }) => {
-  const brandKind = deviceKind === 'telefon' ? 'telefon' : null;
+  const brandKind = deviceKind ?? null;
   const title = modelFirst
     ? deviceKind === 'telefon'
       ? 'Wybierz markę telefonu'
-      : 'Znajdź swój model'
+      : deviceKind === 'tablet'
+        ? 'Wybierz markę tabletu'
+        : deviceKind === 'zegarek'
+          ? 'Wybierz markę zegarka'
+          : 'Znajdź swój model'
     : 'Wybierz urządzenie';
 
   return (
