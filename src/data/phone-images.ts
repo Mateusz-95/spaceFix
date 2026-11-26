@@ -48,6 +48,8 @@ export const phoneImages: Record<string, string> = {
   'iPhone-17-pro-max/': '/images/phones/iphone-17-pro-max.jpg',
   'iPhone-17-pro/': '/images/phones/iphone-17-pro.jpg',
   'iPhone-17/': '/images/phones/iphone-17.jpg',
+  'iPhone-18-pro-max/': '/images/phones/iphone-18-pro-max.jpg',
+  'iPhone-18-pro/': '/images/phones/iphone-18-pro.jpg',
   'iPhone-6-plus/': '/images/phones/iphone-6-plus.jpg',
   'iPhone-6/': '/images/phones/iphone-6.jpg',
   'iPhone-6s-plus/': '/images/phones/iphone-6s-plus.jpg',
