@@ -32,6 +32,8 @@ const MODEL_FILES = [
 const IMAGE_OVERRIDES = {
   iphone11promax: 'https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-11-pro-max-.jpg',
   iphone11pro: 'https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-11-pro.jpg',
+  iphone18promax: 'https://fdn2.gsmarena.com/vv/bigpic/apple-iphone18-pro-max.jpg',
+  iphone18pro: 'https://fdn2.gsmarena.com/vv/bigpic/apple-iphone18-pro.jpg',
   watchseries12: 'https://fdn2.gsmarena.com/vv/bigpic/apple-watch12.jpg',
   watchseries1: 'https://fdn2.gsmarena.com/vv/bigpic/apple-watch1.jpg',
   watchseries11: 'https://fdn2.gsmarena.com/vv/bigpic/apple-watch11.jpg',
